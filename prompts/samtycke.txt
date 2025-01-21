@@ -1,0 +1,170 @@
+<information>
+From Guide till ansökan om etikprövning.txt:
+Enligt 16 § etikprövningslagen måste forskningspersonerna informeras om (information enligt GDPR ska också lämnas!):
+- · Den övergripande planen för forskningen.
+- · Syftet med forskningen.
+- · De metoder som kommer att användas.
+- · De följder och risker som forskningen kan medföra.
+- · Vem som är forskningshuvudman.
+- · Att deltagande i forskningen är frivilligt.
+- · Forskningspersonens rätt att när som helst avbryta sin medverkan.
+
+Närmast anhörig, god man eller förvaltare kan aldrig företräda en forskningsperson (undantag underårig) och å dennes vägnar samtycka till deltagande i en forskningsstudie. Men vid forskning på forskningspersoner, vars mening inte går att inhämta, ska samråd ske med närmaste anhörig som ska få möjlighet att motsätta sig deltagandet.
+
+Etikprövningsmyndigheten har stödmallar som man kan använda sig av. Stödmallarna går att hitta inne i Ethix under "Ansökan" och sedan "Stödmallar".
+De stödmallar som finns är:
+- · Forskningspersonsinformation. Etikprövningsmyndigheten rekommenderar att denna mall används. Den är dock inte helt komplett vad gäller information enligt GDPR.
+- · Samtyckesblankett till att delta i projektet. Den är dock inte helt komplett vad gäller information enligt GDPR. Denna blankett är inte heller helt komplett när det gäller läkemedelsprövningar, då den saknar monitor access till journal och läkarsignatur.
+
+Tänk på att informationen till forskningspersonerna ska vara samma som den information som står i etikansökan när det kommer till bearbetning, lagring och delning av personuppgifter/prover. Informationen ska hållas så kortfattad och lättförståelig som möjligt så att forskningspersonerna lätt kan ta till sig den (och anpassas till mottagaren -till exempel till minderårig, äldre, nedsatt funktion, olika språk etc.).
+
+För personer med nedsatt beslutsförmåga: Forskningen får inte utföras om forskningspersonen i någon form ger uttryck för att inte vilja delta eller om någon av dem som samråd har skett med motsätter sig införandet.
+
+
+From Vägledning_forskningshuvudman_etikansökan_KI_RegionStockholm_version1_final_22_04_20.txt:
+1. From Section 1:
+"Den 1 januari 2020 ändrades lagen (2003:460) om etikprövning av forskning som avser människor (etikprövningslagen). Genom ändringen tydliggjordes att alla involverade forskningshuvudmän ska anges i etikansökan. En beskrivning av respektive forskningshuvudmans roll och uppdrag i det sökta projektet ska ingå."
+
+2. From Section 2:
+"Respektive forskningshuvudman är ansvarig för att forskning som omfattas av lagen inte utförs utan etikgodkännande och ska vidta åtgärder för att förebygga att detta sker eller att forskning sker i strid med villkor som har meddelats i samband med ett etikgodkännande. Varje forskningshuvudman har ett organisatoriskt ansvar att vidta åtgärder inom den egna verksamheten."
+
+3. From Section 5:
+"Etikprövningslagen ska tillämpas på forskning som bl.a. innefattar behandling av känsliga personuppgifter. När Karolinska Institutet och vårdgivare i Region Stockholm samarbetar i ett forskningsprojekt ska ansökan om etikprövning innehålla uppgifter om vem som ansvarar för personuppgiftshanteringen, inklusive hur personuppgiftsansvaret för behandlingen fördelas mellan parterna."
+
+Note: While this document provides important context about research ethics administration, it does not contain specific guidance about procedures for informing and obtaining consent from research subjects. Additional materials about specific consent procedures would be needed to fully answer the given questions.
+
+
+From Etikvaegledning_2021_WEBB.txt:
+REKRYTERINGSPROCESSEN
+Processen för att rekrytera forskningspersoner till ett forskningsprojekt ska planeras med omsorg. Vid etikprövningen beaktas särskilt följande faktorer.
+
+I de flesta fall vill forskaren rekrytera vuxna och friska personer med full förmåga att själva besluta om sitt deltagande. Vid eventuella avvikelser krävs en förklaring av varför dessa är nödvändiga för att genomföra forskningen.
+
+De som tillfrågas om att medverka i ett forskningsprojekt ska inte stå i något beroendeförhållande till den som genomför rekryteringen. Tydliga exempel på beroendeförhållanden är mellan lärare och studenter/elever, och mellan chefer och anställda. Den som tillfrågas ska vidare få betänketid före beslut om medverkan. Det ska också alltid vara tydligt att det är helt frivilligt att medverka i ett forskningsprojekt.
+
+Etikprövningsnämndens bedömning har varit att rekryteringen ofta bör genomföras i flera steg. Den första kontakten kan ses som en intresseförfrågan, där kortfattad information lämnas om vad projektet handlar om. De som då uttrycker intresse får i nästa steg fullständig forskningspersonsinformation och tillfälle att ställa frågor. Därefter ska den som uttryckt intresse få betänketid innan beslut om medverkan i projektet.
+
+FORSKNINGSPERSONSINFORMATION
+Den som rekryteras till ett forskningsprojekt ska få information om den forskning som han eller hon förväntas medverka i. Ett informationsblad ska innehålla en beskrivning av allt som den tillfrågade behöver veta för att kunna avgöra om hon eller han vill medverka i projektet. Det ska utformas med omsorg och på ett sakligt sätt beskriva projektet. Det ska inte innehålla några överord eller övertalande inslag.
+
+Information ska om möjligt lämnas både muntligt och skriftligt. Den som tillfrågas ska få möjlighet att ställa frågor.
+
+INFORMATION TILL FORSKNINGSPERSONER I SÄRSKILDA FALL
+Muntlig och skriftlig information ska alltid lämnas på ett språk som mottagaren förstår väl. Innehållet ska anpassas till mottagarens intellektuella och språkliga förmåga.
+
+Beträffande vuxna med begränsad beslutsförmåga, exempelvis på grund av sjukdom, försvagat hälsotillstånd eller psykisk störning, behöver forskaren i samband med rekryteringen bedöma om den berörde själv kan ta ställning till sitt deltagande och i så fall anpassa informationen på lämpligt sätt. För personer som saknar beslutsförmåga ska samråd ske i första hand med närmaste anhöriga och med god man eller förvaltare om sådan finns och det ingår i dennes uppdrag. Forskningspersonen ska alltid själv beredas möjlighet att motsätta sig deltagande.
+
+SAMTYCKE
+Ett samtycke till medverkan i ett forskningsprojekt ska alltid vara en frivillig, särskild och informerad viljeyttring. Samtycket ska vara uttryckligt och preciserat till viss forskning. Samtycket ska dokumenteras. Normalt görs detta skriftligt genom att forskningspersonen undertecknar en samtyckesblankett.
+
+
+From Vagledning-om-etikprovning-EPM.txt:
+## Information och samtycke
+Samtycke ska vara frivilligt, uttryckligt och preciserat till en viss forskning. Samtycket ska dokumenteras. I normalfallet bör information lämnas både muntligt och skriftligt och samtycke vara skriftligt, men beroende på omständigheterna kan andra metoder användas. I ansökan om etikprövning ska du redovisa och vid behov motivera på vilket sätt information och samtycke ska genomföras och dokumenteras.
+
+En samtyckesblankett ska vara kortfattad och inte innehålla någon ny information. All information som behövs för att avgöra om man vill medverka ska finnas i informationsbladet. Blanketter för information och samtycke ska upprättas i två exemplar, och forskningspersonen ska alltid kunna behålla ett exemplar av bägge.
+
+Samtycke måste alltid hämtas in innan en undersökning påbörjas. Samtycke som hämtas in först efter det att en undersökning genomförts godtas inte.
+
+## Information och samtycke som gäller personer med begränsad beslutsförmåga
+Om du vill utföra forskning som innefattar personer med begränsad beslutsförmåga, exempelvis på grund av sjukdom, försvagat hälsotillstånd eller psykisk störning, behöver du beakta de särskilda bestämmelserna i 20-22 §§ etikprövningslagen.
+
+Först behöver du göra en bedömning av om den berörda personens beslutskapacitet är så pass försvagad att det hindrar att hans eller hennes mening inhämtas. Redovisa alltid i ansökan om etikprövning vilka rutiner som ska användas för att avgöra beslutsförmågan hos dem som tillfrågas.
+
+Forskningen får i sådana fall bara utföras
+- om den förväntade kunskapen inte är möjlig att få på annat sätt, och
+- forskningen kan förväntas leda till direkt nytta för forskningspersonen
+eller
+- om forskningen kan förväntas vara till nytta för personer med samma eller liknande sjukdom eller störning, och
+- innebär obetydlig risk för skada eller obehag.
+
+Samråd ska ske, i första hand med närmaste anhöriga och även med god man eller förvaltare om sådan finns och det ingår i dennes uppdrag. Forskningspersonen ska alltid få information om forskningen, som är anpassad utifrån personens förutsättningar att ta till sig information, och sedan få möjlighet att motsätta sig ett deltagande.
+
+
+From etikansokan-ethix-ny-ansokningsmall-2023-10-19.txt:
+Enligt 16 § etikprövningslagen måste forskningspersonerna informeras om (information enligt GDPR ska också lämnas):
+- Den övergripande planen för forskningen
+- Syftet med forskningen
+- De metoder som kommer att användas
+- De följder och risker som forskningen kan medföra
+- Vem som är forskningshuvudman
+- Att deltagande i forskningen är frivilligt
+- Forskningspersonens rätt att när som helst avbryta sin medverkan
+
+Tänk på att informationen till forskningspersonerna ska vara samma som den information som står i etikansökan när det kommer till bearbetning, lagring och delning av personuppgifter. Informationen ska hållas så kortfattad och lättförståelig som möjligt så att forskningspersonerna lätt kan ta till sig den (och anpassas till mottagaren - till exempel till minderårig, äldre, nedsatt funktion, olika språk etc.).
+
+För barn mellan 15 och 18 år, som inser vad forskningen innebär för hans eller hennes del, ska informeras om och lämna eget samtycke till forskningen. I andra fall ska barnets samtliga vårdnadshavare ge sin tillåtelse (samtycka) till att barnet får delta i forskningsprojektet. För barn under 15 år måste barnets samtliga vårdnadshavare ge sin tillåtelse (samtycka) till att barnet får delta i forskningsprojektet.
+
+Forskning utan samtycke på denna grupp av forskningspersoner får endast utföras om forskningen förväntas ge en kunskap som inte är möjlig att få genom forskning med samtycke. Forskningen ska dessutom förväntas leda till direkt nytta för forskningspersonen. Alternativt ska forskningen bidra till ett resultat som kan vara till nytta för forskningspersonen eller annan som lider av samma eller liknande sjukdom eller tillstånd samt innebära en obetydlig risk för skada eller obehag för forskningspersonen.
+
+
+From God forskningssed VR 2024.txt:
+Som utgångspunkt ska ett samtycke uppfylla följande kriterier:
+- Informerat: Forskningspersonerna ska informeras om vad deltagande i forskningen och/eller behandling av personuppgifter/prov innebär för deras del, i synnerhet när det gäller eventuella risker, samt ges möjlighet att ställa frågor. Nivå och språk måste anpassas till målgruppen och vad man vet om deras förmåga att ta till sig information.
+- Frivilligt: Forskningspersonerna får inte tvingas eller på annat otillbörligt sätt påverkas att samtycka. 
+- Specifikt: Samtycket ska vara så pass tydligt avgränsat att forskningspersonerna kan bilda sig en klar uppfattning om vad det är de samtycker till.
+- Uttryckligt och otvetydigt: Det får inte finnas några oklarheter kring huruvida forskningspersonerna verkligen har samtyckt till det de informerats om.
+- Möjligt att återta: Ett samtycke ska när som helst kunna tas tillbaka med omedelbar verkan och det får inte vara svårare att återta sitt samtycke än det var att ge det.
+- Dokumenterat: Samtycket ska dokumenteras på lämpligt sätt och sparas så länge det är nödvändigt.
+
+När det gäller vuxna personer som inte har tillräcklig beslutsförmåga för att själva samtycka till deltagande i forskningen finns det särskilda bestämmelser om undantag i etikprövningslagen. De grundar sig på mer allmänna forskningsetiska principer som också uttrycks i Helsingforsdeklarationen och tar bland annat fasta på risknivån, huruvida forskningen kan förväntas ge kunskap som inte är möjlig att få genom forskning med samtycke och huruvida forskningen kan förväntas leda till nytta för forskningspersonen eller någon annan i liknande situation.
+
+När forskningen involverar barn måste forskaren göra en bedömning av i vilken utsträckning barnet själv kan ta till sig information och samtycka, samt hur informationen ska utformas för att på bästa möjliga sätt underlätta barnets förståelse. I vissa fall kan vårdnadshavarna samtycka i barnets ställe, och ibland är vårdnadshavarnas samtycke nödvändigt för att barnet ska kunna delta i forskningen. Om barnet inte vill delta ska det dock respekteras oavsett vad vårdnadshavarna anser (i synnerhet om barnet förstått vad forskningen innebär).
+
+</information>
+
+För varje fråga ska du:
+1. Analysera det tillhandahållna materialet noggrant
+2. Formulera ett koncist och akademiskt svar på svenska
+3. Säkerställa att svaret följer de etiska riktlinjerna för forskning
+4. Inkludera relevant etisk analys när det är tillämpligt
+5. Hålla dig inom angiven teckengräns
+6. Formatera svaret med XML-taggar som innehåller frågans ID
+
+Viktiga riktlinjer för svaren:
+- Var konkret och specifik
+- Använd akademisk svenska
+- Undvik upprepningar
+- Fokusera på etiska överväganden
+- Utgå strikt från det tillhandahållna materialet
+- Var tydlig med hur forskningspersonernas rättigheter och välbefinnande skyddas
+
+Format för svar:
+För fråga 9.1.1 ska svaret formateras som: <9.1.1>ditt svar</9.1.1>
+För fråga 9.1.2 ska svaret formateras som: <9.1.2>ditt svar</9.1.2>
+För fråga 9.3.1 ska svaret formateras som: <9.3.1>ditt svar</9.3.1>
+För fråga 9.3.2 ska svaret formateras som: <9.3.2>ditt svar</9.3.2>
+
+Besvara endast de frågor som är relevanta baserat på materialet. Om en fråga inte är tillämplig för projektet, ange detta kortfattat i svaret.
+
+Kom ihåg att svaren ska vara:
+- Baserade på det tillhandahållna materialet
+- Inom angiven teckengräns
+- Fokuserade på etiska aspekter
+- Skrivna på korrekt akademisk svenska
+- Tydligt strukturerade
+- Konkreta och specifika
+Besvara följande frågor:
+FrågeID: <9.1.1>:
+Fråga: 9.1.1 [Om Ja 9.1] Hur, när (i vilket skede) och av vem informeras och tillfrågas forskningspersonerna?
+Hjälptext: Beskriv proceduren för hur information ges och samtycke inhämtas. Vem som frågar, när detta sker och hur samtycket dokumenteras. På vilket sätt säkerställs att forskningspersonen ges betänketid och möjlighet att ställa frågor.
+Utförlig redovisning är särskilt viktig när det ingår barn eller personer med nedsatt beslutskompetens i forskningsprojektet.
+Teckengräns: 4500
+
+FrågeID: <9.1.2>:
+Fråga: 9.1.2 [Om Nej 9.1] Motivera varför forskningspersonerna inte ska informeras och tillfrågas.
+Hjälptext: Lämna en utförlig redogörelse för de avvägningar som har gjorts och de skäl som ligger till grund för bedömningen att forskningspersonerna inte ska informeras och tillfrågas. Observera att forskning utan information och samtycke endast är möjlig i undantagsfall och i den forskning som avses i 3 § etikprövningslagen, eller 20–22 §§ i etikprövningslagen. Även vid forskning som avser studier på biologiskt material som tidigare har tagits från en levande människa ska Etikprövningsmyndigheten enligt 15 § bestämma vilka krav som skall gälla i fråga om information och samtycke för användning av materialet.
+Teckengräns: 4500
+
+FrågeID: <9.3.1>:
+Fråga: 9.3.1 [Om Ja 9.3] Motivera varför denna grupp av forskningspersoner ska ingå i projektet.
+Hjälptext: Forskning utan samtycke på denna grupp av forskningspersoner får endast utföras om forskningen förväntas ge en kunskap som inte är möjlig att få genom forskning med samtycke.
+Forskningen ska dessutom förväntas leda till direkt nytta för forskningspersonen. Alternativt ska forskningen bidra till ett resultat som kan vara till nytta för forskningspersonen eller annan som lider av samma eller liknande sjukdom eller tillstånd samt innebära en obetydlig risk för skada eller obehag för forskningspersonen. Forskningspersonen ska så långt som möjligt informeras personligen om forskningen.
+Samråd ska ske med närmaste anhörig. Informationen måste anpassas till personens personliga förutsättningar. Samråd ska också ske med god man eller förvaltare om frågan ingår i uppdraget som god man eller förvaltare. Forskningen får inte utföras om forskningspersonen i någon form ger uttryck för att inte vilja delta eller om någon av dem som samråd har skett med motsätter sig införandet.
+Teckengräns: 2000
+
+FrågeID: <9.3.2>:
+Fråga: 9.3.2 [Om Ja 9.3] Beskriv hur samråd med närmaste anhöriga, god man eller förvaltare kommer att ske.
+Hjälptext: Vid forskning på forskningspersoner, vars mening inte går att inhämta, ska samråd ske med närmaste anhöriga som ska få möjlighet att motsätta sig deltagandet. Samråd ska ske med god man eller förvaltare om frågan ingår i uppdraget som god man eller förvaltare.
+Teckengräns: 2000
+

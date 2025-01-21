@@ -1,0 +1,209 @@
+<information>
+From Guide till ansökan om etikprövning.txt:
+1. Från avsnittet om pseudonymiserade vs anonymiserade personuppgifter:
+"Pseudonymiserade personuppgifter, ibland kallat 'kodade personuppgifter', innebär att direkta identifierare såsom t.ex. personnummer och namn avseende en forskningsperson har tagits bort och ersatts med en kod, där koden sedan kan kopplas ihop med namnet/personnumret via en kodnyckel. Därmed finns det en möjlighet att forskningspersonens direkta identitet går att spåra. Det spelar ingen roll var någonstans kodnyckeln finns, eller hur få personer som har tillgång till kodnyckeln."
+
+2. Från avsnittet om etiska överväganden (7.1):
+"Var noga med att identifiera alla eventuella risker som kan finnas, även om riskerna känns små/näst intill obefintliga. Skulle det inte innebära någon risk alls, beskriv varför ingen risk finns. [...] En risk kan till exempel vara att även om personuppgifterna är pseudonymiserade så finns det en risk att forskningspersonernas identitet går att identifiera. Det kan även finnas risker kring IT-säkerhet som hur och var du förvarar personuppgifter."
+
+3. Från avsnittet om datainsamling (6.4):
+"Personuppgifter ska lagras i av KI godkända system som är säkerhetsklassade för lagring av känsliga personuppgifter. [...] Vid överföring av personuppgifter utanför EU/EES-området gäller strikta särskilda regler."
+
+4. Från avsnittet om information till forskningspersoner:
+"Enligt 16 § etikprövningslagen måste forskningspersonerna informeras om:
+- Den övergripande planen för forskningen
+- Syftet med forskningen
+- De metoder som kommer att användas
+- De följder och risker som forskningen kan medföra
+- Vem som är forskningshuvudman
+- Att deltagande i forskningen är frivilligt
+- Forskningspersonens rätt att när som helst avbryta sin medverkan"
+
+5. Från avsnittet om bakvägsidentifiering:
+"Bakvägsidentifiering kan föreligga när man har en anonymiserad samling av uppgifter/prover där man genom att lägga ihop olika variabler (till exempel ålder, sjukdom, yrke, kommun etc.) så att en enskild person kan identifieras. Detta kan gälla om man till exempel tar emot ett dataset som har blivit anonymiserat (kodningen har tagits bort) men samma dataset, fast med kodning med tillhörande kodnyckel, existerar någon annanstans."
+
+Dessa stycken ger central vägledning för att besvara frågorna om risker, etiska överväganden och skyddsåtgärder för forskningspersonerna.
+
+
+From Vägledning_forskningshuvudman_etikansökan_KI_RegionStockholm_version1_final_22_04_20.txt:
+1. From Section 2.2 (Table):
+"Med mer än obetydlig risk avses här t ex annan blodprovstagning, biopsier och/eller mer än obetydlig risk för infektion"
+"Med obetydlig risk avses här t ex friska frivilliga, urinprov, blodprovstagning från perifer ven eller kapillärt"
+
+2. From Section 3.4:
+"Det är viktigt att beakta att för att patientförsäkringen (LÖF) ska gälla, måste den hälso- och sjukvård som ingår i forskningsstudien utföras av hälso- och sjukvårdspersonal inom ramen för deras anställning hos en vårdgivare."
+
+3. From Section 5:
+"Personuppgiftsansvarig (PUA) är den som ensam eller tillsammans med andra bestämmer ändamålen och medlen för en behandling av personuppgifter. Personuppgiftsbiträde (PUB) är den som behandlar personuppgifter för den personuppgiftsansvariges räkning. Det är de faktiska omständigheterna i det enskilda fallet som avgör vem som är personuppgiftsansvarig."
+
+4. From Section 4:
+"Om en ändring av ett ursprungligt projekt påverkar forskningspersonernas säkerhet eller om ändringen i övrigt kan påverka den risk-/nyttabedömning som gjorts vid den tidigare prövningen av ansökan (till exempel om ny forskning påvisat risker som tidigare inte var kända eller nya fynd framkommit som kan påverka det vetenskapliga värdet av studien) ska en ändringsansökan skickas in till Etikprövningsmyndigheten."
+
+[På svenska: Dessa stycken är särskilt relevanta för att bedöma risker och säkerhetsaspekter i forskningsprojekt, samt hur personuppgifter ska hanteras och skyddas. De ger också vägledning om hur olika risknivåer kategoriseras och vilka försäkringar som gäller.]
+
+
+From Etikvaegledning_2021_WEBB.txt:
+"De centrala uppgifterna för etikprövningen är att skydda forskningspersonernas integritet och säkerhet, att granska forskningens värde, och att väga den mot de risker som den innebär för forskningspersonerna. Några huvudregler vid etikprövningen är:
+- Människors välfärd ska ges företräde framför samhällets och vetenskapens behov (8 §).
+- Forskningens risker ska uppvägas av dess vetenskapliga värde (9 §)."
+
+"Enligt GDPR ska den som behandlar personuppgifter vidta lämpliga tekniska och organisatoriska åtgärder för att säkerställa en säkerhetsnivå som är lämplig i förhållande till risken, i synnerhet skydd för oavsiktlig eller olaglig förstöring, förlust eller ändring eller till obehörigt röjande av eller obehörig åtkomst till de personuppgifter som överförs, lagras eller på annat sätt behandlas (Artikel 32)."
+
+"Information om tredje person: Ibland planerar forskare intervjuer eller enkäter där man ber forskningspersonen berätta om andra personer, till exempel en sjuk anhörig. Det anses då att intervjuerna kommer att samla in personuppgifter om denna tredje person. I sådana fall bör den anhöriga få information om den planerade undersökningen och få tillfälle att samtycka till (eller avböja) att den intervjuade lämnar sådana uppgifter."
+
+"Begreppet 'sårbar person' används ofta i samband med forskningsetik, men det saknar enhetlig definition. Vid etikprövning kan bland annat följande grupper komma att betraktas som sårbara beroende på omständigheterna: barn, gravida, fångar, flyktingar, åldringar, personer med psykiska eller fysiska funktionshinder, personer som är utsatta på grund av brister i exempelvis ekonomi eller utbildning, och personer som kan riskera att utsättas för diskriminering."
+
+"Vid Lunds universitet erbjuds forskare att använda plattformen LUSEC, som är en miljö för att lagra, hantera och analysera data på ett högsäkert sätt i enlighet med GDPR. Tjänsten är avgiftsbelagd. LUSEC bör övervägas som en lämplig säkerhetsmiljö för känsliga forskningsdata."
+
+"Obehörigt röjande av känsliga personuppgifter kan utgöra en personuppgiftsincident, dvs en säkerhetsincident som omfattar personuppgifter. Dessa kräver särskilda åtgärder enligt GDPR."
+
+
+From Vagledning-om-etikprovning-EPM.txt:
+## Uppmärksamma, förebygg och åtgärda risker
+Forskning får bara godkännas om de risker den kan medföra för forskningspersoners hälsa, säkerhet och personliga integritet vägs upp av forskningens vetenskapliga värde (9 § etikprövningslagen).
+
+När du planerar din forskning behöver du noga överväga vilka risker som det projekt du vill starta kan medföra. De risker forskning kan innebära har stor betydelse vid etikprövningen. Också mycket viktig forskning kan avslås om inte riskerna hanteras väl. Å andra sidan kan forskning med inga eller obetydliga risker godkännas, även om den bara har begränsat vetenskapligt värde.
+
+## Integritetsrelaterade risker 
+De risker som är relaterade till forskningspersonernas personliga integritet har visat sig svårare att genomskåda. Sådana risker finns vid all forskning som innefattar behandling av personuppgifter.
+
+Vad menas med personlig integritet? Begreppet beskrivs ofta som en aspekt av människans värdighet, ett samlat komplex av en persons värderingar, föreställningar, åsikter och önskningar, trosuppfattningar och mentala liv. Den personliga integriteten skyddas av deklarationer om mänskliga rättigheter och nationella lagar. Rätten till personlig integritet avser rätten för varje människa att få ha sin egenart och inre sfär respekterad och att inte utsättas för oönskade intrång.
+
+## Människors välfärd ska ges företräde framför samhällets och vetenskapens behov
+Begreppet välfärd är en samlande benämning på människors levnadsförhållanden. Att människors välfärd ska ges företräde syftar därför på respekten för människors livskvalitet i vid mening, som objektiva och intersubjektiva omständigheter och personliga upplevelser.
+
+Denna princip tillmäts stor betydelse i många forskningsetiska konventioner och riktlinjer. Fokus är där på att forskningspersoners välfärd ska gå före samhällets och vetenskapens intressen. Forskning kan leda till banbrytande upptäckter, men den ska inte genomföras till priset av forskningspersonernas livskvalitet.
+
+## Riskanalys
+Bedömning av de risker som ett forskningsprojekt kan innebära och en vägning av relationen mellan risk och nytta är en avgörande del av den granskning som ska göras vid etikprövningen. Du behöver ge myndigheten ett tillräckligt underlag för denna bedömning.
+
+För varje typ av skada bör följande frågor besvaras:
+- Svårighetsgrad: Hur allvarliga är följderna om skadan inträffar?
+- Sannolikhet: Hur sannolikt är det att skadan inträffar?
+- Skademinimering: Vilka förberedelser ska vidtas för att minska eller eliminera varje enskild risk?
+- Åtgärder: Vilken handlingsplan finns om en skada ändå skulle inträffa?
+
+## Avvägningen mellan risk och nytta
+En av de allra viktigaste frågorna ur etisk synpunkt vid etikprövningen är avvägningen mellan risk och nytta som ska ske enligt 9-10 §§ etikprövningslagen. För att du ska kunna få godkännande för att genomföra ett forskningsprojekt som innebär omedelbara eller långsiktiga risker för forskningspersonernas hälsa, säkerhet och personliga integritet måste du visa i ansökan om etikprövning att det vetenskapliga värdet av projektet uppväger de risker som deltagande medför.
+
+
+From etikansokan-ethix-ny-ansokningsmall-2023-10-19.txt:
+1. Definitioner:
+"Pseudonymiserat: Pseudonymiserade personuppgifter, ibland kallat "kodade personuppgifter", innebär att direkta identifierare såsom t.ex. personnummer och namn avseende en forskningsperson har tagits bort och ersatts med en kod, där koden sedan kan kopplas ihop med namnet/personnumret via en kodnyckel."
+
+2. Om datahantering:
+"Data lagras så att obehöriga inte kan ta del av den. Alla personer som hanterar personuppgifterna omfattas av sekretessförbindelser och/eller tystnadsplikt, antingen genom sin anställningsform eller via sekretessförbindelser upprättade enligt Region Stockholm/SLSOs instruktioner"
+
+3. Om etiska överväganden:
+"Bra att vara noggrann och tänka igenom och beskriva eventuella beroendeförhållanden som kan uppstå. Detta är särskilt viktigt när det gäller patienter/anställda inom vården som deltar i forskningen."
+
+4. Om riskminimering:
+"Tips: lägg till en rad om att risk för "integritetsintrång" (deras ord) minimeras genom bruk av ovan beskrivna procedur för datahantering."
+
+5. Om resultatredovisning:
+"Exempel på formulering: 'Resultat kommer redovisas på gruppnivå utan att enstaka individers identitet röjs, utdrag ur intervjuer har avidentifierats, karakteristiska för enskilda individer går ej att urskilja, bilder är utan identifikationsmöjligheter etc.'"
+
+
+From God forskningssed VR 2024.txt:
+## 5.1 Allmänt om skyddsintresset och olika typer av risker
+Skyddsintresset har en särställning inom forskningsetiken och ska alltid ges prioritet över andra intressen, inklusive forskningsintresset och öppenhetsintresset (se avsnitt 2.3). Forskare ska
+- värna hälsa, säkerhet och välbefinnande för alla som deltar i eller berörs av forskningen på olika sätt, inklusive forskningspersoner, försöksdjur, medarbetare samt forskarsamhället och samhället i stort
+- behandla människor, djur, miljö, samhälle och kultur med omsorg och respekt och i enlighet med regler och etiska principer
+- uppmärksamma risker och skadeverkningar som kan uppstå i samband med forskningen, inklusive vid hanteringen av material och information
+- minimera risker och negativa konsekvenser och, i den mån de kvarstår, se till att de vägs upp av de värden som forskningen förväntas generera
+- ta hänsyn till forskningens vidare konsekvenser och möjliga skadeverkningar relaterade till dessa
+- ta särskild hänsyn till forskningens påverkan (såväl direkt som indirekt) på särskilt utsatta eller sårbara individer och grupper.
+
+## 5.3.1 Utgångspunkter och de fyra principerna
+En allmän utgångspunkt för etiska överväganden när människor involveras i (eller påverkas av) forskningen är de så kallade fyra principerna:
+- 1. Att göra gott.
+- 2. Att inte skada.
+- 3. Att respektera självbestämmande (autonomi).
+- 4. Att upprätthålla rättvisa.
+
+## 5.3.5 Personuppgiftsbehandling
+Vid behandling av personuppgifter i forskning gäller EU:s dataskyddsförordning (2016/679), GDPR, och kompletterande nationella dataskyddsregler. Personuppgifter är information som direkt eller indirekt kan knytas till en levande person, till exempel namn, personnummer och liknande, men också mycket annat, som ljud- och videoupptagningar, fotografier, IP-adresser med mera. I vissa fall kan även uppgifter som inte var och en för sig kan härledas till en person i kombination med andra uppgifter ge en tillräckligt unik beskrivning för att en person ska kunna identifieras.
+
+För all personuppgiftsbehandling gäller enligt dataskyddsförordningen vissa grundläggande principer som bland annat innebär att
+- det ska finnas stöd i förordningen för att behandla uppgifterna
+- det ska finnas specifika, särskilt angivna och berättigade ändamål med behandlingen
+- det inte ska behandlas fler uppgifter än vad ändamålet kräver
+- uppgifterna ska vara riktiga
+- uppgifterna inte ska sparas längre än vad ändamålet kräver
+- uppgifterna ska skyddas genom lämpliga säkerhetsåtgärder, till exempel pseudonymisering
+- den som ansvarar för behandlingen ska kunna visa att den lever upp till kraven i dataskyddsförordningen och hur.
+
+## 2.3 Några grundläggande intressen och krav
+Forskningsintresset är intresset att bedriva angelägen forskning av hög kvalitet som leder till värdefull kunskap. För att forskning överhuvudtaget ska kunna fylla sin funktion och därmed kunna motiveras med hänvisning till forskningsintresset måste den vara tillförlitlig, i enlighet med ALLEA-kodexens princip om tillförlitlighet.
+
+Skyddsintresset är intresset att skydda dem som involveras i forskningen eller på annat sätt påverkas av den. Skyddsintresset är överordnat och ska prioriteras i avvägningar mot andra intressen, inklusive forskningsintresset. Forskningen får inte innebära att grundläggande rättigheter eller värden kränks eller att människor, djur, samhälle, miljö, klimat eller kulturarv utsätts för alltför stor eller oproportionerlig risk eller skada.
+
+</information>
+
+Formatera varje svar med XML-taggar som innehåller frågans ID. Till exempel ska svaret på fråga 7.1 omges av <7.1> </7.1>.
+
+För varje fråga, följ dessa riktlinjer:
+
+1. För riskbedömning (7.1):
+- Identifiera konkreta risker baserat på forskningsmaterialet
+- Kategorisera riskerna (fysiska, psykiska, integritetsmässiga)
+- Beskriv både kortsiktiga och långsiktiga risker
+- Var särskilt uppmärksam på personuppgiftshantering
+
+2. För nyttobedömning (7.2):
+- Fokusera på direkta fördelar för forskningspersonerna
+- Var konkret och realistisk i beskrivningen
+- Undvik att överdriva potentiella fördelar
+
+3. För risk-nytta-värdering (7.3):
+- Gör en balanserad analys
+- Motivera varför nyttan överväger riskerna
+- Hänvisa till specifika aspekter i projektet
+
+4. För riskminimering (7.4):
+- Beskriv konkreta åtgärder
+- Fokusera på metodval och säkerhetsrutiner
+- Förklara hur personuppgifter skyddas
+
+5. För vidare etiska perspektiv (7.5):
+- Analysera indirekta effekter
+- Identifiera påverkan på andra grupper
+- Diskutera långsiktiga konsekvenser
+
+Svaren ska:
+- Vara koncisa och akademiska
+- Hålla sig inom angivna teckengränser
+- Baseras strikt på det tillhandahållna materialet
+- Innehålla relevant etisk analys
+- Vara skrivna på korrekt svenska
+
+Om materialet inte ger tillräcklig information för att besvara någon aspekt, ange detta explicit i svaret.
+Besvara följande frågor:
+FrågeID: <7.1>:
+Fråga: 7.1 Vilka risker kan ett deltagande medföra för de forskningspersoner som ingår i forskningsprojektet?
+Hjälptext: Risker kan vara av olika karaktär. Det kan exempelvis vara fysisk eller psykisk skada, smärta, obehag, integritetsintrång på kort eller lång sikt. När det gäller behandling av personuppgifter kan det handla om möjligheter till identifiering trots pseudonymisering samt risk för spridning och felaktig användning, t.ex. i kommersiella sammanhang. Ange vilka risker det kan finnas för de forskningspersoner som deltar i detta forskningsprojekt.
+Teckengräns: 4500
+
+FrågeID: <7.2>:
+Fråga: 7.2 Vilken nytta kan ett deltagande medföra för de forskningspersoner som ingår i forskningsprojektet?
+Hjälptext: Ange vilken nytta de forskningspersoner som deltar i detta forskningsprojekt kan få som ett resultat av forskningsprojektet.
+Teckengräns: 2000
+
+FrågeID: <7.3>:
+Fråga: 7.3 Gör en värdering av förhållandet mellan riskerna och nyttan av projektet.
+Hjälptext: Forskning får enligt etikprövningslagen bara godkännas om riskerna som den kan medföra för forskningspersonernas hälsa, säkerhet och personliga integritet uppvägs av dess vetenskapliga värde.
+Teckengräns: 2000
+
+FrågeID: <7.4>:
+Fråga: 7.4 Beskriv hur projektet har utformats för att minimera riskerna för forskningspersonerna.
+Hjälptext: Forskning får enligt etikprövningslagen bara godkännas om det förväntade resultatet inte kan nås på ett annat sätt som innebär mindre risker för forskningspersoners hälsa, säkerhet och personliga integritet.
+Behandling av personuppgifter som avses i 3 § får godkännas bara om den är nödvändig för att forskningen ska kunna utföras.
+Observera att om en behandling ska prövas för första gången på människa måste detta tydligt framgå och relevanta säkerhetsrutiner tydligt beskrivas.
+Ange vilka risker som ett deltagande i forskningsprojektet kan innebära. Finns det risker till exempel med att ingå i en kontrollgrupp? Vilka åtgärder kommer vidtas för att undvika risker att känsliga personuppgifter behandlas av obehöriga.
+Teckengräns: 2000
+
+FrågeID: <7.5>:
+Fråga: 7.5 Identifiera och precisera om eventuella etiska problem (nackdelar/fördelar) kan uppstå i ett vidare perspektiv genom forskningsprojektet.
+Hjälptext: Redovisa till exempel om vissa grupper (andra än de forskningspersoner som ingår i forskningsprojektet) kan komma att utpekas respektive få hjälp som ett resultat av projektet. Frågan avser även de indirekta riskerna eller den indirekta nyttan. Till exempel genetisk påverkan på kommande generationer eller om resultaten på annat sätt kan tänkas skada vissa grupper. Det kan också handla om att forskningspersoner lämnar ut många uppgifter om nära anhöriga, till exempel egna barn eller äldre föräldrar, eller att personal lämnar ingående och integritetskränkande uppgifter om brukare eller skolelever.
+Teckengräns: 2000
+

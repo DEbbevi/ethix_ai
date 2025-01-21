@@ -1,0 +1,108 @@
+<information>
+From Guide till ansökan om etikprövning.txt:
+Ansökan om etikprövning, med tillhörande godkännande av Etikprövningsmyndigheten, krävs för att du ska få bedriva forskning på levande eller avlidna människor, på biologiskt material från människor eller forskning som involverar hantering av känsliga personuppgifter. Det är etikprövningslagen "Lag (2003:460) om etikprövning av forskning som avser människor" som reglerar vilken typ av forskning som kräver etikprövning. På Etikprövningsmyndighetens hemsida står det:
+
+"Lagen tillämpas på forskning som:
+- Innefattar behandling av känsliga personuppgifter eller personuppgifter om lagöverträdelser. Personuppgifter är information som direkt eller indirekt kan hänföras till en fysisk person som är i livet.
+- Involverar ett fysiskt ingrepp på forskningspersonen eller använder en metod som syftar till att påverka forskningspersonen fysiskt eller psykiskt.
+- Utförs på biologiskt material som har tagits från en fysisk person och kan härledas till denna person."
+
+[Tillagd kontext på svenska: Detta dokument är en guide specifikt för etikprövning av humanforskning. För etikprövning av djurförsök finns separata processer och riktlinjer som hanteras av Jordbruksverket och de regionala djurförsöksetiska nämnderna.]
+
+
+From Vägledning_forskningshuvudman_etikansökan_KI_RegionStockholm_version1_final_22_04_20.txt:
+Section 1 provides important context about ethics applications:
+
+"Den 1 januari 2020 ändrades lagen (2003:460) om etikprövning av forskning som avser människor (etikprövningslagen). Genom ändringen tydliggjordes att alla involverade forskningshuvudmän ska anges i etikansökan. En beskrivning av respektive forskningshuvudmans roll och uppdrag i det sökta projektet ska ingå."
+
+Section 4 discusses changes to applications:
+"Om en ändring av ett ursprungligt projekt påverkar forskningspersonernas säkerhet eller om ändringen i övrigt kan påverka den risk-/nyttabedömning som gjorts vid den tidigare prövningen av ansökan (till exempel om ny forskning påvisat risker som tidigare inte var kända eller nya fynd framkommit som kan påverka det vetenskapliga värdet av studien) ska en ändringsansökan skickas in till Etikprövningsmyndigheten."
+
+[Additional context in Swedish: Detta dokument handlar främst om administrativa aspekter av etikansökningar och innehåller inte specifik information om djurförsök. Dokumentet fokuserar på samarbetet mellan Karolinska Institutet och vårdgivare i Region Stockholm.]
+
+
+From Etikvaegledning_2021_WEBB.txt:
+Detta dokument behandlar endast etikprövningsfrågor rörande forskning på människor. Vid HT-fakulteterna i Lund bedrivs också forskning som innefattar djurförsök. För frågor om djurförsöksetik och godkännande av forskning på djur hänvisas till
+
+medarbetarwebben.lu.se/forska-och-utbilda/stod-till-forskning/forskningsetik-och-djurforsoksetik/djurforsoksetik .
+
+[Detta stycke är särskilt relevant då det explicit anger att dokumentet inte omfattar djurförsök och hänvisar till rätt instans för djurförsöksfrågor. Som tillägg på svenska: Detta är ett centralt stycke som tydligt avgränsar dokumentets omfattning och ger korrekt hänvisning för djurförsöksrelaterade frågor.]
+
+
+From Vagledning-om-etikprovning-EPM.txt:
+Lagen (2003:460) om etikprövning av forskning som avser människor (etikprövningslagen) trädde i kraft den 1 januari 2004. När lagen infördes motsvarade det etikprövningspliktiga området i stora drag det som gäller enligt nuvarande lagstiftning.
+
+Forskning får godkännas bara om den kan ske med respekt för människovärdet (7 § etikprövningslagen).
+Mänskliga rättigheter och grundläggande friheter ska alltid beaktas vid etikprövningen samtidigt som hänsyn ska tas till intresset av att ny kunskap kan utvecklas genom forskning (8 § första meningen).
+Människors välfärd ska ges företräde framför samhällets och vetenskapens behov (8 § andra meningen).
+
+Experimentellt arbete förstås i vid mening och avser alla slag av arrangerade situationer eller processer och insamling av information från dessa. Intervjuer kan vara exempel på sådana processer. Teoretiskt arbete avser all form av strukturerad bearbetning baserad på redan tillgänglig information. Observation har lagts till i uppdateringen av lagen 2020 för att göra det tydligt att också insamling av uppgifter om människor under icke arrangerade omständigheter eller utan avsikt att påverka faller under forskningsdefinitionen.
+
+
+From etikansokan-ethix-ny-ansokningsmall-2023-10-19.txt:
+11.1 Finns det relevanta resultat från djurförsök?
+Frågan avser framför allt klinisk behandlingsforskning. Om djurförsök inte har utförts, ange då anledningen till detta.
+- o Ja
+- o Nej
+- o Ej aktuellt
+
+11.1.1 [Om Ja 11.1] Redogör för resultaten av djurförsöken
+Redogör övergripande för de djurförsök som utförts och vilka resultat de gav. Framför allt ska de resultat som är av relevans för detta forskningsprojekt redogöras för.
+
+Ett tillägg på svenska för kontext: Detta avsnitt visar att för forskningsprojekt som inte involverar klinisk behandlingsforskning eller där djurförsök inte är relevanta, bör man välja "Ej aktuellt" och motivera varför djurförsök inte är tillämpliga för den aktuella studien.
+
+
+From God forskningssed VR 2024.txt:
+Djur används i forskning där angelägna forskningsfrågor i nuläget inte kan besvaras med andra vetenskapliga metoder. Forskning som involverar djur utförs dels för att den ger ny kunskap, och dels för att den leder till nytta för människa eller djur. Exempel på sådan forskning är biomedicinsk grundforskning och läkemedelsutveckling där syftet främst är att utveckla förståelse för och behandling av sjukdomar som drabbar människor, men också veterinärmedicinsk forskning, miljöforskning och forskning som syftar till förbättrad djurhållning och djurvälfärd för laboratoriedjur, lantbrukets djur, akvakultur och sällskapsdjur.
+
+Principen om 3R - Replace, Reduce, Refine - innebär att djurförsök ersätts, minskas och förfinas.
+- Ersätta: Djurförsök kan i vissa fall ersättas med djurfria metoder som stamceller, datormodeller, mikrodosering i människa, dockor eller andra modeller, konstgjorda organ och vävnader eller syntetiskt eller elektroniskt material.
+- Minska: Antalet djur som används i forskningen kan minskas exempelvis genom att delvis använda djurfria metoder, dela data och resultat (även negativa), samt noga planera och utforma försök för att undvika att djur används i onödan.
+- Förfina: Djurförsök kan förfinas exempelvis genom förbättring av smärtlindring och ingrepp, träning av djuren för att minska stress, att djuren under hela sin livstid hålls och sköts på ett sådant sätt att de kan vara så friska som möjligt och kan utöva de naturliga beteenden som är viktiga för deras välbefinnande, samt att förkorta försöken och se till att de så sällan som möjligt leder till att djuren lider.
+
+Användning av försöksdjur i forskning omfattas av ett antal regelverk som forskare ska följa. Bestämmelser som gäller vid användning av djurförsök i forskning finns bland annat i djurskyddslagen, djurskyddsförordningen (2019:66) och föreskrifter från Jordbruksverket. För att få använda, föda upp, förvara eller tillhandahålla försöksdjur krävs tillstånd från Jordbruksverket. För att få använda djur i ett djurförsök krävs även etiskt godkännande från en djurförsöksetisk nämnd.
+
+</information>
+
+När du svarar, följ dessa riktlinjer:
+
+1. Formatera varje svar med XML-taggar som innehåller frågans ID. Till exempel: <11.1.1>Ditt svar här</11.1.1>
+
+2. Svara endast på den fråga som är relevant baserat på materialet:
+   - Om djurförsök har utförts, besvara fråga 11.1.1
+   - Om djurförsök inte har utförts, besvara fråga 11.1.2
+
+3. Ditt svar ska:
+   - Vara koncist och tydligt
+   - Använda akademisk svenska
+   - Hålla sig inom 4500 tecken
+   - Fokusera på relevanta resultat för det aktuella forskningsprojektet
+   - Inkludera etiska överväganden där det är relevant
+
+4. Om du besvarar 11.1.1:
+   - Beskriv djurförsökens upplägg kortfattat
+   - Fokusera på de viktigaste resultaten
+   - Förklara relevansen fördet aktuella projektet
+
+5. Om du besvarar 11.1.2:
+   - Förklara tydligt varför djurförsök inte genomförts
+   - Beskriv eventuella alternativa metoder som använts
+   - Motivera varför detta var ett lämpligt val
+
+Undvik:
+- Att använda teknisk jargong utan förklaring
+- Att inkludera irrelevanta detaljer
+- Att göra antaganden utöver det som finns i materialet
+
+Börja ditt svar direkt med relevant XML-tagg utan någon inledande text.
+Besvara följande frågor:
+FrågeID: <11.1.1>:
+Fråga: 11.1.1 [Om Ja 11.1] Redogör för resultaten av djurförsöken
+Hjälptext: Redogör övergripande för de djurförsök som utförts och vilka resultat de gav. Framför allt ska de resultat som är av relevans för detta forskningsprojekt redogöras för.
+Teckengräns: 4500
+
+FrågeID: <11.1.2>:
+Fråga: 11.1.2 [Om Nej 11.1] Ange anledningen till att djurförsök ej gjorts.
+Hjälptext: 
+Teckengräns: 4500
+

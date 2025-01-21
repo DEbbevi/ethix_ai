@@ -1,0 +1,156 @@
+<information>
+From Guide till ansökan om etikprövning.txt:
+"8.6 Vilket försäkringsskydd finns för de forskningspersoner som deltar i forskningsprojektet?
+Det är viktigt att det finns rätt försäkringar för forskningspersonerna på plats innan man startar sin forskning. Det finns olika typer av försäkringar som gäller beroende på studietyp och var forskningen utförs (d.v.s. vilken huvudman som ansvarar för den delen av forskningen). Varje huvudman (om flera) är ansvariga för att rätt försäkringar finns för den del av forskningen som de är ansvariga för. Några exempel på försäkringar som gäller för KI är:
+- · Personskadeskydd, täcker forskningspersonens vistelse på KI:s område/lokaler samt direkta resor mellan hemmet och KI.
+- · Patientförsäkringen, omfattar när prover/ingrepp utförs på forskningspersonen. Notera att olika riktlinjer gäller för vem som kan utföra ingreppet beroende på var det utförs och vem som är huvudman.
+- · Läkemedelsförsäkring, gäller vid läkemedelsprövningar."
+
+"7.1 Vilka risker kan ett deltagande medföra för de forskningspersoner som ingår i forskningsprojektet?
+Var noga med att identifiera alla eventuella risker som kan finnas, även om riskerna känns små/näst intill obefintliga. Skulle det inte innebära någon risk alls, beskriv varför ingen risk finns."
+
+"6.4 Hur kommer insamlad data att hanteras och förvaras?
+Generella råd: Beskriv var eventuella enkätdata/prover/ljudfiler etc. kommer att lagras. Personuppgifter ska lagras i av KI godkända system som är säkerhetsklassade för lagring av känsliga personuppgifter."
+
+Notera: Det finns ingen specifik information i dokumentet om ekonomisk ersättning till forskningspersoner utöver vad som anges i frågeställningen själv.
+
+
+From Vägledning_forskningshuvudman_etikansökan_KI_RegionStockholm_version1_final_22_04_20.txt:
+Section 3.4 Patientförsäkringen:
+Patientförsäkringen är inte relaterad till vem som är ansvarig forskningshuvudman i en etikansökan.
+
+Det är viktigt att beakta att för att patientförsäkringen (LÖF) ska gälla, måste den hälso- och sjukvård som ingår i forskningsstudien utföras av hälso- och sjukvårdspersonal inom ramen för deras anställning hos en vårdgivare.
+
+KI har egna försäkringar när KI-personal till exempel står för provtagning inom KI:s lokaler. Sker provtagningen i sjukhuslokaler, men av KI-personal, behöver försäkringsfrågan utredas tillsammans med berört sjukhus.
+
+[För kontext: Detta dokument är en vägledning för etikansökningar där Karolinska Institutet och vårdgivare i Region Stockholm samarbetar.]
+
+
+From Etikvaegledning_2021_WEBB.txt:
+Forskningshuvudmannen anses ha ansvar för de risker man utsätter forskningspersoner för. Om en forskningsperson kommer till skada och det kan styrkas att skadan förorsakats av att han eller hon rekryterats och medverkat som forskningsperson, så kan forskningshuvudmannen komma att bli skadeståndsskyldig. Forskningshuvudmannen kan inte friskriva sig från detta ansvar genom att hänvisa till privata försäkringar.
+
+Hur detta ansvar fördelas inom exempelvis Lunds universitet är en intern fråga. Statliga myndigheter tar normalt inga försäkringar, utom i särskilda fall. För sådana ändamål har Kammarkollegiet en försäkringstjänst, som erbjuder försäkringar för särskilt personskadeskydd, som motsvarar arbetsskadeförsäkringens olycksfallsskydd.
+
+Obehörigt röjande av känsliga personuppgifter kan utgöra en personuppgiftsincident, dvs en säkerhetsincident som omfattar personuppgifter. Dessa kräver särskilda åtgärder enligt GDPR. För anvisningar om förebyggande och hantering av personuppgiftsincidenter se medarbetarwebben.lu.se/personuppgifter-och-dataskyddgdpr/overgripande-information/sakerhet-personuppgifteroch-hur-du-hanterar-en-sakerhetsincident.
+
+Enligt GDPR ska den som behandlar personuppgifter vidta lämpliga tekniska och organisatoriska åtgärder för att säkerställa en säkerhetsnivå som är lämplig i förhållande till risken, i synnerhet skydd för oavsiktlig eller olaglig förstöring, förlust eller ändring eller till obehörigt röjande av eller obehörig åtkomst till de personuppgifter som överförs, lagras eller på annat sätt behandlas (Artikel 32).
+
+Vid Lunds universitet erbjuds forskare att använda plattformen LUSEC, som är en miljö för att lagra, hantera och analysera data på ett högsäkert sätt i enlighet med GDPR. Tjänsten är avgiftsbelagd. LUSEC bör övervägas som en lämplig säkerhetsmiljö för känsliga forskningsdata.
+
+[Notera: Det finns inga specifika avsnitt som behandlar ekonomisk ersättning till forskningspersoner i det tillhandahållna materialet.]
+
+
+From Vagledning-om-etikprovning-EPM.txt:
+För försäkringar:
+"Forskningshuvudmannen anses ha ansvar för de risker man utsätter forskningspersoner för. Om en forskningsperson kommer till skada och det kan styrkas att skadan förorsakats av att han eller hon rekryterats och medverkat som forskningsperson, så kan forskningshuvudmannen komma att bli skadeståndsskyldig. Forskningshuvudmannen kan inte friskriva sig från detta ansvar genom att hänvisa till privata försäkringar."
+
+"När de risker som forskningspersonerna kan komma att utsättas för inte är försumbara bör forskningshuvudmannen och forskarna överväga om en särskild försäkring är befogad. För forskning som endast behandlar personuppgifter behövs sällan ett försäkringsskydd."
+
+"Statliga myndigheter tar bara försäkringar i särskilda fall. För sådana ändamål har Kammarkollegiet en försäkringstjänst som erbjuder försäkringar för särskilt personskadeskydd."
+
+För beredskap och risker:
+"De risker som är förenade med ditt projekt kan vara få eller många. De kan också vara mer eller mindre allvarliga, komplexa och sannolika. Det betyder att det knappast går att sätta upp en generell mall för omfattningen av och detaljrikedomen i en riskanalys."
+
+"För varje typ av skada bör följande frågor besvaras:
+- Svårighetsgrad: Hur allvarliga är följderna om skadan inträffar?
+- Sannolikhet: Hur sannolikt är det att skadan inträffar?
+- Skademinimering: Vilka förberedelser ska vidtas för att minska eller eliminera varje enskild risk?
+- Åtgärder: Vilken handlingsplan finns om en skada ändå skulle inträffa?"
+
+För ersättning:
+"De flesta forskningshuvudmän har upprättat egna regler för vad en skälig ersättning till forskningspersoner är. Ta reda på vad som gäller inom din organisation."
+
+"Vid etikprövningen bedömer ledamöterna bland annat om ersättningen är skälig kompensation för den tid som forskningspersonerna ägnar forskningen genom sitt deltagande. Ersättningen får inte vara för stor, så att forskningspersoner lockas att delta på grund av den. Då utgör ersättningen en otillbörlig påverkan som syftar till att övertyga personer att delta."
+
+"Ersättning till forskningspersoner betraktas enligt Skatteverket som inkomst av tjänst och är därmed skattepliktig. Undantagna är ersättningar för lämnande av blod, modersmjölk eller organ, som är skattefria. Ersättning för resor är också skattefria."
+
+
+From etikansokan-ethix-ny-ansokningsmall-2023-10-19.txt:
+För försäkringsskydd:
+"Det är viktigt att det finns rätt försäkringar för forskningspersonerna på plats innan man startar sin forskning. Det finns olika typer av försäkringar som gäller beroende på studietyp och var forskningen utförs (d.v.s. vilken huvudman som ansvarar för den delen av forskningen). Varje huvudman (om flera) är ansvariga för att rätt försäkringar finns för den del av forskningen som de är ansvariga för."
+
+"Personskadeskydd, täcker forskningspersonens vistelsen på KI:s område samt direkta resor mellan hemmet och KI.
+Patientförsäkringen, omfattar när prover/ingrepp utförs på forskningspersonen. Notera att olika riktlinjer gäller för vem som kan utföra ingreppet beroende på var det utförs och vem som är huvudman. Alla patienter och friska frivilliga som deltar i en klinisk studie, utförd inom svensk hälso och sjukvård, täcks av en patientförsäkring via patientskadelagen."
+
+För ekonomisk ersättning:
+"Forskningspersonerna kan utöver ersättning för resor, förlorad arbetsinkomst eller andra utgifter erhålla viss ersättning för obehag och besvär. Ersättningen ska vara skälig. Om barn eller ungdomar under 18 år deltar i forskningsprojektet får sådan ersättning inte vara stor och den bör inte erbjudas i samband med rekryteringen."
+
+
+From God forskningssed VR 2024.txt:
+Skyddsintresset har en särställning inom forskningsetiken och ska alltid ges prioritet över andra intressen, inklusive forskningsintresset och öppenhetsintresset (se avsnitt 2.3). Forskare ska
+- värna hälsa, säkerhet och välbefinnande för alla som deltar i eller berörs av forskningen på olika sätt, inklusive forskningspersoner, försöksdjur, medarbetare samt forskarsamhället och samhället i stort
+- behandla människor, djur, miljö, samhälle och kultur med omsorg och respekt och i enlighet med regler och etiska principer
+- uppmärksamma risker och skadeverkningar som kan uppstå i samband med forskningen, inklusive vid hanteringen av material och information
+- minimera risker och negativa konsekvenser och, i den mån de kvarstår, se till att de vägs upp av de värden som forskningen förväntas generera
+
+Forskningshuvudmannen - den organisation i vars verksamhet forskningen utförs - har en central roll när det gäller att god forskningssed följs inom organisationen. Forskningshuvudmannen ska främja medvetenhet och kunskap om forskningsetiska frågor och skapa en miljö fri från otillbörlig påverkan som ger forskare möjlighet att arbeta oberoende och i enlighet med god forskningssed.
+
+Forskningspersonerna kan utöver ersättning för resor, förlorad arbetsinkomst eller andra utgifter erhålla viss ersättning för obehag och besvär. Ersättningen ska vara skälig. Om barn eller ungdomar under 18 år deltar i forskningsprojektet får sådan ersättning inte vara stor och den bör inte erbjudas i samband med rekryteringen.
+
+Forskare ska vara ärliga, transparenta och ansvarsfulla både i vetenskapliga publikationer och i andra typer av kommunikation. Detta innebär att
+- publicera och presentera data, metoder, resultat och tolkningar på ett öppet, ärligt, transparent och korrekt sätt, samtidigt som skyddsintresset och legitima krav på konfidentialitet tillgodoses.
+
+</information>
+
+För varje fråga ska du:
+1. Analysera det relevanta innehållet i forskningsmaterialet
+2. Formulera ett koncist och akademiskt svar
+3. Inkludera etiska överväganden där det är relevant
+4. Hålla dig inom angiven teckengräns
+5. Formatera svaret med XML-taggar som innehåller frågans ID
+
+För fråga 8.8 (försäkringsskydd):
+- Beskriv konkret vilket försäkringsskydd som gäller
+- Förklara hur det skyddar forskningspersonerna
+- Håll svaret under 500 tecken
+
+För fråga 8.9 (beredskap för oväntade händelser):
+- Beskriv konkreta rutiner och beredskap
+- Inkludera både praktiska och etiska aspekter
+- Specificera tillgänglig kompetens och resurser
+- Håll svaret under 4500 tecken
+
+För fråga 8.10 (ekonomisk ersättning):
+- Svara endast med siffran 1 (Ja) eller 2 (Nej)
+
+För fråga 8.10.1 (om Ja på 8.10):
+- Specificera ersättningens storlek och när den betalas ut
+- Motivera ersättningens skälighet
+- Håll svaret under 500 tecken
+
+Formatera varje svar enligt följande exempel:
+<8.8>Ditt svar här</8.8>
+<8.9>Ditt svar här</8.9>
+<8.10>1 eller 2</8.10>
+<8.10.1>Ditt svar här om 8.10 besvarades med 1</8.10.1>
+
+Var noggrann med att:
+- Hålla en professionell och akademisk ton
+- Vara konkret och tydlig
+- Följa alla teckengränser
+- Basera alla svar på det tillhandahållna materialet
+- Inkludera etiska överväganden där det är relevant
+Besvara följande frågor:
+FrågeID: <8.8>:
+Fråga: 8.8 Vilket försäkringsskydd finns för de forskningspersoner som deltar i forskningsprojektet?
+Hjälptext: Forskningshuvudmannen har ansvar för att kontrollera att det finns försäkring som täcker eventuella skador som kan uppkomma i samband med forskningen. Ange vilka försäkringar som forskningspersonen kommer att omfattas av samt vilket skydd försäkringarna ger forskningspersonen. För forskning som endast behandlar personuppgifter behövs sällan ett försäkringsskydd.
+Teckengräns: 500
+
+FrågeID: <8.9>:
+Fråga: 8.9 Redogör för den beredskap som finns för att hantera oväntade bifynd eller händelser under forskningsprocessen som kan äventyra forskningspersonernas hälsa, säkerhet och personlig integritet.
+Hjälptext: Beskriv vilken tillgång forskningsprojektet har till utrustning, personal och kompetens för att hantera eventuellt oväntade komplikationer eller bifynd. Beskriv även vilken planering som finns för att hantera eventuella oväntade komplikationer eller bifynd. Ett vanligt exempel på bifynd inom medicin är upptäckt av tumör eller annan sjukdom i samband med provtagningar eller mätningar. Inom humanistisk och samhällsvetenskaplig forskning kan det röra sig om att forskningspersoner lämnar uppgifter om hälsa som inte har efterfrågats.
+Teckengräns: 4500
+
+FrågeID: <8.10>:
+Fråga: 8.10 Kommer ekonomisk ersättning eller andra förmåner betalas ut till forskningspersonerna?
+Hjälptext: Forskningspersonerna kan utöver ersättning för resor, förlorad arbetsinkomst eller andra utgifter erhålla viss ersättning för obehag och besvär. Ersättningen ska vara skälig. Om barn eller ungdomar under 18 år deltar i forskningsprojektet får sådan ersättning inte vara stor och den bör inte erbjudas i samband med rekryteringen. De flesta forskningshuvudmän har upprättat egna regler för vad en skälig ersättning till forskningspersoner är. Ta reda på vad som gäller inom din organisation.
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <8.10.1>:
+Fråga: 8.10.1 [Om Ja 8.10] Vilken ekonomisk ersättning kommer betalas ut och när?
+Hjälptext: 
+Teckengräns: 500
+

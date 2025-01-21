@@ -1,0 +1,173 @@
+<information>
+From Guide till ansökan om etikprövning.txt:
+1. Från sektion 6.1:
+"Här redogör du för hur insamlingen av personuppgifter/biologiskt material ska gå till. Om flera huvudmän ingår, ange vilken huvudman som ansvarar för vilken del. Exempel på olika insamlingar:
+- Enkätdata kommer samlas in via pappersenkäter/datahanteringsverktyg/eCRFs (t.ex. KI REDCap).
+- Blodprov/andra typer av biologiskt material från patienter samlas in på sjukhus XX. Patientdata/klinisk data från journal. Ljudinspelningar/videofilmer spelas in med format XX etc.
+- Personuppgiftsinsamlingen/proverna/intervjuerna kommer samlas in/utföras av sjuksköterska/ läkare/forskningsassistent etc.
+- Registerdata hämtas från SCB enligt registerhållarens rutiner för registerutdrag."
+
+2. Från avsnittet om pseudonymisering:
+"Pseudonymiserade personuppgifter, ibland kallat 'kodade personuppgifter', innebär att direkta identifierare såsom t.ex. personnummer och namn avseende en forskningsperson har tagits bort och ersatts med en kod, där koden sedan kan kopplas ihop med namnet/personnumret via en kodnyckel. Därmed finns det en möjlighet att forskningspersonens direkta identitet går att spåra."
+
+3. Från sektion 6.4:
+"Generella råd: Beskriv var eventuella enkätdata/prover/ljudfiler etc. kommer att lagras. Personuppgifter ska lagras i av KI godkända system som är säkerhetsklassade för lagring av känsliga personuppgifter. Tänk på att vara lagom specifik med detaljer. Du behöver inte ange exakt hur länge prover/data ska sparas, utan det räcker att hänvisa till 'i enlighet med gällande lagstiftning och KI:s interna regler'."
+
+4. Om dataöverföring:
+"Om de personuppgifter/biologiskt material du har samlat in ska överföras till andra länder, tänk på att inte begränsa dig i onödan till vilka länder uppgifterna/proverna ska överföras, utan var lagom specifik med detaljer. Till exempel räcker det med att skriva något i stil med 'Pseudonymiserade personuppgifter kan komma att delas med mottagare inom och utom EU/EES-området och kommer då ske enligt vid var tid gällande lagstiftning'."
+
+[Tillagd kontext på svenska: Dessa avsnitt ger grundläggande riktlinjer för hur man ska beskriva datainsamling, hantering och förvaring i en etikprövningsansökan vid Karolinska Institutet. Det är viktigt att notera att detta är vägledande exempel och att den specifika beskrivningen måste anpassas till det aktuella forskningsprojektet.]
+
+
+From Vägledning_forskningshuvudman_etikansökan_KI_RegionStockholm_version1_final_22_04_20.txt:
+1. From Section 2:
+"Forskningshuvudman är, enligt etikprövningslagen, den fysiska eller juridiska person i vars verksamhet forskningen utförs, till exempel lärosäte, kommun, region, myndighet eller privat företag."
+
+2. From Section 2.1:
+"När flera forskningshuvudmän medverkar i ett och samma forskningsprojekt ska de gemensamt uppdra åt en av dem att ansöka om etikprövning av projektet för allas räkning. Den som får detta uppdrag ska sedan informera de övriga om Etikprövningsmyndighetens beslut. Varje forskningshuvudman ansvarar fortfarande för den del av forskningen som bedrivs i den egna verksamheten."
+
+3. From Section 3.1:
+"Av dataskyddsförordningen följer en annan typ av ansvar än det som följer av etikprövnings-lagen, nämligen ansvar för behandlingen av personuppgifter. Vem som anges som ansvarig respektive övrig medverkande forskningshuvudman i etikansökan är inte avgörande för fördelningen av personuppgiftsansvar."
+
+4. From Section 5:
+"Personuppgiftsansvarig (PUA) är den som ensam eller tillsammans med andra bestämmer ändamålen och medlen för en behandling av personuppgifter. Personuppgiftsbiträde (PUB) är den som behandlar personuppgifter för den personuppgiftsansvariges räkning. Det är de faktiska omständigheterna i det enskilda fallet som avgör vem som är personuppgiftsansvarig."
+
+Tillägg på svenska för kontext: Detta dokument är en vägledning för hur forskningshuvudmän ska hantera etikansökningar och datahantering när Karolinska Institutet och vårdgivare i Region Stockholm samarbetar i forskningsprojekt. Dokumentet ger ramverket för hur ansvarsfördelningen ska se ut mellan olika parter gällande datainsamling och datahantering.
+
+
+From Etikvaegledning_2021_WEBB.txt:
+För 6.1 och 6.2 (datainsamling och materialstorlek):
+"Antalet deltagare ska granskas är om tillräckligt många personer ska involveras i undersökningen för att resultaten kan bli statistiskt bärkraftiga. Eftersom deltagande i ett forskningsprojekt kan innebära en börda för deltagarna, ska inte heller onödigt många forskningspersoner rekryteras. Denna faktor avser i första hand kvantitativa undersökningar, medan det inom humaniora och teologi är vanligast med kvalitativa studier. För kvalitativa studier uppfattas det ofta inte som relevant att göra exakta beräkningar av hur många deltagare som krävs för att uppnå signifikanta resultat, men det är ändå rimligt att forskaren framhåller att det är fråga om en kvalitativ studie och förklarar skälen för att välja ett visst antal deltagare."
+
+För 6.3 (dokumentation):
+"Videoinspelningar och fotografier bedöms som personuppgifter i samband med etikprövning, eftersom det är lätt att känna igen en person på bild. När en forskare vill fotografera eller filma sina forskningspersoner bör information och samtycke alltid användas. Informationen ska vara tydlig och omfatta vad som ska fotograferas och hur, under vilken tid, vad syftet är och hur bilderna är tänkta att användas."
+
+"Ljudinspelningar, exempelvis av en intervju eller vid en observation, anses utgöra personuppgifter även om inga namn nämns, eftersom det går lätt för den som känner en person att känna igen denne på rösten."
+
+För 6.4 (datahantering och förvaring):
+"Enligt GDPR ska den som behandlar personuppgifter vidta lämpliga tekniska och organisatoriska åtgärder för att säkerställa en säkerhetsnivå som är lämplig i förhållande till risken, i synnerhet skydd för oavsiktlig eller olaglig förstöring, förlust eller ändring eller till obehörigt röjande av eller obehörig åtkomst till de personuppgifter som överförs, lagras eller på annat sätt behandlas."
+
+"Vid Lunds universitet erbjuds forskare att använda plattformen LUSEC, som är en miljö för att lagra, hantera och analysera data på ett högsäkert sätt i enlighet med GDPR."
+
+"Varje statlig myndighet ska ha en dokumenthanteringshanteringsplan, baserat på arkivlagen och riksarkivets anvisningar. Enligt Lunds universitets plan gäller bland annat: Visst primärmaterial får gallras 10 år efter projektets avslutande - 15 år för medicinsk forskning - dvs 10 (15) år efter resultatredovisning, publicering och ekonomisk slutredovisning."
+
+
+From Vagledning-om-etikprovning-EPM.txt:
+"Personuppgiftsansvaret innebär att det är nödvändigt att i förväg ha klart för sig om personuppgifter ska hanteras, vilka kategorier av personuppgifter det handlar om, att det finns rättsligt stöd för att behandla uppgifterna och att de registrerades rättigheter tas till vara. Alla inom organisationen som har med personuppgifter att göra måste vara medvetna om och ha tillräcklig kunskap för att behandla personuppgifter på rätt sätt."
+
+"Pseudonymisering innebär att man ersätter de berördas namn med en kod och upprättar en särskild kodlista, en s.k. kodnyckel, och förvarar den på annan säker plats. Pseudonymiserade data är att anse som identifierbara, och de skyddsåtgärder som anges i GDPR är tillämpliga. När någon annan än forskaren själv har kodnyckeln brukar uppgifterna ofta beskrivas som länkade. Också länkade data är identifierbara personuppgifter."
+
+"I en ansökan om etikprövning ska du beskriva hur insamlade data ska hanteras och förvaras efter insamlingen. Detta innefattar en beskrivning av
+- de skyddsåtgärder som ska genomföras för att försvåra identifiering av uppgifterna, till exempel pseudonymisering
+- var data och eventuell kodnyckel ska förvaras
+- vem som ska ha tillgång till materialet och på vilket sätt
+- vilka säkerhetsåtgärder som planeras för att förhindra dataläckage, stöld etc.
+- om ytterligare skyddsåtgärder kommer att genomföras efter projektets slut
+- hur länge uppgifterna ska sparas."
+
+"Arkivering är inte en del av forskningens genomförandefas och ingår inte i de delar av forskningen som etikprövas. Som forskare behöver du samråda med din huvudman i sådana frågor. Forskningsdata ska arkiveras och gallras enligt gällande arkivlag och riksarkivets förskrifter. Hos huvudmannen finns vanligen en dokumenthanteringsplan. Av planen framgår de regler huvudmannen satt upp för hur forskningsdata ska arkiveras och gallras i den egna organisationen."
+
+"Många av de risker som är relaterade till forskningspersonernas personliga integritet har visat sig svårare att genomskåda. Sådana risker finns vid all forskning som innefattar behandling av personuppgifter...Så fort du använder en databas med personuppgifter måste du alltid räkna med att det kan finnas ett intresse för de uppgifter som finns där, av ett eller annat skäl."
+
+"Många integritetsskador startar i någon form av dataläckage, dvs. att obehöriga får tillgång till känsliga uppgifter, eller i att personer med berättigad åtkomst till data behandlar dessa på ett otillbörligt sätt. Vanliga anledningar till läckage av personuppgifter är att
+- inloggningsskydd saknas eller är otillräckligt, till exempel att loggar över dem som haft tillträde till data inte upprättas
+- skyddsåtgärder vid förvaring av data på personlig utrustning är otillräckliga eller obefintliga
+- bärbara enheter med personuppgifter stjäls eller tappas bort
+- säkerheten inte upprätthålls vid reparation och service."
+
+
+From etikansokan-ethix-ny-ansokningsmall-2023-10-19.txt:
+Under 4.1 har ni beskrivit vilka formulär, vilken data ni ska samla in och när. Här beskriver ni hur det samlas in och var data kommer lagras. T.ex genom papper, genom inloggning på ett enkätverktyg, om ni gör ljudinspelningar etc.
+
+Exempel på hur data samlas in:
+- Vårdgivarens patientjournaler. Begäran om utlämning sker enligt vårdgivarens rutiner för utlämning av personuppgifter för forskningsändamål.
+- Kliniska interventioner - beskriv hur insamlingen görs och av vem
+- Enkäter och skattningsskalor distribueras på papper via webbverktyg
+
+"Data lagras och hanteras på en säkerhetsklassad filarea för känsliga personuppgifter inom Region Stockholm/SLSO. Kodnyckel och pseudonymiserade data hanteras åtskilt. Filarean och dess undermappar är situerade i en låst katalog inom Region Stockholm/SLSO. Åtkomst till filarean kräver e-tjänstekort inom Region Stockholm/SLSO. Behörighetsstyrning tillämpas för specifik behörighet till dessa undermappar."
+
+All dokumentation för studien ska göras i ELN för forskargrupper inom CPF.
+
+Data som innehåller känsliga personuppgifter pseudonymiseras. Pseudonymiseringen görs av X enligt X standard. Forskningspersonen tilldelas ett studie-IDnr som används för att skilja den enskildes data från andras. Direktidentifierande personuppgifter som kopplas till studie IDnr sparas på en separat kodlista som förvaras på "lagringsplats", vilket är skilt från övrig data. Huvudansvarig forskare är ansvarig för kodnyckeln.
+
+Data sparas i enlighet med KIs arkivregler för forskningshandlingar ( se KIs dokumenthanteringsplan).
+
+
+From God forskningssed VR 2024.txt:
+Vid behandling av personuppgifter i forskning gäller EU:s dataskyddsförordning (2016/679), GDPR, och kompletterande nationella dataskyddsregler. Personuppgifter är information som direkt eller indirekt kan knytas till en levande person, till exempel namn, personnummer och liknande, men också mycket annat, som ljud- och videoupptagningar, fotografier, IP-adresser med mera. I vissa fall kan även uppgifter som inte var och en för sig kan härledas till en person i kombination med andra uppgifter ge en tillräckligt unik beskrivning för att en person ska kunna identifieras.
+
+För all personuppgiftsbehandling gäller enligt dataskyddsförordningen vissa grundläggande principer som bland annat innebär att:
+- det ska finnas stöd i förordningen för att behandla uppgifterna
+- det ska finnas specifika, särskilt angivna och berättigade ändamål med behandlingen
+- det inte ska behandlas fler uppgifter än vad ändamålet kräver
+- uppgifterna ska vara riktiga
+- uppgifterna inte ska sparas längre än vad ändamålet kräver 
+- uppgifterna ska skyddas genom lämpliga säkerhetsåtgärder, till exempel pseudonymisering 
+- den som ansvarar för behandlingen ska kunna visa att den lever upp till kraven i dataskyddsförordningen och hur.
+
+En förutsättning för både transparens och öppet tillgängliggörande är att forskaren håller ordning i sin forskning och i sina data och att forskningsinformation dokumenteras, förvaltas och bevaras på lämpligt sätt under så lång tid som behövs. Dokumentationen måste medge granskning av forskningen. Forskningsmaterial som är allmän handling ska enligt arkivlagen (1990:782) bevaras, hållas ordnat och vårdas så att det kan tillgodose allmänhetens rätt till insyn, rättsskipningens och förvaltningens behov samt forskningens behov.
+
+Grundläggande uppgifter om forskningens syfte, metod och resultat ska alltid bevaras. Även handlingar som bedöms till exempel ha ett fortsatt stort värde inomvetenskapligt eller för annat forskningsområde, ha ett historiskt värde eller vara av stort allmänintresse ska bevaras. Myndigheterna ska själva bestämma gallringsfrister utifrån vissa kriterier och det ska bland annat finnas möjlighet att granska och verifiera forskningsresultat.
+
+</information>
+
+För varje fråga ska du:
+1. Analysera det tillhandahållna materialet noggrant
+2. Formulera ett koncist och akademiskt svar som direkt adresserar frågan
+3. Inkludera relevant etisk analys där det är tillämpligt
+4. Hålla dig inom angivna teckengränser
+5. Formatera svaret med XML-taggar som innehåller frågans ID
+
+Viktiga riktlinjer för svaren:
+- Använd ett formellt och akademiskt språk
+- Var konkret och specifik
+- Undvik upprepningar och överflödig information
+- Fokusera på väsentlig information
+- Se till att alla påståenden stöds av materialet
+- Inkludera etiska överväganden där det är relevant
+
+För fråga 6.1 ska svaret:
+- Beskriva datainsamlingsmetoderna i detalj
+- Specificera vilken typ av data som samlas in
+- Förklara hur insamlingen går till praktiskt
+
+För fråga 6.2 ska svaret:
+- Redogöra för statistiska beräkningar eller andra överväganden
+- Motivera urvalets storlek
+- Visa hur materialet räcker för att besvara forskningsfrågorna
+
+För fråga 6.3 ska svaret:
+- Beskriva dokumentationsmetoder
+- Motivera eventuell användning av inspelningar
+- Specificera vilka personuppgifter som samlas in
+
+För fråga 6.4 ska svaret:
+- Beskriva datahantering och förvaring
+- Förklara eventuell pseudonymisering
+- Ange förvaringstid och gallringsrutiner
+
+Formatera varje svar inom relevanta XML-taggar, till exempel:
+<6.1>Ditt svar här...</6.1>
+
+Svaren ska vara välstrukturerade, tydliga och direkt kopplade till forskningsmaterialet. Undvik spekulationer och håll dig till fakta som presenteras i materialet.
+Besvara följande frågor:
+FrågeID: <6.1>:
+Fråga: 6.1 Redogör för datainsamling och datas karaktär.
+Hjälptext: Redogör för hur datainsamlingen ska gå till. Beskriv den data som ska samlas in och hur den ska samlas in.
+Teckengräns: 4500
+
+FrågeID: <6.2>:
+Fråga: 6.2 Redogör för de beräkningar och/eller överväganden som motiverar undersökningsmaterialets storlek.
+Hjälptext: Redogör för de beräkningar och/eller överväganden av hur stora mängder data som behövs för att dra slutsatser eller få ett resultat med tillräcklig statistisk styrka. Redogörelsen av hur man kommit fram till lämplig storlek ska beskriva projektets möjligheter att besvara frågeställningarna.
+Teckengräns: 2000
+
+FrågeID: <6.3>:
+Fråga: 6.3 Hur kommer undersökningsprocedurerna att dokumenteras?
+Hjälptext: Redogör för hur undersökningar, eventuella ingrepp, intervjuer, observationer och datainsamling kommer att dokumenteras. Ange om band- och videoinspelningar kommer användas, motivera varför det behövs och vilka personuppgifter som kan komma att samlas in på det sättet.
+Teckengräns: 2000
+
+FrågeID: <6.4>:
+Fråga: 6.4 Hur kommer insamlade data att hanteras och förvaras?
+Hjälptext: Redogör för hur data kommer att hanteras efter insamlingen. Om data kommer att pseudonymiseras (”kodas”) ska kodningsförfarandet beskrivas. Det ska framgå var kodlistorna/kodnycklarna kommer att förvaras samt vem/vilka som kommer ha tillgång till dem. Det ska även framgå hur länge data kommer att sparas samt om det kommer att avidentifieras (genom att kodnyckel förstörs) eller förstöras i sin helhet. Forskningsdata ska arkiveras och gallras enligt forskningshuvudmannens regler för bevarande och gallring av handlingar i sin forskningsverksamhet.
+Teckengräns: 2000
+

@@ -1,0 +1,551 @@
+## Guide till ansökan om etikprövning
+
+Compliance & Data Office Research Support Office
+
+Dnr 1-85/2023
+
+<!-- image -->
+
+<!-- image -->
+
+## Innehåll
+
+| Introduktion............................................................................................................3   |     |
+|-----------------------------------------------------------------------------------------------------------------------------|-----|
+| Generell information om etikansökan och etikprövning ...........................................3                           |     |
+| Avgift för etikansökan.................................................................................................. 4  |     |
+| Om du är osäker på om ditt forskningsprojekt kräver etikprövning ........................... 4                              |     |
+| Begrepp och exempel på olika typer av forskning .....................................................4                      |     |
+| Pseudonymiserade personuppgifter vs. anonymiserade personuppgifter ................. 4                                      |     |
+| Använda befintliga uppgifter eller biologiskt material som tidigare samlats in.......... 5                                  |     |
+| Användning av stamceller............................................................................................ 6      |     |
+| Använda prov från en biobank .................................................................................... 6         |     |
+| Ta emot uppgifter/biologiskt material från ett annat land ......................................... 7                       |     |
+| Läkemedelsprövningar................................................................................................. 7     |     |
+| Etiska principer för humanforskning utanför Sverige.................................................. 8                     |     |
+| Etiska riktlinjer för internationella samarbeten........................................................... 8               |     |
+| Skapa en grundansökan...........................................................................................8           |     |
+| 1. Huvudsakliga uppgifter ........................................................................................9         |     |
+| 1.2 Ansvarig huvudman för forskningen (forskningshuvudman) ................................ 9                               |     |
+| 1.3 Behörig företrädare för forskningshuvudman..................................................... 11                      |     |
+| 1.4 Har projektet fler forskningshuvudmän?............................................................. 11                  |     |
+| 1.4.1 Övriga forskningshuvudmän som deltar i projektet ..................................... 11                             |     |
+| 2. Typ av forskning  -  initiala frågor ........................................................................11          |     |
+| 2.5 Kommer biologiskt material från människor att nyinsamlas för projektet? ....... 11                                      |     |
+| 2.6 Planerar projektet att använda biologiskt material från människor från en eller                                         |     |
+| flera befintliga provsamlingar?.................................................................................. 12        |     |
+| 4. Metod ...............................................................................................................12  |     |
+| 4.1 Redogör för metod inkl. proceduren, tekniken eller behandlingen .................... 12                                 |     |
+| 5. Tidsplan.............................................................................................................13  |     |
+| 5.2 Förväntat slutdatum för projektet....................................................................... 13             |     |
+| 5.3 Tidsplan för de olika delar som ingår i projektet: ................................................ 14                  |     |
+| 6. Datainsamling....................................................................................................14      |     |
+| 6.1 Redogör för datainsamling och datas karaktär.................................................... 14                     |     |
+| 6.4 Hur kommer insamlad data att hanteras och förvaras?...................................... 14                            |     |
+| 7. Etiska överväganden..........................................................................................16          |     |
+| 7.1 Vilka risker kan ett deltagande medföra för de forskningspersoner som ingår i                                           |     |
+| forskningsprojektet?.................................................................................................. 16   |     |
+| 7.2  - 7.4 Nytta och risk med forskningsprojektet...................................................... 16                  |     |
+| 8. Forskningspersoner ...........................................................................................16         |     |
+| 8.1  - 8.5  Urval,  antal,  urvalskriterier  och  relationen  mellan  forskare                                              | och |
+| forskningspersonerna ................................................................................................ 16    |     |
+
+| 8.6  Vilket  försäkringsskydd  finns  för  de  forskningspersoner  som  deltar  i  forskningsprojektet?.................................................................................................. 17     |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 9. Information och samtycke..................................................................................17                                                                                                  |
+| 9.1 Kommer forskningspersonerna att informeras om forskningsprojektet och                                                                                                                                        |
+| tillfrågas om de vill vara med eller inte?.................................................................... 17                                                                                                |
+| 9.3 Kommer forskningspersoner, vars mening på grund av sjukdom, psykisk störning,                                                                                                                                |
+| försvagat hälsotillstånd eller något annat liknande förhållande inte kan inhämtas, att                                                                                                                           |
+| ingå i forskningsprojektet? ........................................................................................ 18                                                                                          |
+| 9.3.1 [Om Ja 9.3] Motivera varför denna grupp av forskningspersoner ska ingå i                                                                                                                                   |
+| projektet. ............................................................................................................... 18                                                                                    |
+| 9.3.2 [Om Ja 9.3] Beskriv hur samråd med närmaste anhörig, god man eller                                                                                                                                         |
+| förvaltare kommer att ske..................................................................................... 19                                                                                                |
+| 12. Redovisning av resultat ....................................................................................19                                                                                               |
+| 12.1 Hur garanteras tillgång till data för forskningshuvudmannen och medverkande                                                                                                                                 |
+| forskare? .................................................................................................................... 19                                                                                |
+| 12.2 Vem eller vilka ansvarar för databearbetning och skriftlig redovisning av                                                                                                                                   |
+| resultaten?................................................................................................................. 19                                                                                  |
+| 12.3 Hur och när planeras resultaten att offentliggöras? ......................................... 20                                                                                                            |
+| 12.4 På vilket sätt garanteras forskningspersonernas rätt till integritet när materialet                                                                                                                         |
+| offentliggörs?............................................................................................................. 20                                                                                   |
+| 14. Beskrivning av biologiskt material ....................................................................20                                                                                                    |
+| 14.1 Kommer biologiskt material från människor att nyinsamlas för projektet? ..... 20                                                                                                                            |
+| 14.1.4 [Om ja 14.1] Hur länge ska det biologiska materialet vara tillgängligt för                                                                                                                                |
+| projektet? .............................................................................................................. 20                                                                                     |
+| 14.1.7 [Om ja 14.1] Hur länge ska det biologiska materialet vara tillgängligt efter                                                                                                                              |
+| att projektet är avslutat?....................................................................................... 20                                                                                             |
+| 14.2 Planerar projektet att använda biologiskt material från människor från en eller                                                                                                                             |
+| flera befintliga provsamlingar?.................................................................................. 20                                                                                             |
+| 14.2.2 [Om ja 14.2] Hur mycket biologiskt material är planerat att användas?... 20                                                                                                                               |
+| 14.2.7 [Om ja 14.2] Vilka analyser kommer att utföras på det biologiska  materialet? ............................................................................................................ 21             |
+| 14.2.10                                                                                                                                                                                                          |
+| [Om ja 14.2] Hur länge ska det biologiska materialet vara tillgängligt för                                                                                                                                       |
+| projektet? .............................................................................................................. 21 14.2.12 [Om ja 14.2] Hur länge ska det biologiska materialet vara tillgänglig efter |
+| att projektet är avslutat?....................................................................................... 21                                                                                             |
+| Bilagor ..................................................................................................................21                                                                                     |
+| Annonsmaterial.......................................................................................................... 21                                                                                      |
+| Information till forskningspersoner och samtyckesformulär .................................... 21                                                                                                                |
+| Signaturer .............................................................................................................22                                                                                       |
+
+## Introduktion
+
+Denna guide har som syfte att vara ett extra stöd när du fyller i ansökan om etikprövning. Tanken är att du ska ha guiden framme samtidigt som etikansökan fylls i. Guiden har ett KI-perspektiv och är tänkt att komplettera den information som redan finns i Etikprövningsmyndighetens ansökningsportal Ethix genom att förtydliga vissa avsnitt och ge förslag på hur du kan tänka kring vissa delar. Guiden går också igenom vanliga begrepp, exempel på olika typer av forskning samt generell information kring etikprövning och etikansökan.
+
+Alla delfrågor i etikansökan kommer inte att tas upp i denna guide utan bara de delar där det ofta behövs extra vägledning och förtydliganden. Var medveten om att beroende på vad din forskning inrymmer kommer du att få upp olika följdfrågor i Ethix. Du kommer därför kanske inte alltid se alla exempel som tas upp i denna guide i din ansökan.
+
+Vid frågor eller synpunkter, skicka e-post till: compliance@ki.se.
+
+## Generell information om etikansökan och etikprövning
+
+Ansökan om etikprövning, med tillhörande godkännande av Etikprövningsmyndigheten, krävs för att du ska få bedriva forskning på levande eller avlidna människor, på biologiskt material från människor eller forskning som involverar hantering av känsliga personuppgifter. Det är etikprövningslagen " Lag (2003:460) om etikprövning av forskning som avser människor " som reglerar vilken typ av forskning som kräver etikprövning. På Etikprövningsmyndighetens hemsida står det:
+
+"Lagen tillämpas på forskning som:
+
+- · Innefattar behandling av känsliga personuppgifter eller personuppgifter om lagöverträdelser. Personuppgifter är information som direkt eller indirekt kan hänföras till en fysisk person som är i livet.
+- · Involverar ett fysiskt ingrepp på forskningspersonen eller använder en metod som syftar till att påverka forskningspersonen fysiskt eller psykiskt.
+- · Utförs på biologiskt material som har tagits från en fysisk person och kan härledas till denna person."
+
+Ett etiskt godkännande måste finnas på plats innan rekrytering av deltagare, eller någon annan del av forskningen, får påbörjas. Att ansöka om etikgodkännande i efterhand är inte möjligt.
+
+På Etikprövningsmyndighetens hemsida finns svar på vanligt förekommande frågor om etikprövning , och en " Frågor och svar " -sida finns även att hitta när man är inloggad i Ethix.
+
+## Avgift för etikansökan
+
+Avgiften för etikansökan ska betalas innan handläggningen kan påbörjas. När ansvarig forskare samt behörig företrädare för forskningshuvudmannen har signerat ansökan inne i Ethix skickas ansökan automatiskt in till Etikprövningsmyndigheten, och först då får du information om hur betalningen ska göras. Avgiften för en ny ansökan är antingen 5 000 kronor eller 16 000 kronor. För en ändringsansökan är avgiften 2 000 kronor.
+
+## Avgiften är 5 000 kr vid:
+
+- · Forskning där endast en forskningshuvudman deltar.
+- · Forskning där mer än en forskningshuvudman deltar, men forskningspersonerna har ett omedelbart samband med endast en av forskningshuvudmännen.
+- · Forskning som endast avser behandling av befintliga personuppgifter (oavsett om forskningsprojektet kommer genomföras av en eller flera forskningshuvudmän).
+
+## Avgiften är 16 000 kr vid:
+
+- · Forskning som gäller klinisk läkemedelsprövning.
+- · Forskning där mer än en forskningshuvudman deltar. Detta gäller även forskningsprojekt där bearbetning/analys av data sker hos en forskningshuvudman men där forskningspersoner inkluderas i flera olika huvudmäns verksamheter.
+
+## Om du är osäker på om ditt forskningsprojekt kräver etikprövning
+
+Är du osäker på om din forskning kräver ett etikgodkännande eller inte, är det alltid bättre att skicka in en etikansökan och få svaret att etikprövning ej är nödvändigt, än att inse för sent att ett etikgodkännande hade behövts. Att bedriva forskning utan etikgodkännande, som skulle ha etikprövats, är straffbart och konsekvenserna för att bedriva sådan forskning kan bli stora (allt från att resultaten inte kan publiceras och att doktorander stoppas från att disputera, till i värsta fall fängelsestraff). Att ansöka om etikgodkännande i efterhand är inte möjligt.
+
+## Begrepp och exempel på olika typer av forskning
+
+## Pseudonymiserade personuppgifter vs. anonymiserade personuppgifter
+
+Vid forskning används ofta begreppen pseudonymiserade personuppgifter och/eller anonymiserade personuppgifter . Det är mycket viktigt att man som forskare vet skillnaden mellan dessa begrepp då de i vissa fall kan göra skillnad på om etikprövning krävs eller inte.
+
+Pseudonymiserade personuppgifter , ibland kallat "kodad e personuppgifter ", innebär att direkta identifierare såsom t.ex. personnummer och namn avseende en forskningsperson har tagits bort och ersatts med en kod, där koden sedan kan kopplas ihop med namnet/personnumret via en kodnyckel. Därmed finns det en möjlighet att forskningspersonens direkta identitet går att spåra. Det spelar ingen roll var någonstans kodnyckeln finns, eller hur få personer som har tillgång till kodnyckeln. Personuppgiften anses spårbar även om kodnyckeln finns i ett annat land eller endast en person har tillgång till den och även om du som forskare inte har, eller ens har laglig rätt att få, tillgång till den. Finns det en kodnyckel sparad någonstans, är personuppgiften pseudonymiserad (spårbar) och etikprövning krävs.
+
+Anonymiserade personuppgifter innebär att personnummer och namn eller annan identifierare har tagits bort helt (ej ersatts med en kod) och en eventuell kodnyckel har förstörts. Då är det inte längre möjligt att spåra uppgifterna till en enskild forskningspersons identitet. Viss forskning som utförs på anonymiserade uppgifter behöver inte etikprövas, till exempel forskning på anonymiserat (och kommersiellt) biologiskt material (som blod eller stamceller) eller anonymiserade genomiska uppgifter. Var dock noggrann med att uppgifterna du använder verkligen är anonymiserade och inte bara är pseudonymiserade.
+
+Bakvägsidentifiering kan föreligga när man har en anonymiserad samling av uppgifter/prover där man genom att lägga ihop olika variabler (till exempel ålder, sjukdom, yrke, kommun etc.) så att en enskild person kan identifieras. Detta kan gälla om man till exempel tar emot ett dataset som har blivit anonymiserat (kodningen har tagits bort) men samma dataset, fast med kodning med tillhörande kodnyckel, existerar någon annanstans. För att minska risken för bakvägsidentifikation kan man koda om variabler så att till exempel ålder och inkomst anges i ett större intervall och en geografisk plats anges i större områden. Vilka variabler (indirekta identifierare) som behöver kodas om beror på vilken typ av uppgifter/prover som samlas in i ett forskningsprojekt.
+
+## Använda befintliga uppgifter eller biologiskt material som tidigare samlats in
+
+Om du i ditt projekt ska bearbeta/analysera uppgifter eller biologiskt material som redan samlats in, så krävs etikprövning om uppgifterna eller det biologiska materialet går att spåra tillbaka till forskningspersonen/donatorn. Är uppgifterna/det biologiska materialet spårbart och pseudonymiserat krävs etikprövning. Är uppgifterna/det biologiska materialet anonymiserat, krävs ingen etikprövning. Se avsnittet Pseudonymiserade personuppgifter vs. anonymiserade personuppgifter.
+
+Tänk dock på att även om det inte krävs etikprövning, så kan det krävas olika typer av avtal, till exempel om man ska använda prov från en biobank kan det krävas
+
+Material Transfer Agreement (MTA) eller Data Transfer Agreement (DTA). Här kan du läsa mer om avtal vid KI Biobank.
+
+## Användning av stamceller
+
+Om du ska forska på stamceller krävs etikprövning ifall du själv ska ta fram stamcellerna eller om de är pseudonymiserade. Om du däremot använder anonymiserade kommersiella stamceller som redan är framtagna, krävs inte etikprövning. Se avsnittet Pseudonymiserade personuppgifter vs. anonymiserade personuppgifter för mer detaljerad info.
+
+Viktigt att nämna är dock att även om du använder anonymiserade kommersiella stamceller så får du inte göra vad som helst med dessa. Du får forska och göra experiment på kommersiella anonymiserade stamceller utan etikprövning men du får till exempel inte sätta tillbaka stamcellerna i en människa igen eller på artificiell väg skapa ett foster.
+
+## Använda prov från en biobank
+
+Ska du använda prov från en biobank krävs att du har fått ett etikgodkännande innan du skickar in en biobanksansökan (om du gör en klinisk läkemedelsprövning där det ingår prov från biobank gäller andra rutiner, se avsnittet Läkemedelsprövningar). Det är också viktigt att du inkluderar all nödvändig information i etikansökan som krävs för att du sedan ska kunna teckna ett biobanksavtal och få tillgång till prov som omfattas av biobankslagen. Det som behöver finnas med i etikansökan är:
+
+- · Forskningshuvudman ska vara samma i etikansökan som i biobanksansökan.
+- · Forskningshuvudmän för studiens deltagande platser/sites ska anges.
+- · Alla medverkande forskare, med organisationstillhörighet, ska anges (om flera forskningshuvudmän).
+- · Vilka provtyper som ska tas.
+- · Vilka provmängder och hur ofta prov ska tas.
+- · Total mängd prov som tas.
+- · Vilka analyser som planeras.
+- · Till vilket/vilka länder prov ska skickas till för analys (detta gäller även för delande av personuppgifter).
+- · Vad som händer med prov efter avslutad studie (gäller även för delande av personuppgifter).
+- · Om prov ska sparas för framtida forskning.
+- · Hur prov kodas och hur och var kodnyckeln förvaras samt vem som har tillgång till den.
+- · Hur personuppgifter ska hanteras och förvaras.
+- · Start- och sluttid för studien.
+- · Om provsamlingen ska utlämnas till en annan huvudmans biobank.
+- · Ansvarig biobank (namn och registreringsnummer hos IVO).
+- · Om undantagsregeln ska åberopas.
+
+Punkterna i listan ovan finns beskrivet i varje avsnitt i denna guide där det är aktuellt. Se också mer information på Biobank Sveriges hemsida under sektionerna " Checklista inför biobanksansökan " samt " Checklista inför etikansökan ".
+
+## Ta emot uppgifter/biologiskt material från ett annat land
+
+Om insamling av uppgifter/biologiskt material sker i ett annat land än Sverige, ska inte själva insamlingen etikprövas i Sverige. Däremot ska Etikprövningsmyndigheten pröva den del av forskningen som ska utföras i Sverige, till exempel analyser som genomförs på de uppgifter som du tagit emot från den utländska insamlingen. Etikprövning krävs då oavsett om du tar emot biologiskt material som skickas till Sverige från utlandet, eller om du endast tar emot personuppgifter. Se mer information under avsnittet Använda befintliga uppgifter eller biologiskt material som tidigare samlats in.
+
+## Läkemedelsprövningar
+
+Den 31 januari 2022 blev EU-förordningen för kliniska läkemedelsprövningar, EU Clinical Trials Regulations 536/2014 (CTR) tillämplig och ersatte det tidigare EUdirektiv 2001/20/EG. Förfarandet att ansöka om etikprövning skiljer sig åt beroende på om man följer de gamla eller de nya bestämmelserna. Fram till 31 januari 2025 är det en övergångsperiod för att smidigt kunna byta från de gamla bestämmelserna till de nya.
+
+## EU direktiv (gamla bestämmelserna)
+
+En etikansökan ska skickas in till Etikprövningsmyndigheten via Ethix och en ansökan om klinisk läkemedelsprövning ska skickas in till Läkemedelsverket. Om det är aktuellt, behöver du också skicka in en ansökan till Regionalt Biobankscentrum. Notera att ansökan enligt detta direktiv inte kommer vara möjligt efter den 30 januari 2023.
+
+## EU Clinical Trials Regulations (nya bestämmelserna)
+
+Ansvarig huvudman ska skicka in en ansökan om klinisk läkemedelsprövning via webbportalen CTIS (Clinical Trials Information System), där etikprövning ingår. CTIS är en ny EU-gemensam webbportal och databas för kliniska läkemedelsprövningar inom EU. En läkemedelsprövning som följer den nya EU-förordningen CTR ska alltså inte skicka in etikansökan via Ethix . När en ansökan om klinisk läkemedelsprövning skickas in till CTIS får både Etikprövningsmyndigheten och Läkemedelsverket tillgång till ansökan, som hanteras gemensamt i CTIS. Viktigt att notera är att i CTIS går det inte att ange övriga/medverkande forskningshuvudmän. Därför är det ännu viktigare att alla ingående huvudmäns roller, uppgifter, ansvar etc. tydligt beskrivs i CTIS-ansökan.
+
+Om det är aktuellt ska en biobanksansökan skickas in separat till Regionalt biobankscentrum samma dag som CTIS-ansökan skickas in i CTIS. Biobanksansökan kommer dock inte att granskas förrän den kliniska
+
+läkemedelsprövningen godkänts. På Biobank Sveriges hemsida finns mer information om kliniska läkemedelsprövningar på biobanksprov.
+
+## Övergångsperiod
+
+- · Mellan 31 januari 2022 -30 januari 2023 kan du välja om din kliniska läkemedelsprövning ska följa de gamla bestämmelserna (EU-direktiv) eller den nya CTR. Vet du om att din läkemedelsprövning kommer pågå efter 31 januari 2025, rekommenderas att följa de nya bestämmelserna och skicka in ansökan om klinisk prövning via CTIS.
+- · Från och med 31 januari 2023 måste alla nya läkemedelsprövningar följa den nya förordningen CTR och skicka in ansökan om klinisk prövning (som innehåller etikansökan) via CTIS.
+- · Fram till 31 januari 2025 kan läkemedelsprövningar som redan har skickats in i enlighet med det gamla EU-direktivet fortsätta att genomföras enligt de gamla bestämmelserna.
+- · Från och med 31 januari 2025 måste alla kliniska läkemedelsprövningar som fortfarande är pågående ha flyttats över till CTIS och börja följa den nya förordningen CTR.
+
+På Medarbetarportalen kan du läsa mer om när KI är huvudman och ska ansöka om klinisk läkemedelsprövning i CTIS enligt nya förordningen CTR.
+
+## Etiska principer för humanforskning utanför Sverige
+
+KI har etiska principer för humanforskning utanför Sverige. Syftet med riktlinjerna är att säkerställa att den forskning som utförs utomlands ska motsvara samma etiska standard som den forskning som bedrivs inom Sverige. Om man är tveksam till om en forskningsverksamhet utanför Sverige kan befaras bryta mot dessa riktlinjer, kan man tillfråga KI:s resursgrupp för etik.
+
+## Etiska riktlinjer för internationella samarbeten
+
+KI har etiska riktlinjer för internationella samarbeten som ska följas när KI är med i forskningsprojekt som utförs i andra länder än Sverige. Riktlinjerna för internationella samarbeten stöds av ett antal interna och externa policydokument, regler, riktlinjer och annan information som berör etiska frågor. De inkluderar diskriminering, trakasserier och kränkande särbehandling, etisk prövning och dokumentation, korruption samt riskbedömning. Grundprincipen är att man inte ska förlägga forskning i ett land som har lägre forskningsetisk nivå än Sverige bara för att kunna utföra fler/andra ingrepp, utan forskningen ska förläggas i det land där forskningsfrågan bäst kan besvaras samt att forskningsprojektet även skulle kunna bli godkänt i Sverige.
+
+## Skapa en grundansökan
+
+Ansökan om etikprövning görs via portalen Ethix, och det är även där som du tar emot beslutet. Du loggar in på Ethix med ditt Bank-id eller tvåstegsautentisering. Att skapa en ansökan gör du genom att logga in, välja "Ansökningar" i menyn högst upp och sedan välja att skapa en "grundansökan".
+
+Obs! Ska du utföra en klinisk läkemedelsprövning ska du inte använda Ethix. Läs mer under avsnittet Läkemedelsprövningar.
+
+Ansökan måste skrivas och skickas in på svenska. Det finns mallar på engelska att ta till hjälp om det behövs, men observera att ansökan ändå måste skickas in i den svenska versionen. De engelska mallarna kan nås på Etikprövningsmyndighetens hemsida genom att scrolla ner till sektionen " Information in English ".
+
+## 1. Huvudsakliga uppgifter
+
+## 1.2 Ansvarig huvudman för forskningen (forskningshuvudman)
+
+Vid val av ansvarig forskningshuvudman för etikansökan behöver man ta hänsyn till flera aspekter. Om flera institutioner/sjukhus/lärosäten är involverade i studien kan det ibland vara oklart vem som ska anges som ansvarig huvudman och vem/vilka som medverkande huvudman/huvudmän. Med "ansvarig huvudman" menas här den som har det samordnade ansvaret att skicka in etikansökan för alla medverkande forskningshuvudmäns räkning och att vara koordinator som meddelar de andra medverkande huvudmännen om etikprövningens beslut. De övriga forskningshuvudmännen ska anges under 1.4.1 Övriga forskningshuvudmän som deltar i projektet.
+
+Det är upp till forskarna hur många forskningshuvudmän ett forskningsprojekt ska ha. Men, om det utförs någon del av forskning på en institution/sjukhus/lärosäte som är relaterat till projektet, så kan den verksamheten ses som en huvudman. Varje huvudman är ansvarig för den del av forskningen som utförs inom dennes egna verksamhet.
+
+Ett exempel på när endast KI bör vara ensam forskningshuvudman är om personuppgifter lämnas ut från ett sjukhus till KI från en patientjournal rörande en forskningsperson med syfte att användas inom en forskningsstudie vid KI. I detta fall ska inte sjukhuset anges som en forskningshuvudman och räknas inte heller som medverkande i forskningen.
+
+Ett exempel på när både KI och ett sjukhus kan vara forskningshuvudmän i samma projekt är om sjukhuset utför en behandling/intervention på patienter/forskningspersoner och i samband med det samlar in personuppgifter på forskningspersonerna. Personuppgifterna lämnas ut till KI för lagring, analys och skrivande av resultat. Vem som bör vara ansvarig respektive medverkande huvudmän beror på studiens tillvägagångssätt, läs mer nedan.
+
+Nedan följer några frågor som kan vara bra att ställa när det råder oklarheter vem som ska vara ansvarig forskningshuvudman (ett riktmärke är att den institution/sjukhus/lärosäte som är svar på majoriteten av frågorna också ska vara ansvarig huvudman):
+
+- · Var kommer deltagarna att rekryteras?
+- · Var kommer uppgifterna att samlas in?
+- · Var kommer uppgifterna lagras?
+- · Var kommer uppgifterna analyseras?
+- · Vem kommer hantera studiens finansiering?
+- · Vem kommer hantera kontrakt och avtal?
+- · Vem kommer ansvara för registrering och rapportering av studien till ett kliniskt prövningsregister?
+- · Finns det en utsedd ansvarig för studien?
+
+Ibland bör man gå på studiens tillvägagångssätt för att se vem som ska vara ansvarig huvudman. Är det till exempel en studie som innebär ett invasivt ingrepp 1 på patienter, kan det vara bra att det sjukhus som utför ingreppen är ansvarig huvudman på etikansökan. Ett exempel är om insamlingen av personuppgifter/biologiskt material sker på Karolinska Universitetssjukhuset med ett invasivt ingrepp, men personuppgifterna/biologiska materialet kommer förvaras, bearbetas och analyseras av Karolinska Institutet, så kan både KI och sjukhuset anges som huvudmän, där sjukhuset blir ansvarig och KI övrig (medverkande).
+
+Projekt där KI och vårdgivare i Region Stockholm samarbetar: KI har tillsammans med Region Stockholm tagit fram en gemensam " Vägledning -val av ansvarig forskningshuvudman vid etikansökan rörande forskning där Karolinska institutet och vårdgivare i Region Stockholm samarbetar " . Vägledningen ger rådgivande exempel och förslag på hur man kan resonera när man ska utse ansvarig forskningshuvudman till etikansökan.
+
+Ska du använda prov från en biobank måste du vara noga med att inkludera all nödvändig information i etikansökan som krävs för att du sedan ska kunna teckna ett biobanksavtal och få tillgång till prov som omfattas av biobankslagen. Information som ska finnas med under " 1.2 Ansvarig huvudman för forskningen (forskningshuvudman) " är :
+
+- · Ansvarig forskningshuvudman ska vara samma i etikansökan som i biobanksansökan.
+
+## 1.3 Behörig företrädare för forskningshuvudman
+
+Det är alltid prefekt som ska anges här när KI är ansvarig huvudman och skickar in etikansökan. När annan verksamhet än KI är ansvarig huvudman kan det till exempel vara enhetschef eller verksamhetschef.
+
+## 1.4 Har projektet fler forskningshuvudmän?
+
+Svara ja om studien har flera huvudmän som ansvarar för olika delar i projektet och lägg till dem i listan. För mer info, se avsnitt 1.4.1 nedan.
+
+## 1.4.1 Övriga forskningshuvudmän som deltar i projektet
+
+För information kring hur man kan resonera kring antal forskningshuvudmän och vem som ska anges som ansvarig eller övrig forskningshuvudman, se avsnitt 1.2 Ansvarig huvudman för forskningen (forskningshuvudman).
+
+För projekt som helt eller delvis utförs i ett annat land än Sverige, så ska den utländska parten endast anges som övrig huvudman om denne är en del av/deltar i den del av forskningen som utförs i Sverige (d.v.s. den del som man ansöker om etikprövning för). Exempel: KI samarbetar med ett Universitet X som ligger i ett annat land. Universitet X har ansökt om etikprövning i sitt land och fått godkännande om att samla in biologiskt material från människor i det landet. Personuppgifter tillhörande det biologiska materialet skickas sedan till KI för bearbetning och analys. Personuppgifterna är pseudonymiserade, dvs. en kodnyckel finns förvarad i utlandet hos Universitet X. Det är endast KI som analyserar personuppgifterna. Om det endast är KI som är med och utför analyserna, och det endast är analyserna som utförs i Sverige, behöver Universitet X inte anges som övrig huvudman.
+
+Ska du använda prov från en biobank måste du vara noga med att inkludera all nödvändig information i etikansökan som krävs för att du sedan ska kunna teckna ett biobanksavtal och få tillgång till prov som omfattas av biobankslagen. Information som ska finnas med under " 1.4.1 Övriga forskningshuvudmän som deltar i projektet " är :
+
+- · Forskningshuvudmän för studiens deltagande platser/sites ska anges.
+- · Alla medverkande forskare, med organisationstillhörighet (inte bara forskarens namn och titel), ska anges (om flera forskningshuvudmän).
+
+Se mer information på Biobank Sveriges hemsida under sektionerna " Checklista inför biobanksansökan " samt " Checklista inför etikansökan ".
+
+## 2. Typ av forskning -initiala frågor
+
+## 2.5 Kommer biologiskt material från människor att nyinsamlas för projektet?
+
+Med biologiskt material ingår även mindre beståndsdelar, till exempel blodplasma, antikroppar eller andra beståndsdelar från blod. Etikprövning krävs alltid om du
+
+själv ansvarar för hela insamlingsprocessen, till exempel om du samlar in blodprov i syfte att själv framställa antikroppar.
+
+För projekt som helt eller delvis utförs i ett annat land än Sverige, så kom ihåg att Etikprövningsmyndigheten endast prövar den del av forskningen som ska utföras i Sverige. Om insamlingen av biologiskt material utförs i utlandet och KI:s del i projektet är till exempel endast att bearbeta/analysera uppgifterna eller proverna från utlandet, så räknas detta inte som att biologiskt material har nyinsamlats.
+
+## 2.6 Planerar projektet att använda biologiskt material från människor från en eller flera befintliga provsamlingar?
+
+Enligt etikprövningslagen 4 § 3 och 4 § 5 krävs etikprövning om forskningen avser studier på biologiskt material som har tagits från en levande eller avliden människa och kan härledas tillbaka till denna människa. Det vill säga, det biologiska materialet är spårbart. Använder man en redan befintlig provsamling måste man ta reda på om det biologiska materialet man tar emot är pseudonymiserat (kodat) eller anonymiserat (avidentifierat). Se avsnitt Pseudonymiserade personuppgifter vs. anonymiserade personuppgifter.
+
+Ska du använda prov från en biobank, se avsnittet Använda prov från en biobank.
+
+Ska du använda anonymiserade kommersiella stamceller, se avsnittet Användning av stamceller.
+
+## 4. Metod
+
+## 4.1 Redogör för metod inkl. proceduren, tekniken eller behandlingen
+
+Här ska du beskriva allt som ingår i projektet som har med metoden att göra.
+
+Om projektet har flera huvudmän , var noga med att beskriva vilken huvudman som ansvarar för vad och utför vilken del av projektet samt var de delarna kommer utföras.
+
+Om det är en klinisk studie eller en klinisk prövning, skriv ut vilken huvudman (om flera ) som ansvarar för att registrera studien samt rapportera resultat efter studieavslut i ett internationellt kliniskt prövningsregister, som till exempel ClinicalTrials.gov vid klinisk studie eller CTIS vid klinisk läkemedelsprövning. (För mer info om nya bestämmelser kring läkemedelsprövningar, se avsnittet Läkemedelsprövningar).
+
+För projekt som helt eller delvis utförs i ett annat land än Sverige, så kom ihåg att Etikprövningsmyndigheten endast prövar den del av forskningen som utförs i Sverige. Det är de delarna du ska fokusera på att beskriva utförligt i metoden. Om
+
+din insamling av personuppgifter/biologiskt material har samlats in i ett annat land (där etikgodkännande har erhållits i det landet) och ska skickas till Sverige och KI för bearbetning och analys, så kan du skriva att din insamling av personuppgifter/biologiskt material redan har samlats in i utlandet där etikgodkännande finns (vilket ska finnas! Det behöver dock inte bifogas till din etikansökan). Det viktiga är att vara tydlig med vilka delar som utförs var och av vem.
+
+Ska du använda prov från en biobank måste du vara noga med att inkludera all nödvändig information i etikansökan som krävs för att du sedan ska kunna teckna ett biobanksavtal och få tillgång till prov som omfattas av biobankslagen. Information som ska finnas med under " Metod 4.1 " är:
+
+- · Vilka provtyper som ska tas.
+- · Vilka provmängder och hur ofta prov ska ta (räcker med en kortfattad beskrivning).
+- · Total mängd prov som tas (räcker med en kortfattad beskrivning).
+- · Vilka analyser som planeras (räcker med en kortfattad beskrivning).
+- · Till vilket/vilka länder prov ska skickas till för analys (detta gäller även för delande av personuppgifter).
+- · Om provsamlingen ska utlämnas till en annan huvudmans biobank.
+- · Ansvarig biobank (namn och registreringsnummer hos IVO).
+
+Obs! Antalet prover, antalet bitar och/eller volym som ska samlas samt vilka analyser som ska utföras kommer att behöva beskrivas mer i detalj senare i ansökan under avsnitt 14. Beskrivning av biologiskt material.
+
+Se mer information på Biobank Sveriges hemsida under sektionerna " Checklista inför biobanksansökan " samt " Checklista inför etikansökan ".
+
+## 5. Tidsplan
+
+## 5.2 Förväntat slutdatum för projektet
+
+Slutdatum är det datum då du estimerar att din insamling av personuppgifter/biologiskt material och/eller intervention och/eller analys av registerdata/biologiskt material samt sammanställning av resultat förväntas vara klart. Undvik att specificera datum för när personuppgifterna/biologiska materialet ska förstöras, då det inte med säkerhet kan utlovas. (Arkivering/långtidsförvaring räknas inte in under denna punkt. KI lyder under arkivlagen och ska studien bevaras ska även tillhörande data bevaras.)
+
+För projekt som helt eller delvis utförs i ett annat land än Sverige , är slutdatumet det datum som gäller för den del av forskningen som utförs i Sverige, det vill säga den del av forskningen som prövas av Etikprövningsmyndigheten.
+
+Ska du använda prov från en biobank måste du vara noga med att inkludera all nödvändig information i etikansökan som krävs för att du sedan ska kunna teckna
+
+ett biobanksavtal och få tillgång till prov som omfattas av biobankslagen. Information som ska finnas med under " Tidsplan 5.1 och 5.2 " är :
+
+- · Start- och sluttid för studien.
+
+Se mer information på Biobank Sveriges hemsida under sektionerna " Checklista inför biobanksansökan " samt " Checklista inför etikansökan ".
+
+## 5.3 Tidsplan för de olika delar som ingår i projektet:
+
+Här specificerar du tidsplanen för när alla delar i din forskning estimeras att ske, som rekrytering av forskningspersoner, insamling av personuppgifter/biologiskt material, interventioner, bearbetning och analys av personuppgifter/registerdata/biologiskt material, sammanställning av resultat, publicering i tidskrift och om aktuellt, resultatrapportering i ett kliniskt prövningsregister. Hanteringen och långtidsförvaringen av personuppgifterna/biologiska materialet räknas inte in här.
+
+## 6. Datainsamling
+
+## 6.1 Redogör för datainsamling och datas karaktär
+
+Här redogör du för hur insamlingen av personuppgifter/biologiskt material ska gå till. Om flera huvudmän ingår, ange vilken huvudman som ansvarar för vilken del. Exempel på olika insamlingar:
+
+- · Enkätdata kommer samlas in via pappersenkäter/datahanteringsverktyg/eCRFs (t.ex. KI REDCap).
+- · Blodprov/andra typer av biologiskt material från patienter samlas in på sjukhus XX. Patientdata/klinisk data från journal. Ljudinspelningar/videofilmer spelas in med format XX etc.
+- · Personuppgiftsinsamlingen/proverna/intervjuerna kommer samlas in/utföras av sjuksköterska/ läkare/forskningsassistent etc.
+- · Registerdata hämtas från SCB enligt registerhållarens rutiner för registerutdrag.
+
+För projekt där insamlingen av personuppgifter/biologiskt material helt eller delvis utförs i ett annat land än Sverige, kan du skriva att insamlingen redan är gjord/ska göras i utlandet. Men om du har information om hur insamlingen gått/kommer gå till, så kan du kortfattat beskriva det.
+
+## 6.4 Hur kommer insamlad data att hanteras och förvaras?
+
+Generella råd: Beskriv var eventuella enkätdata/prover/ljudfiler etc. kommer att lagras. Personuppgifter ska lagras i av KI godkända system som är säkerhetsklassade för lagring av känsliga personuppgifter. (Här kan du läsa mer om att lagra och dela filer på KI och här kan du läsa mer om hur du kan planera din datahantering. Tänk på att hela forskningsprocessen ska dokumenteras i den elektroniska loggboken ELN.)
+
+Tänk på att vara lagom specifik med detaljer. Du behöver inte ange exakt hur länge prover/data ska sparas, utan det räcker att hänvisa till " i enlighet med gällande lagstiftning och KI:s interna regler " .
+
+Om de personuppgifter/biologiskt material du har samlat in ska överföras till andra länder, tänk på att inte begränsa dig i onödan till vilka länder uppgifterna/proverna ska överföras, utan var lagom specifik med detaljer. Till exempel räcker det med att skriva något i stil med " Pseudonymiserade personuppgifter kan komma att delas med mottagare inom och utom EU/EESområdet och kommer då ske enligt vid var tid gällande lagstiftning ". Med denna formulering kan man även säkerställa att Etikprövningsmyndigheten kan tillåta framtida delning av personuppgifter/biologiskt material med samarbetspartners även om detta inte ingick i planen vid studiens start. Tänk dock på att informationen om samtycke till forskningspersonerna ska stämma överens med den information som finns i etikansökan. Samt, viktigt, att alla nödvändiga avtal vid en utlämning av personuppgifter/biologiskt material finns på plats när det är dags. Du behöver inte specificera exakt vilka avtal som ska skrivas, utan det räcker med en mer generell formulerin g som " Relevanta avtal upprättas enligt gällande lagstiftning ".
+
+Vid överföring av personuppgifter utanför EU/EES-området gäller strikta särskilda regler. Här kan du läsa mer vad som gäller vid överföring av personuppgifter till tredje land. Det kan också vara bra att kontakta dataskyddsombud@ki.se när överföring utanför EU/EES-området ska ske där KI är huvudman.
+
+Ska du använda prov från en biobank måste du vara noga med att inkludera all nödvändig information i etikansökan som krävs för att du sedan ska kunna teckna ett biobanksavtal och få tillgång till prov som omfattas av biobankslagen. Information som ska finnas med under " Datainsamling 6.4 " är :
+
+- · Vad som händer med prov efter avslutad studie (gäller även för delande av personuppgifter).
+- · Om prov ska sparas för framtida forskning.
+- · Hur prov kodas och hur och var kodnyckeln förvaras samt vem som har tillgång till den.
+- · Hur personuppgifter ska hanteras och förvaras.
+- · Om undantagsregeln ska åberopas.
+
+Undantagsregeln innebär att biobankslagen inte är tillämplig på prov som är avsedda för forskning och som analyseras inom sex månader efter provtagningstillfället och förstörs omedelbart efter analysen. Båda villkoren (analyseras inom sex månader och förstörs omedelbart efter) måste uppfyllas för att undantagsregeln ska gälla. Läs mer på Biobank Sveriges hemsida under sektionen " undantagsregeln ".
+
+För mer information om de andra punkterna i listan ovan, läs på Biobank Sveriges hemsida under sektionerna " Checklista inför biobanksansökan " samt " Checklista inför etikansökan ".
+
+## 7. Etiska överväganden
+
+## 7.1 Vilka risker kan ett deltagande medföra för de forskningspersoner som ingår i forskningsprojektet?
+
+Var noga med att identifiera alla eventuella risker som kan finnas, även om riskerna känns små/näst intill obefintliga. Skulle det inte innebära någon risk alls, beskriv varför ingen risk finns.
+
+För projekt där personuppgifter/biologiskt material redan är insamlad eller insamlingen helt utförs i ett annat land än Sverige, ska Etikprövningsmyndigheten bedöma de risker som finns med att KI ska ta emot och bearbeta/analysera uppgifterna/materialet. En risk kan till exempel vara att även om personuppgifterna är pseudonymiserade så finns det en risk att forskningspersonernas identitet går att identifiera. Det kan även finnas risker kring IT-säkerhet som hur och var du förvarar personuppgifter (på KI ska personuppgifter alltid förvaras i KI-godkända system, se avsnitt 6.4 Hur kommer insamlad data att hanteras och förvaras?). Nämn dessa risker, och beskriv även hur och var eventuell kodnyckel för pseudonymiserade personuppgifter/prover finns lagrad och också på vilket sätt den platsen är säker.
+
+## 7.2 -7.4 Nytta och risk med forskningsprojektet
+
+Ifall personuppgifter/biologiskt material redan är insamlad eller om insamlingen sker i ett annat land, se fråga 7.1 ovan.
+
+## 8. Forskningspersoner
+
+## 8.1 -8.5 Urval, antal, urvalskriterier och relationen mellan forskare och forskningspersonerna
+
+För projekt där personuppgifterna/biologiska materialet redan är insamlat i Sverige eller insamlingen helt utförs i ett annat land än Sverige, så skriv att du endast tar emot uppgifterna för bearbetning/analys.
+
+Om du ändå vet hur urvalet av forskningspersoner gjordes, hur många som redan har/planeras att rekryteras, inklusions- och exklusionskriterier samt relation mellan forskare och forskningspersoner, beskriv det också.
+
+Om du inte vet kan du hänvisa till att det finns beskrivet i existerande (svenska) etikgodkännandet för det projekt som insamlingen kommer ifrån, eller i det etikgodkännande som utfärdats i det land där insamlingen av personuppgifter/biologiskt material ska utföras (vilket ska finnas!).
+
+## 8.6 Vilket försäkringsskydd finns för de forskningspersoner som deltar i forskningsprojektet?
+
+Det är viktigt att det finns rätt försäkringar för forskningspersonerna på plats innan man startar sin forskning. Det finns olika typer av försäkringar som gäller beroende på studietyp och var forskningen utförs (d.v.s. vilken huvudman som ansvarar för den delen av forskningen). Varje huvudman (om flera) är ansvariga för att rätt försäkringar finns för den del av forskningen som de är ansvariga för. Några exempel på försäkringar som gäller för KI är:
+
+- · Personskadeskydd, täcker forskningspersonens vistelse på KI:s område/lokaler samt direkta resor mellan hemmet och KI.
+- · Patientförsäkringen, omfattar när prover/ingrepp utförs på forskningspersonen. Notera att olika riktlinjer gäller för vem som kan utföra ingreppet beroende på var det utförs och vem som är huvudman.
+- · Läkemedelsförsäkring, gäller vid läkemedelsprövningar.
+
+Här kan du läsa mer om de olika försäkringarna som gäller vid KI, och här kan du läsa mer om patientförsäkring när ditt forskningsprojekt är ett samarbete mellan KI och vårdgivare i Region Stockholm.
+
+För projekt där personuppgifterna/biologiska materialet redan är insamlat i Sverige eller insamlingen helt utförs i ett annat land än Sverige, är detta ej relevant.
+
+## 9. Information och samtycke
+
+- 9.1 Kommer forskningspersonerna att informeras om forskningsprojektet och tillfrågas om de vill vara med eller inte?
+
+Etikprövningsmyndigheten har sammanfattat vad för information forskningspersonerna har rätt att få.
+
+Stödmallar: Stödmallar finns för forskningspersonsinformation, samtyckesblankett till att delta i projektet samt för samtycke till framtida forskning. Den sista kan användas ifall insamlade prover ska sparas och eventuellt användas i framtida forskning som inte är planerad ännu. Dock kan man inte inhämta samtycke för forskning som ännu inte har preciserats eller godkänts, utan det handlar om att man ger information om att insamlade uppgifter kan komma att användas i framtida forskning som då kommer att prövas av Etikprövningsmyndigheten och att forskningspersonen då kan komma att kontaktas igen.
+
+Tänk på att den information forskningspersonerna får ska stämma överens med den information som finns i etikansökan. Till exempel ska det i informationen anges ifall personuppgifter/prover kan komma att delas med mottagare både inom och utanför EU/EES-området samt ifall personuppgifter/prover kommer att sparas för
+
+att möjliggöra framtida forskning (för mer information kring detta, se avsnitt 6.4 Hur kommer insamlad data att hanteras och förvaras?).
+
+Stödmallarna går att hitta i Ethix under "Ansökan" och sedan "Stödmallar". Forskningspersonsinformationen och samtyckesblanketterna ska bifogas till ansökan i avsnittet Information till forskningspersoner och samtyckesformulär, där även mer detaljerad information finns om stödmallarna.
+
+För projekt där personuppgifterna/biologiska materialet redan är insamlat i Sverige eller insamlingen helt utförs i ett annat land än Sverige, skriv att personuppgifterna/proverna redan är insamlad eller ska samlas in i utlandet. Tänk dock på att de uppgifter som redan är insamlade, ska tidigare ha samlats in för att användas till just forskning.
+
+Om du vet hur information till forskningspersonerna och frågan om samtycke gått till, beskriv det kortfattat men gör tydligt att detta redan skett eller ska ske i utlandet.
+
+Om du inte vet kan du hänvisa till att detta finns beskrivet i redan existerande (svenska) etikgodkännandet för det projekt som insamlingen kommer ifrån, eller i det etikgodkännandet som utfärdats i det land där insamlingen av personuppgifter/biologiskt material ska utföras (vilket ska finnas!).
+
+- 9.3 Kommer forskningspersoner, vars mening på grund av sjukdom, psykisk störning, försvagat hälsotillstånd eller något annat liknande förhållande inte kan inhämtas, att ingå i forskningsprojektet?
+
+## 9.3.1 [Om Ja 9.3] Motivera varför denna grupp av forskningspersoner ska ingå i projektet.
+
+För projekt där personuppgifterna/biologiska materialet redan är insamlat i Sverige eller insamlingen helt utförs i ett annat land än Sverige, skriv att personuppgifterna/proverna redan är insamlad eller ska samlas in i utlandet.
+
+Om du vet motiveringen till att denna grupp av forskningspersoner ska ingå i projektet, beskriv det kortfattat men gör tydligt att detta redan skett eller ska ske i utlandet.
+
+Om du inte vet kan du hänvisa till att detta finns beskrivet i redan existerande (svenska) etikgodkännandet för det projekt som personuppgifterna/proverna kommer ifrån, eller i det etikgodkännandet som utfärdats i det land där insamlingen ska utföras (vilket ska finnas!).
+
+## 9.3.2 [Om Ja 9.3] Beskriv hur samråd med närmaste anhörig, god man eller förvaltare kommer att ske
+
+Närmast anhörig, god man eller förvaltare kan aldrig företräda en forskningsperson (undantag underårig) och å dennes vägnar samtycka till deltagande i en forskningsstudie. Men vid forskning på forskningspersoner, vars mening inte går att inhämta, ska samråd ske med närmaste anhörig som ska få möjlighet att motsätta sig deltagandet.
+
+För projekt där personuppgifterna/biologiska materialet redan är insamlat i Sverige eller insamlingen helt utförs i ett annat land än Sverige, skriv att personuppgifterna/proverna redan är insamlad eller ska samlas in i utlandet. Gör tydligt att detta redan skett eller ska ske i utlandet. Om du vet hur samrådet med anhöriga gick till, beskriv det kortfattat.
+
+Om du inte vet kan du hänvisa till att detta finns beskrivet i redan existerande (svenska) etikgodkännandet för det projekt som insamlingen kommer ifrån, eller i det etikgodkännandet som utfärdats i det land där insamlingen av personuppgifter/biologiskt material ska utföras (vilket ska finnas!).
+
+## 12. Redovisning av resultat
+
+## 12.1 Hur garanteras tillgång till data för forskningshuvudmannen och medverkande forskare?
+
+För projekt som har flera forskningshuvudmän , där till exempel en vårdgivare ansvarar för insamling av personuppgifter/biologiskt material och KI ansvarar för bearbetning och analys av personuppgifterna/proverna, så ser KI att personuppgifterna/proverna bör utlämnas till KI. Ett beslut om utlämnande innebär att KI blir (legalt) ansvarig för uppgifterna/proverna och därmed får bestämma vad som ska göras med personuppgifterna. När prover utlämnas till KI kan KI skicka dem vidare till tredje part efter tecknandet av ett Material Transfer Agreement. När personuppgifter utlämnas till KI kan KI sedan dela personuppgifterna med en tredje part, efter att ett lämpligt dataavtal (PuB, Data Transfer Agreement eller Data Controller Agreement) tecknats.
+
+PuB-avtal ska undvikas mellan vårdgivare och KI om KI är en del av forskningsprojektet där vi till exempel självständigt ansvarar för lagring och analys av personuppgifter/prover. Då ska KI ses som, och anges i etikansökan, som en forskningshuvudman (ansvarig eller övrig/medverkande huvudman beror på studiens tillvägagångssätt, se avsnitt 1.2 Ansvarig huvudman för forskningen (forskningshuvudman).
+
+12.2 Vem eller vilka ansvarar för databearbetning och skriftlig redovisning av resultaten?
+
+Här är det viktigt att ange korrekt(a) organisation(er)/institution(er), snarare än namn på individuella forskare.
+
+Ta även upp om samarbeten inom och utom EU/EES kan bli aktuellt.
+
+## 12.3 Hur och när planeras resultaten att offentliggöras?
+
+Om projektet är en klinisk studie , förutom att ange när resultaten planeras att till exempel publiceras i vetenskapliga "peer review" tidskrifter och presenteras på konferenser, planera också in att rapportera resultaten till det kliniska prövningsregister där studien registrerades, till exempel ClinicalTrials.gov. KI rekommenderar starkt att alla kliniska studier rapporterar resultat inom 12 månader efter studieavslut. För kliniska läkemedelsprövningar ska resultat rapporteras till EudraCT eller CTIS senast 12 månader efter studieavslut.
+
+## 12.4 På vilket sätt garanteras forskningspersonernas rätt till integritet när materialet offentliggörs?
+
+Här är exempel att resultat kommer redovisas på gruppnivå, utdrag ur intervjuer har avidentifierats, karakteristiska för enskilda individer går ej att urskilja, bilder är utan identifikationsmöjligheter etc.
+
+## 14. Beskrivning av biologiskt material
+
+14.1 Kommer biologiskt material från människor att nyinsamlas för projektet?
+
+## 14.1.4 [Om ja 14.1] Hur länge ska det biologiska materialet vara tillgängligt för projektet?
+
+Estimera hur länge projektet kommer behöva tillgång, men försök att inte begränsa dig i onödan.
+
+## 14.1.7 [Om ja 14.1] Hur länge ska det biologiska materialet vara tillgängligt efter att projektet är avslutat?
+
+Estimera hur länge det biologiska materialet ska vara tillgängligt efter att projektet avslutats, men försök att inte begränsa dig i onödan, och undvik att specificera datum för när prover ska förstöras.
+
+14.2 Planerar projektet att använda biologiskt material från människor från en eller flera befintliga provsamlingar?
+
+## 14.2.2 [Om ja 14.2] Hur mycket biologiskt material är planerat att användas?
+
+Ska du använda prov från en biobank måste du vara noga med att inkludera all nödvändig information i etikansökan som krävs för att du sedan ska kunna teckna ett biobanksavtal och få tillgång till prov som omfattas av biobankslagen. Information som ska finnas med under " Beskrivning av biologiskt material 14.2.2 " är :
+
+- · Vilka provmängder och hur ofta prov ska tas.
+- · Total mängd prov som tas.
+
+Se mer information på Biobank Sveriges hemsida under sektionerna " Checklista inför biobanksansökan " samt " Checklista inför etikansökan ".
+
+## 14.2.7 [Om ja 14.2] Vilka analyser kommer att utföras på det biologiska materialet?
+
+Ska du använda prov från en biobank måste du vara noga med att inkludera all nödvändig information i etikansökan som krävs för att du sedan ska kunna teckna ett biobanksavtal och få tillgång till prov som omfattas av biobankslagen. Information som ska finnas med under " Beskrivning av biologiskt material 14.2.7 " är:
+
+- · Vilka analyser som planeras.
+
+Se mer information på Biobank Sveriges hemsida under sektionerna " Checklista inför biobanksansökan " samt " Checklista inför etikansökan ".
+
+## 14.2.10 [Om ja 14.2] Hur länge ska det biologiska materialet vara tillgängligt för projektet?
+
+Estimera hur länge projektet kommer behöva tillgång, men försök att inte begränsa dig i onödan.
+
+## 14.2.12 [Om ja 14.2] Hur länge ska det biologiska materialet vara tillgänglig efter att projektet är avslutat?
+
+Estimera hur länge det biologiska materialet ska vara tillgängligt efter att projektet avslutats, men försök att inte begränsa dig i onödan, och undvik om möjligt att specificera datum för när prover ska förstöras. Se mer information i avsnittet 6.4 Hur kommer insamlad data att hanteras och förvaras?.
+
+## Bilagor
+
+## Annonsmaterial
+
+Om du behöver tips och hjälp kring annonsering för rekrytering av forskningspersoner, så kan KI:s Kommunikationsavdelning ge dig stöd kring hur du kan rekrytera forskningspersoner till ditt forskningsprojekt.
+
+## Information till forskningspersoner och samtyckesformulär
+
+Enligt 16 § etikprövningslagen måste forskningspersonerna informeras om (information enligt GDPR ska också lämnas!):
+
+- · Den övergripande planen för forskningen.
+- · Syftet med forskningen.
+- · De metoder som kommer att användas.
+- · De följder och risker som forskningen kan medföra.
+- · Vem som är forskningshuvudman.
+- · Att deltagande i forskningen är frivilligt.
+- · Forskningspersonens rätt att när som helst avbryta sin medverkan.
+
+Etikprövningsmyndigheten har sammanfattat vad för information forskningspersonerna har rätt att få. Tänk på att informationen till forskningspersonerna ska vara samma som den information som står i etikansökan när det kommer till bearbetning, lagring och delning av personuppgifter/prover. Till exempel ska det skrivas med i informationen ifall personuppgifter/prover kan komma att delas både inom och utanför EU/EES-området, samt ifall personuppgifter/prover kommer att sparas för att möjliggöra eventuell framtida forskning (se avsnitt 6.4 Hur kommer insamlad data att hanteras och förvaras? för mer information kring det). Informationen ska hållas så kortfattad och lättförståelig som möjligt så att forskningspersonerna lätt kan ta till sig den (och anpassas till mottagaren -till exempel till minderårig, äldre, nedsatt funktion, olika språk etc.).
+
+## Stödmallar för forskningspersonsinformation
+
+Etikprövningsmyndigheten har stödmallar som man kan använda sig av. Stödmallarna går att hitta inne i Eth ix under "Ansökan" och sedan "Stödmallar".
+
+De stödmallar som finns är:
+
+- · Forskningspersonsinformation. Etikprövningsmyndigheten rekommenderar att denna mall används. Den är dock inte helt komplett vad gäller information enligt GDPR.
+- · Samtyckesblankett till att delta i projektet. Den är dock inte helt komplett vad gäller information enligt GDPR. Denna blankett är inte heller helt komplett när det gäller läkemedelsprövningar, då den saknar monitor access till journal och läkarsignatur.
+- · Samtyckesblankett till framtida forskning. Denna kan användas ifall insamlade prover ska sparas och eventuellt användas i framtida forskning som inte är planerad ännu. Dock kan man inte inhämta samtycke för forskning som ännu inte har preciserats eller godkänts, utan det handlar om att man ger information om att insamlade uppgifter kan komma att användas i framtida forskning som då kommer att vara prövad och godkänd av Etikprövningsmyndigheten och att forskningspersonen då kan komma att kontaktas igen.
+
+Biobank Sverige har utformat en vägledning gällande utformande av forskningspersonsinformation som man kan använda sig av vid forskningsprojekt som ska ta prover som sparas i biobank.
+
+## Signaturer
+
+Ansvarig forskare och behörig företrädare för forskningshuvudmannen (som angetts under avsnitt 1.3 Behörig företrädare för forskningshuvudman) ska signera ansökan med Bank-id. Behörig företrädare får mejl till den e-post som angetts när det är dags att signera.
+
+När ansvarig forskare samt behörig företrädare för forskningshuvudmannen har signerat ansökan inne i Ethix, skickas ansökan automatiskt in till Etikprövningsmyndigheten. Därefter får ansvarig forskare information om hur avgiften ska betalas. Avgiften för etikansökan ska betalas innan handläggningen kan påbörjas. Läs mer om avgifter i avsnittet Avgift för etikansökan. Ansvarig huvudman ska sen meddela medverkande forskningshuvudmän (om flera) om eventuella kompletteringar och beslut.
+
+När beslut kommer från Etikprövningsmyndigheten så ska beslutet, tillsammans med komplett etikansökan (inklusive forskningspersonsinformation, samtycke och andra bilagor) diarieföras på KI. Det är vanligen ansvarig forskare som ansvarar för att så sker.

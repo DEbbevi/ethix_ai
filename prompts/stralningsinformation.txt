@@ -1,0 +1,122 @@
+<information>
+From Guide till ansökan om etikprövning.txt:
+Sektion 8. Forskningspersoner:
+"8.1 -8.5 Urval, antal, urvalskriterier och relationen mellan forskare och forskningspersonerna"
+
+Sektion 7. Etiska överväganden:
+"7.1 Vilka risker kan ett deltagande medföra för de forskningspersoner som ingår i forskningsprojektet?"
+"7.2 -7.4 Nytta och risk med forskningsprojektet"
+
+För kliniska rutiner:
+"Om projektet är en klinisk studie, förutom att ange när resultaten planeras att till exempel publiceras i vetenskapliga "peer review" tidskrifter och presenteras på konferenser, planera också in att rapportera resultaten till det kliniska prövningsregister där studien registrerades, till exempel ClinicalTrials.gov. KI rekommenderar starkt att alla kliniska studier rapporterar resultat inom 12 månader efter studieavslut."
+
+Detta dokument är en guide för hur man fyller i etikansökningar och innehåller inte den specifika information som behövs för att besvara de angivna frågorna om åldersfördelning, patientgrupper eller specifika kliniska rutiner. För att besvara frågorna skulle man behöva information om det specifika forskningsprojektet.
+
+
+From Vägledning_forskningshuvudman_etikansökan_KI_RegionStockholm_version1_final_22_04_20.txt:
+The document doesn't contain directly relevant information for answering these specific questions. The most tangentially relevant paragraphs are:
+
+From section 3.4 regarding patient safety:
+"Det är viktigt att beakta att för att patientförsäkringen (LÖF) ska gälla, måste den hälso- och sjukvård som ingår i forskningsstudien utföras av hälso- och sjukvårdspersonal inom ramen för deras anställning hos en vårdgivare.
+
+KI har egna försäkringar när KI-personal till exempel står för provtagning inom KI:s lokaler. Sker provtagningen i sjukhuslokaler, men av KI-personal, behöver försäkringsfrågan utredas tillsammans med berört sjukhus."
+
+(Detta stycke handlar om patientförsäkring och säkerhet, men innehåller inte specifik information om kliniska rutiner eller patientgrupper som efterfrågas i frågorna.)
+
+
+From Etikvaegledning_2021_WEBB.txt:
+Begreppet "sårbar person" används ofta i samband med forskningsetik, men det saknar enhetlig definition. Vid etikprövning kan bland annat följande grupper komma att betraktas som sårbara beroende på omständigheterna: barn, gravida, fångar, flyktingar, åldringar, personer med psykiska eller fysiska funktionshinder, personer som är utsatta på grund av brister i exempelvis ekonomi eller utbildning, och personer som kan riskera att utsättas för diskriminering.
+
+Enligt rekommendationer från HT:s etikråd 2018 ska utgångspunkten för studentarbeten vara att undvika etiskt problematiska metoder eller forskningsobjekt. Samma etiska förhållningssätt som tillämpas av forskare bör tilllämpas av studenter, under överinseende av och i samråd med vetenskapligt kompetent handledare. Förslag till studentarbeten som är potentiellt problematiska i detta avseende bör förhandsgranskas av handledarkollegium eller motsvarande senior grupp i ämnet.
+
+Björn Petersson, ledamot i Etikrådet vid Lunds universitet och docent i praktisk filosofi, bidrog med information och råd under revisionsprocessen. [Detta avsnitt visar att etiska experter konsulteras vid utformning av riktlinjer.]
+
+[Notera: Dokumentet innehåller ingen specifik information om kliniska rutiner eller patientgrupper eftersom det fokuserar på humanistisk och teologisk forskning.]
+
+
+From Vagledning-om-etikprovning-EPM.txt:
+När forskningspersoner ska utsättas för joniserande strålning som går utöver den kliniska behandlingen och som inte förväntas ge någon direkt medicinsk fördel, behöver Etikprövningsmyndigheten fastställa en stråldosrestriktion i samband med att din etikansökan prövas.
+
+Information om strålning ska beskrivas i ett särskilt avsnitt i ansökan. Där ska du bland annat lämna en bedömning av forskningens nytta tillsammans med den sammanlagda stråldosen som tillkommer med forskningen. Även klinisk rutin enligt vårdprogrammet ska beskrivas övergripande och den totala mängden strålning som används i behandlingen ska också anges.
+
+Prövningen bygger på de nyttokategorier för forskning som anges i ICRP62, de internationella rekommendationer som utgör grunden för all internationell reglering av skyddet mot skadliga effekter av joniserande strålning. Etikprövningsmyndigheten har sjukhusfysiker med i prövningen och normalt även andra ledamöter med kompetens och erfarenhet av forskning som innefattar strålning.
+
+Konsultera sakkunniga inom strålning när du planerar din forskning.
+
+
+From etikansokan-ethix-ny-ansokningsmall-2023-10-19.txt:
+Section 8.1 discusses research participants in general terms:
+"Beskriv vilka forskningspersoner som kommer inkluderas i projektet. Redogör för de överväganden som gjorts vid valet av forskningspersoner. Om vissa grupper utesluts från deltagande i projektet ska en motivering till uteslutandet framgå. Redogör även för hur forskaren kommer i kontakt med eller får kännedom om lämpliga forskningspersoner."
+
+Section 4.1 mentions methods and procedures:
+"Det ska framgå hur projektet planeras att genomföras. Beskriv insamlade datas karaktär och ange hur datas tillförlitlighet ska säkerställas. Om enkäter och intervjuer ingår ska tillvägagångssätt, frågornas innehåll och hur slutsatser dras beskrivas."
+
+However, this document appears to be a guidance document for completing ethics applications rather than containing specific study information. Without additional materials about the actual research project, I cannot provide specific answers about age distributions, clinical patients, or procedures for this particular study.
+
+
+From God forskningssed VR 2024.txt:
+1. "All forskning som innebär risker för de människor som involveras bör genomgå någon form av etisk granskning. Vissa typer av forskning måste genomgå etisk prövning enligt särskilda regelverk för att få utföras. Inom EU finns ett särskilt system för etisk och vetenskaplig granskning av kliniska läkemedelsprövningar och av kliniska prövningar och prestandastudier av medicintekniska produkter."
+
+2. "I Sverige regleras etisk granskning av många olika typer av forskning genom etikprövningslagen. Syftet med lagen är att skydda den enskilda människan och respekten för människovärdet vid forskning."
+
+3. "En grundläggande aspekt av god forskningssed är att tillgodose olika berättigade intressen. Dessa intressen kan ibland peka åt samma håll, men ibland kan de komma i konflikt och man måste då kunna göra en etiskt reflekterad avvägning och prioritering."
+
+4. "Skyddsintresset är intresset att skydda dem som involveras i forskningen eller på annat sätt påverkas av den. Skyddsintresset är överordnat och ska prioriteras i avvägningar mot andra intressen, inklusive forskningsintresset. Forskningen får inte innebära att grundläggande rättigheter eller värden kränks eller att människor, djur, samhälle, miljö, klimat eller kulturarv utsätts för alltför stor eller oproportionerlig risk eller skada."
+
+5. "Inom många typer av forskning är det nödvändigt att involvera människor för att kunna uppfylla syftet med forskningen. Detta kan ske på olika sätt, till exempel genom intervjuer, observation, experiment, interventioner eller insamling och annan behandling av data (inklusive personuppgifter) från mer eller mindre öppna källor. Oavsett hur det sker ska forskaren säkerställa att:
+- forskningen utförs med respekt för människovärdet, mänskliga rättigheter och grundläggande friheter
+- riskerna för forskningspersonerna minimeras och hålls på en rimlig nivå
+- riskerna står i rimlig proportion till de förväntade kunskapsvinsterna."
+
+</information>
+
+När du formulerar svaren, följ dessa riktlinjer:
+
+1. Basera alla svar på informationen i det tillhandahållna materialet
+2. Skriv koncist och akademiskt
+3. Håll dig inom angivna teckengränser
+4. Inkludera relevant etisk analys där det är lämpligt
+5. Var specifik och exakt i beskrivningar av medicinska och vetenskapliga aspekter
+6. Undvik spekulationer utöver det som stöds av materialet
+
+Formatera varje svar med XML-taggar som innehåller frågans ID. Till exempel:
+
+<exempel>
+<15.2.1>
+Deltagarna är mellan 18-65 år med en förväntad medelålder på 45 år.
+</15.2.1>
+</exempel>
+
+För frågor som rör kliniska rutiner eller patientgrupper, var särskilt noggrann med att beskriva:
+- Medicinska tillstånd och prognoser
+- Behandlingsrutiner
+- Säkerhetsaspekter
+- Potentiella risker och fördelar
+
+Om materialet inte innehåller tillräcklig information för att besvara en specifik fråga, ange detta tydligt i svaret.
+Besvara följande frågor:
+FrågeID: <15.2.1>:
+Fråga: 15.2.1 Beskriv den förväntade åldersfördelningen på de ingående forskningspersonerna
+Hjälptext: 
+Teckengräns: 100
+
+FrågeID: <15.2.2>:
+Fråga: 15.2.2 Ange hur stor andel av forskningspersonerna som förväntas vara under 30 år
+Hjälptext: 
+Teckengräns: 100
+
+FrågeID: <15.2.4>:
+Fråga: 15.2.4 I det fall forskningspersonerna utgörs av kliniska patienter, ange deras medicinska tillstånd samt prognos
+Hjälptext: 
+Teckengräns: 500
+
+FrågeID: <15.5>:
+Fråga: 15.5 Beskriv övergripande klinisk rutin inom aktuellt område
+Hjälptext: Beskriv med vilken frekvens och hur länge kliniska kontroller med joniserande strålning kommer att pågå enligt vårdprogrammet, och den kumulativa dosen. Beskriv vidare vilken tillkommande exponering för joniserande strålning forskningspersonerna kommer att utsättas för till följd av sitt deltagande i studien.
+Teckengräns: 500
+
+FrågeID: <15.6>:
+Fråga: 15.6 Ange vilka kategorier av sakkunniga som har konsulterats vid studiens utformning
+Hjälptext: Etikprövningsmyndigheten ser gärna att sakkunniga konsulteras under studieplaneringen gällande metodval, berättigande, strålningsoptimering samt för dosuppskattningar.
+Teckengräns: 500
+

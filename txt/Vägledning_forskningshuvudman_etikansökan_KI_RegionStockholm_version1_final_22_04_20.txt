@@ -1,0 +1,141 @@
+<!-- image -->
+
+<!-- image -->
+
+## Vägledning - val av ansvarig forskningshuvudman vid etikansökan rörande forskning där Karolinska Institutet och vårdgivare i Region Stockholm samarbetar
+
+## 1. Ändringar i lagen (2003:460) om etikprövning av forskning som avser människor
+
+Den 1 januari 2020 ändrades lagen (2003:460) om etikprövning av forskning som avser människor (etikprövningslagen). Genom ändringen tydliggjordes att alla involverade forskningshuvudmän ska anges i etikansökan. En beskrivning av respektive forskningshuvudmans roll och uppdrag i det sökta projektet ska ingå. Detta dokument syftar till att ge vägledning rörande när universitetet respektive vårdgivaren ska anges som ansvarig respektive övrig medverkande forskningshuvudman och effekterna av detta val.
+
+## 2. Forskningshuvudman
+
+Forskningshuvudman är, enligt etikprövningslagen, den fysiska eller juridiska person i vars verksamhet forskningen utförs, till exempel lärosäte, kommun, region, myndighet eller privat företag.
+
+Ett forskningsprojekt kan genomföras hos en eller flera forskningshuvudmän. När ett forskningsprojekt ska genomföras inom enbart en huvudmans verksamhet anges den huvudmannen per automatik som ansvarig forskningshuvudman i etikansökan. Om uppgifter och prover hämtas in för forskningsprojektets räkning inom ramen för en vårdgivares verksamhet, men analyser och fortsatt bearbetning är tänkt att ske inom ramen för ett lärosätes verksamhet är det ett exempel på ett projekt med två potentiella forskningshuvudmän. Om det ingår två eller flera medverkande forskningshuvudmän är det upp till de berörda huvudmännen att bestämma vem som ska vara ansvarig forskningshuvudman i etikansökan, det vill säga vem som skickar in etikansökan. Det är viktigt att alla medverkande forskningshuvudmän anges i etikansökan, samt att deras roller och ansvar beskrivs.
+
+Respektive forskningshuvudman är ansvarig för att forskning som omfattas av lagen inte utförs utan etikgodkännande och ska vidta åtgärder för att förebygga att detta sker eller att forskning sker i strid med villkor som har meddelats i samband med ett etikgodkännande. Varje forskningshuvudman har ett organisatoriskt ansvar att vidta åtgärder inom den egna verksamheten. De åtgärder som ska vidtas är till exempel att se till att ha goda rutiner för information, uppföljning och kontroll gällande frågor om etikprövning inom organisationen. Forskningshuvudmannen ska också se till att de som arbetar med forskning får nödvändig utbildning om etikprövningslagen och vad som krävs enligt den lagen. 1
+
+## 2.1 Flera forskningshuvudmän som medverkar i ett forskningsprojekt
+
+När flera forskningshuvudmän medverkar i ett och samma forskningsprojekt ska de gemensamt uppdra åt en av dem att ansöka om etikprövning av projektet för allas räkning. Den som får detta uppdrag ska sedan informera de övriga om Etikprövningsmyndighetens beslut. Varje forskningshuvudman ansvarar fortfarande för den del av forskningen som bedrivs i den egna verksamheten. Etikprövningen omfattar dock hela projektet och samtliga medverkande huvudmän.
+
+<!-- image -->
+
+Att ansökan görs av en av forskningshuvudmännen förutsätter att denna forskningshuvudman får ett uppdrag från var och en av de övriga huvudmännen att ansöka om etikprövning. Den forskningshuvudman som får uppdraget att ansöka blir således de andra forskningshuvudmännens företrädare när det gäller etikansökan (i ansökningsblanketten angiven som "ansvarig forskningshuvudman") . Eftersom var och en av forskningshuvudmännen ansvarar för den del av projektet som utförs i forskningshuvudmannens regi, är det viktigt att alla forskningshuvudmän får information om vilken forskning som har godkänts och om eventuella villkor för godkännande som Etikprövningsmyndigheten har ställt upp. Det är viktigt att alla parter anges i etikansökan, trots att endast en forskningshuvudman skickar in den.
+
+När det finns flera medverkande forskningshuvudmän är det även viktigt att i ansökan tydligt beskriva respektive forskningshuvudmans roll och ansvar, till exempel kan det gälla datahantering, analys av prover och/eller bearbetning av forskningsdata.
+
+Alla som bidrar till forskning behöver dock inte anges som forskningshuvudman. En forskningshuvudman är den fysiska eller juridiska person i vars verksamhet forskningen utförs. Etikprövningslagen definierar forskning som vetenskapligt experimentellt eller teoretiskt arbete eller vetenskapliga studier genom observation, om arbetet eller studierna görs för att hämta in ny kunskap, och utvecklingsarbete på vetenskaplig grund. Detta innebär att ett laboratorium eller core-facilitet som analyserar prover mot ersättning, en vårdgivare som endast lämnar ut patientdata eller en provtagningscentral som enbart tar ett blodprov, inte alltid kan anses utföra forskning och därmed inte är en forskningshuvudman.
+
+I de fall det rör ett forskningsprojekt där Karolinska Institutet och en vårdgivare i Region Stockholm samarbetar och det råder otydlighet kring vem som ska ha uppdraget att skicka in ansökan är rådet att utgå från tabellen nedan som bland annat utgår från ett patientsäkerhetsperspektiv. Om det fortfarande är oklart eller inte tillämpbart kan det vara lämpligt att den forskningshuvudman i vars verksamhet merparten av forskningen utförs skickar in ansökan. Om tre eller flera forskningshuvudmän ingår kan man också utgå från vem som har en samordnarroll och/eller hemvist för huvudansvarig forskare för projektet.
+
+## 2.2 Rådgivande exempel
+
+Nedanstående tabell ska inte uppfattas som en regel eller riktlinje utan som vägledande exempel på vem som lämpligen skickar in ansökan vid olika typer av studier där minst två forskningshuvudmän ingår. Studielistan kan komma att utökas vid behov.
+
+I de fall där vårdgivare inom Region Stockholm anges i etikansökan så ska det ske enligt nedan för Karolinska universitetssjukhuset och Stockholms läns sjukvårdsområde, bolagen anges själva som tidigare:
+
+- Region Stockholm genom Stockholms läns sjukvårdsområde
+- · Region Stockholm genom Karolinska Universitetssjukhuset
+
+<!-- image -->
+
+<!-- image -->
+
+| Studietyp                                         | Innebär ett  fysiskt  ingrepp, på  levande  eller  avliden  person   | Sker med  metod som  syftar till att  påverka en  människa  fysiskt eller  psykiskt  eller innebär  en uppenbar  risk att  skada  forsknings- personen  fysiskt eller  psykiskt Ja   | Utförs på  biologiskt  material  från levande  eller avliden  människa  och kan  härledas till  den  människan   | Innefattar  behandling  av känsliga  person- uppgifter  eller av  uppgifter  om brott   | Ansvarig  forsknings- huvudman i  etikansökan   | Medverk- ande  forsknings- huvudmän  i etik- ansökan 2   |
+|---------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------|----------------------------------------------------------|
+| Läkemedels- prövning  Medicinteknisk  studie      | Ja                                                                   |                                                                                                                                                                                      | Ja                                                                                                               | Ja                                                                                      | Vårdgivare                                      | Universitet                                              |
+| a) obetydlig risk 3                               |                                                                      | Eventuellt                                                                                                                                                                           | Eventuellt                                                                                                       |                                                                                         | eller  Universitet                              | eller  Vårdgivare                                        |
+| b) mer än obetydlig  risk 4                       | Ja                                                                   |                                                                                                                                                                                      |                                                                                                                  |                                                                                         |                                                 |                                                          |
+| Cellterapistudie  (ATMP)                          |                                                                      | Ja                                                                                                                                                                                   | Ja                                                                                                               | Ja                                                                                      | Vårdgivare                                      | Universitet                                              |
+| Provtagningsstudie  a) obetydlig risk             |                                                                      | Nej                                                                                                                                                                                  |                                                                                                                  |                                                                                         | Universitet                                     |                                                          |
+| 3                                                 |                                                                      |                                                                                                                                                                                      |                                                                                                                  |                                                                                         |                                                 | Vårdgivare                                               |
+| b) mer än obetydlig  risk  4                      | Ja                                                                   | Ja                                                                                                                                                                                   | Ja                                                                                                               | Ja                                                                                      | Vårdgivare                                      | Universitet                                              |
+| Annan  interventionell  studie  a) obetydlig risk | Ja                                                                   | Nej                                                                                                                                                                                  | Ja                                                                                                               | Ja                                                                                      | Universitet                                     | Vårdgivare                                               |
+| b) mer än obetydlig  risk                         |                                                                      | Ja                                                                                                                                                                                   |                                                                                                                  |                                                                                         | Vårdgivare                                      | Universitet                                              |
+| Kvalitativa studier                               |                                                                      |                                                                                                                                                                                      | Eventuellt  Nej                                                                                                  | Ja                                                                                      |                                                 |                                                          |
+| Registerstudie                                    | Ja  Nej                                                              | Nej                                                                                                                                                                                  |                                                                                                                  |                                                                                         | Universitet  eller  Vårdgivare                  | Vårdgivare  eller  Universitet                           |
+| Observationsstudie                                |                                                                      |                                                                                                                                                                                      |                                                                                                                  |                                                                                         |                                                 |                                                          |
+
+- 2 Kan även vara andra organisationer än vårdgivare och universitet.
+- 4 Med mer än obetydlig risk avses här t ex annan blodprovstagning, biopsier och/eller mer än obetydlig risk för infektion
+- 3 Med obetydlig risk avses här t ex friska frivilliga, urinprov, blodprovstagning från perifer ven eller kapillärt
+
+<!-- image -->
+
+## 3. Hur påverkar val av ansvarig forskningshuvudman andra omständigheter
+
+## 3.1 Personuppgiftsansvar
+
+Av dataskyddsförordningen följer en annan typ av ansvar än det som följer av etikprövnings-lagen, nämligen ansvar för behandlingen av personuppgifter. Vem som anges som ansvarig respektive övrig medverkande forskningshuvudman i etikansökan är inte avgörande för fördelningen av personuppgiftsansvar. Vid fastställande av om en organisation ska anses vara personuppgiftsansvarig eller personuppgiftsbiträde, eller om det finns gemensamt personuppgiftsansvariga, ska en bedömning göras utifrån de faktiska omständigheterna. I forskningsprojekt där flera forskningshuvudmän är involverade är det viktigt att reda ut hur personuppgiftsansvaret för behandlingen fördelas mellan parterna innan projektet startar.
+
+## 3.2 Immateriella rättigheter (Intellectual Property Rights - IPR)
+
+Äganderätten till projektets material och/eller resultat (IPR) påverkas inte av vem som är ansvarig forskningshuvudman i ansökan. Äganderätten kan regleras i separata avtal.
+
+## 3.3 Projektmedel för forskningen eller projektets omfattning
+
+Det finns inget krav att de medel avsedda för att finansiera projektet som ansökan avser ska vara förvaltade hos den huvudman som skickar in ansökan.
+
+## 3.4 Patientförsäkringen
+
+Patientförsäkringen är inte relaterad till vem som är ansvarig forskningshuvudman i en etikansökan.
+
+Det är viktigt att beakta att för att patientförsäkringen (LÖF) ska gälla, måste den hälso- och sjukvård som ingår i forskningsstudien utföras av hälso- och sjukvårdspersonal inom ramen för deras anställning hos en vårdgivare.
+
+KI har egna försäkringar när KI-personal till exempel står för provtagning inom KI:s lokaler. Sker provtagningen i sjukhuslokaler, men av KI-personal, behöver försäkringsfrågan utredas tillsammans med berört sjukhus.
+
+## 3.5 Flera medverkande vårdgivare
+
+Viktigt att notera att det i studier där flera olika vårdgivare är medverkande kan behövas avtal mellan vårdgivarna om till exempel personal från Karolinska Universitetssjukhuset behöver utföra del av studien på Södersjukhuset.
+
+## 4. Ändring av ansökan/byte av forskningshuvudman
+
+Om en ändring av ett ursprungligt projekt påverkar forskningspersonernas säkerhet eller om ändringen i övrigt kan påverka den risk-/nyttabedömning som gjorts vid den tidigare prövningen av ansökan (till exempel om ny forskning påvisat risker som tidigare inte var kända eller nya fynd framkommit som kan påverka det vetenskapliga värdet av studien) ska en ändringsansökan skickas in till Etikprövningsmyndigheten.
+
+<!-- image -->
+
+Även vid andra omfattande ändringar, exempelvis nytt studieupplägg eller ny studiehypotes, nya grupper av forskningspersoner med andra karakteristika än de ursprungliga ska studeras, ska en helt ny ansökan göras. 5
+
+Andra väsentliga ändringar kan exempelvis vara:
+
+- -Tillägg av medverkande forskningshuvudman, till exempel om ytterligare en studiesite/ sjukhus/universitet ska ingå i studien.
+- Ny huvudansvarig forskare (PI)
+- -Byte eller borttagande av forskningshuvudman
+- -Att fler forskningspersoner (med samma karakteristika) ska inkluderas
+- -Tillägg av variabler
+- Att nya metoder eller nya analyser ska utföras på redan insamlat material (under samma huvudsakliga frågeställning)
+
+Det är vanligen bättre att lägg till en forskningshuvudman än att byta "ansvarig forskningshuvudman". Ett exempel då byte av ansvarig forskningshuvudman behövs är när en ansvarig forskningshuvudman (site) helt utgår i projektet och ska ersättas av annan site.
+
+Observera att i de fall som en ändringsansökan genomförs i syfte att byta ansvarig forskningshuvudman ska även den befintliga forskningshuvudmannen intyga att denna godkänner ändringsansökan om byte av forskningshuvudman.
+
+Alla medverkande forskningshuvudmän ska vid behov av en ändringsansökan informeras och hållas uppdaterade av den för etikansökan ansvariga forskningshuvudmannen.
+
+## 5. Personuppgiftsansvar
+
+Etikprövningslagen ska tillämpas på forskning som bl.a. innefattar behandling av känsliga personuppgifter.
+
+När Karolinska Institutet och vårdgivare i Region Stockholm samarbetar i ett forskningsprojekt ska ansökan om etikprövning innehålla uppgifter om vem som ansvarar för personuppgiftshanteringen, inklusive hur personuppgiftsansvaret för behandlingen fördelas mellan parterna.
+
+Personuppgiftsansvarig (PUA) är den som ensam eller tillsammans med andra bestämmer ändamålen och medlen för en behandling av personuppgifter. Personuppgiftsbiträde (PUB) är den som behandlar personuppgifter för den personuppgiftsansvariges räkning. Det är de faktiska omständigheterna i det enskilda fallet som avgör vem som är personuppgiftsansvarig.
+
+Varje PUA måste ha rättslig grund, i enlighet med dataskyddsförordningen, för att inom ramen för forskningsprojektet få behandla personuppgifter. För att exempelvis kunna åberopa den rättsliga grund som gäller för behandling av känsliga personuppgifter vid vetenskapliga forskningsändamål (art. 9.2 (j) GDPR) krävs att PUA har ett godkännande från Etikprövningsmyndigheten. PUA måste därför anges som ansvarig eller övrig medverkande huvudman i den godkända etikansökan. Flera forskningshuvudmän kan gemensamt vara personuppgiftsansvariga, då blir alla berörda forskningshuvudmän PUA.
+
+<!-- image -->
+
+Om en organisation endast ska behandla personuppgifter för en forskningshuvudmans räkning ska ett personuppgiftsbiträdesavtal (PUB-avtal) upprättas. Biträdet behöver inte vara identifierad i etikansökan, så länge biträdet endast behandlar personuppgifter i enlighet med PUB-avtalet.
+
+## 6. Dokumentinformation
+
+En arbetsgrupp med representanter från Region Stockholm och Karolinska Institutet, ledd av Annika Tibell och Anders Gustavsson, har tagit fram dokumentet med input från forskare, stödfunktioner och jurister. Dokumentet är sedan fastställt i Forskningsrådet enligt nedan.
+
+Vid frågor, vänligen kontakta forskningsstod.karolinska@regionstockholm.se eller compliance@ki.se.
+
+| Versionsnummer:  1                                                                                                                                  | Diarienummer:  Dnr K 2022-4174                                                                                                                      | Beslutsdatum:  2022-04-20                                                                                                                           | Giltighetstid:  Fr.o.m. 20 april 2022  och tills vidare                                                                                             |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                     | Dnr KI 5-52/2022                                                                                                                                    |                                                                                                                                                     |                                                                                                                                                     |
+| Beslut:  Forskningsrådet                                                                                                                            | Beslut:  Forskningsrådet                                                                                                                            | Dokumenttyp:  Gemensam vägledning                                                                                                                   | Dokumenttyp:  Gemensam vägledning                                                                                                                   |
+| Handläggs av avdelning/enhet:  Avdelningen för forskarstöd/Compliance &  Data Office, Karolinska Institutet                                         | Handläggs av avdelning/enhet:  Avdelningen för forskarstöd/Compliance &  Data Office, Karolinska Institutet                                         | Beredning med:  KI-Klin, Region Stockholms  forsknings- och innovationsdirektör, Enheten  för Sjukhus- och Myndighetsjuridik på                     | Beredning med:  KI-Klin, Region Stockholms  forsknings- och innovationsdirektör, Enheten  för Sjukhus- och Myndighetsjuridik på                     |
+| Avdelningen för forskningsstöd, Karolinska  universitetssjukhuset  avdelningen på Karolinska Institutet  Revidering med avseende på:  Nytt dokument | Avdelningen för forskningsstöd, Karolinska  universitetssjukhuset  avdelningen på Karolinska Institutet  Revidering med avseende på:  Nytt dokument | Avdelningen för forskningsstöd, Karolinska  universitetssjukhuset  avdelningen på Karolinska Institutet  Revidering med avseende på:  Nytt dokument | Avdelningen för forskningsstöd, Karolinska  universitetssjukhuset  avdelningen på Karolinska Institutet  Revidering med avseende på:  Nytt dokument |

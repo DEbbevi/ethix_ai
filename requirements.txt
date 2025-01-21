@@ -1,0 +1,14 @@
+selenium==4.22.0
+webdriver-manager>=4.0.1
+requests==1.26.20
+Pillow==11.1.0
+python-dotenv==1.0.1
+IPython>=8.12.0
+anthropic==0.40.0
+beautifulsoup4==4.12.3
+python-docx==1.1.2
+markdown==3.7
+PyPDF2==3.0.1
+google-colab-selenium==1.0.14
+typing-extensions>=4.9.0
+numpy>=1.26.4 

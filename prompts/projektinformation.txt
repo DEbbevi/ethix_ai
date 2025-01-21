@@ -1,0 +1,334 @@
+<information>
+From Guide till ansökan om etikprövning.txt:
+Ansökan om etikprövning, med tillhörande godkännande av Etikprövningsmyndigheten, krävs för att du ska få bedriva forskning på levande eller avlidna människor, på biologiskt material från människor eller forskning som involverar hantering av känsliga personuppgifter. Det är etikprövningslagen "Lag (2003:460) om etikprövning av forskning som avser människor" som reglerar vilken typ av forskning som kräver etikprövning.
+
+"Lagen tillämpas på forskning som:
+- Innefattar behandling av känsliga personuppgifter eller personuppgifter om lagöverträdelser. Personuppgifter är information som direkt eller indirekt kan hänföras till en fysisk person som är i livet.
+- Involverar ett fysiskt ingrepp på forskningspersonen eller använder en metod som syftar till att påverka forskningspersonen fysiskt eller psykiskt.
+- Utförs på biologiskt material som har tagits från en fysisk person och kan härledas till denna person."
+
+Avgiften för etikansökan ska betalas innan handläggningen kan påbörjas. När ansvarig forskare samt behörig företrädare för forskningshuvudmannen har signerat ansökan inne i Ethix skickas ansökan automatiskt in till Etikprövningsmyndigheten, och först då får du information om hur betalningen ska göras. Avgiften för en ny ansökan är antingen 5 000 kronor eller 16 000 kronor.
+
+Vid val av ansvarig forskningshuvudman för etikansökan behöver man ta hänsyn till flera aspekter. Om flera institutioner/sjukhus/lärosäten är involverade i studien kan det ibland vara oklart vem som ska anges som ansvarig huvudman och vem/vilka som medverkande huvudman/huvudmän. Med "ansvarig huvudman" menas här den som har det samordnade ansvaret att skicka in etikansökan för alla medverkande forskningshuvudmäns räkning och att vara koordinator som meddelar de andra medverkande huvudmännen om etikprövningens beslut.
+
+Det är alltid prefekt som ska anges här när KI är ansvarig huvudman och skickar in etikansökan. När annan verksamhet än KI är ansvarig huvudman kan det till exempel vara enhetschef eller verksamhetschef.
+
+Pseudonymiserade personuppgifter, ibland kallat "kodade personuppgifter", innebär att direkta identifierare såsom t.ex. personnummer och namn avseende en forskningsperson har tagits bort och ersatts med en kod, där koden sedan kan kopplas ihop med namnet/personnumret via en kodnyckel. Därmed finns det en möjlighet att forskningspersonens direkta identitet går att spåra.
+
+Anonymiserade personuppgifter innebär att personnummer och namn eller annan identifierare har tagits bort helt (ej ersatts med en kod) och en eventuell kodnyckel har förstörts. Då är det inte längre möjligt att spåra uppgifterna till en enskild forskningspersons identitet.
+
+
+From Vägledning_forskningshuvudman_etikansökan_KI_RegionStockholm_version1_final_22_04_20.txt:
+## 1. Ändringar i lagen (2003:460) om etikprövning av forskning som avser människor
+
+Den 1 januari 2020 ändrades lagen (2003:460) om etikprövning av forskning som avser människor (etikprövningslagen). Genom ändringen tydliggjordes att alla involverade forskningshuvudmän ska anges i etikansökan. En beskrivning av respektive forskningshuvudmans roll och uppdrag i det sökta projektet ska ingå.
+
+## 2. Forskningshuvudman
+
+Forskningshuvudman är, enligt etikprövningslagen, den fysiska eller juridiska person i vars verksamhet forskningen utförs, till exempel lärosäte, kommun, region, myndighet eller privat företag.
+
+## 2.1 Flera forskningshuvudmän som medverkar i ett forskningsprojekt
+
+När flera forskningshuvudmän medverkar i ett och samma forskningsprojekt ska de gemensamt uppdra åt en av dem att ansöka om etikprövning av projektet för allas räkning. Den som får detta uppdrag ska sedan informera de övriga om Etikprövningsmyndighetens beslut. Varje forskningshuvudman ansvarar fortfarande för den del av forskningen som bedrivs i den egna verksamheten. Etikprövningen omfattar dock hela projektet och samtliga medverkande huvudmän.
+
+Alla som bidrar till forskning behöver dock inte anges som forskningshuvudman. En forskningshuvudman är den fysiska eller juridiska person i vars verksamhet forskningen utförs. Etikprövningslagen definierar forskning som vetenskapligt experimentellt eller teoretiskt arbete eller vetenskapliga studier genom observation, om arbetet eller studierna görs för att hämta in ny kunskap, och utvecklingsarbete på vetenskaplig grund. Detta innebär att ett laboratorium eller core-facilitet som analyserar prover mot ersättning, en vårdgivare som endast lämnar ut patientdata eller en provtagningscentral som enbart tar ett blodprov, inte alltid kan anses utföra forskning och därmed inte är en forskningshuvudman.
+
+## 5. Personuppgiftsansvar
+
+Etikprövningslagen ska tillämpas på forskning som bl.a. innefattar behandling av känsliga personuppgifter.
+
+När Karolinska Institutet och vårdgivare i Region Stockholm samarbetar i ett forskningsprojekt ska ansökan om etikprövning innehålla uppgifter om vem som ansvarar för personuppgiftshanteringen, inklusive hur personuppgiftsansvaret för behandlingen fördelas mellan parterna.
+
+Personuppgiftsansvarig (PUA) är den som ensam eller tillsammans med andra bestämmer ändamålen och medlen för en behandling av personuppgifter. Personuppgiftsbiträde (PUB) är den som behandlar personuppgifter för den personuppgiftsansvariges räkning. Det är de faktiska omständigheterna i det enskilda fallet som avgör vem som är personuppgiftsansvarig.
+
+
+From Etikvaegledning_2021_WEBB.txt:
+Etiska överväganden och riktlinjer är nödvändiga om forskning på ett ansvarsfullt sätt ska kunna användas för att utveckla vetenskapen och vårt samhälle, i dag och i framtiden.
+
+De viktigaste dokumenten för att skydda människor som är relevanta i forskningen i humaniora och teologi är EU:s dataskyddsförordning GDPR och Etikprövningslagen. Alla forskare som planerar att arbeta med information om människor måste känna till och följa GDPR.
+
+Lunds universitet är personuppgiftsansvarigt för all behandling av personuppgifter som genomförs inom universitetets verksamheter.
+
+Forskningshuvudman: Den statliga myndighet eller fysiska eller juridiska person i vars verksamhet forskningen utförs. En fysisk person kan endast undantagsvis vara forskningshuvudman.
+
+Informerat samtycke uppfattas som en av de viktigaste procedurerna för att tillgodose forskningspersonernas rättigheter och intressen. Det är angeläget att forskare uppfattar informerat samtycke som ett sätt att säkra att varje deltagare i en undersökning har fått tillräcklig information och att deltagandet är frivilligt, och inte bara en formalitet.
+
+Ett samtycke till medverkan i ett forskningsprojekt ska alltid vara en frivillig, särskild och informerad viljeyttring. Samtycket ska vara uttryckligt och preciserat till viss forskning. Samtycket ska dokumenteras. Normalt görs detta skriftligt genom att forskningspersonen undertecknar en samtyckesblankett.
+
+När forskaren har direktkontakt med forskningspersonerna är det oftast oproblematiskt att ge muntlig och skriftlig information. Vid intervjuer ska forskningspersonen få muntlig och skriftlig information i förväg och därefter betänketid, innan en intervju påbörjas.
+
+Den som rekryteras till ett forskningsprojekt ska få information om den forskning som han eller hon förväntas medverka i. Ett informationsblad ska innehålla en beskrivning av allt som den tillfrågade behöver veta för att kunna avgöra om hon eller han vill medverka i projektet.
+
+
+From Vagledning-om-etikprovning-EPM.txt:
+Forskningshuvudmannen är den myndighet, fysiska eller juridiska person i vars verksamhet forskningen utförs, som lärosäte, kommun, region, en annan myndighet eller en privat verksamhet. Forskningshuvudmannen bestämmer själv genom intern arbets- eller delegationsordning eller genom fullmakt vem som är behörig företrädare för huvudmannen. Behörig företrädare är prefekt, enhetschef eller verksamhetschef eller annan person med motsvarande befogenheter.
+
+För att säkerställa att det finns tillräcklig kompetens i projektet är huvudregeln att den ansvariga forskaren ska vara disputerad inom relevant ämnesområde eller ha motsvarande kompetens. Den som är ansvarig forskare svarar för att andra medverkande också har tillräcklig kompetens och har fått för projektet specifik utbildning i hur det ska genomföras.
+
+Aktuella avgifter för ansökan som:
+- avser forskning där endast en forskningshuvudman deltar: 5 000 kr
+- avser forskning där mer än en forskningshuvudman deltar: 16 000 kr 
+- avser forskning där mer än en forskningshuvudman deltar, men där samtliga forskningspersoner eller forskningsobjekt enligt 4 § etikprövningslagen har ett omedelbart samband med endast en av forskningshuvudmännen: 5 000 kr
+- endast innefattar behandling av personuppgifter: 5 000 kr
+- avser ändringsansökan: 2 000 kr
+
+Grundregeln är att forskning bara får utföras om forskningspersonen har informerats och samtyckt till deltagande. För forskning enligt 4 § gäller kravet på information och samtycke utan undantag. Information till forskningspersonerna kan ges både muntligt och skriftligt.
+
+Etikprövningslagen ska tillämpas på forskning som ska utföras i Sverige (5 §). Internationella forskningsprojekt innebär ibland att forskaren bedriver olika delar av arbetet i flera länder, och ibland också i samarbete med forskare i flera länder. Det arbete som du och dina medarbetare planerar att utföra i Sverige är tillståndspliktigt enligt de regler som redovisats tidigare i denna vägledning.
+
+Om du ska forska på biologiskt material behöver du vara medveten om att biobankslagen (2023:38) normalt sett är tillämplig och att prov som faller under biobankslagen måste tillhöra och inrättas i en biobank. Först när det finns ett etikgodkännande för en konkret forskningsstudie får prover samlas in i en biobank.
+
+
+From etikansokan-ethix-ny-ansokningsmall-2023-10-19.txt:
+1. För administrativa frågor:
+"Forskningshuvudman: Den statliga myndighet eller fysiska eller juridiska person i vars verksamhet forskningen utförs. En fysisk person kan endast undantagsvis vara forskningshuvudman."
+
+2. För definitioner och typ av forskning:
+"Pseudonymiserat: Pseudonymiserade personuppgifter, ibland kallat 'kodade personuppgifter', innebär att direkta identifierare såsom t.ex. personnummer och namn avseende en forskningsperson har tagits bort och ersatts med en kod, där koden sedan kan kopplas ihop med namnet/personnumret via en kodnyckel."
+
+3. För samtycke och information:
+"Samtycke ska alltid dokumenteras. Grundregeln är att forskning bara får utföras om forskningspersonen har informerats och samtyckt till deltagande. För forskning enligt 4 § gäller kravet på information och samtycke utan undantag."
+
+4. För registerhantering:
+"Här avses alla typer av register som innehåller personuppgifter eller uppgifter som tidigare varit personuppgifter men senare avidentifierats. Även medicinska journaldata ska räknas med i denna redogörelse."
+
+5. För ekonomiska aspekter:
+"Redovisa alla överenskommelser om finansiering som har slutits med den eller de som ska genomföra forskningen. Ange vilka belopp som kommer att erhållas för forskningsprojektet och vad ersättningen ska täcka."
+
+
+From God forskningssed VR 2024.txt:
+## 2.1.2 Forskningsbegreppet
+I 2 § etikprövningslagen definieras forskning som "vetenskapligt experimentellt eller teoretiskt arbete eller vetenskapliga studier genom observation, om arbetet eller studierna görs för att hämta in ny kunskap, och utvecklingsarbete på vetenskaplig grund, dock inte sådant arbete eller sådana studier som utförs endast inom ramen för högskoleutbildning på grundnivå eller på avancerad nivå."
+
+## 3.2.1 Organisatoriskt ansvar och ansvarsfördelning
+Forskningshuvudmannen - den organisation i vars verksamhet forskningen utförs - har en central roll när det gäller att god forskningssed följs inom organisationen. Forskningshuvudmannen ska främja medvetenhet och kunskap om forskningsetiska frågor och skapa en miljö fri från otillbörlig påverkan som ger forskare möjlighet att arbeta oberoende och i enlighet med god forskningssed.
+
+## 5.3.3 Information och samtycke 
+En grundläggande forskningsetisk princip är att människor ska informeras och samtycka innan de involveras i forskningen (även om det finns vissa undantag). Detta betraktas allmänt som en central skyddsåtgärd och en förutsättning för att individens rätt till självbestämmande ska respekteras.
+
+Som utgångspunkt ska ett samtycke uppfylla följande kriterier:
+- Informerat: Forskningspersonerna ska informeras om vad deltagande i forskningen och/eller behandling av personuppgifter/prov innebär för deras del
+- Frivilligt: Forskningspersonerna får inte tvingas eller på annat otillbörligt sätt påverkas att samtycka
+- Specifikt: Samtycket ska vara så pass tydligt avgränsat att forskningspersonerna kan bilda sig en klar uppfattning om vad det är de samtycker till
+- Uttryckligt och otvetydigt: Det får inte finnas några oklarheter kring huruvida forskningspersonerna verkligen har samtyckt
+- Möjligt att återta: Ett samtycke ska när som helst kunna tas tillbaka med omedelbar verkan
+- Dokumenterat: Samtycket ska dokumenteras på lämpligt sätt och sparas så länge det är nödvändigt
+
+## 5.3.5 Personuppgiftsbehandling
+Vid behandling av personuppgifter i forskning gäller EU:s dataskyddsförordning (2016/679), GDPR, och kompletterande nationella dataskyddsregler. Personuppgifter är information som direkt eller indirekt kan knytas till en levande person, till exempel namn, personnummer och liknande, men också mycket annat, som ljud- och videoupptagningar, fotografier, IP-adresser med mera.
+
+</information>
+
+När du svarar, följ dessa riktlinjer:
+
+1. Formatera varje svar med XML-taggar som innehåller frågans ID, till exempel:
+<1.1>Ditt svar här</1.1>
+
+2. Skriv koncist och akademiskt. Undvik vardagligt språk och överflödiga ord.
+
+3. Basera alla svar strikt på det tillhandahållna forskningsmaterialet. Gör inga antaganden utöver vad som explicit anges i materialet.
+
+4. För frågor som kräver ett numeriskt svar (ja/nej/ej aktuellt), ange endast siffran som motsvarar svarsalternativet.
+
+5. När det är relevant, inkludera en kort etisk analys i svaret, särskilt för frågor som rör forskningspersoner, samtycke och risker.
+
+6. Håll dig inom angivna teckengränser där sådana anges.
+
+7. Om information saknas i materialet för att besvara en specifik fråga, ange detta tydligt i svaret.
+
+Börja svara på frågorna när du får forskningsmaterialet. Vänta inte på ytterligare instruktioner.
+Besvara följande frågor:
+FrågeID: <1.1>:
+Fråga: 1.1 Titel på forskningsprojektet
+Hjälptext: Ange en beskrivande titel på svenska. Titeln ska gå att förstå för en lekman.
+Teckengräns: 2000
+
+FrågeID: <1.2>:
+Fråga: 1.2 Sökande huvudman för forskningen
+Hjälptext: Forskningshuvudman: Den statliga myndighet eller fysiska eller juridiska person i vars verksamhet forskningen utförs. En fysisk person kan endast undantagsvis vara forskningshuvudman.
+När du fäller ut rullistan kan du börja skriva de första bokstäverna i huvudmannens namn för att snabbt hitta denne. Saknas huvudmannen i listan, välj Annan och fyll i fältet nedan. Ange då även organisationsnummer om det är en svensk organisation.
+
+FrågeID: <1.3.1>:
+Fråga: 1.3.1 Ange en titel för behörig företrädare - titel ska innebära ett verksamhetsansvar
+Hjälptext: 
+
+FrågeID: <1.4>:
+Fråga: 1.4 Kommer flera forskningshuvudmän att medverka i forskningsprojektet?
+Hjälptext: Som medverkande forskningshuvudman räknas den huvudman inom vars verksamhet forskning kommer att bedrivas, det vill säga där forskningspersoner kommer att inkluderas och/eller där data kommer att behandlas och bearbetas.
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <1.4.1>:
+Fråga: 1.4.1 Övriga forskningshuvudmän som deltar i projektet:
+Hjälptext: Som deltagande forskningshuvudman räknas den huvudman inom vars verksamhet forskning kommer att bedrivas, det vill säga där forskningspersoner kommer att inkluderas och/eller där data kommer att behandlas och bearbetas.
+Saknas huvudmannen i listan, välj Annan och fyll i fältet nedan. Ange då även organisationsnummer om det är en svensk organisation.
+
+FrågeID: <1.5>:
+Fråga: 1.5 Hemvist för forskningen
+Hjälptext: Ange den plats inom forskningshuvudmannens verksamhet där forskningen kommer att genomföras, exempelvis sjukhus och klinik, institution eller avdelning.
+Teckengräns: 2000
+
+FrågeID: <1.6.1>:
+Fråga: 1.6.1 Institution/hemvist som ansvarig forskare är verksam vid
+Hjälptext: 
+
+FrågeID: <1.7>:
+Fråga: 1.7 Är den ansvariga forskaren disputerad?
+Hjälptext: Huvudregeln är att den ansvariga forskaren ska vara disputerad inom relevant ämnesområde alternativt inneha motsvarande kompetens. Den som är ansvarig forskare ansvarar för att andra medverkande som ska genomföra projektet har tillräcklig kompetens (vetenskaplig och klinisk).
+I undantagsfall kan icke disputerad forskare godtas om annan medverkande disputerad forskare uttalat att forskningen sker under aktivt överinseende av denne. Uttalandet intygas vid signering av disputerad forskare. CV för den disputerade ska bifogas liksom CV för ansvarig forskare.
+I den mån sökanden begär att forskningen ska få genomföras utan att en disputerad forskare medverkar får en bedömning ske av samtliga omständigheter i det enskilda fallet. Kompetensen ska bedömas i relation till den forskning som är aktuell och till de etiska frågeställningar som forskningen kan antas ge upphov till. Krav bör kunna ställas på att personen i fråga behärskar aktuella vetenskapliga metoder och i övrigt har visat sig lämpad att hantera ett sådant ansvar. Forskaren i fråga ska också ha erfarenhet av att ta ställning till forskningsetiska problem (se prop. 2002/03:50 s. 100).
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <1.7.2>:
+Fråga: 1.7.2 [Om Nej 1.7] Ange den [disputerade] forskarens titel
+Hjälptext: 
+
+FrågeID: <1.9>:
+Fråga: 1.9 Hur många forskningshuvudmän kommer att ingå i forskningsprojektet?
+Hjälptext: Forskningshuvudman: Den statliga myndighet eller fysiska eller juridiska person i vars verksamhet forskningen utförs. En fysisk person kan endast undantagsvis vara forskningshuvudman.
+Om en: Avgiften för ansökan är 5000 kronor.
+Svarsalternativ:
+- En (värde: 1)
+- Flera (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <1.9.1>:
+Fråga: 1.9.1 [Om Flera] Har samtliga forskningspersoner ett omedelbart samband med endast en av forskningshuvudmännen?
+Hjälptext: Forskningsperson: De levande människor som forskningen avser.Omedelbart samband: Forskningspersoner inkluderas i forskningen hos endast en av forskningshuvudmännen.
+Om Ja: Avgiften för ansökan är 5 000 kronor.Om Nej: Avgiften för ansökan är 16 000 kronor.
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <1.10>:
+Fråga: 1.10 Innefattar forskningen endast behandling av personuppgifter?
+Hjälptext: Ett JA-svar innebär att projektet endast kommer att innefatta behandling av personuppgifter enligt 3 § etikprövningslagen.
+Om Ja: Avgiften för ansökan är 5 000 kronor oavsett om en eller flera huvudmän deltar i projektet.
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <2.2>:
+Fråga: 2.2 Önskas ett rådgivande yttrande?
+Hjälptext: Om forskningen i ansökan bedöms vara av det slag som inte kräver godkännande av Etikprövningsmyndigheten kan myndigheten ge ett rådgivande yttrande.
+Rådgivande yttrande kan bara bli aktuellt om det är fråga om forskning enligt definitionen i 2 §, men forskningen alltså inte faller under 3 eller 4 §§. Det görs inte någon regelrätt etikprövning utan enbart en översiktlig granskning som ofta landar i att myndigheten inte ser några hinder med den planerade forskningen. Men om det finns tydliga forskningsetiska brister i upplägget så kommer yttrandet innehålla råd om vad sökanden bör åtgärda innan forskningen kan påbörjas. Ett rådgivande yttrande innebär att ansökan avvisas då den inte faller under etikprövningslagen. Ett rådgivande yttrande kan inte överklagas (avvisningen kan överklagas men inte yttrandet).
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <2.4>:
+Fråga: 2.4 Gäller studien klinisk forskning?
+Hjälptext: Klinisk forskning är medicinsk och hälsovetenskaplig forskning som förutsätter vårdens strukturer och resurser och har som mål att lösa ett ohälsoproblem eller att identifiera faktorer som leder till ökad hälsa. Klinisk forskning genomförs ofta på människor, s.k. kliniska studier, men det finns även klinisk forskning som mer liknar preklinisk forskning. Det gäller till exempel forskning där man använder humant material och därför behöver vårdens resurser, men där syftet med studien är av mer grundläggande karaktär. Det kan exempelvis handla om att studera och förstå hur celler, vävnader och organ fungerar och interagerar samt hur olika sjukdomstillstånd kan uppstå. (Definitionerna är hämtade från Vetenskapsrådets definitioner av begrepp inom medicinsk och klinisk forskning)
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <2.5.1>:
+Fråga: 2.5.1 Avser ansökan forskning som inbegriper äggdonation?
+Hjälptext: Om forskningen inbegriper äggdonation ska Etikprövningsmyndigheten sända en kopia av beslutet till Vetenskapsrådet samt vid godkännande till Socialstyrelsen.
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <2.5.2>:
+Fråga: 2.5.2 Avser ansökan forskning med xenogen cellterapi?
+Hjälptext: Om ansökan avser forskning med xenogen cellterapi finns ingen angiven tidsbegränsning i handläggningstiden.
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <2.5.3>:
+Fråga: 2.5.3 Kommer joniserande strålning ingå i forskningsprojektet?
+Hjälptext: Om forskningen innebär exponering med joniserande strålning för forskningspersoner som inte förväntas få någon direkt medicinsk fördel av exponeringen ska bilaga med information om den joniserande strålningen bifogas och Etikprövningsmyndigheten ska fastställa en dosrestriktion. Ändra svaret på denna fråga genom att klicka på "Ändra förval"-knappen uppe till vänster i formuläret.
+Svarsalternativ:
+- Ja (värde: 1)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <2.5.4>:
+Fråga: 2.5.4 Kommer biologiskt material att användas i projektet?
+Hjälptext: Frågan avser om nytt biologiskt material ska samlas in eller om befintligt biologiskt material ska användas i forskningsprojektet. Ändra svaret på denna fråga genom att klicka på "Ändra förval"-knappen uppe till vänster i formuläret.
+Svarsalternativ:
+- Ja (värde: 1)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <2.5.5>:
+Fråga: 2.5.5.1 [Om Ja 2.5.5] Ange varför etikprövning enligt etikprövningslagen ändå ska ske
+Hjälptext: Från den 26 maj 2021 gäller EU:s förordning om medicintekniska produkter (MDR) och från den 26 maj 2022 gäller EU:s förordning om medicintekniska produkter för in vitro-diagnostik (IVDR). Enligt MDR, IVDR, lagen- (2021:600) med kompletterande bestämmelser till EU:s förordningar om medicintekniska produkter eller föreskrifter som Läkemedelsverket har meddelat med stöd av sistnämnda lag, ska sponsor anmäla och ansöka om prövning av en medicinteknisk produkt via EU-portalen EUDAMED. Innan EUDAMED är fullt fungerande ska handlingarna skickas till Läkemedelsverket. Läs mer om ansökan och anmälan till Läkemedelsverket:Ansökan och anmälan Läkemedelsverket (lakemedelsverket.se)Ansökan och anmälan – enligt IVDR Läkemedelsverket (lakemedelsverket.se)
+I de fall då det inte krävs en ansökan eller anmälan enligt MDR, IVDR, lagen med kompletterande bestämmelser till EU:s förordningar om medicintekniska produkter eller föreskrifter som Läkemedelsverket har meddelat med stöd av sistnämnda lag ska etikprövningslagen tillämpas. Detta gäller dock under förutsättning att prövningen eller studien i övrigt omfattas av etikprövningslagens tillämpningsområde.
+
+FrågeID: <3.4>:
+Fråga: 3.4 Kommer delar av den forskning som beskrivs i ansökan ske utanför Sverige?
+Hjälptext: Etikprövningen omfattar enbart de delar och moment av forskningen som ska utföras i Sverige. Etikprövning krävs vidare enbart av det som är forskning enligt definitionen i 2 § etikprövningslagen, dvs. vetenskapligt experimentellt eller teoretiskt arbete eller vetenskapliga studier genom observation, om arbetet eller studierna görs för att hämta in ny kunskap, och utvecklingsarbete på vetenskaplig grund. I lagens förarbeten lyfter man fram följande moment i det man kallar genomförandefasen av en studie; rekrytering av forskningspersoner, inhämtande av underlag, genomförande av försök, analys och bearbetning. Det är alltså dessa moment som inte får genomföras utan etikgodkännande. I det fall delar av forskningen ska ske utanför Sverige så ska dessa delar beskrivas i etikansökan men information eller underlag som ska användas utanför Sverige ska inte ges in med ansökan. Med information och underlag avses exempelvis annons eller forskningspersonsinformation. Om forskning sker med digitala verktyg av forskare som är verksam och befinner sig i Sverige så sker forskningen i Sverige även om forskningspersonerna befinner sig utanför Sverige.
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <9.1>:
+Fråga: 9.1 Kommer forskningspersonerna att informeras om forskningsprojektet och tillfrågas om de vill vara med eller inte?
+Hjälptext: Samtycke ska alltid dokumenteras. Grundregeln är att forskning bara får utföras om forskningspersonen har informerats och samtyckt till deltagande. För forskning enligt 4 § gäller kravet på information och samtycke utan undantag. Information till forskningspersonerna kan ges både muntligt och skriftligt. Om det i någon annan författning finns särskilda föreskrifter om information och samtycke vid forskning gäller de föreskrifterna i stället för bestämmelserna i etikprövningslagen.
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <9.3>:
+Fråga: 9.3 Kommer forskningspersoner, vars mening på grund av sjukdom, psykisk störning, försvagat hälsotillstånd eller något annat liknande förhållande inte kan inhämtas, att ingå i forskningsprojektet?
+Hjälptext: Ange om forskningsprojektet kommer involvera personer som själva inte kan samtycka till sitt eget deltagande p.g.a. sjukdom, psykisk störning, försvagat hälsotillstånd eller liknande tillstånd.
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <10.1>:
+Fråga: 10.1 Kommer projektet att begära ut uppgifter från ett befintligt register?
+Hjälptext: Här avses alla typer av register som innehåller personuppgifter eller uppgifter som tidigare varit personuppgifter men senare avidentifierats. Även medicinska journaldata ska räknas med i denna redogörelse.
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <11.1>:
+Fråga: 11.1 Finns det relevanta resultat från djurförsök?
+Hjälptext: Frågan avser framför allt klinisk behandlingsforskning. Om djurförsök inte har utförts, ange då anledningen till detta.
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+- Ej aktuellt (värde: 3)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <13.1>:
+Fråga: 13.1 Är forskningen företagsinitierad?
+Hjälptext: Med företagsinitierad menas att ett företag initierat och finansierat forskningen. Det kan även benämnas kommersiell forskning. När en organisation inom offentlig sektor, vanligen akademi eller vårdgivare, initierat forskningen benämns den som icke-kommersiell forskning. Även forskning initierad av en enskild akademisk prövare faller inom kategorin icke-kommersiell forskning.
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <14.1>:
+Fråga: 14.1 Kommer biologiskt material från människor att nyinsamlas för projektet?
+Hjälptext: Frågan avser ny insamling av biologiskt material (prover) från människor, dvs. material som samlas in specifikt för detta forskningsprojekt.
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <14.2>:
+Fråga: 14.2 Planerar projektet att använda biologiskt material från människor från en eller flera befintliga provsamlingar?
+Hjälptext: Frågan avser om man för detta forskningsprojekt kommer att begära tillgång till biologiskt material eller prover som har samlats in tidigare.
+Svarsalternativ:
+- Ja (värde: 1)
+- Nej (värde: 2)
+Denna fråga besvaras med en siffra.
+

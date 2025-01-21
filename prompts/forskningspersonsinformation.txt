@@ -1,0 +1,81 @@
+Din uppgift är att skapa en strukturerad forskningspersonsinformation som följer etikprövningslagens krav. Informationen ska:
+1. Vara skriven på ett lättförståeligt och tydligt sätt
+2. Undvika facktermer och komplicerade formuleringar
+3. Innehålla all nödvändig information för informerat samtycke
+4. Vara strukturerad enligt specificerade XML-taggar
+5. Följa god forskningsetisk praxis
+
+Informationen ska struktureras i följande sektioner med XML-taggar:
+<BackgroundAndPurpose>: Ge en kort men tydlig beskrivning av bakgrund och övergripande syfte med projektet. Informera om varför just den aktuella personen tillfrågas samt hur projektet har fått tillgång till uppgifter om personen som gör att denne tillfrågas. 
+<ParticipantRequirements>: Beskriv ur forskningspersonens perspektiv vad ett deltagande innebär. Vad krävs av forskningspersonen? Vilka metoder kommer att användas? Antal besök, intervjuer, enkäter, tester och tidsåtgång? Ska prover tas? Vilken sorts prover (vävnad) ska tas? Provmängd? Det ska tydligt framgå på vilket sätt undersökningsproceduren eventuellt skiljer sig från den rutinmässiga behandlingen. 
+<RisksAndConsequences>: Ge saklig information om de följder och risker som deltagandet kan innebära. Undvik förskönande formuleringar och formuleringar som kan innebära otillbörlig påverkan. Kan deltagandet innebära obehag, smärta, känslomässiga effekter, integritetsintrång etc.? Beskriv eventuella biverkningar och andra effekter på kort och lång sikt. I förekommande fall ska det framgå hur de projektansvariga kommer att hantera de problem som kan uppstå. Kan deltagandet i projektet/studien avbrytas vid vissa effekter? Vilken möjlighet finns till uppföljande undersökning eller samtal etc.? 
+<DataManagement>: Förklara vilken information som kommer att samlas in, hur den kommer att hanteras och förvaras samt för hur lång tid. Varifrån kommer data hämtas, vilka källor kommer att användas? Kommer informationen gå att härleda till forskningspersonen? Hur kommer tillgången till uppgifterna att se ut? Hur skyddas uppgifterna?Ange ändamålen med behandlingen av personuppgifterna och den rättsliga grunden enligt EU:s dataskyddsförordning för behandlingen. Om uppgifterna kommer att överföras till ett land utanför EU och EES-området (s.k. tredjeland) eller till en internationell organisation ska detta särskilt anges. Det ska också anges om det finns ett beslut av EU-kommissionen om att landet eller organisationen kan säkerställa en adekvat skyddsnivå och i annat fall en hänvisning till lämpliga eller passande skyddsåtgärder och hur en kopia av dessa kan erhållas eller var dessa har gjorts tillgängliga. 
+<SampleHandling>: Om prover kommer att sändas inom Sverige eller utomlands för analys ska det framgå. Det ska framgå om proverna ska sändas till ett annat EU/EES-land eller till ett tredje land. Kommer proverna bevaras hos mottagaren, återlämnas, avidentifieras eller förstöras? Hur lång tid kommer proverna förvaras/analyseras i Sverige eller utomlands och inom vilken tid kommer proverna återlämnas, avidentifieras eller förstöras? 
+<ResultsAccess>: Informera om på vilket sätt forskningspersonen kan ta del av sina individuella data respektive resultatet av hela projektet/studien. Forskningspersonens möjlighet att inte behöva ta del av eventuella analysresultat bör framgå. Det bör också framgå hur projektet kommer att hantera eventuella oförutsedda fynd.
+<InsuranceAndCompensation>: Informera om vilket försäkringsskydd som gäller. Alla forskningspersoner ska ha ett heltäckande försäkringsskydd. Det ska framgå om forskningspersonen har rätt att få ersättning för förlorad arbetsinkomst eller utgifter som är kopplade till projektet. Det ska också framgå om ersättningen är skattepliktig eller inte.
+
+Formera ditt svar med XML-taggar enligt följande struktur:
+<BackgroundAndPurpose>
+- Forskningsprojektets bakgrund och övergripande syfte
+- Varför personen tillfrågas att delta
+- Vem som är forskningshuvudman
+</BackgroundAndPurpose>
+
+<ParticipantRequirements>
+- Vad deltagandet konkret innebär
+- Tidsåtgång och antal besök/kontakter
+- Vilka moment som ingår
+- Eventuella restriktioner eller förberedelser
+</ParticipantRequirements>
+
+<RisksAndConsequences>
+- Möjliga risker och obehag
+- Förväntade följder av deltagande
+- Eventuella biverkningar eller komplikationer
+- Hur risker hanteras och minimeras
+</RisksAndConsequences>
+
+<DataManagement>
+- Vilka personuppgifter som samlas in
+- Hur uppgifterna hanteras och skyddas
+- Vem som har tillgång till uppgifterna
+- Hur länge uppgifterna sparas
+</DataManagement>
+
+<SampleHandling>
+- Information om eventuell provhantering utomlands
+- Hur länge och var proverna förvaras
+- Hur lång tid proverna kommer förvaras/analyseras i Sverige eller utomlands och inom vilken tid proverna kommer återlämnas, avidentifieras eller förstöras
+- Om detta inte är aktuellt, kan taggen lämnas tom
+</SampleHandling>
+
+<ResultsAccess>
+- Hur forskningspersonen kan ta del av sina data
+- När och hur resultaten publiceras
+- Möjlighet att få information om studiens resultat
+</ResultsAccess>
+
+<InsuranceAndCompensation>
+- Vilket försäkringsskydd som gäller
+- Eventuell ersättning för deltagande
+- Hur ersättning betalas ut
+</InsuranceAndCompensation>
+
+Viktiga riktlinjer:
+- Använd ett enkelt och tydligt språk
+- Undvik medicinska facktermer
+- Var konkret och specifik
+- Inkludera all information som krävs enligt etikprövningslagen
+- Anpassa informationen till målgruppen
+- Betona frivillighet och rätten att avbryta deltagande
+
+Formatera informationen med XML-taggar enligt strukturen ovan. Varje sektion ska innehålla relevant information baserad på det tillhandahållna materialet. Om information saknas för någon sektion, ange detta explicit.
+
+Kom ihåg att informationen ska:
+- Vara lätt att förstå för personer utan forskningsbakgrund
+- Innehålla all väsentlig information för informerat samtycke
+- Följa etiska riktlinjer för forskningspersonsinformation
+- Vara balanserad och inte övertalande
+- Tydligt kommunicera forskningspersonens rättigheter 
+- Skriv på svenska i löpande text, ej punktlista.
+- Om någon information saknas, ange detta explicit.

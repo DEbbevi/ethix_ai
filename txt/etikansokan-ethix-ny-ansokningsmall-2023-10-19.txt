@@ -1,0 +1,811 @@
+<!-- image -->
+
+## Grundansökan Etikprövningsmyndigheten
+
+Vägledning vid etikansökan
+
+Version 2023-10-19
+
+## Introduktion
+
+Den här vägledningen följer punkt för punkt rubrikerna i etikansökan i Ethix. Vissa avsnitt i etikansökan är svåra att tolka och vägledningen kan ge användbara tips och exempel på hur man besvarar dessa frågor. Den ger även rekommendationer kring hur du bör planera för studiens upplägg och tar upp viktiga delar såsom val av forskningshuvudmannaskap, behandling av personuppgifter och datahantering.
+
+## Definitioner
+
+Pseudonymiserat: Pseudonymiserade personuppgifter, ibland kallat "kodade personuppgifter", innebär att direkta identifierare såsom t.ex. personnummer och namn avseende en forskningsperson har tagits bort och ersatts med en kod, där koden sedan kan kopplas ihop med namnet/personnumret via en kodnyckel. Därmed finns det en möjlighet att forskningspersonens direkta identitet går att spåra. Det spelar ingen roll var någonstans kodnyckeln finns, eller hur få personer som har tillgång till kodnyckeln, uppgiften anses spårbar även om kodnyckeln finns i ett annat land eller endast en person har tillgång till den och även om du som forskare inte har, eller ens har laglig rätt att få, tillgång till den. Finns det en kodnyckel sparad någonstans, är uppgiften pseudonymiserad (spårbar) och etikprövning krävs.
+
+Anonymiserat: Anonymiserade personuppgifter innebär att personnummer och namn eller annan identifierare har tagits bort helt (ej ersatts med en kod) och en eventuell kodnyckel har förstörts. Då är det inte längre möjligt att spåra uppgifterna till en enskild forskningspersons identitet. Viss forskning som utförs på anonymiserade uppgifter behöver inte etikprövas, till exempel forskning på anonymiserat (och kommersiellt) biologiskt material eller anonymiserade genomiska uppgifter. Var dock noggrann med att uppgifterna du använder verkligen är anonymiserad och inte bara är pseudonymiserad.
+
+Forskningsperson: De levande människor som forskningen avser.
+
+Personuppgifter: All slags information som direkt eller indirekt kan hänföras till en fysisk person som är i livet.
+
+Känsliga personuppgifter: Känsliga personuppgifter är uppgifter som avslöjar ras eller etniskt ursprung, politiska åsikter, religiös eller filosofisk övertygelse, medlemskap i fackförening, hälsa, en persons sexualliv eller sexuella läggning, genetiska uppgifter och biometriska uppgifter som entydigt identifierar en person.
+
+Personuppgifter om lagöverträdelser: Personuppgifter om lagöverträdelser som innefattar brott, domar i brottmål, straffprocessuella tvångsmedel eller administrativa frihetsberövanden.
+
+<!-- image -->
+
+## Innehåll
+
+| 1. Huvudsakliga uppgifter .......................................................................................................... 4$\_{ }$            |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2. Typ av forskning - initiala frågor .......................................................................................... 7$\_{ }$                |
+| 3. Syfte och frågeställningar..................................................................................................... 10$\_{ }$             |
+| 4. Metod ................................................................................................................................... 11$\_{ }$   |
+| 5. Tidsplan ................................................................................................................................ 12$\_{ }$   |
+| 6. Datainsamling....................................................................................................................... 13$\_{ }$        |
+| 7. Etiska överväganden ............................................................................................................ 19$\_{ }$            |
+| 8. Forskningspersoner .............................................................................................................. 21$\_{ }$           |
+| 9. Information och samtycke .................................................................................................... 24$\_{ }$               |
+| 10. Registeruppgifter ................................................................................................................ 26$\_{ }$         |
+| 11. Resultat från djurförsök...................................................................................................... 26$\_{ }$             |
+| 12. Redovisning av resultat ...................................................................................................... 27$\_{ }$             |
+| 13. Ekonomiska förhållanden................................................................................................... 28$\_{ }$                 |
+| Bilagor ...................................................................................................................................... 29$\_{ }$ |
+
+## 1. Huvudsakliga uppgifter
+
+## 1.1 Titel på forskningsprojektet
+
+Ange en beskrivande titel på svenska. Titeln ska gå att förstå för en lekman.
+
+## 1.2 Sökande huvudman för forskningen
+
+Forskningshuvudman: Den statliga myndighet eller fysiska eller juridiska person i vars verksamhet forskningen utförs. En fysisk person kan endast undantagsvis vara forskningshuvudman.
+
+När du fäller ut rullistan kan du börja skriva de första bokstäverna i huvudmannens namn för att snabbt hitta denne. Saknas huvudmannen i listan, välj Annan och fyll i fältet nedan. Ange då även organisationsnummer om det är en svensk organisation.
+
+Om det finns fler forskningshuvudmän anges här den som har ett samordnande uppdrag för själva etikansökan. De övriga forskningshuvudmännen ska anges under avsnittet 1.4.1 Övriga forskningshuvudmän som deltar i projektet.
+
+Det kan ibland vara oklart vem som ska anges som ansvarig huvudman och vem/vilka som är medverkande huvudman/huvudmän. "Ansvarig huvudman" avser den som har det samordnade ansvaret att skicka in etikansökan för alla medverkande forskningshuvudmäns räkning och att vara koordinator för de medverkande huvudmännen. Aspekter att ta i beaktande:
+
+- ·
+
+Var är huvudansvarig forskare anställd
+
+- · Var kommer deltagarna att rekryteras?
+
+·
+
+Var kommer uppgifterna att samlas in, lagras, analyseras?
+
+- · Vem kommer hantera studiens finansiering?
+
+När analyser och lagring av data görs hos en annan organisation ska de vara med som deltagande forskningshuvudman. Exempel om Region Stockholm/SLSO är huvudman och ni ska analysera, lagra, hantera data inom KI (på din KI dator) ska KI vara medverkande forskningshuvudman.
+
+Se https://medarbetare.ki.se/media/157055/download för vägledning vid val av forskningshuvudman vid samarbete mellan vårdgivare inom Region Stockholm och KI
+
+Eftersom vi inte kan återfinna Region Stockholm/SLSO i rullistan på huvudmän i punk 1.2 ovan, välj Region Stockholm i rullistan ovan. Se även 1.5 nedan.
+
+## 1.3 Behörig företrädare för forskningshuvudmannen
+
+Skriv in behörig företrädares e-postadress och bjud in denna att signera ansökan.
+
+Region Stockholm/SLSO: Vid forskning inom en verksamhet är det verksamhetschefen som är behörig företrädare. Om fler verksamheter är involverade gäller delegationsordningen inom Region Stockholm/SLSO.
+
+KI: Prefekt
+
+## 1.3.1 Ange en titel för behörig företrädare - titel ska innebära ett verksamhetsansvar
+
+## 1.4 Kommer flera forskningshuvudmän att medverka i forskningsprojektet?
+
+Som medverkande forskningshuvudman räknas den huvudman inom vars verksamhet forskning kommer att bedrivas, det vill säga där forskningspersoner kommer att inkluderas och/eller där data kommer att behandlas och bearbetas.
+
+- o Ja
+
+## o Nej
+
+KI har tillsammans med Region Stockholm tagit fram en gemensam " Vägledning - val av ansvarig forskningshuvudman vid etikansökan rörande forskning där Karolinska institutet och vårdgivare i Region Stockholm samarbetar" . Vägledningen ger rådgivande exempel och förslag på hur man kan resonera när man ska utse ansvarig forskningshuvudman till etikansökan. Se även 1.2.
+
+## 1.4.1 Övriga forskningshuvudmän som deltar i projektet:
+
+Som deltagande forskningshuvudman räknas den huvudman inom vars verksamhet forskning kommer att bedrivas, det vill säga där forskningspersoner kommer att inkluderas och/eller där data kommer att behandlas och bearbetas.
+
+Saknas huvudmannen i listan, välj Annan och fyll i fältet nedan. Ange då även organisationsnummer om det är en svensk organisation.
+
+## Ytterligare huvudmän till 1.4.1
+
+## 1.5 Hemvist för forskningen
+
+Ange den plats inom forskningshuvudmannens verksamhet där forskningen kommer att genomföras, exempelvis sjukhus och klinik, institution eller avdelning.
+
+Eftersom vi inte kan återfinna Region Stockholm/SLSO i rullistan på huvudmän i punk 1.2 ovan, skriv in "SLSO, verksamhet" (till exempel "SLSO, Huddinge sjukhus, Psykiatri Sydväst").
+
+## 1.6 Ansvarig forskare för projektet
+
+Som ansvarig forskare ansvarar du för att forskningen bedrivs i enlighet med vad som beskrivs i ansökan. En ansvarig forskare har brukligen genomgått en forskarutbildning och disputerat.
+
+## 1.6.1 Institution/hemvist som ansvarig forskare är verksam vid
+
+## 1.7 Är den ansvariga forskaren disputerad?
+
+Huvudregeln är att den ansvariga forskaren ska vara disputerad inom relevant ämnesområde alternativt inneha motsvarande kompetens. Den som är ansvarig forskare ansvarar för att andra medverkande som ska genomföra projektet har tillräcklig kompetens (vetenskaplig och klinisk).
+
+I undantagsfall kan icke disputerad forskare godtas om annan medverkande disputerad forskare uttalat att forskningen sker under aktivt överinseende av denne. Uttalandet intygas vid signering av disputerad forskare. CV för den disputerade ska bifogas liksom CV för ansvarig forskare.
+
+<!-- image -->
+
+I den mån sökanden begär att forskningen ska få genomföras utan att en disputerad forskare medverkar får en bedömning ske av samtliga omständigheter i det enskilda fallet. Kompetensen ska bedömas i relation till den forskning som är aktuell och till de etiska frågeställningar som forskningen kan antas ge upphov till. Krav bör kunna ställas på att personen i fråga behärskar aktuella vetenskapliga metoder och i övrigt har visat sig lämpad att hantera ett sådant ansvar. Forskaren i fråga ska också ha erfarenhet av att ta ställning till forskningsetiska problem (se prop. 2002/03:50 s. 100).
+
+- o Ja
+- o Nej
+
+## 1.8 Andra medverkande
+
+## 1.9 Hur många forskningshuvudmän kommer att ingå i forskningsprojektet?
+
+Forskningshuvudman: Den statliga myndighet eller fysiska eller juridiska person i vars verksamhet forskningen utförs. En fysisk person kan endast undantagsvis vara forskningshuvudman.
+
+Om en: Avgiften för ansökan är 5000 kronor.
+
+- o En
+- o Flera
+
+## 1.9.1 [Om Flera] Har samtliga forskningspersoner ett omedelbart samband med endast en av forskningshuvudmännen?
+
+Forskningsperson: De levande människor som forskningen avser.
+
+Omedelbart samband: Forskningspersoner inkluderas i forskningen hos endast en av forskningshuvudmännen.
+
+Om Ja: Avgiften för ansökan är 5 000 kronor.
+
+Om Nej: Avgiften för ansökan är 16 000 kronor.
+
+- o Ja
+- o Nej
+
+## 1.10 Innefattar forskningen endast behandling av personuppgifter?
+
+Ett JA-svar innebär att projektet endast kommer att innefatta behandling av personuppgifter enligt 3 § etikprövningslagen.
+
+Om Ja: Avgiften för ansökan är 5 000 kronor oavsett om en eller flera huvudmän deltar i projektet.
+
+- o Ja
+- o Nej
+
+<!-- image -->
+
+## 2. Typ av forskning - initiala frågor
+
+## 2.1 Gör en egen bedömning och ange på vilka punkter nedan som forskningen omfattas av 3-4 §§ etikprövningslagen. Observera att myndigheten kan komma att göra en annan bedömning.
+
+Forskningsperson: De levande människor som forskningen avser.
+
+Personuppgifter: All slags information som direkt eller indirekt kan hänföras till en fysisk person som är i livet.
+
+Känsliga personuppgifter: Känsliga personuppgifter är uppgifter som avslöjar etniskt ursprung*, politiska åsikter, religiös eller filosofisk övertygelse, medlemskap i fackförening, hälsa, en persons sexualliv eller sexuella läggning, genetiska uppgifter och biometriska uppgifter som entydigt identifierar en person.
+
+Personuppgifter om lagöverträdelser: Personuppgifter om lagöverträdelser som innefattar brott, domar i brottmål, straffprocessuella tvångsmedel eller administrativa frihetsberövanden.
+
+- * I EU:s Dataskyddsförordning står det att uppgifter som avslöjar någons etniska ursprung eller ras är känsliga personuppgifter. I svenska lagar använder vi inte längre ordet ras. I dataskyddsförordningen används ordet, men där står att det inte innebär att EU godtar teorier om att det skulle finnas skilda människoraser.
+- o 3 § 1 Forskningen innefattar behandling av känsliga personuppgifter.
+- o 3 § 2 Forskningen innefattar behandling av personuppgifter om lagöverträdelser.
+- o 4 § 1 Forskningen innebär ett fysiskt ingrepp på en forskningsperson.
+- o 4 § 2 Forskningen utförs enligt en metod som syftar till att påverka forskningspersonen fysiskt eller psykiskt, eller så innebär forskningen en uppenbar risk att skada forskningspersonen.
+- o 4 § 3 Forskningen avser studier på biologiskt material som har tagits från en levande människa och kan härledas tillbaka till denna människa.
+- o 4 § 4 Forskningen avser ett fysiskt ingrepp på en avliden människa.
+- o 4 § 5 Forskningen avser studier på biologiskt material som har tagits för medicinskt ändamål från en avliden människa och kan härledas till denna människa.
+- o Forskningen faller inte under etikprövningslagens tillämpningsområde.
+
+## 2.1.1 [Om 3 § 1] Gör en egen bedömning och ange vilken typ av känsliga personuppgifter som kommer att behandlas i projektet. Observera att myndigheten kan komma att göra en annan bedömning.
+
+Personuppgifter: All slags information som direkt eller indirekt kan hänföras till en fysisk person som är i livet.
+
+Personuppgifter som har pseudonymiserats och som skulle kunna tillskrivas en fysisk person genom att kompletterande uppgifter används är uppgifter om en identifierbar fysisk person. Forskningspersoner vars uppgifter är identifierbara genom en kodlista exempelvis ska ges information om att deras uppgifter är pseudonymiserade. För uppgifter som inte på något vis kan tillskrivas en specifik individ ska förhållande och förutsättningar som omöjliggör identifiering beskrivas. Ord som anonymiserat, avidentifierat, kodat eller liknande ska undvikas.
+
+<!-- image -->
+
+Känsliga personuppgifter: Känsliga personuppgifter är uppgifter som avslöjar etniskt ursprung*, politiska åsikter, religiös eller filosofisk övertygelse, medlemskap i fackförening, hälsa, en persons sexualliv eller sexuella läggning, genetiska uppgifter och biometriska uppgifter som entydigt identifierar en person. Enligt definition i EU:s Dataskyddsförordning. * I EU:s Dataskyddsförordning står det att uppgifter som avslöjar någons etniska ursprung eller ras är känsliga personuppgifter. I svenska lagar använder vi inte längre ordet ras. I dataskyddsförordningen används ordet, men där står att det inte innebär att EU godtar teorier om att det skulle finnas skilda människoraser.
+
+- o etniskt ursprung*
+- o politiska åsikter
+- o religiös eller filosofisk övertygelse
+- o medlemskap i fackförening
+- o hälsa
+- o en persons sexualliv eller sexuella läggning
+- o genetiska uppgifter
+- o biometriska uppgifter som entydigt identifierar en person.
+
+## 2.2 Önskas ett rådgivande yttrande?
+
+Om forskningen i ansökan bedöms vara av det slag som inte kräver godkännande av Etikprövningsmyndigheten kan myndigheten ge ett rådgivande yttrande. Rådgivande yttrande kan bara bli aktuellt om det är fråga om forskning enligt definitionen i 2 §, men forskningen alltså inte faller under 3 eller 4 §§. Det görs inte någon regelrätt etikprövning utan enbart en översiktlig granskning som ofta landar i att myndigheten inte ser några hinder med den planerade forskningen. Men om det finns tydliga forskningsetiska brister i upplägget så kommer yttrandet innehålla råd om vad sökanden bör åtgärda innan forskningen kan påbörjas. Ett rådgivande yttrande innebär att ansökan avvisas då den inte faller under etikprövningslagen. Ett rådgivande yttrande kan inte överklagas (avvisningen kan överklagas men inte yttrandet).
+
+- o Ja
+- o Nej
+
+## 2.3 Särskilda frågor för medicinsk forskning
+
+## 2.3.1 Avser ansökan forskning som inbegriper äggdonation?
+
+Om forskningen inbegriper äggdonation ska Etikprövningsmyndigheten sända en kopia av beslutet till Vetenskapsrådet samt vid godkännande till Socialstyrelsen.
+
+- o Ja
+- o Nej
+
+## 2.3.2 Avser ansökan forskning med xenogen cellterapi?
+
+Om ansökan avser forskning med xenogen cellterapi finns ingen angiven tidsbegränsning i handläggningstiden.
+
+- o Ja
+- o Nej
+
+## 2.3.3 Kommer joniserande strålning ingå i forskningsprojektet?
+
+8 33 Om forskningen innebär exponering med joniserande strålning för forskningspersoner som inte förväntas få någon direkt medicinsk fördel av exponeringen ska bilaga med information
+
+om den joniserande strålningen bifogas och Etikprövningsmyndigheten ska fastställa en dosrestriktion.
+
+- o Nej
+
+## 2.3.4 Kommer biologiskt material att användas i projektet?
+
+Frågan avser om nytt biologiskt material ska samlas in eller om befintligt biologiskt material ska användas i forskningsprojektet.
+
+- o Nej
+
+## 2.3.5 Avser forskningen klinisk prövning eller en prestandastudie av medicinteknisk produkt/medicinteknisk produkt för in vitro-diagnostik?
+
+Klinisk prövning av en medicinteknisk produkt: Systematiskt undersökning som involverar en eller flera försökspersoner för att bedöma en medicinteknisk produkts säkerhet och prestanda Prestandastudie: En studie som genomförs för att fastställa eller bekräfta en produkts analytiska eller kliniska prestanda
+
+- o Nej
+
+## 3. Syfte och frågeställningar
+
+## 3.1 Skriv en populärvetenskaplig sammanfattning av forskningsprojektet.
+
+Beskriv projektet på ett sammanfattande vis. Tänk på att texten ska kunna förstås av personer som inte har vetenskaplig kompetens. Undvik därför terminologi som kräver specialkunskaper.
+
+## 3.2 Vad är det vetenskapliga syftet med projektet?
+
+Beskriv det övergripande syftet med projektet. Redogör för vad det är för forskningsproblem som projektet ska behandla och vilka avgränsningar som gjorts.
+
+## 3.3 Vilka är de vetenskapliga frågeställningarna?
+
+Ange klart och tydligt den eller de vetenskapliga frågeställningarna i projektet.
+
+Håll koll på frågeställningarna så att de passar den data som samlas in.
+
+Se till att inte samla in mer än det som krävs för att besvara frågeställningarna i enlighet med GDPR. Det här blir dessutom aktuellt i och med krav på konsekvensanalys s.k. DPIA.
+
+## 3.4 Kommer delar av den forskning som beskrivs i ansökan ske utanför Sverige?
+
+Etikprövningen omfattar enbart de delar och moment av forskningen som ska utföras i Sverige. Etikprövning krävs vidare enbart av det som är forskning enligt definitionen i 2 § etikprövningslagen, dvs. vetenskapligt experimentellt eller teoretiskt arbete eller vetenskapliga studier genom observation, om arbetet eller studierna görs för att hämta in ny kunskap, och utvecklingsarbete på vetenskaplig grund. I lagens förarbeten lyfter man fram följande moment i det man kallar genomförandefasen av en studie; rekrytering av forskningspersoner, inhämtande av underlag, genomförande av försök, analys och bearbetning. Det är alltså dessa moment som inte får genomföras utan etikgodkännande. I det fall delar av forskningen ska ske utanför Sverige så ska dessa delar beskrivas i etikansökan men information eller underlag som ska användas utanför Sverige ska inte ges in med ansökan. Med information och underlag avses exempelvis annons eller forskningspersonsinformation. Om forskning sker med digitala verktyg av forskare som är verksam och befinner sig i Sverige så sker forskningen i Sverige även om forskningspersonerna befinner sig utanför Sverige.
+
+- o Ja
+- o Nej
+
+## 4. Metod
+
+## 4.1 Redogör för metod inkl. proceduren, tekniken eller behandlingen.
+
+Det ska framgå hur projektet planeras att genomföras. Beskriv insamlade datas karaktär och ange hur datas tillförlitlighet ska säkerställas. Om enkäter och intervjuer ingår ska tillvägagångssätt, frågornas innehåll och hur slutsatser dras beskrivas. Bifoga enkäter och skattningsskalor i slutet av ansökningsformuläret. För medicinsk forskning ska anges exempelvis typer av ingrepp, mätmetoder, antal besök, tidsåtgång.
+
+Om projektet är ett samarbete med utlandet ska det tydligt framgå vilken del av forskningen som utförs i Sverige och vilken del av forskningen som utförs utanför Sverige, se 3.4.3. Det är endast forskning som ska utföras i Sverige som Etikprövningsmyndigheten kan pröva. En fullständig beskrivning av hela projektet måste lämnas men de särskilda avsnitten om metoder, datainsamling, forskningspersoner, information och samtycke och om registeruppgifter ska bara fyllas i de delar som rör moment som ska utföras i Sverige.
+
+Redogör för vilka frågor, alla formulär och undersökningar som ska användas, när de ska användas. Vad samlas in när ? Ofta anger forskare denna information senare i ansökningen, men det är under denna punkt det ska beskrivas. (jämför med 6.1 som handlar om hur data samlas in)
+
+Planeringstips - Om ni behöver göra uttag från patientjournal, dvs TakeCare, tänk till kring hur ofta ni behöver göra uttag. Ni kommer inte få godkännande för obegränsad tillgång att öppna journaler i forskningssyfte varje dag under studieperioden. Ni behöver därför planera för hur det praktiskt går till så att studien blir genomförbar då åtkomsttillfällen till journaldata (TakeCare) är begränsad. I ansökan om uttag av journaldata kommer ni ombes specificera vilka som tar ut data och vilka tidsperioder ni behöver ha tillgång till.
+
+Om projektet har flera huvudmän, var noga med att beskriva vilken huvudman som ansvarar för vad och utför vilken del av projektet samt var de delarna kommer utföras.
+
+## 4.2 Om forskningen går ut på att pröva en ny metod eller behandling: Redogör för på vilket sätt metoden skiljer sig från den ordinarie verksamheten.
+
+Ange vad som avviker eller tillkommer med anledning av forskningsprojektet. Vid patientnära forskning ska en beskrivning ges över de åtgärder som föranleds av forskningen vilka avviker från klinisk rutin, vårdprogram eller liknande gängse procedurer. Vid samhällsvetenskaplig forskning kan det röra sig om hur behandlingsprogram för brukare påverkas av forskningsprojektet och du behöver särskilja för vad som är ordinarie behandling och vad som utgör forskningsspecifika moment. På samma sätt behöver du som forskar inom skolmiljö beskriva vad som utgör ordinarie undervisning och vad som tillkommer eller förändras med forskningen.
+
+Beskriv på vilket sätt deltagaren får göra ytterliga saker som är ett tillägg från klinisk rutin / ordinarie behandling (om det är aktuellt i din studie)
+
+## 4.3 Redogör för tidigare erfarenheter (egna och/eller andras) av den valda metoden.
+
+Redogör för vilken erfarenhet och kompetens som medverkande forskare har av att använda den planerade forskningsmetoden eller den procedur, teknik eller behandling som man eventuellt planerar att använda i projektet. Redogör även för vilken erfarenhet som finns generellt eller globalt.
+
+Specificera de erfarenheter och kompetenser medverkande forskare har som bedöms som viktiga för ingrepp / interventioner / analyser / etc. i denna studie.
+
+## 5. Tidsplan
+
+## 5.1 Förväntat startdatum för projektet:
+
+Ange beräknad start av projektet. Notera att startdatum måste ligga efter datum för myndighetens slutgiltiga beslut. Myndigheten kan inte pröva forskning som påbörjats.
+
+## 5.2 Förväntat slutdatum för projektet:
+
+Ange beräknat slut av projektet.
+
+## 5.3 Tidsplan för de olika delar som ingår i projektet:
+
+Redogör för projektets tidsschema, hur de olika delarna förhåller sig till varandra, vid behov kan ett förklarande flödesschema bifogas i slutet av formuläret.
+
+Ange, om möjligt, tidsplanen för de olika delarna i studien. Till exempel; rekrytering, insamling av data/interventioner, analys av data, sammanställning. Håll koll på att godkännandet upphör att gälla om inte forskningen påbörjats senast två år från godkännandet. Hanteringen och långtidsförvaringen av personuppgifterna räknas inte in här, anges senare. Om möjligt, försök undvika att specificera datum för när personuppgifterna materialet ska förstöras.
+
+<!-- image -->
+
+## 6. Datainsamling
+
+## 6.1 Redogör för datainsamling och datas karaktär.
+
+Redogör för hur datainsamlingen ska gå till. Beskriv den data som ska samlas in och hur den ska samlas in.
+
+Under 4.1 har ni beskrivit vilka formulär, vilken data ni ska samla in och när. Här beskriver ni hur det samlas in och var data kommer lagras. T.ex genom papper, genom inloggning på ett enkätverktyg, om ni gör ljudinspelningar etc.
+
+- · Om flera huvudmän ingår, ange vilken huvudman som ansvarar för vilken del. Exempel Region Stockholm/SLSO är ansvarig för all data (beskriv) som hanteras inom Region Stockholm/SLSOs verksamhet. Data kommer att utlämnas till KI för forskningsstudien, och sedan ansvarar KI för all data som finns på KI, både den man fått från SLSO och eventuella nya data som genereras.
+
+## Exempel på hur data samlas in:
+
+- · Vårdgivarens patientjournaler. Begäran om utlämning sker enligt vårdgivarens rutiner för utlämning av personuppgifter för forskningsändamål.
+- · Kliniska interventioner - beskriv hur insamlingen görs och av vem
+- MR
+- · PET
+- · natMEG
+- smärtstimulitest
+- · läkemedelsadministrering - annat
+- · Enkäter och skattningsskalor distribueras på papper via webbverktyg
+
+## Exempel på formuleringar:
+
+- · Enkäter och skattningsskalor samlas in via webbaserade formulär lagrade i systemet RedCap, BASS, SurveyXact, File Maker, eCRF-system (InForm, RAVE, etc.)
+- · Resultaten från enkäterna sammanställs i en datafil som lagras på "lagringsplats x": ange endast namnet på lagringsplats här, detaljerna kring lagringsplatsen kommer vid 6.4
+- · Testbatterier, t.ex neuropsykologiska testbatteriet CANTAB som administreras till patienten av forskningssjuksköterska eller läkare i projektet. Testet är ett datoriserat test där patienter använder en touchplatta för att genomgå en serie utvalda reaktionstester. Data hämtas via CANTABs program och tillhandahålls som rapporter/dataset i form av filer som lagras på "lagringsplats x": ange endast namnet på lagringsplats här, detaljerna kring lagringsplatsen kommer vid 6.4
+- · Biologiska prover tas av sjuksköterska/annan (beskriv provtagningsproceduren). Resultaten överförs till huvudansvarig forskare på papper/datafil/i Take Care/annat. Resultaten sammanställs i en datafil som lagras på "lagringsplats x": ange endast namnet på lagringsplats här, detaljerna kring lagringsplatsen kommer vid 6.4.
+- · Ljudinspelningar av intervjuer som genomförs med forskningspersoner. Intervjuerna leds av psykolog/läkare/annan och spelas in på en ljudfil i XXX format. (Beskriv intervjuförfarandet och beräknad tidsåtgång). Ljudfilen lagras i
+
+inspelningsverktyget/laddas över på server. Ljudfilerna kodas/transkriberas/annat till ett dataset som lagras på "lagringsplats x"
+
+- · Videoinspelningar av intervjuer med patienter. Se ljudfiler ovan, Intervjuerna leds av xxx
+- · Registerdata hämtas från SCB- Region Stockholm- Dödsorsaksregister- andra register genom registerhållarnas rutiner för registerutdrag. Datafilen lagras på "lagringsplats x: ange endast namnet på lagringsplats här, detaljerna kring lagringsplatsen kommer vid 6.4"
+
+## 6.2 Redogör för de beräkningar och/eller överväganden som motiverar undersökningsmaterialets storlek.
+
+Redogör för de beräkningar och/eller överväganden av hur stora mängder data som behövs för att dra slutsatser eller få ett resultat med tillräcklig statistisk styrka. Redogörelsen av hur man kommit fram till lämplig storlek ska beskriva projektets möjligheter att besvara frågeställningarna.
+
+Poweranalys eller liknande: Ett tips är att använda GPower (sök på internet) för att göra dessa beräkningar. Vad gäller kvalitativa studier är det bra att inkludera ett resonemang kring efter hur stort n som kan förväntas för att uppnå tematisk mättnad utifrån förväntad heterogenitet i undersökt upplevelse, antal undersökta aspekter mm.
+
+## 6.3 Hur kommer undersökningsprocedurerna att dokumenteras?
+
+Redogör för hur undersökningar, eventuella ingrepp, intervjuer, observationer och datainsamling kommer att dokumenteras. Ange om band- och videoinspelningar kommer användas, motivera varför det behövs och vilka personuppgifter som kan komma att samlas in på det sättet.
+
+All dokumentation kring forskningsprocessen i studien ska göras i ELN för forskargrupper inom CPF.
+
+Ytterligare Exempel på formuleringar:
+
+- · Patientundersökningar som blodtryck, vikt, längd och fysisk undersökning, utredningar och annan klinisk information dokumenteras i patientjournal enligt patientdatalagen. Journaler begärs utlämnade enligt vårdgivarens rutiner.
+- · Provtagning dokumenteras i patientjournal liksom analysresultatet av proverna.
+- Enkäter dokumenteras på papper, där bläckpenna används och eventuella ändringar är spårbara och signerade av patienten enligt GCP-standard.
+- · Enkäter dokumenteras direkt av patienten i de webbaserade system som används för datainsamlingen. Intervjuer dokumenteras på ljud och/eller videoinspelningar.
+- · MR-undersökningar dokumenteras i system kopplade till patientjournalen och begärs ut.
+
+<!-- image -->
+
+- · PET- undersökningar dokumenteras i PETs system.
+- · Fotografier sparas framkallade/ i filer
+
+## 6.4 Hur kommer insamlade data att hanteras och förvaras?
+
+Redogör för hur data kommer att hanteras efter insamlingen. Om data kommer att pseudonymiseras ("kodas") ska kodningsförfarandet beskrivas. Det ska framgå var kodlistorna/kodnycklarna kommer att förvaras samt vem/vilka som kommer ha tillgång till dem. Det ska även framgå hur länge data kommer att sparas samt om det kommer att avidentifieras (genom att kodnyckel förstörs) eller förstöras i sin helhet. Forskningsdata ska arkiveras och gallras enligt forskningshuvudmannens regler för bevarande och gallring av handlingar i sin forskningsverksamhet.
+
+## När Region Stockholm/SLSO är huvudman
+
+Det finns en säker filarea för CPF forskare för personuppgifter inom forskning när SLSO är forskningshuvudman. Gå till https://www.psykiatriforskning.se/forskning/for-dig-somforskar/personuppgifter-i-forskning/ scrolla ner till Lagring och hantering, SLSO . Läs informationen och gör en anmälan via formuläret.
+
+Om ni kommer att använda den säkra lagringsplats som CPF använder för lagring av data kan ni förslagsvis lägga till någonting i stil med följande:
+
+"Data lagras och hanteras på en säkerhetsklassad filarea för känsliga personuppgifter inom Region Stockholm/SLSO. Kodnyckel och pseudonymiserade data hanteras åtskilt. Filarean och dess undermappar är situerade i en låst katalog inom Region Stockholm/SLSO. Åtkomst till filarean kräver e-tjänstekort inom Region Stockholm/SLSO. Behörighetsstyrning tillämpas för specifik behörighet till dessa undermappar."
+
+All dokumentation för studien ska göras i ELN för forskargrupper inom CPF.
+
+Följ Region Stockholm/SLSOs dokumenthanteringsplan. Om ni ska dokumentera/lagra personuppgifter (data) i ELN behöver KI vara medverkande forskningshuvudman.
+
+## Exempel på formuleringar när Region Stockholm/SLSO är huvudman:
+
+- · Personuppgiftsbiträdesavtal mellan PuA (Region Stockholm/SLSO) och PuB (till exempel KI) kommer att upprättas i de fall KI som medverkande huvudman inte är aktuellt. Om KI är medverkande huvudman behöver andra avtal upprättas mellan SLSO och KI (se nedan under rubriken KI).
+- · Clinical Trials Agreements (CTA) med läkemedelsbolag kommer att upprättas. (anmärkning: FoU samordningsgruppen har ej kunskap huruvida CTA ska bifogas vid etikansökan)
+- · Data lagras så att obehöriga inte kan ta del av den. Alla personer som hanterar personuppgifterna omfattas av sekretessförbindelser och/eller tystnadsplikt, antingen genom sin anställningsform eller via sekretessförbindelser upprättade enligt Region Stockholm/SLSOs instruktioner
+- · Datafiler lagras i godkända system, (förnärvarande är till exempel KI ELN, Fixit, BASS godkända system). Fler lagringsplatser kan vara godkända, dock behöver
+
+<!-- image -->
+
+Region Stockholm/SLSO godkänna dem. Det räcker alltså inte att t.ex KI anser systemen vara godkända för att tex journaldata ska få lagras/hanteras där. Konsultera därför SLSO IT om andra lagringsplatser ska användas.
+
+- · Data som innehåller känsliga personuppgifter pseudonymiseras. Pseudonymiseringen görs av X enligt X standard. Forskningspersonen tilldelas ett studieIDnr som används för att skilja den enskildes data från andras. Direktidentifierande personuppgifter som kopplas till studiens IDnr sparas på en separat kodlista som förvaras på "lagringsplats x" inom Region Stockholm/SLSO, vilket är skilt från övrig data. Huvudansvarig forskare är ansvarig för kodnyckeln. De som kommer ha tillgång till kodnyckeln är: XXX och XXX. OBS: när PuB-avtal eller annat avtal skrivs med annan myndighet och Region Stockholm/SLSO är huvudman ska kodnyckeln förvaras inom Region Stockholm/SLSO.
+- · Data sparas i enlighet med SLSOs arkivregler för forskningshandlingar. Kontakta CPFs arkivarie Sara Holmqvist (sara.holmqvist@regionstockholm.se) vid frågor om arkivering.
+- · Överföring av data som innehåller personuppgifter till juridiska enheter utanför forskningshuvudmannen föregås av en godkänd begäran om utlämning alternativt upprättande av PuB-avtal, projektavtal eller samverkansavtal, Data Transfer Agreements (DTA) eller Material Transfer Agreements (MTA) för biologiska prover. Kontakta din FoU-koordinator för blanketter.
+- · Överföring av data som innehåller personuppgifter till andra länder föregås av säkerställande att mottagarlandet uppfyller de skyddsnivåer som krävs enligt GDPR/Dataskyddsförordningen. Om EUs standardavtalsklausuler undertecknas för tredje land ska detta anges.
+
+## När KI är huvudman
+
+Forskningsprocessen dokumenteras i ELN. Följ KIs dokumenthanteringsplan. Relevanta avtal upprättas enligt gällande lagstiftning.
+
+## Exempel på formuleringar när KI är huvudman:
+
+- · Kontakta avtal@ki.se för att se till att du har rätt avtal inom ramen för forskningsstudien
+- · PuB-avtal mellan KI (PuA) och PuB ( till exempel annan myndighet/universitet ) kommer att upprättas.
+- · Clinical Trials Agreements med läkemedelsbolag kommer att upprättas. (anmärkning: FoU samordningsgruppen har ej kunskap huruvida CTA ska bifogas vid etikansökan)
+- · Data lagras så att obehöriga inte kan ta del av dem. Alla personer som hanterar personuppgifterna omfattas av sekretessförbindelser och/eller tystnadsplikt, antingen genom sin anställningsform eller via sekretessförbindelser upprättade enligt KIs instruktioner
+- · Datafiler lagras i godkända system (se uppdaterad information på Lagra och dela filer | Medarbetare ki.se), som kräver tvåstegsautenticering eller är säkerhetsklassade för att
+
+kunna lagra känsliga personuppgifter. Känsliga personuppgifter behandlas med sekretess.
+
+- · Data som innehåller känsliga personuppgifter pseudonymiseras. Pseudonymiseringen görs av X enligt X standard. Forskningspersonen tilldelas ett studie-IDnr som används för att skilja den enskildes data från andras. Direktidentifierande personuppgifter som kopplas till studie IDnr sparas på en separat kodlista som förvaras på "lagringsplats", vilket är skilt från övrig data. Huvudansvarig forskare är ansvarig för kodnyckeln. De som kommer ha tillgång till kodnyckeln är: XXX och XXX.
+- · Överföring av data som innehåller personuppgifter till juridiska enheter utanför KI föregås av en godkänd begäran om utlämning alternativt upprättande av PuB-avtal, Data Transfer Agreements (DTA) eller Material Transfer Agreements (MTA) för biologiska prover. Fråga avtal@ki.se vilka avtal som gäller.
+- · Pseudonymiserade data kan komma att delas både inom och utanför EU/EES, och sker då enligt gällande lagstiftning.
+- · Data sparas i enlighet med KIs arkivregler för forskningshandlingar ( se KIs dokumenthanteringsplan).
+
+## Olika avtal vid KI
+
+Projektavtal: reglerar samarbete
+
+Data som SLSO samlar in för sin verksamhet /patientvard som KI behöver till sin forskning:
+
+I
+
+Utlämnas till KI om endast KI kommer att analysera data Utlämnas till KI eller SLSO och sedan signeras JCA om bäde KI och SLSO kommer att analysera data
+
+Data som SLSO samlar in ät KI och som de inte annars hade samlat in för sin verksamhet:
+
+KI är PuA, SLSO är biträde
+
+## Generellt
+
+Om ni vill kunna dela data i framtida forskningsamarbeten, exempelvis vid meta-analyser och liknande, så behöver ni nämna detta i etikansökan och i forskningspersoninformationen. Ett förslag på formulering ni kan använda är följande:
+
+" Pseudonymiserade personuppgifter kan komma att delas både inom och utom EU/EESområdet och relevanta avtal kommer då att upprättas enligt vid var tid gällande lagstiftning ".
+
+Denna generella mening täcker både meta-analyser samt framtida forskningssamarbeten. Man behöver inte heller specificera exakt vilka avtal som ska skrivas, utan det räcker med den mer generella formuleringen ovan. Tänk dock på att informationen om samtycke till forskningspersonerna ska stämma överens med den information som anges i etikansökan.
+
+Tänk på att vara lagom specifik med detaljer. Med det menas att ni inte behöver specificera exakt hur länge ni ska förvara uppgifterna eller exakt när uppgifterna ska förstöras. Det räcker med att skriva var, hur och att uppgifterna ska långtidsförvaras, och att platsen för det är säker, samt att arkivering av uppgifterna kommer ske i enlighet med KI:s arkivregler. Ni vet inte vilken forskning ni eller någon annan kan tänkas göra i framtiden där uppgifterna kan komma till användning och ni begränsar er i onödan om ni specificerat i etikansökan att uppgifterna ska förstöras ett visst datum.
+
+## 7. Etiska överväganden
+
+## 7.1 Vilka risker kan ett deltagande medföra för de forskningspersoner som ingår i forskningsprojektet?
+
+Risker kan vara av olika karaktär. Det kan exempelvis vara fysisk eller psykisk skada, smärta, obehag, integritetsintrång på kort eller lång sikt. När det gäller behandling av personuppgifter kan det handla om möjligheter till identifiering trots pseudonymisering samt risk för spridning och felaktig användning, t.ex. i kommersiella sammanhang. Ange vilka risker det kan finnas för de forskningspersoner som deltar i detta forskningsprojekt.
+
+Självklar aspekt men vi påminner om att beskriva möjliga risker för deltagaren. Många får backning om man inte adresserar även de minsta möjliga etiska problem. Det räcker därmed inte att enbart skriva "inga risker har identifierats", utan beskriv varför det är så.
+
+## 7.2 Vilken nytta kan ett deltagande medföra för de forskningspersoner som ingår i forskningsprojektet?
+
+Ange vilken nytta de forskningspersoner som deltar i detta forskningsprojekt kan få som ett resultat av forskningsprojektet.
+
+Får stor betydelse enligt etikprövningslagen när forskning utförs utan samtycke. Lagen tar även upp möjligheten att forskningen är till nytta för personer i liknande situation som forskningspersonerna.
+
+## 7.3 Gör en värdering av förhållandet mellan riskerna och nyttan av projektet.
+
+Forskning får enligt etikprövningslagen bara godkännas om riskerna som den kan medföra för forskningspersonernas hälsa, säkerhet och personliga integritet uppvägs av dess vetenskapliga värde.
+
+## 7.4 Beskriv hur projektet har utformats för att minimera riskerna för forskningspersonerna.
+
+Forskning får enligt etikprövningslagen bara godkännas om det förväntade resultatet inte kan nås på ett annat sätt som innebär mindre risker för forskningspersoners hälsa, säkerhet och personliga integritet.
+
+Behandling av personuppgifter som avses i 3 § får godkännas bara om den är nödvändig för att forskningen ska kunna utföras.
+
+Observera att om en behandling ska prövas för första gången på människa måste detta tydligt framgå och relevanta säkerhetsrutiner tydligt beskrivas.
+
+Ange vilka risker som ett deltagande i forskningsprojektet kan innebära. Finns det risker till exempel med att ingå i en kontrollgrupp? Vilka åtgärder kommer vidtas för att undvika risker att känsliga personuppgifter behandlas av obehöriga.
+
+Tips: lägg till en rad om att risk för "integritetsintrång" (deras ord) minimeras genom bruk av ovan beskrivna procedur för datahantering.
+
+## 7.5 Identifiera och precisera om eventuella etiska problem (nackdelar/fördelar) kan uppstå i ett vidare perspektiv genom forskningsprojektet.
+
+Redovisa till exempel om vissa grupper (andra än de forskningspersoner som ingår i forskningsprojektet) kan komma att utpekas respektive få hjälp som ett resultat av projektet. Frågan avser även de indirekta riskerna eller den indirekta nyttan. Till exempel genetisk påverkan på kommande generationer eller om resultaten på annat sätt kan tänkas skada vissa grupper. Det kan också handla om att forskningspersoner lämnar ut många uppgifter om nära anhöriga, till exempel egna barn eller äldre föräldrar, eller att personal lämnar ingående och integritetskränkande uppgifter om brukare eller skolelever.
+
+## 8. Forskningspersoner
+
+## 8.1 Hur görs urvalet av forskningspersoner?
+
+Forskningspersoner: De levande människor som forskningen avser. Beskriv vilka forskningspersoner som kommer inkluderas i projektet. Redogör för de överväganden som gjorts vid valet av forskningspersoner. Om vissa grupper utesluts från deltagande i projektet ska en motivering till uteslutandet framgå. Redogör även för hur forskaren kommer i kontakt med eller får kännedom om lämpliga forskningspersoner.
+
+Exempel på formulering: "Bedömning av patientens behörighet att delta i studien, utifrån exklusions och inklusionskriterier, dokumenteras med motivering iCRF/eCRF/worksheet/annat.
+
+Bedömning av huruvida patienten uppfyller inklusions/exklusionskriterier görs av xx och dokumenteras på följande sätt xx."
+
+## 8.2 Hur många forskningspersoner kommer att inkluderas i forskningsprojektet?
+
+Ange hur många forskningspersoner som totalt kommer inkluderas i projektet samt i förekommande fall hur många som kommer inkluderas i olika delprojekt.
+
+Bör svara mot power-beräkning eller motsvarande.
+
+## 8.3 Vilka urvalskriterier kommer att användas för inklusion?
+
+Ange vilka kriterier som måste uppfyllas för att en forskningsperson ska inkluderas i projektet.
+
+## 8.4 Vilka urvalskriterier kommer att användas för exklusion?
+
+Ange vilka kriterier som måste uppfyllas för att en forskningsperson ska exkluderas ur projektet.
+
+## 8.5 Ange relationen mellan forskare och forskningspersonerna.
+
+Ange forskarens roll i relation till forskningspersonens roll. Det kan till exempel vara som behandlare (läkare, psykolog, fysioterapeut etc.) och patient/klient, som lärare och student eller arbetsgivare och anställd. All form av relation som kan tänkas medföra risk för påverkan ska beskrivas. Enligt etikprövningslagen ska frågor om information och samtycke ägnas särskild uppmärksamhet vid etikprövningen om forskningspersonen står i ett beroendeförhållande till huvudmannen, forskaren eller antas ha svårigheter att ta tillvara sin rätt.
+
+Bra att vara noggrann och tänka igenom och beskriva eventuella beroendeförhållanden som kan uppstå. Detta är särskilt viktigt när det gäller patienter/anställda inom vården som deltar i forskningen.
+
+## 8.6 Vilket försäkringsskydd finns för de forskningspersoner som deltar i forskningsprojektet?
+
+Forskningshuvudmannen har ansvar för att kontrollera att det finns försäkring som täcker eventuella skador som kan uppkomma i samband med forskningen. Ange vilka försäkringar
+
+som forskningspersonen kommer att omfattas av samt vilket skydd försäkringarna ger forskningspersonen. För forskning som endast behandlar personuppgifter behövs sällan ett försäkringsskydd.
+
+Det är viktigt att det finns rätt försäkringar för forskningspersonerna på plats innan man startar sin forskning. Det finns olika typer av försäkringar som gäller beroende på studietyp och var forskningen utförs (d.v.s. vilken huvudman som ansvarar för den delen av forskningen). Varje huvudman (om flera) är ansvariga för att rätt försäkringar finns för den del av forskningen som de är ansvariga för. Några exempel på försäkringar som gäller för KI är:
+
+- · Personskadeskydd, täcker forskningspersonens vistelsen på KI:s område samt direkta resor mellan hemmet och KI.
+- · Patientförsäkringen, omfattar när prover/ingrepp utförs på forskningspersonen. Notera att olika riktlinjer gäller för vem som kan utföra ingreppet beroende på var det utförs och vem som är huvudman. Alla patienter och friska frivilliga som deltar i en klinisk studie, utförd inom svensk hälso och sjukvård, täcks av en patientförsäkring via patientskadelagen. (SFS nr 1996:799). (Ersättning vid patientskada beräknas på samma sätt som skadestånd. Det innebär att den skadelidande kan få ersättning för sin förlust av inkomst och de extra kostnader som vederbörande har på grund av skadan. Ersättning lämnas också för sveda och värk, lyte och annat stadigvarande samt för olägenheter i övrigt. En skada måste anmälas inom tre år efter det att forskningspersonen fick kännedom om skadan, men aldrig senare än tio år räknat från den dag då skadan anses ha uppstått. Information och anmälningsblanketter (vid skada) finns på www.patientforsakring.se")
+- · Läkemedelsförsäkring, gäller vid läkemedelsprövningar.
+- Försäkringar för försökspersoner vid kliniska studier/prövningar. En sponsor för en klinisk prövning ansvarar för forskningspersonerna och är därmed även ansvariga om skador uppkommer i samband med den kliniska prövningen. Det behövs därför en försäkring eller liknande som garanterarar ett fullgott ekonomiskt skydd. En sponsor är den person som initierar och ansvarar för den kliniska prövningen, dvs för prövarinitierade studier ligger detta ansvar på den ansvariga prövaren.
+
+Här kan du läsa mer om de olika försäkringarna som gäller vid KI, och här kan du läsa mer om patientförsäkring när ditt forskningsprojekt är ett samarbete mellan KI och vårdgivare i Region Stockholm.
+
+## 8.7 Redogör för den beredskap som finns för att hantera oväntade bifynd eller händelser under forskningsprocessen som kan äventyra forskningspersonernas hälsa, säkerhet och personlig integritet.
+
+Beskriv vilken tillgång forskningsprojektet har till utrustning, personal och kompetens för att hantera eventuellt oväntade komplikationer eller bifynd. Beskriv även vilke n planering som finns f ör att hantera eventuella oväntade komplikationer eller bifynd. Ett vanligt exempel på bifynd inom medicin är upptäckt av tumör eller annan sjukdom i samband med provtagningar eller mätningar. Inom humanistisk och samhällsvetenskaplig forskning kan det röra sig om att forskningspersoner lämnar uppgifter om hälsa som inte har efterfrågats.
+
+## 8.8 Kommer ekonomisk ersättning eller andra förmåner betalas ut till forskningspersonerna?
+
+Forskningspersonerna kan utöver ersättning för resor, förlorad arbetsinkomst eller andra utgifter erhålla viss ersättning för obehag och besvär. Ersättningen ska vara skälig. Om barn eller ungdomar under 18 år deltar i forskningsprojektet får sådan ersättning inte vara stor och den bör inte erbjudas i samband med rekryteringen. De flesta forskningshuvudmän har upprättat egna regler för vad en skälig ersättning till forskningspersoner är. Ta reda på vad som gäller inom din organisation.
+
+- o Ja
+- o Nej
+
+8.8.1 [Om Ja 8.8] Vilken ekonomisk ersättning kommer betalas ut och när?
+
+## 9. Information och samtycke
+
+Som stöd tillhandahåller Etikprövningmyndigheten följande mallar:
+
+- ✓ Stödmall forskningspersonsinformation
+- ✓ Stödmall samtyckesblankett
+- ✓ Stödmall för samtyckesblankett för framtida forskning
+
+Vissa forskningsdata kan i framtiden bli aktuella för medverkan i meta-analyser. För att möjliggöra delning av data behöver det stå med i informationen till deltagaren. Skriv därför något om att data kan delas med andra länder / organisationer så att forskare kan dela sin data för meta-analyser. Som det är nu så kan man inte det om det inte står i informationen.
+
+## 9.1 Kommer forskningspersonerna att informeras om forskningsprojektet och tillfrågas om de vill vara med eller inte?
+
+Samtycke ska alltid dokumenteras. Grundregeln är att forskning bara får utföras om forskningspersonen har informerats och samtyckt till deltagande. För forskning enligt 4 § gäller kravet på information och samtycke utan undantag. Information till forskningspersonerna kan ges både muntligt och skriftligt. Om det i någon annan författni ng finns sär skilda föreskrifter om information och samtycke vid forskning gäller de föreskrifterna i stället för bestämmelserna i etikprövningslagen.
+
+- ✓ Ja
+- ✓ Nej
+
+## 9.1.2 [Om Nej 9.1] Motivera varför forskningspersonerna inte ska informeras och tillfrågas.
+
+Lämna en utförlig redogörelse för de avvägningar som har gjorts och de skäl som ligger till grund för bedömningen att forskningspersonerna inte ska informeras och tillfrågas. Observera att forskning utan information och samtycke endast är möjlig i undantagsfall och i den forskning som avses i 3 § etikprövningslagen, eller 20-22 §§ i etikprövningslagen. Även vid forskning som avser studier på biologiskt material som tidigare har tagits från en levande människa ska Etikprövningsmyndigheten enligt 15 § bestämma vilka krav som skall gälla i fråga om information och samtycke för användning av materialet.
+
+## 9.2 Kommer barn under 18 år att ingå i forskningsprojektet?
+
+Barn mellan 15 och 18 år, som inser vad forskningen innebär för hans eller hennes del, ska informeras om och lämna eget samtycke till forskningen. I andra fall ska barnets samtliga vårdnadshavare ge sin tillåtelse (samtycka) till att barnet får delta i forskningsprojektet. För barn under 15 år måste barnets samtliga vårdnadshavare ge sin tillåtelse (samtycka) till att barnet får delta i forskningsprojektet.
+
+Forskningen får, trots vårdnadshavarnas tillåtelse (samtycke) inte utföras om barnet motsätter sig att forskningen utförs.
+
+Forskningspersonsinformation till barn behöver vara åldersanpassade utifrån förslagsvis följande indelning: barn 6-11 år, ungdomar 12-14 år samt ungdomar 15-17 år.
+
+- o Ja
+- o Nej
+
+## 9.2.1 [Om Ja 9.2] Ange barnens ålder.
+
+## 9.3 Kommer forskningspersoner, vars mening på grund av sjukdom, psykisk störning, försvagat hälsotillstånd eller något annat liknande förhållande inte kan inhämtas, att ingå i forskningsprojektet?
+
+Ange om forskningsprojektet kommer involvera personer som själva inte kan samtycka till sitt eget deltagande p.g.a. sjukdom, psykisk störning, försvagat hälsotillstånd eller liknande tillstånd.
+
+- o Ja
+- o Nej
+
+## 9.3.1 [Om Ja 9.3] Motivera varför denna grupp av forskningspersoner ska ingå i projektet.
+
+Forskning utan samtycke på denna grupp av forskningspersoner får endast utföras om forskningen förväntas ge en kunskap som inte är möjlig att få genom forskning med samtycke. Forskningen ska dessutom förväntas leda till direkt nytta för forskningspersonen. Alternativt ska forskningen bidra till ett resultat som kan vara till nytta för forskningspersonen eller annan som lider av samma eller liknande sjukdom eller tillstånd samt innebära en obetydlig risk för skada eller obehag för forskningspersonen. Forskningspersonen ska så långt som möjligt informeras personligen om forskningen. Samråd ska ske med närmaste anhörig. Informationen måste anpassas till personens personliga förutsättningar. Samråd ska också ske med god man eller förvaltare om frågan ingår i uppdraget som god man eller förvaltare. Forskningen får inte utföras om forskningspersonen i någon form ger uttryck för att inte vilja delta eller om någon av dem som samråd har skett med motsätter sig införandet.
+
+## 9.3.2 [Om Ja 9.3] Beskriv hur samråd med närmaste anhöriga, god man eller förvaltare kommer att ske.
+
+Vid forskning på forskningspersoner, vars mening inte går att inhämta, ska samråd ske med närmaste anhöriga som ska få möjlighet att motsätta sig deltagandet. Samråd ska ske med god man eller förvaltare om frågan ingår i uppdraget som god man eller förvaltare.
+
+## 10. Registeruppgifter
+
+## 10.1 Kommer projektet att begära ut uppgifter från ett befintligt register?
+
+Här avses alla typer av register som innehåller personuppgifter eller uppgifter som tidigare varit personuppgifter men senare avidentifierats. Även medicinska journaldata ska räknas med i denna redogörelse.
+
+- o Ja
+- o Nej
+- Tänk på att TakeCare betraktas som ett befintligt register.
+
+## 10.1.1 [Om Ja 10.1] Ur vilket eller vilka register kommer uppgifterna att begäras?
+
+Namnge registret eller registren som uppgifterna kommer att begäras ifrån. Ange även huvudman för respektive register.
+
+## 10.1.2 [Om Ja 10.1] Vilka uppgifter kommer att begäras ut och varför?
+
+Beskriv vilken typ av uppgifter som kommer att begäras ut och varför de behövs för att besvara projektets frågeställningar.
+
+En komplett variabellista bör bifogas ansökan.
+
+## 11. Resultat från djurförsök
+
+## 11.1 Finns det relevanta resultat från djurförsök?
+
+Frågan avser framför allt klinisk behandlingsforskning. Om djurförsök inte har utförts, ange då anledningen till detta.
+
+- o Ja
+- o Nej
+- o Ej aktuellt
+
+## 11.1.1 [Om Ja 11.1] Redogör för resultaten av djurförsöken
+
+Redogör övergripande för de djurförsök som utförts och vilka resultat de gav. Framför allt ska de resultat som är av relevans för detta forskningsprojekt redogöras för.
+
+## 12. Redovisning av resultat
+
+## 12.1 Hur garanteras tillgång till data för forskningshuvudmannen och medverkande forskare?
+
+Normalt ska den som ansvarar för genomförandet av forskningen ha full tillgång till data. Om fle ra forskare samverkar bör den forskare som är ansvarig för genomförandet i förväg komma överens med övriga forskare om tillgång till data.
+
+För projekt som har flera forskningshuvudmän, där till exempel en vårdgivare ansvarar för insamling av personuppgifter/biologiskt material och KI ansvarar för bearbetning och analys av personuppgifterna/proverna, så ser KI helst att personuppgifterna/proverna ska utlämnas till KI (d.v.s. man skriver ett Data Transfer Agreement så KI blir controller av uppgifterna/proverna och därmed får bestämma vad som ska göras med uppgifterna). PuBavtal ska undvikas om KI är en del av forskningsprojektet där vi till exempel självständigt ansvarar för lagring och analys av personuppgifter/prover (då ska KI ses som, och anges i etikansökan, som en forskningshuvudman). Detta förenklar även ifall KI sedan ska dela personuppgifter/prover med en tredje part, då ett PuB-avtal eller Data Transfer Agreement i det fallet kan slutas mellan KI och tredje part (till exempel ett annat universitet).
+
+## 12.2 Vem eller vilka ansvarar för databearbetning och skriftlig redovisning av resultaten?
+
+Ange vem eller vilka som kommer bearbeta och analysera forskningsdata och vem eller vilka som kommer utforma den skriftliga redovisningen. Normalt ska den som ansvarar för genomförandet av forskningen ha full tillgång till data.
+
+Här är det viktigt att ange korrekt(a) organisation(er)/institution(er), snarare än namn på individuella forskare. Det här är viktigt att specificera för det får konsekvens sen när ni ska göra ansökan om uttag av journaldata.
+
+## 12.3 Hur och när planeras resultaten att offentliggöras?
+
+Ange i vilken form resultaten planeras att offentliggöras. Exempelvis vetenskaplig publicering med peer review, open acess, intern rapport. Ange om möjligt en tidsplan för offentliggörandet.
+
+## 12.4 På vilket sätt garanteras forskningspersonernas rätt till integritet när materialet offentliggörs?
+
+Redogör för hur data presenteras när den offentliggörs och hur forskningspersonernas integritet skyddas vid offentliggörandet.
+
+Exempel på formulering: "Resultat kommer redovisas på gruppnivå utan att enstaka individers identitet röjs, utdrag ur intervjuer har avidentifierats, karakteristiska för enskilda individer går ej att urskilja, bilder är utan identifikationsmöjligheter etc."
+
+## 13. Ekonomiska förhållanden
+
+## 13.1 Redovisa eventuella ekonomiska överenskommelser med bidragsgivare eller andra finansiärer (namn och belopp).
+
+Redovisa alla överenskommelser om finansiering som har slutits med den eller de som ska genomföra forskningen. Ange vilka belopp som kommer att erhållas för forskningsprojektet och vad ersättningen ska täcka. Ange även eventuella belopp per forskningsperson.
+
+Här är det viktigt att visa att studien är finansierad, och att man har en plan för finansiering av hela studien och att man avser att ansöka om mer anslag.
+
+## 13.2 Redovisa forskningshuvudmannens, ansvarig forskares och medverkande forskares egna ekonomiska intressen.
+
+Redovisa egna ekonomiska intressen i form av till exempel aktieinnehav, anställning, konsultuppdrag i finansierade företag, eget företag som kan få direkt eller indirekt vinst av forskningen.
+
+## Bilagor
+
+Uppladdade filer konverteras automatiskt till PDF-filer om så är möjligt. Var god granska dina filer efter uppladdning.
+
+## Forskningsplan
+
+Den sammanfattande beskrivningen av forskningsprojektet ska förstås av fackmän. Den kan lämpligen utformas enligt följande:
+
+Vetenskaplig frågeställning: En redogörelse för det övergripande syftet med det föreslagna forskningsprojektet samt specifika mål (primära och sekundära frågeställningar).
+
+Områdesöversikt: Ge ett sammandrag av egna och andras forskning och tidigare resultat inom forskningsområdet. Översikten ska tydliggöra det aktuella projektets relevans. Nyckelreferenser ska anges.
+
+Projektbeskrivning: Gör en sammanfattning av projektets/motsvarande uppläggning. Urval av forskningspersoner, procedurer, metoder med mera ska tydligt redovisas. Det ska framgå hur metoder, urval och procedurer kan ge svar på de specifika frågeställningarna. Om flera delprojekt avses anges sekvens för genomförande och på vilket sätt ett efterföljande delprojekts uppläggning kan bero av resultaten av ett föregående.
+
+Betydelse: Ge en kortfattad redogörelse för projektets betydelse för forskningsområdet. Preliminära resultat: Kan i förekommande fall anges.
+
+SKA VARA PÅ SVENSKA ELLER ENGELSKA. Denna bilaga är obligatorisk
+
+## Annonsmaterial
+
+Etikprövningsmyndigheten behöver alltid ta del av allt annonsmaterial som ska användas vid rekryteringen. SKA VARA PÅ SVENSKA.
+
+Om du behöver tips och hjälp kring annonsering för rekrytering av forskningspersoner, så kan KI:s Kommunikationsavdelning ge dig stöd kring hur du kan rekrytera forskningspersoner till ditt forskningsprojekt.
+
+Här följer exempel på hur webbannonser bör se ut:
+
+## Region Stockholm, SLSO/KI
+
+Region Stockholm, Stockholms Läns Sjukvårdsområde/KI är personuppgiftsansvarig för behandling av de personuppgifter du lämnar via denna hemsida. Din kontaktperson för denna behandling är: xxx xxxx ?
+
+Vi använder uppgifterna enbart för att kunna kontakta dig med mer information kring forskningsstudien xxxx xxxxx .
+
+Uppgifterna hanteras enligt EUs dataskyddsförordning (GDPR) utifrån den rättsliga grunden allmänt intresse.
+
+Dina uppgifter sparas hur länge?
+
+Dina uppgifter kommer att delas medvilka eller inga?
+
+Dina uppgifter kommer inte att överföras utanför EU /överföras utanför EU (klargör i så fall hur EUs skyddsnivåer säkerställas).
+
+Du har rätt att en gång årligen begära ett registerutdrag på de uppgifter som SLSO/ KI lagrar om dig. Du har även rätt att begära rättelse av uppgifterna eller få dem raderade.
+
+<!-- image -->
+
+Om du har frågor kring behandlingen av dina personuppgifter kan du vända dig till SLSOs dataskyddsombud på gdpr.slso@sll.se. / KIs dataskyddsombud på dataskyddsombud@ki.se Om du inte är nöjd med SLSOs / KIs svar, kan du vända dig till
+
+Integritetsskyddsmyndigheten (Datainspektionen har bytt namn) med klagomål på behandling av dina personuppgifter,
+
+imy@imy.se eller 08-657 61 00.
+
+Enkäter, frågeformulär, mm: Materialet ska vara utformat/skrivet på svenska. SKA VARA PÅ SVENSKA.
+
+Variabellista: Variabellista bör bifogas ansökan om data ska begäras ut från befintliga register. SKA VARA PÅ SVENSKA.
+
+CV för ansvarig forskare: Bifoga CV för ansvarig forskare. I undantagsfall kan icke disputerad forskare godtas om annan medverkande disputerad forskare uttalat att forskningen sker under aktivt överinseende av denne. Uttalandet intygas vid signering av disputerad forskare. CV för den disputerade ska även bifogas. SKA VARA PÅ SVENSKA ELLER ENGELSKA. Denna bilaga är obligatorisk
+
+## Övriga bilagor
+
+BILAGOR SOM SKA BEAKTAS VID PRÖVNINGEN SKA VARA PÅ SVENSKA.
+
+Kompletterande bilageförteckning: Infoga egen bilageförteckning i det fall att ansökan exempelvis innehåller fler än en forskningspersonsinformation eller flera enkäter/instrument. Namnge bifogade filer i enlighet med förteckningen. I både filnamn och förteckning ska det tydligt framgå vad filen innehåller.
+
+## Information till forskningspersoner
+
+Lägg in Region Stockholms logga i sidhuvudet om Region Stockholm/SLSO är forskningshuvudman. Lägg in KIs logga i sidhuvudet om KI är forskningshuvudman. Om bade KI och SLSO är huvudmän lägg in båda loggor.
+
+Enligt 16 § etikprövningslagen måste forskningspersonerna informeras om (information enligt GDPR ska också lämnas):
+
+- · Den övergripande planen för forskningen.
+- Syftet med forskningen.
+- · De metoder som kommer att användas.
+- De följder och risker som forskningen kan medföra.
+- · Vem som är forskningshuvudman.
+- Att deltagande i forskningen är frivilligt.
+- · Forskningspersonens rätt att när som helst avbryta sin medverkan.
+
+Tänk på att informationen till forskningspersonerna ska vara samma som den information som står i etikansökan när det kommer till bearbetning, lagring och delning av personuppgifter. Till exempel ska det skivas med i informationen ifall personuppgifter/prover kan komma att delas både inom och utanför EU/EES-området, samt ifall personuppgifter/prover kommer att sparas för att möjliggöra eventuell framtida forskning (se avsnitt 6.4 Hur kommer insamlad data att hanteras och förvaras? ovan för mer information kring det). Informationen ska hållas så kortfattad och lättförståelig som möjligt så att forskningspersonerna lätt kan ta till sig den (och anpassas till mottagaren - till exempel till minderårig, äldre, nedsatt funktion, olika språk etc.).
+
+Om du ska ta ut journaldata/registerdata (tex från TakeCare) måste detta anges i informationen, samt vilka data som hämtas. Samtycke krävs för detta. Om ni glömmer att ange detta i Informationen kan det bli svårt att få beslut om att göra uttaget från patientjournalen.
+
+Här är exempel på hur GDPR korrekt text kan se ut för KI: Skall anges under " Vad händer med mina uppgifter "
+
+## KI
+
+KI är forskningshuvudman för denna studie och därmed personuppgiftsansvarig för behandlingen av dina personuppgifter.
+
+Din kontaktperson för denna behandling är: Huvudansvarig forskares namn, e-postadress och telefonnummer.
+
+Dina personuppgifter behandlas av projektet i forskningssyfte enligt EUs dataskyddsförordning (GDPR) utifrån den rättsliga grunden att utföra en uppgift av allmänt intresse.
+
+Vi använder uppgifterna vi samlar in om dig för att xxx
+
+Dina uppgifter sparas hur länge ?
+
+Dina uppgifter kommer att delas med vilka eller inga?
+
+Dina uppgifter kommer inte att överföras utanför EU/överföras utanför EU (klargör i så fall hur EUs skyddsnivåer säkerställas).
+
+Du har rätt att en gång årligen begära ett registerutdrag på de uppgifter som KI lagrar om dig. Du har även rätt att begära rättelse av uppgifterna eller få dem raderade. Kontakta i så fall huvudansvarig forskare
+
+Om du har synpunkter på behandlingen av dina personuppgifter kan du vända dig till KIs dataskyddsombud på dataskyddsombud@ki.se.
+
+Om du inte är nöjd med KIs svar, kan du vända dig till Integritetsskyddsmyndigheten med klagomål imy@imy.se eller 08-657 61 00.
+
+Nedan följer exempel på hur GDPR korrekt text kan se ut för Region Stockholm: Skall anges under " Vad händer med mina uppgifter "
+
+## Region Stockholm / SLSO
+
+Region Stockholm / Stockholms Läns Sjukvårdsområde (SLSO) är forskningshuvudman för denna studie och därmed personuppgiftsansvarig för behandlingen av dina personuppgifter.
+
+Din kontaktperson för denna behandling är: namn på huvudansvarig forskare som samlar in personuppgifter, e-postadress och telefonnummer .
+
+Dina personuppgifter behandlas av huvudansvarig forskare och hens medarbetare i forskningssyfte enligt EUs dataskyddsförordning (GDPR) utifrån den rättsliga grunden att utföra en uppgift av allmänt intresse.
+
+Vi använder uppgifterna vi samlar in om dig för att xxx.
+
+Dina uppgifter sparas hur länge?
+
+Dina uppgifter kommer att delas med vilka eller inga?
+
+Dina uppgifter kommer inte att överföras utanför EU/överföras utanför EU (klargör i så fall hur EUs skyddsnivåer säkerställs)
+
+Du har rätt att en gång årligen begära ett registerutdrag på de uppgifter som SLSO lagrar om dig. Du har även rätt att begära rättelse av uppgifterna eller få dem raderade. Kontakta i så fall huvudansvarig forskare.
+
+Om du har synpunkter på behandlingen av dina personuppgifter
+
+kan du vända dig till SLSOs dataskyddsombud på gdpr.slso@sll.se.
+
+Om du inte är nöjd med SLSOs svar, kan du vända dig till Integritetsskyddsmyndigheten med klagomål imy@imy.se eller 08-657 61 00.
+
+## Samtycke -överföring av data till tredje land
+
+Dina personuppgifter kan komma att skickas till samarbetspartners utanför EU i ett så kallat tredje land. Personuppgifter som överförs till tredje land kommer att vara pseudonymiserade enligt ovan beskriven procedur. Överföringen till tredje land sker i syfte att xxx
+
+Vi kommer att säkerställa att mottagare i tredje land hanterar dina personuppgifter enligt samma skyddsnivå som inom EU.
+
+Detta görs via överföringsavtal samt att mottagaren förbundit sig att följa den säkerhetsstandard som krävs inom EU för att få hantera känsliga personuppgifter.
+
+Mottagaren kan exempelvis ha anslutit sig till Binding Corporate Rules, EU- US Privacy Shield eller signerat EU-kommissionens standardavtalsklausuler för överföring av personuppgifter till behandlare i tredje land.
+
+Observera: Kontakta dataskyddsombudet hos forskningshuvudmannen om du ska dela data med USA.
+
+## Variabellista
+
+Mycket viktigt när du ska ta ut data från ett register. Finns inte alla variabler du vill analysera/hämta ut med tydligt i variabellistan får du inte ta ut datan från registren.

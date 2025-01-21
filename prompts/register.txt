@@ -1,0 +1,148 @@
+<information>
+From Guide till ansökan om etikprövning.txt:
+## 6. Datainsamling
+
+## 6.1 Redogör för datainsamling och datas karaktär
+Här redogör du för hur insamlingen av personuppgifter/biologiskt material ska gå till. Om flera huvudmän ingår, ange vilken huvudman som ansvarar för vilken del. Exempel på olika insamlingar:
+- · Enkätdata kommer samlas in via pappersenkäter/datahanteringsverktyg/eCRFs (t.ex. KI REDCap).
+- · Registerdata hämtas från SCB enligt registerhållarens rutiner för registerutdrag.
+
+## 6.4 Hur kommer insamlad data att hanteras och förvaras?
+Generella råd: Beskriv var eventuella enkätdata/prover/ljudfiler etc. kommer att lagras. Personuppgifter ska lagras i av KI godkända system som är säkerhetsklassade för lagring av känsliga personuppgifter. (Här kan du läsa mer om att lagra och dela filer på KI och här kan du läsa mer om hur du kan planera din datahantering. Tänk på att hela forskningsprocessen ska dokumenteras i den elektroniska loggboken ELN.)
+
+Tänk på att vara lagom specifik med detaljer. Du behöver inte ange exakt hur länge prover/data ska sparas, utan det räcker att hänvisa till "i enlighet med gällande lagstiftning och KI:s interna regler".
+
+[Tillagd kontext på svenska: När det gäller registerdata är det viktigt att tydligt specificera vilka register som ska användas och vilken huvudman som ansvarar för respektive register. Det är också viktigt att motivera varför specifika variabler behövs för forskningens syfte.]
+
+
+From Vägledning_forskningshuvudman_etikansökan_KI_RegionStockholm_version1_final_22_04_20.txt:
+From Section 2:
+"Forskningshuvudman är, enligt etikprövningslagen, den fysiska eller juridiska person i vars verksamhet forskningen utförs, till exempel lärosäte, kommun, region, myndighet eller privat företag."
+
+From Section 2.1:
+"När flera forskningshuvudmän medverkar i ett och samma forskningsprojekt ska de gemensamt uppdra åt en av dem att ansöka om etikprövning av projektet för allas räkning. Den som får detta uppdrag ska sedan informera de övriga om Etikprövningsmyndighetens beslut. Varje forskningshuvudman ansvarar fortfarande för den del av forskningen som bedrivs i den egna verksamheten."
+
+From Section 5:
+"Etikprövningslagen ska tillämpas på forskning som bl.a. innefattar behandling av känsliga personuppgifter.
+
+När Karolinska Institutet och vårdgivare i Region Stockholm samarbetar i ett forskningsprojekt ska ansökan om etikprövning innehålla uppgifter om vem som ansvarar för personuppgiftshanteringen, inklusive hur personuppgiftsansvaret för behandlingen fördelas mellan parterna.
+
+Personuppgiftsansvarig (PUA) är den som ensam eller tillsammans med andra bestämmer ändamålen och medlen för en behandling av personuppgifter. Personuppgiftsbiträde (PUB) är den som behandlar personuppgifter för den personuppgiftsansvariges räkning. Det är de faktiska omständigheterna i det enskilda fallet som avgör vem som är personuppgiftsansvarig."
+
+[Tillagd kontext på svenska: Detta dokument ger vägledning för hur forskningshuvudmän ska hantera registerdata och personuppgifter i forskningsprojekt, särskilt när det gäller samarbeten mellan Karolinska Institutet och Region Stockholm. Det är viktigt att notera att alla parter som ska hantera registerdata måste vara angivna i etikansökan och ha rätt juridisk grund för datahanteringen.]
+
+
+From Etikvaegledning_2021_WEBB.txt:
+Begreppet registerforskning kan stå för många olika slags arbeten. Avgörande för om ett sådant projekt behöver etikprövas är om det kommer att innefatta behandling av känsliga personuppgifter eller uppgifter om brottslighet. Om de data som bearbetas endast består av uppgifter på gruppnivå, som korrelationer och statistik, så ger detta ingen anledning till etikprövning. Om projektet däremot innefattar behandling av data på individnivå krävs etikprövning, såvida dessa data innefattar känsliga personuppgifter eller uppgifter om brottslighet.
+
+En forskare ville få ut ett material från SCB med poster om enskilda personer. Varje post identifierades med löpnummer och inga namn eller personnummer skulle lämnas ut. SCB skulle inte bevara någon kodnyckel. Mot bakgrund av Centrala etikprövningsnämndens bedömning i liknande ärenden ansågs att redan SCBs behandling av uppgifterna föranleddes av forskningsprojektet och skulle innebära behandling av känsliga personuppgifter, och att studien därför var tillståndspliktig.
+
+En annan forskare ville få tillgång till ett datamaterial från SCB via MONA, Microdata ONline Access. Detta innebär att forskaren kan beställa aggregerade data, dvs. statistiska frekvenser och korrelationer. Forskaren kan förbereda beställningen genom att få en översikt på sin egen dataskärm men måste skriva på en förbindelse att inte kopiera några rådata.
+
+Ett godkännande vid etikprövning kan endast lämnas för forskning, och det ska avse ett bestämt forskningsprojekt. Detta godkännande kan då innefatta den registeruppbyggnad eller användning av ett befintligt register som krävs för det aktuella projektet. Det går emellertid inte att få godkännande för att bara samla in uppgifter för ett framtida men ännu inte planerat forskningsprojekt. Registeruppbyggnad som inte är knuten till ett bestämt forskningsprojekt utgör inte i sig forskning och kan därför inte få något godkännande.
+
+[Tillägg på svenska: Dessa stycken visar hur registerdata kan användas i forskning och vilka krav som ställs på etikprövning. De ger exempel på hur SCB:s register kan användas och vilka begränsningar som finns.]
+
+
+From Vagledning-om-etikprovning-EPM.txt:
+Många forskare behöver få tillgång till data från register, till exempel sådana data som förvaltas av Statistikmyndigheten (SCB) eller Socialstyrelsen.
+
+Du behöver vara medveten om att när du vill få tillgång till data från ett register, så behöver du begära ett utlämnande av dessa data, och registerhållaren ska granska om uppgifterna kan lämnas ut, bland annat genom att pröva om det står klart att uppgifterna kan röjas utan att den enskilde eller någon närstående lider men (s.k. menprövning). Du kan alltså inte vara säker på att du får tillgång till uppgifterna förrän menprövningen har genomförts.
+
+Du behöver ge utlämnaren bevis på att du har ett etikgodkännande, vilka data som detta avser, och vilket ändamålet är. Det bästa tillvägagångssättet är alltid att redan innan du lämnar in ansökan om etikprövning undersöka vilka krav den organisation har, som du vill få ut uppgifterna från.
+
+I ansökan om etikprövning ska du under avsnittet Registeruppgifter i ansökningsblanketten besvara de frågor som myndigheten ställer, dvs. information om
+- vilka register som avses
+- vilka uppgifter som kommer att begäras ut
+- varför de behövs för att besvara projektets frågeställningar
+- variabelförteckning.
+
+Om du i ett nytt forskningsprojekt vill använda personuppgifter som har samlats in tidigare, så ska du ansöka om etikprövning och redovisa användningen på samma sätt som för andra data. Dessutom behöver du redovisa
+- vilka data som ska återanvändas
+- varifrån de hämtas
+- varför de behövs för att besvara projektets frågeställningar
+- vilken information som har lämnats till de personer som uppgifterna avser och eventuellt samtycke.
+
+Du behöver därför göra det tydligt i ansökan hur följande faktorer hör ihop:
+- de forskningsfrågor du vill besvara
+- de data eller vävnadsprover som du vill samla in
+- varför insamlade uppgifter är nödvändiga för att besvara forskningsfrågorna.
+
+
+From etikansokan-ethix-ny-ansokningsmall-2023-10-19.txt:
+Pseudonymiserat: Pseudonymiserade personuppgifter, ibland kallat "kodade personuppgifter", innebär att direkta identifierare såsom t.ex. personnummer och namn avseende en forskningsperson har tagits bort och ersatts med en kod, där koden sedan kan kopplas ihop med namnet/personnumret via en kodnyckel.
+
+10.1 Kommer projektet att begära ut uppgifter från ett befintligt register?
+Här avses alla typer av register som innehåller personuppgifter eller uppgifter som tidigare varit personuppgifter men senare avidentifierats. Även medicinska journaldata ska räknas med i denna redogörelse.
+- Tänk på att TakeCare betraktas som ett befintligt register.
+
+Variabellista: Mycket viktigt när du ska ta ut data från ett register. Finns inte alla variabler du vill analysera/hämta ut med tydligt i variabellistan får du inte ta ut datan från registren.
+
+Om du ska ta ut journaldata/registerdata (tex från TakeCare) måste detta anges i informationen, samt vilka data som hämtas. Samtycke krävs för detta. Om ni glömmer att ange detta i Informationen kan det bli svårt att få beslut om att göra uttaget från patientjournalen.
+
+Planeringstips - Om ni behöver göra uttag från patientjournal, dvs TakeCare, tänk till kring hur ofta ni behöver göra uttag. Ni kommer inte få godkännande för obegränsad tillgång att öppna journaler i forskningssyfte varje dag under studieperioden. Ni behöver därför planera för hur det praktiskt går till så att studien blir genomförbar då åtkomsttillfällen till journaldata (TakeCare) är begränsad.
+
+
+From God forskningssed VR 2024.txt:
+Vid behandling av personuppgifter i forskning gäller EU:s dataskyddsförordning (2016/679), GDPR, och kompletterande nationella dataskyddsregler. Personuppgifter är information som direkt eller indirekt kan knytas till en levande person, till exempel namn, personnummer och liknande, men också mycket annat, som ljud- och videoupptagningar, fotografier, IP-adresser med mera. I vissa fall kan även uppgifter som inte var och en för sig kan härledas till en person i kombination med andra uppgifter ge en tillräckligt unik beskrivning för att en person ska kunna identifieras.
+
+För all personuppgiftsbehandling gäller enligt dataskyddsförordningen vissa grundläggande principer som bland annat innebär att:
+- det ska finnas stöd i förordningen för att behandla uppgifterna
+- det ska finnas specifika, särskilt angivna och berättigade ändamål med behandlingen
+- det inte ska behandlas fler uppgifter än vad ändamålet kräver
+- uppgifterna ska vara riktiga
+- uppgifterna inte ska sparas längre än vad ändamålet kräver 
+- uppgifterna ska skyddas genom lämpliga säkerhetsåtgärder, till exempel pseudonymisering 
+- den som ansvarar för behandlingen ska kunna visa att den lever upp till kraven i dataskyddsförordningen och hur.
+
+Särskilda kategorier av personuppgifter enligt artikel 9.1 i EU:s dataskyddsförordning kallas i svensk lag för "känsliga personuppgifter". Dessa är: personuppgifter om ras eller etniskt ursprung, politiska åsikter, religiös eller filosofisk övertygelse, medlemskap i fackförening, hälsa, sexualliv eller sexuell läggning, genetiska uppgifter och biometriska uppgifter som används för att entydigt identifiera en person.
+
+En förutsättning för både transparens och öppet tillgängliggörande är att forskaren håller ordning i sin forskning och i sina data och att forskningsinformation dokumenteras, förvaltas och bevaras på lämpligt sätt under så lång tid som behövs. Dokumentationen måste medge granskning av forskningen.
+
+</information>
+
+Följ dessa riktlinjer när du formulerar svaren:
+
+1. Formatera varje svar med XML-taggar som innehåller frågans ID
+2. Skriv koncist och akademiskt
+3. Basera alla svar på det tillhandahållna materialet
+4. Inkludera relevant etisk analys där det är tillämpligt
+5. Håll dig inom angivna teckengränser
+6. Var specifik och tydlig i beskrivningar av register och variabler
+7. Motivera tydligt varför uppgifterna behövs för forskningens syfte
+
+För fråga 10.1.1:
+- Ange specifikt vilka register som ska användas
+- Inkludera huvudman för varje register
+- Max 2000 tecken
+
+För fråga 10.1.2:
+- Beskriv detaljerat vilka uppgifter som ska begäras ut
+- Förklara kopplingen mellan uppgifterna och forskningens syfte
+- Hänvisa till att en komplett variabellista bifogas
+- Max 4500 tecken
+
+Exempel på format och stil:
+<exempel>
+<10.1.1>
+Uppgifterna kommer att begäras från Socialstyrelsens patientregister. Socialstyrelsen är huvudman för registret.
+</10.1.1>
+
+<10.1.2>
+Från patientregistret kommer följande uppgifter att begäras ut: diagnoskoder (ICD-10) och behandlingsdatum. Dessa uppgifter är nödvändiga för att kunna analysera vårdförloppet enligt projektets primära frågeställning. En komplett variabellista bifogas ansökan.
+</10.1.2>
+</exempel>
+
+Formulera ditt svar direkt utan inledande kommentarer. Använd det tillhandahållna materialet för att ge precisa och relevanta svar.
+Besvara följande frågor:
+FrågeID: <10.1.1>:
+Fråga: 10.1.1 [Om Ja 10.1] Ur vilket eller vilka register kommer uppgifterna att begäras?
+Hjälptext: Namnge registret eller registren som uppgifterna kommer att begäras ifrån. Ange även huvudman för respektive register.
+Teckengräns: 2000
+
+FrågeID: <10.1.2>:
+Fråga: 10.1.2 [Om Ja 10.1] Vilka uppgifter kommer att begäras ut och varför?
+Hjälptext: Beskriv vilken typ av uppgifter som kommer att begäras ut och varför de behövs för att besvara projektets frågeställningar.
+En komplett variabellista bör bifogas ansökan.
+Teckengräns: 4500
+

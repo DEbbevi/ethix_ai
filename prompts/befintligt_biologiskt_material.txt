@@ -1,0 +1,151 @@
+<information>
+From Guide till ansökan om etikprövning.txt:
+"Pseudonymiserade personuppgifter, ibland kallat 'kodade personuppgifter', innebär att direkta identifierare såsom t.ex. personnummer och namn avseende en forskningsperson har tagits bort och ersatts med en kod, där koden sedan kan kopplas ihop med namnet/personnumret via en kodnyckel. Därmed finns det en möjlighet att forskningspersonens direkta identitet går att spåra."
+
+"Ska du använda prov från en biobank måste du vara noga med att inkludera all nödvändig information i etikansökan som krävs för att du sedan ska kunna teckna ett biobanksavtal och få tillgång till prov som omfattas av biobankslagen. Information som ska finnas med under 'Beskrivning av biologiskt material 14.2.2' är:
+- Vilka provmängder och hur ofta prov ska tas.
+- Total mängd prov som tas."
+
+"Estimera hur länge projektet kommer behöva tillgång, men försök att inte begränsa dig i onödan."
+
+"Estimera hur länge det biologiska materialet ska vara tillgängligt efter att projektet avslutats, men försök att inte begränsa dig i onödan, och undvik om möjligt att specificera datum för när prover ska förstöras."
+
+"Ska du använda prov från en biobank måste du vara noga med att inkludera all nödvändig information i etikansökan som krävs för att du sedan ska kunna teckna ett biobanksavtal och få tillgång till prov som omfattas av biobankslagen. Information som ska finnas med under 'Beskrivning av biologiskt material 14.2.7' är:
+- Vilka analyser som planeras."
+
+Tillägg på svenska: Dessa avsnitt ger grundläggande riktlinjer för hur man ska beskriva hantering av biologiskt material i etikansökan, med särskilt fokus på kodning, mängdangivelser, tidsramar och analyser. Det är viktigt att notera att dokumentet rekommenderar att man är specifik men samtidigt inte begränsar sig onödigt mycket, särskilt gällande tidsramar för tillgänglighet.
+
+
+From Vägledning_forskningshuvudman_etikansökan_KI_RegionStockholm_version1_final_22_04_20.txt:
+1. From section 2.1:
+"Alla som bidrar till forskning behöver dock inte anges som forskningshuvudman. En forskningshuvudman är den fysiska eller juridiska person i vars verksamhet forskningen utförs. Etikprövningslagen definierar forskning som vetenskapligt experimentellt eller teoretiskt arbete eller vetenskapliga studier genom observation, om arbetet eller studierna görs för att hämta in ny kunskap, och utvecklingsarbete på vetenskaplig grund. Detta innebär att ett laboratorium eller core-facilitet som analyserar prover mot ersättning, en vårdgivare som endast lämnar ut patientdata eller en provtagningscentral som enbart tar ett blodprov, inte alltid kan anses utföra forskning och därmed inte är en forskningshuvudman."
+
+2. From section 3.1:
+"Av dataskyddsförordningen följer en annan typ av ansvar än det som följer av etikprövnings-lagen, nämligen ansvar för behandlingen av personuppgifter. Vem som anges som ansvarig respektive övrig medverkande forskningshuvudman i etikansökan är inte avgörande för fördelningen av personuppgiftsansvar. Vid fastställande av om en organisation ska anses vara personuppgiftsansvarig eller personuppgiftsbiträde, eller om det finns gemensamt personuppgiftsansvariga, ska en bedömning göras utifrån de faktiska omständigheterna. I forskningsprojekt där flera forskningshuvudmän är involverade är det viktigt att reda ut hur personuppgiftsansvaret för behandlingen fördelas mellan parterna innan projektet startar."
+
+3. From section 5:
+"När Karolinska Institutet och vårdgivare i Region Stockholm samarbetar i ett forskningsprojekt ska ansökan om etikprövning innehålla uppgifter om vem som ansvarar för personuppgiftshanteringen, inklusive hur personuppgiftsansvaret för behandlingen fördelas mellan parterna."
+
+Tillägg på svenska: Detta dokument ger främst övergripande riktlinjer för ansvarsfördelning och samarbete mellan forskningshuvudmän, men innehåller inte detaljerade instruktioner för hur biologiskt material ska hanteras specifikt. För att besvara många av frågorna i prompten skulle det behövas ytterligare dokumentation om specifika rutiner för provhantering och biobankning.
+
+
+From Etikvaegledning_2021_WEBB.txt:
+Det händer ibland att forskare planerar att förstöra det insamlade materialet omedelbart efter att ett projekt avslutats. Detta är ett brott mot arkivlagen, och det utgör dessutom en allvarlig avvikelse från god forskningssed. Anledningen är att tillgång till forskningsdata är nödvändig för att möjliggöra förnyad vetenskaplig prövning, liksom prövning av eventuella misstankar om oredlighet i forskning.
+
+Varje statlig myndighet ska ha en dokumenthanteringshanteringsplan, baserat på arkivlagen och riksarkivets anvisningar. Enligt Lunds universitets plan gäller bland annat: Visst primärmaterial får gallras 10 år efter projektets avslutande - 15 år för medicinsk forskning - dvs 10 (15) år efter resultatredovisning, publicering och ekonomisk slutredovisning.
+
+Enligt GDPR ska den som behandlar personuppgifter vidta lämpliga tekniska och organisatoriska åtgärder för att säkerställa en säkerhetsnivå som är lämplig i förhållande till risken, i synnerhet skydd för oavsiktlig eller olaglig förstöring, förlust eller ändring eller till obehörigt röjande av eller obehörig åtkomst till de personuppgifter som överförs, lagras eller på annat sätt behandlas.
+
+[Tillägg på svenska: Dokumentet innehåller inte tillräcklig specifik information om hantering av biologiskt material för att kunna ge fullständiga svar på de efterfrågade frågorna. De valda avsnitten ger endast generella riktlinjer för hantering av forskningsmaterial och data.]
+
+
+From Vagledning-om-etikprovning-EPM.txt:
+Om du ska forska på biologiskt material behöver du vara medveten om att biobankslagen (2023:38) normalt sett är tillämplig och att prov som faller under biobankslagen måste tillhöra och inrättas i en biobank.
+
+Först när det finns ett etikgodkännande för en konkret forskningsstudie får prover samlas in i en biobank.
+
+Redan innan du gör en etikansökan är det viktigt att du kontaktar biobankssamordnaren i din region för rådgivning kring möjligheterna att använda biologiskt material i din forskning. Konsultera också biobankssamordnaren om hur ansökan om etikprövning bör utformas för att den efterföljande biobanksprocessen ska kunna fungera på bästa sätt.
+
+Pseudonymisering innebär att man ersätter de berördas namn med en kod och upprättar en särskild kodlista, en s.k. kodnyckel, och förvarar den på annan säker plats. Pseudonymiserade data är att anse som identifierbara, och de skyddsåtgärder som anges i GDPR är tillämpliga. När någon annan än forskaren själv har kodnyckeln brukar uppgifterna ofta beskrivas som länkade. Också länkade data är identifierbara personuppgifter.
+
+Henrietta Lacks-fallet illustrerar vikten av informerat samtycke och etisk hantering av biologiskt material. I samband med operationen tog läkaren nya vävnadsprov från tumören och närliggande frisk vävnad som lämnades till forskningslaboratoriet - utan att hon fick någon information om proverna och deras användning.
+
+Arkivering är inte en del av forskningens genomförandefas och ingår inte i de delar av forskningen som etikprövas. Som forskare behöver du samråda med din huvudman i sådana frågor. Forskningsdata ska arkiveras och gallras enligt gällande arkivlag och riksarkivets förskrifter. Hos huvudmannen finns vanligen en dokumenthanteringsplan. Av planen framgår de regler huvudmannen satt upp för hur forskningsdata ska arkiveras och gallras i den egna organisationen.
+
+
+From etikansokan-ethix-ny-ansokningsmall-2023-10-19.txt:
+"Pseudonymiserat: Pseudonymiserade personuppgifter, ibland kallat "kodade personuppgifter", innebär att direkta identifierare såsom t.ex. personnummer och namn avseende en forskningsperson har tagits bort och ersatts med en kod, där koden sedan kan kopplas ihop med namnet/personnumret via en kodnyckel."
+
+"6.4 Hur kommer insamlade data att hanteras och förvaras?
+Redogör för hur data kommer att hanteras efter insamlingen. Om data kommer att pseudonymiseras ("kodas") ska kodningsförfarandet beskrivas. Det ska framgå var kodlistorna/kodnycklarna kommer att förvaras samt vem/vilka som kommer ha tillgång till dem. Det ska även framgå hur länge data kommer att sparas samt om det kommer att avidentifieras (genom att kodnyckel förstörs) eller förstöras i sin helhet. Forskningsdata ska arkiveras och gallras enligt forskningshuvudmannens regler för bevarande och gallring av handlingar i sin forskningsverksamhet."
+
+"Data lagras så att obehöriga inte kan ta del av dem. Alla personer som hanterar personuppgifterna omfattas av sekretessförbindelser och/eller tystnadsplikt, antingen genom sin anställningsform eller via sekretessförbindelser upprättade enligt KIs instruktioner"
+
+"Data sparas i enlighet med KIs arkivregler för forskningshandlingar. Kontakta CPFs arkivarie Sara Holmqvist (sara.holmqvist@regionstockholm.se) vid frågor om arkivering."
+
+"Tänk på att vara lagom specifik med detaljer. Med det menas att ni inte behöver specificera exakt hur länge ni ska förvara uppgifterna eller exakt när uppgifterna ska förstöras. Det räcker med att skriva var, hur och att uppgifterna ska långtidsförvaras, och att platsen för det är säker, samt att arkivering av uppgifterna kommer ske i enlighet med KI:s arkivregler. Ni vet inte vilken forskning ni eller någon annan kan tänkas göra i framtiden där uppgifterna kan komma till användning och ni begränsar er i onödan om ni specificerat i etikansökan att uppgifterna ska förstöras ett visst datum."
+
+
+From God forskningssed VR 2024.txt:
+Biobankslagen (2023:38) innehåller bestämmelser om hur humanbiologiskt material, med respekt för den enskilda människans integritet, för vissa ändamål får samlas in till och bevaras i en biobank och användas.
+
+En grundläggande forskningsetisk princip är att människor ska informeras och samtycka innan de involveras i forskningen (även om det finns vissa undantag). Detta betraktas allmänt som en central skyddsåtgärd och en förutsättning för att individens rätt till självbestämmande ska respekteras.
+
+Forskare ska vara ärliga, transparenta och ansvarsfulla både i vetenskapliga publikationer och i andra typer av kommunikation. Detta innebär att publicera och presentera data, metoder, resultat och tolkningar på ett öppet, ärligt, transparent och korrekt sätt, samtidigt som skyddsintresset och legitima krav på konfidentialitet tillgodoses.
+
+En förutsättning för både transparens och öppet tillgängliggörande är att forskaren håller ordning i sin forskning och i sina data och att forskningsinformation dokumenteras, förvaltas och bevaras på lämpligt sätt under så lång tid som behövs. Dokumentationen måste medge granskning av forskningen.
+
+Biobanksansvarig och mottagaren ska i avtal reglera vad som ska hända med prover i en biobank som lämnas för analys inom eller utom landet. Krav ska i avtalet ställas på att prov som finns bevarade hos mottagaren ska, om den biobanksansvarige begär det, återlämnas eller omedelbart förstöras eller, om det inte är möjligt att förstöra prover utan att andra prover förstörs, avidentifieras, och mottagaren inte använder provet för något annat än det angivna ändamålet.
+
+</information>
+
+Du ska besvara följande frågor om hantering av biologiskt material för forskningsprojektet:
+- Mängd biologiskt material (14.2.2)
+- Kodning av materialet (14.2.3)
+- Planerade analyser (14.2.4)
+- Hantering efter analys (14.2.6)
+- Tillgänglighet under projektet (14.2.7)
+- Motivering för tillgänglighet under projekt (14.2.8)
+- Tillgänglighet efter projektavslut (14.2.9)
+- Motivering för tillgänglighet efter projektavslut (14.2.10)
+
+Formatera varje svar med XML-taggar som innehåller frågans ID. Till exempel:
+<14.2.2>Ditt svar här</14.2.2>
+
+Viktiga riktlinjer för dina svar:
+1. Var koncis och använd ett akademiskt språk
+2. Basera svaren strikt på det tillhandahållna materialet
+3. Inkludera relevant etisk analys där det är lämpligt
+4. Håll dig inom angivna teckengränser
+5. För fråga 14.2.6, ange endast siffervärdet (1-4) som motsvarar det valda alternativet
+6. För tidsangivelser, var specifik och tydlig
+7. För motiveringar, inkludera både vetenskapliga och etiska aspekter när relevant
+
+Om information saknas i det tillhandahållna materialet för att besvara någon fråga, ange detta tydligt i svaret och förklara vilken information som saknas.
+
+Svaren ska vara på svenska och följa god forskningsetisk praxis enligt svensk lagstiftning och riktlinjer för hantering av biologiskt material.
+Besvara följande frågor:
+FrågeID: <14.2.2>:
+Fråga: 14.2.2 [Om ja 14.2] Hur mycket biologiskt material är planerat att användas?
+Hjälptext: Ange antalet prover, bitar och/eller volymen för allt biologiskt material som är planerat att hämtas in och användas för detta projekt.
+Teckengräns: 2000
+
+FrågeID: <14.2.3>:
+Fråga: 14.2.3 [Om ja 14.2] Ange hur materialet är kodat.
+Hjälptext: När ett material kodas ersätts individens identitet på materialet med en kod, och en kodnyckel tas fram.
+Genom kodnyckeln går det att identifiera vilken individ materialet kommer ifrån.
+Teckengräns: 2000
+
+FrågeID: <14.2.4>:
+Fråga: 14.2.4 [Om ja 14.2] Vilka analyser kommer att utföras på det biologiska materialet?
+Hjälptext: Redogör för alla analyser och bearbetningar som det biologiska materialet ska genomgå.
+Teckengräns: 2000
+
+FrågeID: <14.2.6>:
+Fråga: 14.2.6 [Om ja 14.2] Hur kommer det biologiska materialet att hanteras när analyserna är genomförda?
+Hjälptext: Biobanksansvarig och mottagaren ska i avtal reglera vad som ska hända med prover i en biobank som lämnas för analys inom eller utom landet. Krav ska i avtalet ställas påa) att prov som finns bevarade hos mottagaren ska, om den biobanksansvarige begär det, återlämnas eller omedelbart förstöras eller, om det inte är möjligt att förstöra prover utan att andra prover förstörs, avidentifieras, ochb) mottagaren inte använder provet för något annat än det angivna ändamålet (5 kap. 8 § biobankslagen).Fortsatt bevaring hos mottagare inom eller utom landet är fullt möjligt.
+Svarsalternativ:
+- Materialet kommer att förstöras (värde: 1)
+- Materialet kommer att återlämnas till biobank i Sverige (värde: 2)
+- Materialet kommer att avidentifieras (värde: 3)
+- Materialet kommer att bevaras hos mottagaren (värde: 4)
+Denna fråga besvaras med en siffra.
+
+FrågeID: <14.2.7>:
+Fråga: 14.2.7 [Om ja 14.2] Hur länge ska det biologiska materialet vara tillgängligt för projektet?
+Hjälptext: Ange under vilken tid det biologiska materialet kommer att sparas för det här forskningsprojektet.
+
+FrågeID: <14.2.8>:
+Fråga: 14.2.8 [Om ja 14.2] Ange en motivering till valet av tid som det biologiska materialet kommer vara tillgängligt för projektet.
+Hjälptext: 
+Teckengräns: 2000
+
+FrågeID: <14.2.9>:
+Fråga: 14.2.9 [Om ja 14.2] Hur länge ska det biologiska materialet vara tillgänglig efter att projektet är avslutat?
+Hjälptext: Ange under vilken tid sökanden planerar att ha tillgång till det biologiska materialet.
+
+FrågeID: <14.2.10>:
+Fråga: 14.2.10 [Om ja 14.2] Ange en motivering till valet av tid som det biologiska materialet ska vara tillgänglig efter att projektet är avslutat.
+Hjälptext: 
+Teckengräns: 2000
+

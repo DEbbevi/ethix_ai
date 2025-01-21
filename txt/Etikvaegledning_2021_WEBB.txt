@@ -1,0 +1,857 @@
+<!-- image -->
+
+Andra reviderade och utökade upplagan av Lathund för etikprövning, Lund 2017. ISBN 978-91-89415-02-7 © Ulf Görman Foto omslag: Kennet Ruona
+
+## Förord
+
+Etiska överväganden och riktlinjer är nödvändiga om forskning på ett ansvarsfullt sätt ska kunna användas för att utveckla vetenskapen och vårt samhälle, i dag och i framtiden.
+
+Doktorander, forskare och lärare vid Humanistiska och teologiska fakulteterna ska vara väl insatta i lagstiftningen om forskningsetik och förmögna att insiktsfullt tillämpa etiska principer i sitt arbete. Föreliggande vägledning avser att bidra till detta.
+
+Texten riktar sig främst till den forskande personalen men innehåller också ett särskilt avsnitt om studentarbeten, vilket bygger på rekommendationer utfärdade av Humanistiska och teologiska fakulteternas etikråd år 2018.
+
+Vägledningen är en grundligt uppdaterad och utvidgad version av en tidigare text från 2017, "Lathund för etikprövning", och beaktar de förändringar i lagstiftningen som har skett sedan dess. Revideringen har gjorts av den ursprungliga textens författare, professor Ulf Görman, som under
+
+lång tid var vetenskaplig sekreterare för den regionala etikprövningsnämnden i Lund. Björn Petersson, ledamot i Etikrådet vid Lunds universitet och docent i praktisk filosofi, bidrog med information och råd under revisionsprocessen. Humanistiska och teologiska fakulteternas styrelse har godkänt dokumentet för vidarebefordran och spridning inom fakulteterna.
+
+En vägledning av detta slag kan inte förutse framtida förändringar i lagstiftningen, inte heller ta hänsyn till alla eventualiteter. Den ersätter således inte ansvaret att löpande hålla sig informerad om gällande lagstiftning rörande forskningsetik generellt eller etikprövning mer specifikt. De länkar som då och då anges i texten och den samling av länkar som återfinns i slutet vill underlätta för läsaren att fin na aktuell och kompletterande information.
+
+Lund, den 1 oktober 2021 Stephan Borgehammar och Barbara Törnquist-Plewa prodekaner
+
+| INLEDNING  ...........................................................6                       |
+|-----------------------------------------------------------------------------------------------|
+| FORSKNING SOM INVOLVERAR MÄNNISKOR .......7                                                   |
+| DATASKYDDSFÖRORDNINGEN GDPR  ...................8                                             |
+| Vad är en personuppgift? ..........................................9                          |
+| Vad innebär behandling av personuppgifter?........ 10                                         |
+| ETIKPRÖVNINGEN  ............................................... 12                            |
+| VAD SKA ETIKPRÖVAS?  ...................................... 14                                |
+| När är dessa kriterier tillämpliga?............................ 15                            |
+| Ras eller etniskt ursprung......................................... 17                        |
+| Politiska åsikter ......................................................... 17                |
+| Religiös eller filosofisk övertygelse.......................... 17                            |
+| Medlemskap i fackförening ..................................... 17                            |
+| Genetiska uppgifter.................................................. 17                      |
+| Biometriska uppgifter för att entydigt identifiera en fysisk person....................... 17 |
+| Hälsa .......................................................................... 17           |
+| Uppgifter om en fysisk persons                                                                |
+| sexualliv eller sexuella läggning .............................. 18                           |
+| Uppgifter om brott................................................... 18                      |
+| Syftar till att påverka................................................ 18                    |
+| Risk att skada ............................................................ 18                |
+
+| BEHANDLING AV REDAN OFFENTLIG-  GJORDA PERSONUPPGIFTER  ............................... 19                  |
+|-------------------------------------------------------------------------------------------------------------|
+| INNEHÅLLSLIGA KRAV PÅ FORSKNING  ..............19                                                           |
+| Antalet deltagare......................................................20                                   |
+| Pilotprojekt................................................................20                              |
+| Registeruppbyggnad kontra forskning ...................22                                                   |
+| NÅGRA SÄRSKILDA TYPER AV FORSKNING  .......22                                                               |
+| Fältforskning, etnografiska studier och observationsstudier ...........................................22   |
+| Sårbara personer.......................................................23                                   |
+| Fotografering och filmning ......................................23                                         |
+| Fallstudier ................................................................. 24                            |
+| Fokusgruppsintervjuer.............................................. 24                                      |
+| Forskning på sociala medier.....................................25                                          |
+| Forskning som planeras under hand .......................25                                                 |
+| Att fråga professionella aktörer om deras arbete ........................................................26 |
+| Information om tredje person .................................26                                            |
+| HUR AVGÖRA OM ETIKPRÖVNING KRÄVS? ........27                                                                |
+| Några exempel på etikprövnings-                                                                             |
+| nämndens bedömningar ..........................................27                                           |
+
+| PUBLICERINGENS BETYDELSE                                                                                                     | ............................29     |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
+| KRAV PÅ ETIKPRÖVNING VID PUBLICERING  .......30                                                                              |                                    |
+| REKRYTERINGSPROCESSEN                                                                                                        | ................................32 |
+| FORSKNINGSPERSONSINFORMATION                                                                                                 | ................32                 |
+| INFORMATION TILL FORSKNINGS-                                                                                                 |                                    |
+| PERSONER I SÄRSKILDA FALL  .............................33                                                                   |                                    |
+| SAMTYCKE  ..........................................................33                                                       |                                    |
+| Andra former för samtycke ......................................34                                                           |                                    |
+| INFORMATION OCH SAMTYCKE NÄR UPP- GIFTER HÄMTAS FRÅN ANNAN KÄLLA ÄN  FORSKNINGSPERSONEN SJÄLV  ...........................35 |                                    |
+| SAMTYCKE TILL ANVÄNDNING AV PERSON- UPPGIFTER FÖR FRAMTIDA FORSKNING  ............36                                         |                                    |
+| ÖPPEN TILLGÅNG TILL FORSKNINGSDATA                                                                                           | .........37                        |
+| SÄKERHETEN VID DATAHANTERING                                                                                                 | ..................39               |
+
+| ARKIVERING OCH GALLRING AV FORSKNINGSDATA  ........................................40                                             |                                      |
+|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| RISKER OCH FÖRSÄKRINGAR                                                                                                           | ............................. 41     |
+| ÄNDRINGSANSÖKAN  .........................................42                                                                      |                                      |
+| INTERNATIONELLA PROJEKT  ..............................43                                                                         |                                      |
+| Medverkan i internationella forskningsprojekt......43                                                                             |                                      |
+| Datautbyte med andra länder .................................44                                                                   |                                      |
+| Import av data...........................................................44                                                       |                                      |
+| Mastersuppsatser och andra forskarförberedande  arbeten ...................................................................... 47 |                                      |
+| LÄNKAR TILL LAGAR                                                                                                                 |                                      |
+| OCH ANDRA DOKUMENT                                                                                                                | ..................................48 |
+| LÄNKSAMLING OCH KONTAKTUPPGIFTER  .........50                                                                                     |                                      |
+| 1. Webbplatser med allmänna upplysningar ..........50                                                                             |                                      |
+| 2. Länkar till myndigheter och särskilda resurser ... 51                                                                          |                                      |
+| 3. Kontaktuppgifter till resurspersoner .................. 51                                                                     |                                      |
+
+## INLEDNING
+
+Syftet med denna vägledning är i första hand att beskriva vad forskare inom humaniora och teologi behöver känna till och beakta, när de planerar forskning som innefattar människor eller information om människor, och när de då överväger om etikprövning krävs och hur en ansökan i så fall ska utformas. Den innehåller information om praxis och ger råd särskilt riktade till forskare vid HT-fakulteterna. [1]
+
+Informationen är också relevant i utbildningen. De självständiga arbeten som studenter utför, i synnerhet examensarbeten och forskarförberedande uppsatser, ska bland annat vara en träning i att beakta och visa prov på ett etiskt förhållningssätt. I ett särskilt avsnitt diskuteras frågor som aktualiseras när studenter i grundläggande och avancerad utbildning arbetar med frågor och material som involverar människor eller information om människor. De särskilda frågor som aktualiseras hänger samman med att utbildningen står på tröskeln till forskningen och är en träning för framtida forskning eller konsumtion av forskning.
+
+Jag har lång erfarenhet av etisk granskning av forskning i en svensk etikprövningsnämnd och av etisk granskning av den forskning som EU-kommissionen finansierar. Den information om praxis och de råd som presenteras i denna skrift är baserade på dessa erfarenheter, men de är endast erfarenhetsbaserade råd och utgör inte någon officiell tolkning av gällande bestämmelser. Begreppet "etikprövningsnämnden" hänvisar i det här dokumentet till den nämnd som jag arbetade i. De exempel som ges är allmänt hållna beskrivningar av bedömningar som gjordes i nämndens arbete.
+
+Sedan 2017 när Lathund för etikprövning publicerades, har fle ra betydelsefulla förändringar ägt rum som motiverar en revision. Den nya EU-gemensamma dataskyddsförordningen GDPR har trätt i kraft. I Sverige fick etikprövningen en ny organisation 2019. För etikgranskningen relevant lagstiftning har förändrats. Universitetet har utarbetat rutiner och vägledning.
+
+Etikprövningsfrågorna är en avgränsad del av forskningsetiken. Ett etiskt acceptabelt förhållningssätt i forskning kräver också bland annat att man undviker oredlighet i forskning. Lagen (2019:504) om ansvar för god forskningssed definierar i 2 § oredlighet i forskning som
+
+en allvarlig avvikelse från god forskningssed i form av fabricering, förfalskning eller plagiering som begås med uppsåt eller av grov oaktsamhet vid planering, genomförande eller rapportering av forskning.
+
+Det forskningsetiska begreppet "god forskningssed" är i sin tur vidare och innefattar etiska hänsynstaganden som inte nödvändigtvis är lagstadgade. Anvisningar för hantering av misstankar om oredlighet i forskning och andra avvikelser från god forskningssed finns på
+
+medarbetarwebben.lu.se/forska-och-utbilda/stod-tillforskning/forskningsetik-och-djurforsoksetik/avvikelserfran-god-forskningssed .
+
+På Lunds universitets webbsidor för forskningsetik finns information om etiska riktlinjer och lagar som rör forskningsprocessen. I centrum står det svenska regelverket och föreskrifter vid Lunds universitet. Här finns även kontaktuppgifter till personer, institutioner och myndigheter med särskilt ansvar för att svara på frågor rörande det forskningsetiska regelverket. forskningsetik.lu.se
+
+Detta dokument behandlar endast etikprövningsfrågor rörande forskning på människor. Vid HT-fakulteterna i Lund
+
+bedrivs också forskning som innefattar djurförsök. För frågor om djurförsöksetik och godkännande av forskning på djur hänvisas till
+
+medarbetarwebben.lu.se/forska-och-utbilda/stod-till-forskning/forskningsetik-och-djurforsoksetik/djurforsoksetik .
+
+## FORSKNING SOM INVOLVERAR MÄNNISKOR
+
+De viktigaste dokumenten för att skydda människor som är relevanta i forskningen i humaniora och teologi är EU:s dataskyddsförordning GDPR och Etikprövningslagen . Alla forskare som planerar att arbeta med information om människor måste känna till och följa GDPR. Detta gäller både om forskaren samlar in informationen från personerna själva och om han eller hon återanvänder information som tidigare samlats in.
+
+Alla forskare som planerar att arbeta med
+
+- · känsliga personuppgifter eller uppgifter om brottslighet
+- · försök som syftar till att påverka människor, eller
+- · försök som utsätter de medverkande för risker är också skyldiga att känna till och följa etikprövningslagen, att ansöka om etikprövning av sin forskning, och att inte påbörja forskningen förrän han eller hon fått ett etiskt godkännande.
+
+## DATASKYDDSFÖRORDNINGEN GDPR
+
+EU:s dataskyddsförordning GDPR (EU 2016/679) trädde i kraft den 25 maj 2018 och är direkt gällande lagstiftning vad avser personuppgiftsbehandling i EU:s medlemsländer. GDPR är en EU-gemensam lag som anger regler och gränser för all behandling av personuppgifter, inte bara för forskning. GDPR anger specifika områden där nationell lagstiftning får utfärda tilläggsbestämmelser eller undantag från vissa bestämmelser i förordningen. Etikprövningslagen har ändrats 2020 och innehåller sådana tilläggsbestämmelser när det gäller forskning. Det har inte gjorts några undantag i svensk lagstiftning från bestämmelser om den registrerades rättigheter vid behandling av personuppgifter för forskningsändamål. [2]
+
+Lunds universitet är personuppgiftsansvarigt för all behandling av personuppgifter som genomförs inom universitetets verksamheter. På medarbetarwebben finns utförlig information om GDPR och dess allmänna tillämpning vid universitetet. medarbetarwebben.lu.se/stod-och-verktyg/juridik-dokument-och-arendehantering-samt-dataskydd/personuppgifter-och-dataskydd-gdpr
+
+- [2] Prop. 2017/18:298 Behandling av personuppgifter för forskningsändamål, sid. 103-130.
+
+Till stöd för den som avser att behandla personuppgifter finns ett dataskyddsombud . I dennes uppgifter ingår att informera och ge råd till dem som behandlar personuppgifter och att övervaka efterlevnaden av dataskyddsförordningen. Universitetets dataskyddsombud kan kontaktas för frågor som inte besvaras via länken ovan.
+
+Alla forskningsprojekt vid Lunds universitet där personuppgifter (alltså inte bara känsliga personuppgifter) hanteras ska anmälas till Personuppgifter vid Lunds universitet PULU . Anvisningar och mer information om behandling av personuppgifter i forskning finns på
+
+medarbetarwebben.lu.se/personuppgifter-och-dataskyddgdpr/omradesspecifik-information/forskning .
+
+Integritetsskyddsmyndigheten IMY (tidigare Datainspektionen) är den myndighet vars uppgift är att utöva tillsyn över att behandlingen av personuppgifter inte leder till otillbörliga intrång i enskilda personers integritet. IMY genomför regelbundet granskningar och kan utfärda sanktionsavgifter. Information om bestämmelser och praxis finns på IMY.se .
+
+## Vad är en personuppgift?
+
+En personuppgift är all slags information som direkt eller indirekt kan hänföras till en fysisk person som är i livet. GDPR definierar personuppgift som
+
+varje upplysning som avser en identifierad eller identi -fie rbar fysisk person (nedan kallad en registrerad), varvid en identifierbar fysisk person är en person som direkt eller indirekt kan identifieras särskilt med hänvisning till en identifierare som ett namn, ett identifikationsnummer, en lokaliseringsuppgift eller onlineidentifikatorer eller en eller flera faktorer som är specifika för den fysiska personens fysiska, fysiologiska, genetiska, psykiska, ekonomiska, kulturella eller sociala identitet (Artikel 4.1).
+
+Namn eller personnummer är de tydligaste exemplen på sådant som gör att en information kan direkt knytas till en bestämd person. Men det finns också många andra omständigheter som gör att exempelvis forskningsdata utgör personuppgifter. Med indirekt identifiering avses att någon som skaffar sig tillgång till informationen kan ta reda på vem uppgifterna avser, även om informationen inte innehåller direkta identifikatorer. Några vanliga exempel på indirekt identifierbara data är:
+
+- · Information som med enkla medel kan hänföras till en bestämd person, som mobiltelefonnummer, e-postadress eller IP-adress.
+- · Information som tillsammans med ytterligare någon eller några andra uppgifter entydigt kan hänföras till en bestämd person, som bostadsadress eller GPS-data för bostaden.
+- · Indirekt identifiering är också möjlig om den som skaffar sig tillgång till materialet kan ringa in vem uppgifterna avser med hjälp av några specifika men var för sig inte direkt identifierbara uppgifter. Det har gjorts en del studier av hur mycket information som krävs för att kunna göra en sådan indirekt identifiering, och man har då gjort bedömningen att det kan räcka med 3-5 specifika uppgifter för att också i ett stort material ringa in vem uppgifterna avser.
+
+GDPR ställer krav på att den som hanterar personuppgifter ska vidta lämpliga tekniska och organisatoriska åtgärder för att skydda de personuppgifter som behandlas (Artikel 25). Det är vanligt att forskare på olika sätt "avidentifierar" material som innehåller data om enskilda personer, dvs. vidtar åtgärder som försvårar identifiering. Detta är korrekt och lämpligt, men uppgifterna ska ändå ofta anses vara personuppgifter.
+
+GDPR nämner särskilt pseudonymisering som en lämplig skyddsåtgärd i samband med forskning för att försvåra identifiering av personuppgifter (Artikel 89.1). Pseudonymisering innebär att man ersätter de berördas namn med ett kodnummer och upprättar en särskild kodlista, en s.k. kodnyckel, och förvarar den på annan plats. Pseudonymiserade data är att anse som identifierbara, och de skyddsåtgärder som anges i GDPR är tillämpliga. [3] När någon annan än forskaren själv har kodnyckeln brukar uppgifterna beskrivas som länkade. Också länkade data är identifierbara personuppgifter. Det samma gäller om man i stället eller också väljer att kryptera uppgifterna.
+
+Uppgifter om avlidna är inte personuppgifter och skyddas inte av GDPR. De får alltså användas i forskningen utan etikprövning. Uppgifter om avlidna skyddas dock i annan svensk lagstiftning, som behöver beaktas. Man måste också ta hänsyn till att en uppgift om en avliden kan innehålla upplysningar som sekundärt avslöjar information om anhöriga som är i livet. Då är det också fråga om en personuppgift om den anhörige, uppgifterna skyddas av GDPR, och vid forskning krävs etiskt godkännande om det är fråga om känsliga personuppgifter.
+
+[3] Se GDPR Skäl 26 och Artikel 4.5.
+
+Det avgörande för om en forskares arbete utgör behandling av personuppgifter är inte bara hur redovisningen sker, utan allt arbete i projektet ska beaktas. Huvudprincipen kan sägas vara att om forskarna i projektet har tillgång till och på något sätt behandlar data på individnivå, så ska det anses att projektet innefattar behandling av personuppgifter.
+
+## Vad innebär behandling av personuppgifter?
+
+Behandling av personuppgifter är:
+
+en åtgärd eller kombination av åtgärder beträffande personuppgifter eller uppsättningar av personuppgifter, oberoende av om de utförs automatiserat eller ej, såsom insamling, registrering, organisering, strukturering, lagring, bearbetning eller ändring, framtagning, läsning, användning, utlämning genom överföring, spridning eller tillhandahållande på annat sätt, justering eller sammanförande, begränsning, radering eller förstöring (GDPR Artikel 4.2).
+
+När en forskare skaffar sig tillgång till information som direkt eller indirekt kan hänföras till en fysisk person som är i livet, så är alltså all hantering av materialet en behandling av personuppgifter. GDPR:s regler och begränsningar gäller
+
+<!-- image -->
+
+alla arbetssätt som ryms under beskrivningen ovan, inte bara datoriserad informationsbehandling. [4]
+
+Enligt GDPR måste all behandling av personuppgifter vila på en bestämd rättslig grund . Tillåtna rättsliga grunder förtecknas i Artikel 6.1. Vid forskning som utförs av en svensk myndighet får den rättsliga grunden vara att behandlingen är nödvändig för att utföra en uppgift av allmänt intresse (Artikel 6.1 e). Lunds universitet är en sådan myndighet.
+
+Observera att forskare inte bör åberopa samtycke som rättslig grund för behandling av personuppgifter när det fin ns en betydande ojämlikhet mellan den registrerade och den personuppgiftsansvarige, särskilt om den personuppgiftsansvarige är en myndighet (GDPR Skäl 43). Samtycke behövs eller krävs ofta av andra anledningar, men är i de
+
+sta fall inte tillräckligt som rättslig grund för personuppgiftsbehandling i samband med forskning.
+
+För behandling av känsliga personuppgifter (i GDPR benämnda "särskilda kategorier av personuppgifter") gäller mera begränsande regler. Det är värt att uppmärksamma att huvudregeln i GDPR är att behandling av särskilda kategorier av personuppgifter är förbjuden, med ett antal undantag (Artikel 9.1). Behandling av sådana personuppgifter är bland annat tillåten om den är nödvändig för vetenskapliga eller historiska forskningsändamål (Artikel 9.2 j). Sådan behandling ska omfattas av lämpliga skyddsåtgärder (Artikel 89.1). I Sverige gäller att etikprövning och godkännande från Etikprövningsmyndigheten är en påbjuden skyddsåtgärd. [5]
+
+## ETIKPRÖVNINGEN
+
+Dåliga erfarenheter av tidigare forskning som involverar människor har medfört att lagstiftare världen över har satt upp både regler och kontrollmekanismer för sådan forskning. I Sverige kommer dessa regler till uttryck i etikprövningslagen, och den primära kontrollmekanismen är
+
+[5] Prop. 2017/18:298 Behandling av personuppgifter för forskningsändamål, sid, 84-90.
+
+etikprövningen, som innebär att all forskningsverksamhet som omfattas av lagen ska etikprövas innan den får påbörjas.
+
+De centrala uppgifterna för etikprövningen är att skydda forskningspersonernas integritet och säkerhet, att granska forskningens värde, och att väga den mot de risker som den innebär för forskningspersonerna. Några huvudregler vid etikprövningen är:
+
+- · Människors välfärd ska ges företräde framför samhällets och vetenskapens behov (8 §).
+- · Forskningens risker ska uppvägas av dess vetenskapliga värde (9 §).
+
+Etikprövningsmyndigheten som inrättades 2019 har sitt säte i Uppsala, men verksamheten bedrivs i sex regioner med totalt 18 avdelningar. En avdelning består av tio representanter med vetenskaplig bakgrund och fem från allmänheten. Ordföranden i en avdelning ska vara eller ha varit domare.
+
+Regeringen har beslutat att etikprövningen i princip ska fin ansieras av forskningen. Det utgår därför en avgift, som 2021 är 5000 kr eller 16000 kr för en ansökan och 2000 kr för en ändringsansökan. Aktuella avgifter anges på Etik-
+
+ndighetens webbplats. Avgifter överförs direkt till regeringens konto. Etikprövningsmyndighetens arbete fin ansieras genom statsbudgeten.
+
+En etikprövning är en relativt omständlig procedur. Mycket material ska produceras och samlas ihop, och en ansökan om godkännande enligt etikprövningslagen ska lämnas in. Projektets uppläggning ska redovisas i detalj. Detta innebär bland annat en beskrivning av rekryteringsprocessen, de data som inhämtas, variabler som används i analysen, varifrån data hämtas, etc. Säkerhetsåtgärder vid datahantering ska redovisas.
+
+All information som kommuniceras med forskningspersonerna ska bifogas ansökan i slutligt skick. Det gäller i första hand forskningspersonsinformation, samtyckesblanketter, enkäter och intervjuguider och liknande material. Själva ansökningsblanketten ska fyllas i på svenska, med hänsyn till allmänrepresentanterna. Ett forskningsprotokoll ska också bifogas. Detta ska inte bara vara en kopia på ansökan, utan ska fungera som referensmaterial när de vetenskapliga ledamöterna söker detaljerad information om hur undersökningarna i detalj ska genomföras.
+
+Själva proceduren tar åtminstone en månad. Det är vanligt att Etikprövningsmyndigheten ställer frågor om inte ansökan är helt tydlig. Den sökande bereds då "tillfälle att komplettera ansökan". I sådana fall förlängs också tiden för behandlingen. En sådan begäran om kompletterande information innebär oftast att myndigheten vill veta mer om detaljer i projektet och dess genomförande. Men myndigheten kan också föreslå en översyn av projektets design i olika avseenden.
+
+Etikprövningsmyndigheten har ett begränsat antal beslutsmöjligheter: En ansökan kan godkännas, godkännas med villkor, avslås eller avvisas. Om myndigheten har satt upp villkor är forskaren skyldig att följa dessa. En ansökan avvisas om den inte "faller under lagen", dvs inte är tillståndspliktig. Ansökan prövas då inte i sak. Det finns också möjlighet för myndigheten att lämna ett rådgivande yttrande. Se avsnittet Krav på etikprövning vid publicering nedan för information och diskussion om detta alternativ.
+
+Ansökan om etikprövning skickas numera in elektroniskt. Blanketter och detaljerade anvisningar för hur man skriver en ansökan om etikprövning och vilka bilagor som behövs fin ns på Etikprövningsmyndighetens webbplats.
+
+etikprovningsmyndigheten.se
+
+Den som inte är nöjd med Etikprövningsmyndighetens beslut kan överklaga till Överklagandenämnden för etikprövning (tidigare Centrala etikprövningsnämnden). På Överklagandenämndens webbplats publiceras beslut från såväl Överklagandenämnden som Centrala etikprövningsnämnden.
+
+## onep.se
+
+Ända sedan etikprövningen startade 2004 fattar varje avdelning självständiga beslut om de ansökningar som lämnas in. Avdelningarna har regelbundna kontakter och nationella möten, bland annat för att nå en likartad praxis. Den nya Etikprövningsmyndigheten arbetar också på flera andra sätt för att nå en samsyn. Centrala etikprövningsnämndens liksom Överklagandenämndens beslut uppfattas som prejudicerande.
+
+Den följande beskrivningen tar i första hand upp sådana frågor som kan bli aktuella för forskare inom HTområdet.
+
+## VAD SKA ETIKPRÖVAS?
+
+Forskning som omfattas av etikprövningslagen får bara utföras om den har godkänts vid en etikprövning. Tillståndspliktig forskning beskrivs i 3-4 § etikprövningslagen.
+
+Beträffande forskningen inom HT-området gäller detta alla undersökningar som innefattar
+
+- · behandling av känsliga personuppgifter
+- · behandling av personuppgifter om brottslighet
+- · försök som
+- - syftar till att påverka forskningspersonen fysiskt eller psykiskt
+- - innebär en uppenbar risk att skada forskningspersonen fysiskt eller psykiskt. [6]
+
+Begreppet forskningsperson används i etikprövningslagen för att beteckna den levande människa som forskningen avser.
+
+Känsliga personuppgifter är personuppgifter som avslöjar
+
+- · ras eller etniskt ursprung
+- · politiska åsikter
+- · religiös eller filosofisk övertygelse
+- · medlemskap i fackförening
+
+och behandling av
+
+- · genetiska uppgifter
+
+[6] 4 § etikprövningslagen nämner också forskning som innebär ett fysiskt ingrepp eller avser studier på biologiskt material. Eftersom sådan forskning knappast kommer i fråga inom humaniora och teologi diskuteras den inte här.
+
+- · biometriska uppgifter för att entydigt identifiera en fysisk person
+- · uppgifter om hälsa
+- · uppgifter om en fysisk persons sexualliv eller sexuella läggning. (GDPR Artikel 9.1.)
+
+## När är dessa kriterier tillämpliga?
+
+Vid etikprövningen aktualiseras ofta frågan när något av dessa kriterier är tillämpliga. Den praxis som utvecklats innebär bland annat att forskaren anses samla in känsliga personuppgifter om något av följande gäller:
+
+- · någon av de känsliga faktorerna är ett av kriterierna för rekrytering till studien, t.ex. om forskaren rekryterar personer med någon särskild religiös övertygelse eller ett särskilt hälsoproblem,
+- · forskaren ställer direkta frågor som har anknytning till någon av de känsliga faktorerna,
+- · forskaren ställer öppna frågor, där det inte är osannolikt att svaren kan ge information som har att göra med någon av de känsliga faktorerna,
+- · andra omständigheter i undersökningen gör att det inte är osannolikt att information om någon av de känsliga faktorerna kan komma att avslöjas.
+
+<!-- image -->
+
+Med begreppet inte osannolikt avses här att det går att urskilja en risk, men den behöver inte vara stor.
+
+## Ras eller etniskt ursprung
+
+Praxis idag är att man tillämpar denna bestämmelse på personuppgifter om etnicitet eller etniskt ursprung, utan att man förutsätter att det går att identifiera specifika människoraser.
+
+Vilka uppgifter kan det då handla om? Syftet med bestämmelsen är att skydda personer som kan riskera diskriminering. Därför har den i första hand tillämpats när det gäller minoritetsgrupper. Några exempel på faktorer som anses avslöja etnicitet är hudfärg, modersmål - i synnerhet när det gäller minoritetsspråk - eller flera uppgifter tillsammans, som namn och språkkunskaper, eller medborgarskap tillsammans med någon annan specifik uppgift.
+
+## Politiska åsikter
+
+Bestämmelsen brukar i första hand användas för tillhörighet till eller sympatier för ett politiskt parti, eller en bestämd uppfattning om hur samhället är eller bör vara organiserat. Handlingar som utövande av djurrättsaktivism har ansetts avslöja en politisk åsikt, däremot inte endast medlemskap i en partipolitiskt obunden intresseorganisation.
+
+## Religiös eller filosofisk övertygelse
+
+Bestämmelsen avser en övertygelse och brukar tillämpas för religiösa åsikter av en viss substans. Det kan också exempelvis gälla uttalad ateism. Filosofisk övertygelse brukar i första hand tillämpas på filosofiska åsikter av livsåskådningskaraktär.
+
+## Medlemskap i fackförening
+
+Begreppet tillämpas på medlemskap i en organisation som ska tillvarata arbetstagares intressen.
+
+## Genetiska uppgifter
+
+Eftersom detta är ett nytt kriterium i GDPR har det ännu inte varit möjligt att identifiera någon specifik praxis.
+
+## Biometriska uppgifter för att entydigt identifiera en fysisk person
+
+Eftersom detta är ett nytt kriterium i GDPR har det ännu inte varit möjligt att identifiera någon specifik praxis.
+
+## Hälsa
+
+Bestämmelsen tillämpas i första hand på uppgifter om ohälsa. Den har också åberopats vid uppgifter om missbruk. Specifika uppgifter som var för sig eller tillsammans
+
+gör att de förmedlar information om personens hälsotillstånd får anses vara känsliga personuppgifter.
+
+## Uppgifter om en fysisk persons sexualliv eller sexuella läggning
+
+Begreppet har inte bara tillämpats på sexuella aktiviteter, utan också på information om specifika sexuella böjelser eller preferenser, och även på uppgifter om könsbyte. Begreppet tillämpas inte på enbart uppgifter om kön eller civilstånd.
+
+## Uppgifter om brott
+
+Anledningen att rätten till behandling av "personuppgifter om lagöverträdelser som innefattar brott, domar i brottmål, straffprocessuella tvångsmedel eller administrativa frihetsberövanden" begränsas är att sådan information kan kränka den registrerades integritet och leda till diskriminering. Bestämmelsen brukar tillämpas också på misstanke om brott.
+
+## Syftar till att påverka
+
+Bestämmelsen tillämpas när forskaren avser att skapa en förändring hos forskningspersonen. Förändringen behöver inte vara bestående. Experiment som syftar till att undersöka hur personer agerar under stress och som inleds med
+
+en stressinduktion har till exempel ansetts tillståndspliktiga enligt denna bestämmelse. Enligt beslut av Centrala etikprövningsnämnden ska bestämmelsen inte tillämpas när det inte finns ett syfte att åstadkomma en förändring.
+
+## Risk att skada
+
+Bestämmelsen ges en vid tillämpning och anses bland annat innefatta studier som är fysiskt eller psykiskt påfrestande för forskningspersonerna, till exempel där deltagande kan medföra obehag.
+
+Frågan om det föreligger en uppenbar risk för skada ska bedömas innan eventuella skydds- och säkerhetsåtgärder vidtas. När en undersökning kan medföra risker för forskningspersonerna ska dessa identifieras och en plan för att minimera riskerna ska upprättas. Är riskerna uppenbara ska en ansökan om etikprövning lämnas in. Sådan forskning är tillståndspliktig även om forskarna är vana vid att hantera de risker som kan uppstå eller om det finns etablerade säkerhetsrutiner i en viss verksamhet.
+
+Risk att skada kan vara aktuell vid sådana laboratorieexperiment som genomförs inom HT-fakulteterna. Etikprövningsnämnden har vid en rad tillfällen bedömt att studier med
+
+ögonrörelsemätning kräver godkännande vid etikprövning. Nämnden har också bedömt att studier med t.ex. EEGutrustning som fästs på huvudet är tillståndspliktiga. En del undersökningar kan också innebära en tydlig påfrestning eller obehag för forskningspersonerna, vilket bedöms som en risk.
+
+## BEHANDLING AV REDAN OFFENTLIGGJORDA PERSONUPPGIFTER
+
+Ibland vill forskare studera uppgifter om personer som redan har offentliggjorts. Är sådana data över huvud taget att anse som personuppgifter, och behöver de i så fall skyddas på något sätt? Behövs etikprövning?
+
+Det förhållandet att personuppgifter redan har offentliggjorts i tal eller skrift innebär inte att dessa uppgifter fritt får användas för forskning. Uppgifterna kan vara osanna eller ha offentliggjorts utan samtycke. Fortsatt behandling kan vara oförenlig med den registrerades medgivande. Även om det finns en rättslig grund för forskning på uppgifterna behöver forskaren ta ställning till om personerna ska informeras. Ett godkännande vid etikprövning erfordras om det är fråga om fortsatt behandling av känsliga personuppgifter. Bestämmelser om förtal behöver också beaktas.
+
+Ett särskilt fall gäller domar i brottmål. Dessa frågor har varit föremål för diskussion inom etikprövningen, och det finns flera tydliga prejudikat från Centrala etikprövningsnämnden. Det förhållandet att var och en har rätt att ta del av allmänna handlingar innebär inte att sådana uppgifter fritt får användas för forskning. Domar i brottmål innehåller identifierbara personuppgifter, och målnummer eller detaljerade uppgifter om brottet kan göra att de berörda kan indirekt identifieras. Fortsatt bearbetning vid forskning innebär då behandling av personuppgifter om brott, som är tillståndspliktig enligt etikprövningslagen.
+
+## INNEHÅLLSLIGA KRAV PÅ FORSKNING
+
+Den planerade verksamheten behöver också uppfylla innehållsliga krav på forskning. Med forskning menas enligt etikprövningslagen
+
+vetenskapligt experimentellt eller teoretiskt arbete eller vetenskapliga studier genom observation, om arbetet eller studierna görs för att hämta in ny kunskap, och utvecklingsarbete på vetenskaplig grund, dock inte sådant arbete eller sådana studier som utförs endast inom ramen för högskoleutbildning på grundnivå eller på avancerad nivå.
+
+Etikprövningen ska skydda forskningspersonernas integritet och säkerhet. Ett projekt kan avslås för att den risk eller börda som projektet medför för forskningspersonerna inte är motiverad av den vetenskapliga vinst som kan uppnås. Det kan också avslås med hänvisning till att frågeställningarna inte kan besvaras med den redovisade metoden. Ett forskningsprojekt granskas också med avseende på om det kan bidra till forskningsläget.
+
+Ett projekt kan också avvisas med argumentet att det inte är forskning. Detta gäller bland annat om det saknas vetenskapliga frågeställningar, om det är uppenbart att arbetet inte ska genomföras med vetenskapliga metoder, eller om det framstår som ett led i en marknadsföring.
+
+Forskare är ofta oeniga med varandra om kvaliteten i andras forskning. Etikprövningen måste förhålla sig till sådan vetenskaplig oenighet. Lösningen är att om en forskningsmetod accepteras inom åtminstone en del av den akademiska världen, så kan den också uppfattas som forskning vid etikprövningen. Arbeten som ska ligga till grund för en doktorsexamen eller har fått anslag från etablerade forskningsfinansiärer ska i princip alltid anses utgöra forskning.
+
+## Antalet deltagare
+
+En annan faktor som ska granskas är om tillräckligt många personer ska involveras i undersökningen för att resultaten kan bli statistiskt bärkraftiga. Eftersom deltagande i ett forskningsprojekt kan innebära en börda för deltagarna, ska inte heller onödigt många forskningspersoner rekryteras. Denna faktor avser i första hand kvantitativa undersökningar, medan det inom humaniora och teologi är vanligast med kvalitativa studier. För kvalitativa studier uppfattas det ofta inte som relevant att göra exakta beräkningar av hur många deltagare som krävs för att uppnå signifikanta resultat, men det är ändå rimligt att forskaren framhåller att det är fråga om en kvalitativ studie och förklarar skälen för att välja ett visst antal deltagare.
+
+## Pilotprojekt
+
+Pilotprojekt uppfyller inte alltid dessa vanliga krav på vetenskaplighet. Det är vanligt att ett sådant projekt bara är en kartläggning eller engagerar ett begränsat antal deltagare. De kan ändå godkännas om det är tydligt att de är hypotesgenererande och ingår i en långsiktig forskningsplan, även om denna plan ännu inte är fastställd i sin helhet. I sådana fall bör forskaren tydligt redovisa att arbetet ingår i ett sådant sammanhang. Forskare bör vara medvetna om
+
+<!-- image -->
+
+att de inte har rätt att i praktiken påbörja ett projekt utan etikprövning, med hänvisning till att det inledande skedet bara var en "pilot".
+
+## Registeruppbyggnad kontra forskning
+
+Ett godkännande vid etikprövning kan endast lämnas för forskning, och det ska avse ett bestämt forskningsprojekt. Detta godkännande kan då innefatta den registeruppbyggnad eller användning av ett befintligt register som krävs för det aktuella projektet. Det går emellertid inte att få godkännande för att bara samla in uppgifter för ett framtida men ännu inte planerat forskningsprojekt. Registeruppbyggnad som inte är knuten till ett bestämt forskningsprojekt utgör inte i sig forskning och kan därför inte få något godkännande.
+
+## NÅGRA SÄRSKILDA TYPER AV FORSKNING
+
+## Fältforskning, etnografiska studier och observationsstudier
+
+Kvalitativa undersökningar av mänskliga fenomen i deras naturliga sociala miljö är vanliga i flera forskningsområden inom humaniora och teologi. Dessa berör inte sällan känsliga personuppgifter, som politiska eller religiösa uppfattningar eller sexuella frågor.
+
+Det kan vid sådan forskning vara svårt att sätta upp tydliga gränser för vad forskningen ska omfatta. Några exempel:
+
+- · Den som rekryterats som forskningsperson kan lätt komma att avslöja fler uppgifter om sig själv och sina förhållanden än hon eller han avser.
+- · Det kan vara svårt att veta i förväg vilka personer som kan medverka i den sociala miljö som ska studeras. Forskningen kan därför komma att beröra andra personer än de som man avsett att rekrytera.
+- · Forskningspersonerna kan få förväntningar på forskaren som kommer i konflikt med forskarrollen.
+
+Sådana risker ska identifieras och lämpliga åtgärder för att bemästra dem ska planeras.
+
+Många doktorander och disputerade forskare bedriver fältforskning i andra länder inom ramen för sin anställning vid Lunds universitet. I sådana fall behöver forskaren, utöver GDPR, beakta och följa gällande bestämmelser i varje land där någon del av projektet äger rum. De flesta länder har idag bestämmelser om rekrytering av forskningspersoner och om behandling av personuppgifter. När en forskare vill göra intervjuer eller observationer i ett annat land, behöver hon eller han undersöka vad
+
+som gäller i det aktuella landet. Det kan finnas begränsningar när det gäller personuppgiftsbehandling, och det kan finnas krav på etiskt godkännande av rekrytering av forskningspersoner. Hur detta ska hanteras måste bedömas från fall till fall.
+
+När fältarbetet utförs inom en anställning som forskare i Sverige förutsätts det att en del av arbetet också utförs i Sverige, till exempel analyser, rapportskrivande och förberedelse för publicering. Det är också fråga om en import av forskningsdata till Sverige. Om forskningsdata innefattar känsliga personuppgifter, så krävs etikprövning också i Sverige.
+
+Ett exempel kan illustrera detta. En forskare i Lund skulle intervjua fängelsekunder i Sydafrika om deras livsåskådning. Projektet bedömdes som tillståndspliktigt vid etikprövningen i Sverige. Myndigheterna i Sydafrika ställde krav på etiskt godkännande i Sydafrika och ville också få en kopia på godkännande från Sverige.
+
+För mer information om internationella förhållanden, se Internationella projekt .
+
+## Sårbara personer
+
+Begreppet "sårbar person" används ofta i samband med forskningsetik, men det saknar enhetlig definition. Vid etikprövning kan bland annat följande grupper komma att betraktas som sårbara beroende på omständigheterna: barn, gravida, fångar, flyktingar, åldringar, personer med psykiska eller fysiska funktionshinder, personer som är utsatta på grund av brister i exempelvis ekonomi eller utbildning, och personer som kan riskera att utsättas för diskriminering. Detta gäller i synnerhet forskning som äger rum i låg- och medelinkomstländer eller involverar forskningspersoner som är illitterata eller har språksvårigheter. I alla sådana fall ska såväl information och samtycke som själva undersökningens genomförande hanteras med särskild omsorg. Forskning ska bara genomföras på sårbara grupper om den kan förväntas ge en kunskap som inte är möjlig att få på annat sätt.
+
+## Fotografering och filmning
+
+Videoinspelningar och fotografier bedöms som personuppgifter i samband med etikprövning, eftersom det är lätt att känna igen en person på bild. När en forskare vill fotografera eller filma sina forskningspersoner bör information och samtycke alltid användas. Informationen ska
+
+vara tydlig och omfatta vad som ska fotograferas och hur, under vilken tid, vad syftet är och hur bilderna är tänkta att användas. Det ska finnas en tydlig utfästelse att bilderna inte ska användas till något annat ändamål än det som sägs i informationen, inklusive hur bilderna ska förvaras och om eller när de ska förstöras. Om det finns risk för att fotografierna eller videoinspelningarna kan komma att avslöja känsliga personuppgifter krävs ansökan om etikprövning.
+
+I forskningsprojekt där man vill använda inspelningar för att senare visa bilder vid föreläsningar eller publikationer, så brukar det krävas att den som avbildas ska få information i varje enskilt fall om vilken användning som planeras och få se materialet, och materialet får bara användas om den berörde gett skriftligt samtycke.
+
+Kamerabevakning på platser dit allmänheten har tillträde omfattas av Kamerabevakningslagen. För bevakning med kamera eller mikrofon som är uppsatt på platser dit allmänheten har tillträde krävs tillstånd från Integritetsskyddsmyndigheten, IMY. När en forskare vill använda sådan utrustning bör ett godkännande från IMY bifogas ansökan om etikprövning. imy.se/verksamhet/utfora-arenden/ansok-om-tillstand-forkamerabevakning/
+
+## Fallstudier
+
+Fallstudier, med detaljerad information om och analys av en viss persons förhållanden, ska hanteras med särskild omsorg. Forskaren måste räkna med att den person som beskrivs i en sådan forskningsrapport kommer att kunna kännas igen. Noggrann information behöver lämnas och samtycke som explicit tar upp publiceringen behöver inhämtas.
+
+## Fokusgruppsintervjuer
+
+Fokusgruppsintervjuer har blivit ett vanligt instrument i kvalitativ forskning. Denna forskningsmetod skapar särskilda problem i den mån samtalen i fokusgrupperna handlar om eller kan komma att beröra känsliga personuppgifter. Forskarna bör i sin planering vara restriktiva med att behandla känsliga personuppgifter på detta sätt. Om fokusgrupper ändå bedöms vara en lämplig metod ska åtgärder vidtas för att göra deltagarna medvetna om att känslig information inte får spridas utanför gruppen och efter samtalets slut. Om känsliga personuppgifter ändå behandlas ska åtgärder vidtas så att dessa minimeras och skyddas eller anonymiseras vid fortsatt databearbetning. De risker av detta slag som kan uppstå ska identifieras och tydligt redovisas vid ansökan om etikprövning, och de åtgärder som planeras för att minimera riskerna ska redovisas.
+
+Obehörigt röjande av känsliga personuppgifter kan utgöra en personuppgiftsincident, dvs en säkerhetsincident som omfattar personuppgifter. Dessa kräver särskilda åtgärder enligt GDPR. För anvisningar om förebyggande och hantering av personuppgiftsincidenter se
+
+medarbetarwebben.lu.se/personuppgifter-och-dataskyddgdpr/overgripande-information/sakerhet-personuppgifteroch-hur-du-hanterar-en-sakerhetsincident .
+
+## Forskning på sociala medier
+
+Forskning med användning av information från Internet, inte minst från sociala medier, har blivit vanlig. Också sådana studier väcker en rad frågor, inte minst med avseende på deltagarnas integritet. En aspekt som behöver beaktas är att många personer som deltar i samtal på sociala medier kan uppfatta den sociala gruppen som en sluten miljö, där man inte sällan ger information i förtroende. Deltagarna underskattar ofta den offentlighet som kan uppstå. Om forskarna samlar in information som redan finns tillgänglig på ett forum av något slag bör forskarna därför respektera deltagarnas integritet genom att göra dem medvetna om att information som härrör från dem kan komma att behandlas. När så är möjligt bör deltagare beredas tillfälle att säga nej till medverkan eller få tillfälle att se vad som
+
+samlats in och då säga nej till att vissa uppgifter används. Detta gäller också om man över tid passivt observerar ett visst skeende på ett sådant forum eller på något sätt interagerar med deltagarna. Vid flera tillfällen har forskare som studerar sociala medier lagt ut information om att forskningen äger rum och vad den innebär, så att denna information kan läsas av dem som deltar, efter samråd med och godkännande från organisatören.
+
+I synnerhet när det gäller personer som på ett eller annat sätt är sårbara kan medvetandet om observationen stimulera till oönskade beteenden. Exempelvis har det i samband med sådana observationsstudier förekommit att självskadebeteende utlösts hos självskadebenägna personer. Det kan också uppstå oönskade beroendeförhållanden, till exempel önskan om en mera personlig relation till forskaren än vad ett professionellt förhållningssätt medger. Vid en ansökan om etikprövning ska risker av dessa och liknande slag identifieras och lämpliga åtgärder planeras.
+
+## Forskning som planeras under hand
+
+Det har blivit vanligare med ansökningar om etikprövning av forskningsprojekt som inte planeras helt från början, utan utvecklas successivt. Detta gäller bland annat aktions-
+
+ning, där tanken ofta är att arbetet ska växa fram i samverkan mellan forskaren och den praktik som studeras. Vid sådan forskning har etikprövningsnämnden ställt krav på att metoderna ska redovisas med sådan tydlighet och detaljrikedom att varje undersökning kan bedömas ur etisk synpunkt. Om ett projekt består av flera undersökningar i olika delstudier, och dessa ska detaljplaneras successivt med beaktande av erfarenheter från tidigare studier, så måste forskarna ansöka om godkännande för de olika delstudierna efter hand som de slutligt planeras.
+
+## Att fråga professionella aktörer om deras arbete
+
+Upplysningar som professionella aktörer lämnar om sitt arbete anses normalt inte utgöra personuppgifter över huvud taget. Det är ju inte sig själva de berättar om, utan om sitt arbete. Men det finns uppenbara undantag. Om frågorna eller svaren kommer in på den egna livsåskådningen, det personliga förhållningssättet till arbetet, eller hur man personligen påverkas av sitt arbete, så berättar man ju inte längre om sitt arbete utan om sig själv. Det samma gäller om frågorna eller svaren kommer in på andra personer. Om man sysslar med enkäter är det ju lätt att styra svaren, men detta är svårare när det gäller intervjuer. Etikprövningsnämndens bedömning har varit att om det
+
+inte är osannolikt att svaren vid en intervju kommer att innefatta känsliga personuppgifter, så ska studien betraktas som tillståndspliktig.
+
+## Information om tredje person
+
+Ibland planerar forskare intervjuer eller enkäter där man ber forskningspersonen berätta om andra personer, till exempel en sjuk anhörig. Det anses då att intervjuerna kommer att samla in personuppgifter om denna tredje person. I sådana fall bör den anhöriga få information om den planerade undersökningen och få tillfälle att samtycka till (eller avböja) att den intervjuade lämnar sådana uppgifter.
+
+I samband med intervjuer med professionella aktörer kan en intervju lätt leda till att forskningspersonen vill ta exempel från verksamheten, och den informationen kan då komma att avslöja känsliga personuppgifter om tredje person. Om omständigheterna är sådana att detta inte är osannolikt, även om sådana personuppgifter inte behövs för forskningen, bör forskaren redan i informationsbrevet nämna att forskningspersonen inte bör avslöja exempel som är av sådan karaktär att den person som ärendet gäller kan kännas igen.
+
+## HUR AVGÖRA OM ETIKPRÖVNING KRÄVS?
+
+Forskaren har själv ansvar för att bedöma om ett forskningsprojekt kan komma att behandla känsliga personuppgifter eller ej och därmed att avgöra om en ansökan om etikprövning ska göras. I oklara situationer rekommenderas att man ansöker om etikprövning. Forskaren har straffansvar om han eller hon uppsåtligen bryter mot kravet på etikprövning.
+
+Det kan ibland vara oklart om forskningen kan komma att behandla känsliga personuppgifter eller inte. Ett exempel kan illustrera detta. Det förekommer enkätundersökningar där man frågar elever om deras synpunkter på en utbildning i sexualkunskap. Vad kan då avgöra om arbetet behandlar känsliga personuppgifter? Så länge de exempelvis får svara på frågor ifall utbildningen är relevant och lärorik, så handlar allt om utbildningen och inte om dem själva. Men om enkäten eller en intervju kommer in på deras egna sexuella aktiviteter eller preferenser så är det i stället känsliga personuppgifter om dem själva. Motsvarande gäller om de berättar om andra personer. Vid planering av enkätfrågor och intervjuer är det viktigt att beakta denna fråga. Enkätformulär respektive intervjuguide ska alltid bifogas en ansökan om etikprövning i
+
+slutligt skick, så att Etikprövningsmyndigheten kan göra en egen bedömning.
+
+## Några exempel på etikprövningsnämndens bedömningar
+
+Ljudinspelningar, exempelvis av en intervju eller vid en observation, anses utgöra personuppgifter även om inga namn nämns, eftersom det går lätt för den som känner en person att känna igen denne på rösten.
+
+En forskare skulle kunna vilja intervjua personer som sysslar med förbjudna verksamheter, t.ex. skadegörelse eller köp av sexuella tjänster. Etikprövningsnämnden har i en rad sådana fall bedömt att intervjuerna kommer att beröra känsliga personuppgifter eller uppgifter om brottslighet, och att undersökningen därför är tillståndspliktig.
+
+Undersökningar om livskvalitet hos personer som tidigare haft någon sjukdom anses också tillståndspliktiga.
+
+Historisk forskning berörs inte av GDPR eller etikprövningslagen om den bara behandlar information om personer som är avlidna och informationen inte indirekt kan avslöja uppgifter om levande anhöriga. Men 1900-tals-
+
+ria och nutidshistoria arbetar ofta med information om levande personer, och när det är fråga om känsliga personuppgifter uppfattas sådana undersökningar som tillståndspliktiga.
+
+Begreppet registerforskning kan stå för många olika slags arbeten. Avgörande för om ett sådant projekt behöver etikprövas är om det kommer att innefatta behandling av känsliga personuppgifter eller uppgifter om brottslighet. Om de data som bearbetas endast består av uppgifter på gruppnivå, som korrelationer och statistik, så ger detta ingen anledning till etikprövning. Om projektet däremot innefattar behandling av data på individnivå krävs etikprövning, såvida dessa data innefattar känsliga personuppgifter eller uppgifter om brottslighet. Två exempel kan ytterligare illustrera dessa frågor.
+
+En forskare ville få ut ett material från SCB med poster om enskilda personer. Varje post identifierades med löpnummer och inga namn eller personnummer skulle lämnas ut. SCB skulle inte bevara någon kodnyckel. Mot bakgrund av Centrala etikprövningsnämndens bedömning i liknande ärenden ansågs att redan SCBs behandling av uppgifterna föranleddes av forskningsprojektet och skulle innebära
+
+behandling av känsliga personuppgifter, och att studien därför var tillståndspliktig. Dessutom var den information om varje person som skulle lämnas ut så omfattande att indirekt identifiering ansågs möjlig. Därför ställdes också krav på datasäkerhet hos forskaren för att skydda forskningspersonernas rätt till konfidentialitet.
+
+En annan forskare ville få tillgång till ett datamaterial från SCB via MONA, Microdata ONline Access . Detta innebär att forskaren kan beställa aggregerade data, dvs. statistiska frekvenser och korrelationer. Forskaren kan förbereda beställningen genom att få en översikt på sin egen dataskärm men måste skriva på en förbindelse att inte kopiera några rådata. Etikprövningsnämnden ansåg att SCBs behandling av uppgifterna föranleddes av forskningsprojektet och skulle innebära behandling av känsliga personuppgifter, och att studien därför var tillståndspliktig. Det material forskaren skulle få ut från SCB och fortsättningsvis behandla skulle däremot enbart vara statistik och inte personuppgifter. Därför ställdes inga krav på datasäkerhet vid forskarens behandling av de utlämnade uppgifterna.
+
+Om ett forskningsprojekt är sådant att det kan vara oklart ifall det är tillståndspliktigt eller inte, så är det Etikpröv-
+
+ndigheten som bör göra den slutliga bedömningen, och det rekommenderas därför att man alltid ska ansöka om etikprövning i sådana fall. Först efter ett eller fle ra beslut, som i liknande fall klargör vad som behöver etikprövas, kan forskaren tydligt dra slutsatser om behovet av etikprövning för kommande projekt.
+
+## PUBLICERINGENS BETYDELSE
+
+Vid etikprövningen gäller att om ett planerat forskningsprojekt genomförs av meriterade forskare som avser att publicera resultaten vetenskapligt, så är presumtionen att det är fråga om forskning. Om resultaten endast ska spridas internt inom den egna organisationen är presumtionen i sammanhang som rör etikprövning att det inte är forskning. Detta illustrerar den tydliga anknytningen mellan vetenskapligt arbete och publicering. Vetenskapligt arbete ska syfta till publicering. Publiceringen ska vara vetenskaplig, dvs. den ska ingå i ett sammanhang där det tydligt framgår att det är ett bidrag till vetenskapen.
+
+I samband med etikprövningen talas det ofta i första hand om vetenskapliga tidskrifter med peer review . Inom humaniora har denna typ av vetenskaplig publicering inte haft samma dominerande ställning som i många andra discipli-
+
+ Andra exempel är doktorsavhandlingar, vetenskapliga monografier och kapitel i antologier som gör anspråk på att redovisa vetenskapliga resultat, däremot exempelvis inte läroböcker och annat undervisningsmaterial. Populärvetenskaplig litteratur utgör i första hand sammanställningar av tidigare forskning.
+
+Den reguljära publiceringen av studentarbeten i exempelvis LUP Student Papers räknas inte som publicering i ett vetenskapligt sammanhang.
+
+Om det inte finns en plan att publicera vetenskapligt kan projektet inte få godkännande vid etikprövning. Forskaren måste därför redan vid ansökan ha en publiceringsplan, som dock inte måste vara preciserad. Oftast godtas en avsiktsförklaring med innebörden att det är forskarnas avsikt att publicera resultaten vetenskapligt.
+
+Ett godkännande vid etikprövning ska avse forskning som ännu inte har utförts. Ett arbete som redan genomförts och inte från början uppfattats som forskning kan inte i efterhand omdefinieras som forskning och kan inte godkännas vid en etikprövning.
+
+## KRAV PÅ ETIKPRÖVNING VID PUBLICERING
+
+Det är inte ovanligt att tidskrifter ställer krav på ett etiskt godkännande för att publicera en artikel, även om författarna kanske inte bedömer att detta krävs enligt etikprövningslagen. Vissa tidskrifter kan ha detta som ett generellt krav, andra kan begära detta efter en granskning av manuskriptet. Det är rimligt att tidskrifter som publicerar humanforskning använder sådana strategier för att skydda sina egna och forskningspersonernas intressen. Forskare som arbetar med forskning som berör människor har därför anledning att i förväg undersöka om detta krav kan komma att ställas av de tidskrifter som man är intresserad av att publicera i. Eftersom ett godkännande inte går att få i efterhand, måste forskaren eller forskarna beakta denna möjlighet redan innan projektet påbörjas.
+
+I fall där forskningen inte omfattas av etikprövningslagen kan Etikprövningsmyndigheten lämna ett rådgivande yttrande . Detta innebär att myndigheten anger att den bedömer att projektet inte omfattas av lagen, men att man inte ser några etiska hinder för projektets genomförande, alternativt lämnar synpunkter som forskaren bör beakta. Om en forskare vill ha ett rådgivande yttrande ska hon
+
+eller han lämna in en ansökan om etikprövning och i ansökningsformuläret ange att ett rådgivande yttrande önskas.
+
+Ett rådgivande yttrande uppfattas som ett positivt etiskt utlåtande enligt internationell praxis, som forskarna kan åberopa i samband med publicering. Om någon ansöker om etikprövning och anger att ett rådgivande yttrande inte önskas, och myndigheten bedömer att projektet inte faller under lagen, så ska man vänta sig att myndigheten avvisar ansökan. Innebörden i detta kan vara svårare att förstå på tidskriftsredaktionen. Bland annat med hänsyn till dessa omständigheter kan det vara lämpligt att vid ansökan om etikprövning alltid ange att ett rådgivande yttrande önskas.
+
+Vid publicering av forskning som är tillståndspliktig enligt etikprövningslagen ska författarna på lämplig plats i texten ange att projektet har fått godkännande ("approval") vid etikprövning och ange den myndighet som har godkänt projektet, datum och diarienummer. Ett rådgivande yttrande för forskning som inte är tillståndspliktig kan beskrivas som "positive opinion".
+
+<!-- image -->
+
+## REKRYTERINGSPROCESSEN
+
+Processen för att rekrytera forskningspersoner till ett forskningsprojekt ska planeras med omsorg. Vid etikprövningen beaktas särskilt följande faktorer.
+
+I de flesta fall vill forskaren rekrytera vuxna och friska personer med full förmåga att själva besluta om sitt deltagande. Vid eventuella avvikelser krävs en förklaring av varför dessa är nödvändiga för att genomföra forskningen.
+
+De som tillfrågas om att medverka i ett forskningsprojekt ska inte stå i något beroendeförhållande till den som genomför rekryteringen. Tydliga exempel på beroendeförhållanden är mellan lärare och studenter/elever, och mellan chefer och anställda. Den som tillfrågas ska vidare få betänketid före beslut om medverkan. Det ska också alltid vara tydligt att det är helt frivilligt att medverka i ett forskningsprojekt.
+
+Etikprövningsnämndens bedömning har varit att rekryteringen ofta bör genomföras i flera steg. Den första kontakten kan ses som en intresseförfrågan, där kortfattad information lämnas om vad projektet handlar om. De som då uttrycker intresse får i nästa steg fullständig forskningspersonsinformation och tillfälle att ställa frågor. Därefter
+
+ska den som uttryckt intresse få betänketid innan beslut om medverkan i projektet.
+
+Ofta ser forskaren det som värdefullt att en förmedlare som redan känner de tilltänkta forskningspersonerna tar den första kontakten. Nämnden har vid många tillfällen bedömt att det är acceptabelt att en sådan person gör en intresseförfrågan, men att den fortsatta rekryteringsprocessen bör övertas av en forskare som den tilltänkta forskningspersonen inte står i beroendeförhållande till.
+
+## FORSKNINGSPERSONSINFORMATION
+
+Den som rekryteras till ett forskningsprojekt ska få information om den forskning som han eller hon förväntas medverka i. Ett informationsblad ska innehålla en beskrivning av allt som den tillfrågade behöver veta för att kunna avgöra om hon eller han vill medverka i projektet. Det ska utformas med omsorg och på ett sakligt sätt beskriva projektet. Det ska inte innehålla några överord eller övertalande inslag.
+
+En ny, tydlig och detaljerad stödmall för forskningspersonsinformation finns tillgänglig på Etikprövningsmyndighetens webbplats och kan laddas ner därifrån.
+
+etikprovningsmyndigheten.se
+
+Denna nya stödmall beaktar GDPRs krav på information om personuppgiftsbehandling enligt Artikel 13. Använd inte äldre mallar som saknar denna information.
+
+Information ska om möjligt lämnas både muntligt och skriftligt. Den som tillfrågas ska få möjlighet att ställa frågor.
+
+## INFORMATION TILL FORSKNINGSPERSONER I SÄRSKILDA FALL
+
+Muntlig och skriftlig information ska alltid lämnas på ett språk som mottagaren förstår väl. Innehållet ska anpassas till mottagarens intellektuella och språkliga förmåga.
+
+Det ställer särskilda krav på form och innehåll när man vänder sig till barn. För forskningspersoner under 15 år ska alltid vårdnadshavaren (bägge vårdnadshavarna vid gemensam vårdnad) få informationen och fatta beslut om deltagande, och barnet ska också få åldersanpassad information och möjlighet att motsätta sig deltagande. Ungdomar mellan 15 och 18 år som inser vad forskningen innebär för hans och hennes del ska själva informeras och besluta om deltagande.
+
+Beträffande vuxna med begränsad beslutsförmåga, exempelvis på grund av sjukdom, försvagat hälsotillstånd
+
+eller psykisk störning, behöver forskaren i samband med rekryteringen bedöma om den berörde själv kan ta ställning till sitt deltagande och i så fall anpassa informationen på lämpligt sätt. För personer som saknar beslutsförmåga ska samråd ske i första hand med närmaste anhöriga och med god man eller förvaltare om sådan finns och det ingår i dennes uppdrag. Forskningspersonen ska alltid själv beredas möjlighet att motsätta sig deltagande. Redovisa alltid i ansökan om etikprövning vilka rutiner som ska användas för att avgöra beslutsförmågan hos de som tillfrågas, och hur rekryteringen sedan ska genomföras för att skydda integriteten hos de som tillfrågas.
+
+Vid fältforskning, inte minst i låg- och medelinkomstländer, kan flera andra faktorer som begränsar deltagarnas förmåga att tillgodogöra sig information aktualiseras. Forskaren bör identifiera sådana faktorer och redovisa hur de ska hanteras för att tillvarata de tilltänkta forskningspersonernas rättigheter.
+
+## SAMTYCKE
+
+Informerat samtycke uppfattas som en av de viktigaste procedurerna för att tillgodose forskningspersonernas rättigheter och intressen. Det är angeläget att forskare
+
+uppfattar informerat samtycke som ett sätt att säkra att varje deltagare i en undersökning har fått tillräcklig information och att deltagandet är frivilligt, och inte bara en formalitet. Ibland gör skilda omständigheter att detta kan eller behöver genomföras på olika sätt.
+
+Samtycke ska hämtas in innan en undersökning påbörjas. Samtycke som hämtas in först efter det att en undersökning genomförts godtas inte.
+
+Ett samtycke till medverkan i ett forskningsprojekt ska alltid vara en frivillig, särskild och informerad viljeyttring. Samtycket ska vara uttryckligt och preciserat till viss forskning. Samtycket ska dokumenteras. Normalt görs detta skriftligt genom att forskningspersonen undertecknar en samtyckesblankett.
+
+## Samtyckesblankett
+
+En samtyckesblankett ska vara kortfattad och inte innehålla någon ny information. All information som behövs för att avgöra om man vill medverka ska finnas i informationsbladet. Blanketter för information och samtycke ska upprättas i två exemplar, och forskningspersonen ska alltid kunna behålla ett exemplar av bägge. Forskarens exemplar av
+
+blanketterna ska bevaras. Stödmall för samtyckesblankett fin ns tillgänglig på Etikprövningsmyndighetens webbplats.
+
+## Andra former för samtycke
+
+Samtycke kan också lämnas på andra sätt. I vissa forskningsprojekt kan det vara lämpligt att göra en ljud- eller videoinspelning av samtycket. Det gäller exempelvis när det ändå görs en inspelning av en intervju eller ett händelseförlopp. Men det kan också vara fallet när en forskningsperson har läs- och skrivsvårigheter på grund av sjukdom eller bristande utbildning. När forskningspersoner av särskilda skäl inte vill avslöja sin identitet eller inte kan skriva, har nämnden också godtagit att ett bomärke eller kryss eller liknande används.
+
+Vid webbenkäter är det vanligt att den som loggar in möts av en sida med fullständig forskningspersonsinformation och därefter en fråga om man är beredd att delta i studien. Först när man klickar JA förs man över till enkäten.
+
+När forskaren har direktkontakt med forskningspersonerna är det oftast oproblematiskt att ge muntlig och skriftlig information. Vid intervjuer ska forskningspersonen få muntlig och skriftlig information i förväg och därefter betänketid, innan en intervju påbörjas. I samband med intervjuer är
+
+det också vanligt att ett aktivt beslut att delta i en intervju uppfattas som tillräckligt i stället för samtycke, och detta godtas ofta vid etikprövningen, om inte särskilda omständigheter föreligger som gör forskningen särskilt känslig. Detsamma gäller vid postenkäter.
+
+## INFORMATION OCH SAMTYCKE NÄR UPPGIFTER HÄMTAS FRÅN ANNAN KÄLLA ÄN FORSKNINGSPERSONEN SJÄLV
+
+När de personuppgifter som ska användas i ett forskningsprojekt inte hämtas in från forskningspersonen själv behöver frågan om information lösas på annat sätt. GDPR ställer krav på att den registrerade i sådana fall ska informeras i enlighet med Artikel 14, med de undantag som anges i Artikel 14.5. Beträffande känsliga personuppgifter ska Etikprövningsmyndigheten godkänna förfarandet. Vilka krav som ska ställas på hur information ska lämnas beror i stor utsträckning på omständigheterna. Baserat på tidigare erfarenheter kan ändå några typfall urskiljas.
+
+Om forskaren vill hämta in och bearbeta känsliga personuppgifter från ett eller flera befintliga register av något slag, ska forskningspersonerna i första hand informeras via brev, eventuellt föregått av personlig kontakt. Forsknings-
+
+information ska då lämnas enligt anvisningarna i tidigare avsnitt. Beroende på graden av integritetsintrång, dvs. hur känslig och närgången informationen är, kan Etikprövningsmyndigheten bedöma att skriftligt samtycke ska krävas, eller att det räcker att de som tillfrågas erbjuds möjlighet att avböja medverkan. Detta s.k. opt-out -förfarande innebär att det finns kontaktuppgifter och information om hur man ska gå tillväga om man inte vill att ens uppgifter ska användas i undersökningen.
+
+Om antalet forskningspersoner är så stort att det skulle innebära en oproportionerlig arbetsinsats behöver individuell information inte lämnas. Information kan då i stället lämnas på ett sådant sätt att den i möjligaste mån kan nå de berörda. Också i sådana fall anses det vanligen lämpligt med opt-out. Detta förfarande brukar bara anses tillämpligt när antalet berörda överstiger några hundra personer, dock inte om forskaren har tillgång till någon lättillgänglig informationskanal, som t.ex. e-postadresser.
+
+För detta ändamål har ofta annonser publicerats i dagspress. Eftersom en annons endast blir tillgänglig vid ett bestämt tillfälle och för läsare av en speciell tidning är det angeläget att finna andra informationsvägar. På senare tid
+
+har det blivit vanligare att information (i stället eller också) lämnas på forskningshuvudmannens webbplats och ligger kvar där så länge projektet pågår.
+
+Om forskaren vill återanvända uppgifter som tidigare har samlats in för ett annat forskningsprojekt ska det först göras en bedömning av om det nya ändamålet täcks av den information som forskningspersonerna fick och det samtycke de lämnade i samband med det tidigare projektet. Om det nya ändamålet täcks av det tidigare informerade samtycket behöver ny information inte lämnas. Om så inte är fallet ska ny information lämnas på något av de sätt som angetts ovan. För att avgöra denna fråga gör man vid oklarhet ofta en bedömning av om det finns anledning att tro att forskningspersonerna skulle bli överraskade över att deras uppgifter används i ett nytt sammanhang.
+
+## SAMTYCKE TILL ANVÄNDNING AV PERSONUPPGIFTER FÖR FRAMTIDA FORSKNING
+
+Principen om ändamålsbegränsning är central i GDPR. Den beskrivs i GDPR Artikel 5.1 b så här:
+
+[Personuppgifter] ska samlas in för särskilda, uttryckligt angivna och berättigade ändamål och inte senare be-
+
+as på ett sätt som är oförenligt med detta ändamål. Ytterligare behandling för arkivändamål av allmänt intresse, vetenskapliga eller historiska forskningsändamål eller statistiska ändamål i enlighet med artikel 89.1 ska inte anses oförenligt med de ursprungliga ändamålen ( ändamålsbegränsning ).
+
+Frågan om ändamålet vid vetenskaplig forskning förklaras vidare i Skäl 33:
+
+Det är ofta inte möjligt att fullt ut identifiera syftet med behandling av personuppgifter för vetenskapliga forskningsändamål i samband med insamlingen av uppgifter. Därför bör registrerade kunna ge sitt samtycke till vissa områden för vetenskaplig forskning, när vedertagna etiska standarder för vetenskaplig forskning iakttas.
+
+Då forskare vill skapa möjlighet att återanvända personuppgifter som samlats in för ett specifikt forskningsprojekt har denna princip tillämpats så här:
+
+När potentiella forskningspersoner ombeds lämna informerat samtycke för deltagande i ett forskningsprojekt ska de informeras om projektets syfte och vad deltagandet innebär.
+
+De ska också informeras om och tillfrågas om samtycke till behandling av personuppgifter inom projektet. Det finns också möjlighet att tillfråga forskningspersonerna om samtycke till framtida behandling av de insamlade personuppgifterna för fortsatt forskning. Den forskning som avses måste dock begränsas till liknande forskning inom ett begränsat och närliggande forskningsområde. Det är inte tillåtet att be om samtycke för ospecificerad framtida forskning. Forskaren ska bevara alla undertecknade samtyckesblanketter och vid behov upprätta ett register för att hålla ordning på vilka samtycken var och en av deltagarna lämnat. [7]
+
+Till exempel: Om en forskare rekryterar personer för en intervjustudie om politiska uppfattningar bland personer bosatta vid Rosengård i Malmö, kan det vara möjligt att be forskningspersonerna om samtycke till att använda insamlade personuppgifter för vidare forskning om politiska uppfattningar, eller till vidare forskning om förhållanden bland bosatta i Rosengård.
+
+De samtycken som planeras och förfarandet för att samla in dem ska redovisas i ansökan om etikprövning.
+
+[7] För ytterligare förklaringar till inhämtande av samtycke se GDPR Skäl 32, 42 och 43.
+
+## ÖPPEN TILLGÅNG TILL FORSKNINGSDATA
+
+Sedan en tid pågår ett arbete för att skapa öppen tillgång till data som samlats in eller genererats i samband med forskning. Syftet med detta arbete beskrivs ofta med de s.k. FAIRprinciperna (Findable, Accessible, Interoperable & Reusable). Arbetet avser många typer av forskningsdata och är även tillämpligt på data som härrör från forskning på människor. I Sverige samordnar Vetenskapsrådet detta arbete.
+
+vr.se/uppdrag/oppen-vetenskap/oppen-tillgang-till-forskningsdata.html
+
+Öppna Data-direktivet (EU) 2019/1024 syftar till att säkerställa att bland annat forskningsdata kan vidareutnyttjas genom att göras tillgängliga enligt principen om öppenhet som standard. Direktivet påverkar inte det rättsliga skyddet för enskilda med avseende på behandling av personuppgifter, och vidareutnyttjande av personuppgifter är endast tillåtet om principen om ändamålsbegränsning efterlevs. När denna vägledning färdigställs i september 2021 pågår fortfarande arbetet med att anpassa svensk lagstiftning till detta direktiv.
+
+En rad forskningsfinansiärer ställer redan krav på att forskarna ska upprätta en datahanteringsplan (Data manage-
+
+<!-- image -->
+
+ment plan, DMP) som bland annat beskriver hur FAIR-principerna förverkligas och hur skyddet av personuppgifter beaktas. Detta gäller till exempel EU-kommissionen och i Sverige Vetenskapsrådet.
+
+Data av detta slag kan komma att innefatta information som avser levande personer. För forskare som berörs av arbetet med öppen tillgång till forskningsdata är det därför viktigt att undersöka i vad mån tillgängliggörande av uppgifter om människor som ska samlas in eller genereras inom projektet är förenligt med principerna i GDPR om bland annat ändamålsbegränsning, information och samtycke. När det gäller personuppgifter måste forskaren överväga om det över huvud taget är lämpligt och rättsligt möjligt att göra sådana uppgifter öppet tillgängliga. Detta gäller i synnerhet känsliga personuppgifter. Om tillgängliggörande av vissa data från ett forskningsprojekt visar sig vara oförenligt med dessa principer, ska sådana data i datahanteringsplanen undantas från öppen tillgång till forskningsdata.
+
+Om forskarna avser att göra uppgifter som härrör från levande personer öppet tillgängliga ska alla relevanta omständigheter redovisas i ansökan om etikprövning och datahanteringsplanen bör bifogas ansökan.
+
+## SÄKERHETEN VID DATAHANTERING
+
+Etikprövningsmyndigheten skall göra en de facto -prövning av att forskningspersonernas säkerhet och integritet värnas. Därför är det inte tillräckligt att en forskare bara hänvisar till att den ena eller den andra bestämmelsen kommer att följas. I stället ska de procedurer för datasäkerhet som man planerar att använda redovisas. Det ankommer sedan på Etikprövningsmyndigheten att granska och bedöma om dessa procedurer uppfyller de krav som kan ställas.
+
+Enligt GDPR ska den som behandlar personuppgifter vidta lämpliga tekniska och organisatoriska åtgärder för att säkerställa en säkerhetsnivå som är lämplig i förhållande till risken, i synnerhet skydd för oavsiktlig eller olaglig förstöring, förlust eller ändring eller till obehörigt röjande av eller obehörig åtkomst till de personuppgifter som överförs, lagras eller på annat sätt behandlas (Artikel 32).
+
+Säkerhetsåtgärder liksom metoder för obehörigt intrång utvecklas kontinuerligt. De data som används i olika forskningsprojekt har också olika hög grad av integritetskänslighet. Därför behöver den rimliga säkerhetsnivån för varje enskilt projekt anpassas till omständigheterna. Det är
+
+lämpligt att forskaren konsulterar expertis i säkerhetsfrågor för att planera säkerhetsnivå och åtgärder.
+
+Vid Lunds universitet erbjuds forskare att använda plattformen LUSEC, som är en miljö för att lagra, hantera och analysera data på ett högsäkert sätt i enlighet med GDPR. Tjänsten är avgiftsbelagd. LUSEC bör övervägas som en lämplig säkerhetsmiljö för känsliga forskningsdata. Där en lägre säkerhetsnivå anses tillräcklig kan säkerhetsåtgärderna i LUSEC tjäna som förebild. Se vidare med.lu.se/intramed/forska\_utbilda/stoed\_till\_forskning/ forskningsdatahantering/lusec .
+
+## ARKIVERING OCH GALLRING AV FORSKNINGSDATA
+
+Det händer ibland att forskare planerar att förstöra det insamlade materialet omedelbart efter att ett projekt avslutats. Detta är ett brott mot arkivlagen, och det utgör dessutom en allvarlig avvikelse från god forskningssed. [8] Anledningen är att tillgång till forskningsdata är nödvändig för att möjliggöra förnyad vetenskaplig prövning, liksom prövning av eventuella misstankar om oredlighet i forskning.
+
+- [8] medarbetarwebben.lu.se/sites/medarbetarwebben.lu.se/ files/202111 / R iktlinjeroredlighet -i-forskninguppdatering%202021.pdf
+
+Varje statlig myndighet ska ha en dokumenthanteringshanteringsplan, baserat på arkivlagen och riksarkivets anvisningar. Enligt Lunds universitets plan gäller bland annat: Visst primärmaterial får gallras 10 år efter projektets avslutande - 15 år för medicinsk forskning - dvs 10 (15) år efter resultatredovisning, publicering och ekonomisk slutredovisning. Beslut fattas av berörd prefekt/motsvarande i samråd med avdelningen Dokumenthantering och berörd forskare/forskningsledare. Se vidare
+
+medarbetarwebben.lu.se/stod-och-verktyg/juridik-dokument-och-arendehantering-samt-dataskydd/dokumenthantering .
+
+Gallring får inte ske, om materialet bedöms ha ett:
+
+- · fortsatt inomvetenskapligt värde,
+- · värde för annat forskningsområde,
+- · vetenskapshistoriskt värde,
+- · kulturhistoriskt värde,
+- · personhistoriskt värde,
+- · stort allmänt intresse.
+
+Det finns en gallrings- och bevarandeplan för forskningshandlingar inom HT-fakulteterna, fastställd av Avdelningen Dokumenthantering:
+
+staff.lu.se/sites/staff.lu.se/files/gallrings-\_och\_ bevarandeplan\_ht.pdf .
+
+och riktlinjer för forskningsdatalagring vid HT-fakulteterna, fastställda av fakultetsstyrelsens arbetsutskott:
+
+internt.ht.lu.se/fileadmin/user\_upload/HT-intra/HT-fakulteterna/Forskningsdata/Riktlinjer\_forskningsdatalag-ring\_beslut.pdf .
+
+HT-biblioteken utgör ett stöd i hela forskningsprocessen och forskningsstödsgruppen är första instans för frågor kring publicering och datahantering. Många frågor hanteras direkt, andra hänvisas till eller besvaras med hjälp av expertfunktioner, främst inom Lunds universitet. Information och kontaktuppgifter finns tillgängliga på htbibl.lu.se/forskare/forskningsdatahantering .
+
+## RISKER OCH FÖRSÄKRINGAR
+
+Forskningshuvudmannen anses ha ansvar för de risker man utsätter forskningspersoner för. Om en forskningsperson kommer till skada och det kan styrkas att skadan förorsakats av att han eller hon rekryterats och medverkat som forskningsperson, så kan forskningshuvudmannen komma att bli skadeståndsskyldig. Forskningshuvudmannen kan
+
+inte friskriva sig från detta ansvar genom att hänvisa till privata försäkringar.
+
+Hur detta ansvar fördelas inom exempelvis Lunds universitet är en intern fråga. Statliga myndigheter tar normalt inga försäkringar, utom i särskilda fall. För sådana ändamål har Kammarkollegiet en försäkringstjänst, som erbjuder försäkringar för särskilt personskadeskydd, som motsvarar arbetsskadeförsäkringens olycksfallsskydd. I samband med forskningsprojekt som innebär särskilda risker förekommer det att projektet tar en sådan försäkring. När de risker som forskningspersonerna kan komma att utsättas för inte är försumbara bör forskarna överväga om en särskild försäkring är befogad.
+
+Det kan finnas fall där forskare inom HT-fakulteterna har kontakt med forskningspersoner som är patienter inom hälso- och sjukvården. Detta kan särskilt vara aktuellt när ett forskningsprojekt äger rum i samarbete med forskare i medicin. Vårdgivare har enligt patientskadelagen skyldighet att ha en försäkring som täcker skador inom hälso- och sjukvård. Regionerna har sin försäkring, Patientförsäkringen, hos Landstingens Ömsesidiga Försäkringsbolag (LÖF). Denna försäkring omfattar också skador som kan uppstå
+
+i samband med forskning på personer som är patienter i hälso- och sjukvård.
+
+I sådana fall bör Region Skåne eller annan berörd vårdgivare stå som forskningshuvudman för att säkra att patientskadeförsäkringen gäller. När Lunds universitet är anslagsmottagare för ett forskningsprojekt ska samtidigt universitetet framstå som forskningshuvudman. Etikprövningslagen har förutsett och medger att flera forskningshuvudmän medverkar i ett och samma forskningsprojekt (23 §). Etikprövningsnämnden har rekommenderat att möjligheten till gemensamt huvudmannaskap ska användas när så är lämpligt. Gemensamt huvudmannaskap ska tydligt framgå i ansökan om etikprövning.
+
+## ÄNDRINGSANSÖKAN
+
+Det finns möjligheter att ansöka om ändring i ett tidigare godkänt forskningsprojekt. Detta vållar ibland forskare huvudbry. Om och när behövs en ändringsansökan? Kan man i vissa fall göra en ändringsansökan i stället för att lämna in en helt ny ansökan?
+
+Ursprungligen har möjligheten till ändring uppkommit i samband med läkemedelsprövningar. Där är det obligato-
+
+att göra en ändring om projektet behöver omvärderas på grund av den vetenskapliga utvecklingen, händelser som har inträffat och kan påverka forskningspersonernas säkerhet, eller andra betydelsefulla omständigheter.
+
+Ändringsbegreppet har också kommit att få en vidare användning, när forskare av andra skäl än de ovan nämnda kommit fram till att man anser sig behöva göra en förändring i ett projekt. Det är inte ovanligt att forskarna behöver revidera rekryteringsprocessen, på grund av att det visat sig vara svårt att engagera tillräckligt många forskningspersoner. Ett annat exempel är när man kommit fram till att man för att besvara frågeställningarna i projektet behöver tillföra ytterligare någon fråga eller annat mätinstrument.
+
+Mera långtgående är det när man vill lägga till en helt ny dimension eller frågeställning till ett projekt. Ibland vill forskare efter det att ett projekt är avslutat studera liknande frågeställningar med stöd av vunna erfarenheter. Etikprövningsmyndigheten skriver om sådana fall:
+
+Om en ändring av ett ursprungligt projekt är omfattande, exempelvis en ny studieuppläggning eller studie-
+
+otes, nya grupper av forskningspersoner med andra karakteristika än de ursprungliga ska studeras, ska en helt ny ansökan göras.
+
+Överklagandenämnden för etikprövning har också i en rad beslut gett uttryck för bedömningen att tydligt ändrade frågeställningar jämfört med originalansökan inte kan rymmas inom ramen för en ändringsansökan.
+
+En ändringsansökan lämnas till Etikprövningsmyndigheten med de bilagor som behövs och ska innehålla en tydlig redovisning av hur frågeställningar, undersökningsprocedurer, datahantering och publiceringsplan påverkas. Blankett och anvisningar finns på Etikprövningsmyndighetens webbplats.
+
+etikprovningsmyndigheten.se/for-forskare/andringsansokan
+
+## INTERNATIONELLA PROJEKT
+
+## Medverkan i internationella forskningsprojekt
+
+Det är vanligt med internationella forskningsprojekt, där forskare i flera länder medverkar, där undersökningar genomförs i flera länder, och där data överförs mellan länder. Forskarna behöver då se till att arbetet genomförs i enlighet med de bestämmelser som gäller i varje land
+
+där någon verksamhet äger rum. Frågor kring rekrytering av forskningspersoner och deras medverkan, personuppgiftsbehandling och etikprövning diskuteras i avsnittet Fältforskning ovan.
+
+För forskning som bedrivs vid Lunds universitet ska personuppgiftsbehandlingen uppfylla kraven i GDPR oavsett var i världen forskningen bedrivs och vems personuppgifter som behandlas. [9] Därutöver ska all forskning som bedrivs av forskare vid Lunds universitet uppfylla som lägst de etiska krav som svensk lagstiftning ställer. Enligt rektorsbeslut 2021-03-25 ska anställda vid Lunds universitet:
+
+- · inte medverka i forskningsprojekt i utlandet utan att få tillgång till information av betydelse för etisk bedömning av forskningen,
+- · inte medverka i forskningsprojekt i utlandet som inte lever upp till den etiska standard som gäller för forskning i Sverige,
+- · inte förlägga aktiviteter till utlandet i syfte att undvika publicitet, granskning eller kritik avseende forskningens innehåll eller genomförande.
+
+[9] Jfr GDPR Artikel 3.1.
+
+## Datautbyte med andra länder
+
+Regler för behandling och skydd av personuppgifter skiljer sig åt mellan olika länder. Med anledning av detta bevakar Europeiska unionen skyddet för personuppgifter och utfärdar anvisningar för överföring av personuppgifter mellan länder. Det är fri rörlighet för personuppgifter mellan medlemsstaterna inom EU och EES-området (Norge, Lichtenstein och Island). Ansvaret för datasäkerhet ligger då på myndigheterna i varje land där någon del av uppgifterna hanteras. Forskningspersonerna har dock rätt att veta att data överförs till annat land, och forskningspersonsinformationen ska innefatta information om överföring av data och var data bearbetas. Vid projekt som delvis äger rum i länder utanför EU och EES-området ska två omständigheter beaktas:
+
+## Export av data
+
+Personuppgifter får bara föras över till ett land utanför EU & EES, s.k. tredje land, under vissa begränsade förutsättningar. Dessa beskrivs väl på
+
+medarbetarwebben.lu.se/stod-och-verktyg/juridik-dokument-och-arendehantering-samt-dataskydd/personuppgifter-och-dataskydd-gdpr/overgripande-information/ overforing-av-personuppgifter-utanfor-eu-och-ees .
+
+## Import av data
+
+Det är inte ovanligt att forskare vill föra in information med personuppgifter från ett tredje land. Forskaren själv eller någon annan kan planera att samla in data i samband med fältforskning eller forskningssamarbete, eller har ibland redan samlat in sådana uppgifter. Det förekommer också att forskare vill återanvända information som finns arkiverad i tredje land från ett tidigare forskningsprojekt. Detta får bara göras om de forskningspersoner som uppgifterna avser har haft ett skydd för sin säkerhet och integritet i samband med insamling och fortsatt behandling av informationen som motsvarar EU:s skyddsnivå.
+
+Forskaren ska informera Etikprövningsmyndigheten om vilka länder som medverkar i ett forskningsprojekt, hur dataflödet ser ut, redovisa och dokumentera omständigheterna i samband med insamling av de uppgifter som ska importeras, och redovisa vilka skyddsåtgärder som genomförts och planeras.
+
+## STUDENTERS ARBETEN
+
+Enligt etikprövningslagen är arbeten som utförs av studerande i högskoleutbildning på grundnivå eller avancerad nivå inte forskning. Inslag i sådan utbildning som beteck-
+
+<!-- image -->
+
+nas som forskning är närmast att uppfatta som träning för eventuell framtida forskning.
+
+Regeringen anger att studenter inte bör åläggas det ansvar som det innebär att bedriva verksamhet där människor medverkar och det finns risk att skada dessa människor fysiskt, psykiskt eller integritetsmässigt. [10] Detta uppfattas så att studenter på grundläggande och avancerad nivå i normalfallet inte ska genomföra sådana arbeten som skulle vara tillståndspliktiga enligt etikprövningslagen om de utfördes av en utbildad forskare.
+
+Det är universitetet som är personuppgiftsansvarigt när studenter behandlar uppgifter inom ramen för sina studier. Om man inom en utbildning hanterar uppgifter om enskilda personer är det utbildningshuvudmannen, och i praktiken handledaren, som ansvarar för att säkerställa att de berörda personernas integritet och säkerhet beaktas och att gällande bestämmelser följs.
+
+När studenter utför arbeten som involverar människor eller behandlar personuppgifter ska detta utföras med omsorg,
+
+[10] Prop. 2007/08:44 Vissa etikprövningsfrågor m.m ., sid. 20.
+
+och de berörda personernas säkerhet och integritet ska skyddas. Det är i första hand handledarens ansvar att göra en bedömning av hur detta ska tillämpas. Handledaren tilldelar studenter de arbetsuppgifter de ska utföra i utbildningen. Detta görs ofta genom att studenten föreslår en uppgift som, inte sällan efter revision, godkänns av handledaren. Detta gäller också ämnen för examensarbeten och andra uppsatsarbeten.
+
+Enligt rekommendationer från HT:s etikråd 2018 ska utgångspunkten för studentarbeten vara att undvika etiskt problematiska metoder eller forskningsobjekt. Samma etiska förhållningssätt som tillämpas av forskare bör tilllämpas av studenter, under överinseende av och i samråd med vetenskapligt kompetent handledare. Förslag till studentarbeten som är potentiellt problematiska i detta avseende bör förhandsgranskas av handledarkollegium eller motsvarande senior grupp i ämnet, i syfte att identifiera eventuellt etiskt tveksamma moment eller förutsättningar. Den granskande gruppen bör utgå från de riktlinjer som finns exempelvis på forskningsetik.lu.se och publikationer.vr.se/produkt/god-forskningssed .
+
+I de flesta fall torde detta innebära att man vid planering av
+
+studier som involverar människor eller personuppgifter och som genomförs av studenter bör undvika undersökningar som syftar till att påverka, som kan utsätta de berörda personerna för risker, eller som innefattar behandling av känsliga personuppgifter eller personuppgifter om brottslighet. Det finns dock andra möjligheter för studenter att träna sig på att engagera människor i studier för intervjuer, fokusgrupper och experiment, så länge dessa inte är tillståndspliktiga enligt etikprövningslagen eller på annat sätt etiskt problematiska eller kontroversiella. Det finns också möjligheter för studenter att behandla personuppgifter som inte utgör känsliga personuppgifter, efter information till och eventuellt samtycke från de berörda personerna. GDPR:s regler ska följas.
+
+Det är inte möjligt att få ut känsliga personuppgifter för ett studentarbete från de nationella register som exempelvis Socialstyrelsen eller SCB förvaltar. Sådana register regleras av offentlighets- och sekretesslagen. Enligt denna får information lämnas ut för ett begränsat antal ändamål, varav forskning är ett. Det anses däremot att lagen inte ger utrymme för att lämna ut data för användning i en utbildning.
+
+Det är dock inte ovanligt att studenter i slutskedet av en utbildning önskar göra undersökningar som berör människor och som på olika sätt innefattar risker eller integritetsintrång, och som går utöver de möjligheter som beskrivits ovan. Under sådana omständigheter ska en vetenskapligt kompetent handledare ta huvudansvaret för undersökningen och engagera studenten som medhjälpare. Handledaren ska ansöka om etikprövning för en undersökning som är tillståndspliktig enligt etikprövningslagen. Ansökan om etikprövning måste göras innan projektet startar. Ett godkännande kan inte lämnas för ett arbete som redan är genomfört.
+
+## Mastersuppsatser och andra forskarförberedande arbeten
+
+Studenter som går igenom en mastersutbildning ser inte sällan denna utbildning som ett första steg på vägen mot en forskarutbildning. Det är också vanligt att det finns en plan för att tillgodoräkna examensarbetet från mastersutbildningen i en kommande forskarutbildning. Detta ställer särskilda krav på omsorg när det gäller arbeten som innefattar behandling av känsliga personuppgifter eller försök som involverar människor.
+
+Varje undersökning som är avsedd att redovisas i en licentiat- eller doktorsexamen ska hanteras enligt de regler som gäller för vetenskapliga arbeten. Kraven på etikprövning ska beaktas, och vid forskning som innefattar människor eller behandling av personuppgifter är det forskarens ansvar att vid publicering redovisa om forskningen har etikprövats och hur. Det innebär att sådana projekt ska etikprövas om de faller inom reglerna för tillståndspliktig forskning enligt etikprövningslagen. Denna bedömning måste göras innan arbetet påbörjas.
+
+Beträffande frågor som behöver beaktas inför publicering, se avsnitten Publiceringens betydelse och Krav på etikprövning vid publicering .
+
+Centrala etikprövningsnämnden har vid flera tillfällen bedömt att när en student önskar genomföra ett arbete där det finns en plan att tillgodoräkna detta inom ramen för en framtida forskarutbildning ska detta bedömas som forskning och kan godkännas vid etikprövning, även om studenten inte ännu är antagen som forskarstuderande. Om detta är aktuellt bör omständigheterna tydligt beskrivas i ansökan om etikprövning.
+
+Arbeten som utförs av den som antagits till forskarutbildning ska anses vara forskning, men denna forskning ska genomföras under överseende av en forskare med tillräcklig kompetens. Han eller hon ska ha den vetenskapliga kompetens som krävs för att bedriva sådan forskning, i normalfallet minst doktorsexamen och aktuell erfarenhet av forskning med relevant inriktning. Handledaren bör ta ett aktivt ansvar i planeringen och genomförandet av undersökningen. Vid en ansökan om etikprövning i sådana fall ska handledarens övergripande ansvar tydligt framgå, och det är handledaren som bör göra ansökan om etikprövning.
+
+## LÄNKAR TILL LAGAR OCH ANDRA DOKUMENT
+
+Information om etikprövningslagen och en länk till aktuell version finns tillgänglig på Etikprövningsmyndighetens webbplats.
+
+etikprovningsmyndigheten.se/for-forskare/vad-sager-lagen
+
+Dataskyddsförordningen GDPR är ett omfattande dokument på 88 sidor, varav de 31 första beskriver lagstiftarens skäl. Dessa innehåller förklaringar och sätter in bestämmelserna i ett sammanhang. Därefter följer bestämmelserna, som är ordnade i 99 artiklar. Texten finns tillgänglig på varje medlemslands eget språk. Dataskyddsförordningen i
+
+fulltext och utförliga beskrivningar och förklaringar till de områden som berörs av förordningen finns på Integritetsskyddsmyndighetens webbplats.
+
+imy.se/verksamhet/dataskydd/det-har-galler-enligt-gdpr
+
+EU-kommissionen har gett ut en vägledning, Ethics and data protection , som innehåller råd om dataskyddsfrågor vid forskningsplanering och en rad länkar till andra dokument med detaljerad information om GDPR, dess tolkning och tillämpning.
+
+ec.europa.eu/info/funding-tenders/opportunities/docs/ 2021-2027/horizon/guidance/ethics-and-data-protection\_ he\_en.pdf
+
+EU-kommissionen har också gett ut en vägledning, Ethics in Social Science and Humanities , som ger information och detaljerade råd till forskare inom samhällsvetenskap och humaniora som avser att arbeta med forskning som involverar människor eller personuppgifter.
+
+ec.europa.eu/info/sites/default/files/6.\_h2020\_ethics-socscience-humanities\_en.pdf
+
+All European Academies (ALLEA) beskriver i sin skrift Den europeiska kodexen för forskningens integritet en rad
+
+grundläggande principer som god forskningssed baseras på. Den kan laddas ner från Vetenskapsrådets webbplats om etik i forskningen.
+
+vr.se/uppdrag/etik/etik-i-forskningen.html
+
+Vetenskapsrådet ger i den lilla boken God forskningssed en överblick över de viktigaste vetenskapsetiska frågorna och hur dessa bör hanteras. Den senast reviderade upplagan fin ns endast publicerad online och kan laddas ner från vr.se/uppdrag/etik.html .
+
+Uppsala universitet driver webbplatsen CODEX med en samling regler och riktlinjer för forskning. Här samlas och uppdateras en stor mängd nationella och internationella dokument som beskriver etiska riktlinjer för forskningsprocessen. CODEX innehåller både övergripande material och anvisningar för många olika specifika forskningsinriktningar. CODEX.uu.se
+
+## LÄNKSAMLING OCH KONTAKTUPPGIFTER
+
+Här ges en översikt av de i den löpande texten angivna länkarna samt kontaktuppgifter till personer som kan ge individuell vägledning.
+
+## 1. Webbplatser med allmänna upplysningar
+
+Inledande information om hantering av känsliga forskningsdata finns på HT-bibliotekens webbplats:
+
+htbibl.lu.se (Forskare > Forskningsdatahantering > Datahantering > Persondata och sekretess).
+
+Det går bra att kontakta en bibliotekarie för rådgivning.
+
+Mer utförlig information med länkar till både Lunds universitets interna styrdokument och externa webbplatser finns på Medarbetarwebben:
+
+forskningsetik.lu.se
+
+På Medarbetarwebben finns även särskilda sidor om dataskydd och dokumenthantering:
+
+medarbetarwebben.lu.se/stod-och-verktyg/juridik-dokument-och-arendehantering-samt-dataskydd/personuppgifter-och-dataskydd-gdpr
+
+medarbetarwebben.lu.se/personuppgifter-och-dataskyddgdpr/overgripande-information/sakerhet-personuppgifteroch-hur-du-hanterar-en-sakerhetsincident
+
+medarbetarwebben.lu.se/personuppgifter-och-dataskyddgdpr/omradesspecifik-information/forskning
+
+medarbetarwebben.lu.se/stod-och-verktyg/juridik-dokumentoch-arendehantering-samt-dataskydd/dokumenthantering
+
+Humanistiska och teologiska fakulteterna har utfärdat Riktlinjer för forskningsdatalagring samt en Gallrings- och bevarandeplan:
+
+internt.ht.lu.se/fileadmin/user\_upload/HT-intra/HT-fakulteterna/Forskningsdata/Riktlinjer\_forskningsdatalagring\_beslut.pdf
+
+staff.lu.se/sites/staff.lu.se/files/gallrings-\_och\_bevarande-plan\_ht.pdf
+
+2. Länkar till myndigheter och särskilda resurser Etikprövningsmyndigheten: etikprovningsmyndigheten.se
+
+Överklagandenämnden för etikprövning: onep.se
+
+Integritetsskyddsmyndigheten (tidigare Datainspektionen): IMY.se
+
+Vetenskapsrådets webbsida om öppen tillgång till forskningsdata:
+
+vr.se/uppdrag/oppen-vetenskap/oppen-tillgang-till-forskningsdata.html
+
+LUSEC, Lunds universitets plattform för högsäker hantering av forskningsdata:
+
+med.lu.se/intramed/forska\_utbilda/stoed\_till\_forskning/ forskningsdatahantering/lusec
+
+## 3. Kontaktuppgifter till resurspersoner
+
+Frågor om det forskningsetiska regelverket kan ställas till: universitetslektor Mats Johansson, forskningsetik@lu.se universitetslektor Björn Petersson, bjorn.petersson@fil.lu.se
+
+Frågor om korrekt hantering av personuppgifter kan ställas till: Lunds universitets dataskyddsombud Kristin Asgermyr, dataskyddsombud@lu.se
+
+Frågor om förvaring av känsliga forskningsdata kan ställas till: arkivarie Mikael Falk, mikael.falk@htbibl.lu.se
+
+Etiska överväganden och riktlinjer är nödvändiga om forskning på ett ansvarsfullt sätt ska kunna användas för att utveckla vetenskapen och vårt samhälle, i dag och i framtiden.
+
+Föreliggande vägledning vill bidra till att doktorander, forskare och lärare vid Humanistiska och teologiska fakulteterna är väl insatta i lagstiftningen om forskningsetik och insiktsfullt kan tillämpa etiska principer i sitt arbete.
+
+<!-- image -->

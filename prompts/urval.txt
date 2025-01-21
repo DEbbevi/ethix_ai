@@ -1,0 +1,156 @@
+<information>
+From Guide till ansökan om etikprövning.txt:
+8.1 -8.5 Urval, antal, urvalskriterier och relationen mellan forskare och forskningspersonerna
+För projekt där personuppgifterna/biologiska materialet redan är insamlat i Sverige eller insamlingen helt utförs i ett annat land än Sverige, så skriv att du endast tar emot uppgifterna för bearbetning/analys.
+
+Om du ändå vet hur urvalet av forskningspersoner gjordes, hur många som redan har/planeras att rekryteras, inklusions- och exklusionskriterier samt relation mellan forskare och forskningspersoner, beskriv det också.
+
+Om du inte vet kan du hänvisa till att det finns beskrivet i existerande (svenska) etikgodkännandet för det projekt som insamlingen kommer ifrån, eller i det etikgodkännande som utfärdats i det land där insamlingen av personuppgifter/biologiskt material ska utföras.
+
+9.3 Kommer forskningspersoner, vars mening på grund av sjukdom, psykisk störning, försvagat hälsotillstånd eller något annat liknande förhållande inte kan inhämtas, att ingå i forskningsprojektet?
+
+Närmast anhörig, god man eller förvaltare kan aldrig företräda en forskningsperson (undantag underårig) och å dennes vägnar samtycka till deltagande i en forskningsstudie. Men vid forskning på forskningspersoner, vars mening inte går att inhämta, ska samråd ske med närmaste anhörig som ska få möjlighet att motsätta sig deltagandet.
+
+Enligt etikprövningslagen ska frågor om information och samtycke ägnas särskild uppmärksamhet vid etikprövningen om forskningspersonen står i ett beroendeförhållande till huvudmannen, forskaren eller antas ha svårigheter att ta tillvara sin rätt.
+
+
+From Vägledning_forskningshuvudman_etikansökan_KI_RegionStockholm_version1_final_22_04_20.txt:
+1. From Section 2.2 (Table):
+"Med obetydlig risk avses här t ex friska frivilliga, urinprov, blodprovstagning från perifer ven eller kapillärt"
+"Med mer än obetydlig risk avses här t ex annan blodprovstagning, biopsier och/eller mer än obetydlig risk för infektion"
+
+2. From Section 3.4:
+"Det är viktigt att beakta att för att patientförsäkringen (LÖF) ska gälla, måste den hälso- och sjukvård som ingår i forskningsstudien utföras av hälso- och sjukvårdspersonal inom ramen för deras anställning hos en vårdgivare."
+
+3. From Section 5:
+"Etikprövningslagen ska tillämpas på forskning som bl.a. innefattar behandling av känsliga personuppgifter. När Karolinska Institutet och vårdgivare i Region Stockholm samarbetar i ett forskningsprojekt ska ansökan om etikprövning innehålla uppgifter om vem som ansvarar för personuppgiftshanteringen, inklusive hur personuppgiftsansvaret för behandlingen fördelas mellan parterna."
+
+Tillägg på svenska för kontext: Dokumentet handlar primärt om val av forskningshuvudman och innehåller begränsad information om själva urvalet av forskningspersoner. Det fokuserar istället på administrativa och juridiska aspekter av forskningssamarbeten mellan vårdgivare och universitet.
+
+
+From Etikvaegledning_2021_WEBB.txt:
+REKRYTERINGSPROCESSEN
+
+Processen för att rekrytera forskningspersoner till ett forskningsprojekt ska planeras med omsorg. Vid etikprövningen beaktas särskilt följande faktorer.
+
+I de flesta fall vill forskaren rekrytera vuxna och friska personer med full förmåga att själva besluta om sitt deltagande. Vid eventuella avvikelser krävs en förklaring av varför dessa är nödvändiga för att genomföra forskningen.
+
+De som tillfrågas om att medverka i ett forskningsprojekt ska inte stå i något beroendeförhållande till den som genomför rekryteringen. Tydliga exempel på beroendeförhållanden är mellan lärare och studenter/elever, och mellan chefer och anställda. Den som tillfrågas ska vidare få betänketid före beslut om medverkan. Det ska också alltid vara tydligt att det är helt frivilligt att medverka i ett forskningsprojekt.
+
+Etikprövningsnämndens bedömning har varit att rekryteringen ofta bör genomföras i flera steg. Den första kontakten kan ses som en intresseförfrågan, där kortfattad information lämnas om vad projektet handlar om. De som då uttrycker intresse får i nästa steg fullständig forskningspersonsinformation och tillfälle att ställa frågor. Därefter ska den som uttryckt intresse få betänketid innan beslut om medverkan i projektet.
+
+Ofta ser forskaren det som värdefullt att en förmedlare som redan känner de tilltänkta forskningspersonerna tar den första kontakten. Nämnden har vid många tillfällen bedömt att det är acceptabelt att en sådan person gör en intresseförfrågan, men att den fortsatta rekryteringsprocessen bör övertas av en forskare som den tilltänkta forskningspersonen inte står i beroendeförhållande till.
+
+[Avsnitt om sårbara personer]
+Begreppet "sårbar person" används ofta i samband med forskningsetik, men det saknar enhetlig definition. Vid etikprövning kan bland annat följande grupper komma att betraktas som sårbara beroende på omständigheterna: barn, gravida, fångar, flyktingar, åldringar, personer med psykiska eller fysiska funktionshinder, personer som är utsatta på grund av brister i exempelvis ekonomi eller utbildning, och personer som kan riskera att utsättas för diskriminering. Detta gäller i synnerhet forskning som äger rum i låg- och medelinkomstländer eller involverar forskningspersoner som är illitterata eller har språksvårigheter. I alla sådana fall ska såväl information och samtycke som själva undersökningens genomförande hanteras med särskild omsorg. Forskning ska bara genomföras på sårbara grupper om den kan förväntas ge en kunskap som inte är möjlig att få på annat sätt.
+
+
+From Vagledning-om-etikprovning-EPM.txt:
+## Urval av forskningspersoner och rekrytering
+- I ansökan ska du beskriva vilka forskningspersoner som kommer att medverka i projektet. Urvalet beskrivs ofta med hjälp av kriterier för inklusion och exklusion.
+- Du ska också redogöra för vilka vetenskapliga och etiska överväganden du har gjort vid valet av forskningspersoner och skälen för dessa kriterier. Redovisa tydliga kriterier som är relevanta specifikt för det projekt som planeras och som är genomförbara under rekryteringsprocessen.
+- Du ska också redovisa hur du avser att få kännedom om och komma i kontakt med lämpliga forskningspersoner.
+
+## Beroendeförhållanden
+Tydliga exempel på beroendeförhållanden är relationen mellan lärare och studenter/elever, mellan chefer och anställda, mellan föräldrar och barn, och mellan läkare och patienter. Om du planerar att rekrytera forskningspersoner där beroendeförhållanden kan föreligga behöver du förklara varför detta är lämpligt eller nödvändigt.
+
+När det gäller forskning med underåriga är det lämpligt att forskarna, och inte till exempel skolpersonal, tar de första kontakterna med vårdnadshavare och barn och presenterar sitt projekt för att undvika den beroendesituation barn och föräldrar står i visavi skolan.
+
+## Sårbara personer
+Etikprövningslagens hänvisning till personer som kan antas ha särskilda svårigheter att ta till vara sin rätt motsvarar den uppmärksamhet som sådana personer och deras medverkan i forskning fått i forskningsetiska sammanhang. Där används oftast beteckningen sårbara personer. Detta begrepp saknar enhetlig definition, men personer som uppfattas som sårbara är bland annat:
+- barn
+- gravida och ammande
+- personer som är omhändertagna av samhället
+- flyktingar
+- personer i underläge i hierarkiska eller auktoritativa förhållanden
+- personer med sjukdomar som saknar adekvat behandling
+- personer med psykiska eller fysiska funktionsvariationer
+- ekonomiskt utsatta
+- personer som kan riskera att utsättas för diskriminering.
+
+Om en forskningsperson står i ett beroendeförhållande till forskningshuvudmannen eller en forskare eller om forskningspersonen kan antas ha särskilda svårigheter att ta till vara sin rätt, skall frågor om information och samtycke ägnas särskild uppmärksamhet vid etikprövningen (14 § etikprövningslagen).
+
+De risker som en sårbar person utsätts för i samband med forskning kan förväntas vara högre än för andra. Sårbara personer ska därför enligt flera forskningsetiska konventioner behandlas med särskild varsamhet i samband med forskning, och det bedöms att forskning med medverkan av sårbara personer endast bör genomföras om forskningsresultaten kan vara till gagn för andra personer i samma situation.
+
+
+From etikansokan-ethix-ny-ansokningsmall-2023-10-19.txt:
+Section 8.1:
+"Beskriv vilka forskningspersoner som kommer inkluderas i projektet. Redogör för de överväganden som gjorts vid valet av forskningspersoner. Om vissa grupper utesluts från deltagande i projektet ska en motivering till uteslutandet framgå. Redogör även för hur forskaren kommer i kontakt med eller får kännedom om lämpliga forskningspersoner."
+
+"Exempel på formulering: 'Bedömning av patientens behörighet att delta i studien, utifrån exklusions och inklusionskriterier, dokumenteras med motivering iCRF/eCRF/worksheet/annat. Bedömning av huruvida patienten uppfyller inklusions/exklusionskriterier görs av xx och dokumenteras på följande sätt xx.'"
+
+Section 8.7:
+"Ange forskarens roll i relation till forskningspersonens roll. Det kan till exempel vara som behandlare (läkare, psykolog, fysioterapeut etc.) och patient/klient, som lärare och student eller arbetsgivare och anställd. All form av relation som kan tänkas medföra risk för påverkan ska beskrivas. Enligt etikprövningslagen ska frågor om information och samtycke ägnas särskild uppmärksamhet vid etikprövningen om forskningspersonen står i ett beroendeförhållande till huvudmannen, forskaren eller antas ha svårigheter att ta tillvara sin rätt."
+
+Additional context in Swedish:
+"Bra att vara noggrann och tänka igenom och beskriva eventuella beroendeförhållanden som kan uppstå. Detta är särskilt viktigt när det gäller patienter/anställda inom vården som deltar i forskningen."
+
+
+From God forskningssed VR 2024.txt:
+"Skyddsintresset är intresset att skydda dem som involveras i forskningen eller på annat sätt påverkas av den. Skyddsintresset är överordnat och ska prioriteras i avvägningar mot andra intressen, inklusive forskningsintresset."
+
+"Det kan vara svårt att säkerställa ett frivilligt samtycke när forskningen utförs inom verksamheter där personerna inte själva kan välja om de ska delta eller inte, till exempel inom vård och skola. Då måste man tydligt skilja på de olika delarna samt säkerställa och klargöra att ett nekande till att delta i forskningen inte innebär att man missgynnas inom den andra verksamheten."
+
+"Relationen mellan handledare och doktorand/student ska präglas av professionalitet och ömsesidig respekt. I handledarrollen (liksom i lärarrollen) har forskaren en särskild maktposition som inte får missbrukas."
+
+"En fråga som diskuteras är forskningspersonernas relation till forskarna och projektet. Flera av forskningspersonerna har sedan tidigare en relation till personer och verksamheter som en del av forskarna menar kan påverka deras beslut att delta. De kan till exempel känna att det finns outtalade förväntningar att de ska delta, eller tro att det kan finnas fördelar med att delta och nackdelar med att inte delta eller hoppa av i ett senare skede om de skulle ändra sig."
+
+"Forskare ska tillägna sig de kunskaper och de förmågor som behövs för att kunna följa, främja och värna god forskningssed. Det kan ske genom utbildning, erfarenhet, kontinuerlig diskussion om forskningsetiska frågor och utmaningar och genom att aktivt bidra till att främja en god forskningskultur."
+
+"ta särskild hänsyn till forskningens påverkan (såväl direkt som indirekt) på särskilt utsatta eller sårbara individer och grupper. Vilka individer och grupper som är att betrakta som utsatta eller sårbara varierar beroende på sammanhanget, liksom arten och graden av utsatthet eller sårbarhet. Det kan exempelvis handla om barn, äldre, minoriteter, patienter, vårdbrukare, brottsoffer, interner, studenter, medborgare i auktoritära stater, människor i katastrofområden eller ekonomiskt utsatta individer."
+
+</information>
+
+För varje fråga ska du:
+1. Analysera materialet noggrant
+2. Formulera ett koncist och akademiskt svar
+3. Inkludera etiska överväganden där det är relevant
+4. Hålla dig inom angiven teckengräns
+5. Formatera svaret med XML-taggar som innehåller frågans ID
+
+Svaren ska:
+- Vara objektiva och faktabaserade
+- Använda akademisk svenska
+- Vara tydliga och välstrukturerade
+- Explicit adressera eventuella etiska aspekter
+- Strikt baseras på det tillhandahållna materialet
+
+För fråga 8.1 ska svaret beskriva urvalsprocessen och hur forskningspersonerna kontaktas.
+För fråga 8.5 ska svaret lista och motivera inklusionskriterierna.
+För fråga 8.6 ska svaret lista och motivera exklusionskriterierna.
+Förfråga 8.7 ska svaret analysera eventuella beroendeförhållanden och maktrelationer.
+
+Formatera varje svar enligt följande exempel:
+<8.1>Ditt svar för fråga 8.1 här</8.1>
+<8.5>Ditt svar för fråga 8.5 här</8.5>
+<8.6>Ditt svar för fråga 8.6 här</8.6>
+<8.7>Ditt svar för fråga 8.7 här</8.7>
+
+Var särskilt uppmärksam på:
+- Att svaren är relevanta för respektive fråga
+- Att etiska aspekter beaktas där det är relevant
+- Att svaren håller sig inom angivna teckengränser
+- Att alla påståenden har stöd i det tillhandahållna materialet
+Besvara följande frågor:
+FrågeID: <8.1>:
+Fråga: 8.1 Hur görs urvalet av forskningspersoner?
+Hjälptext: Forskningspersoner: De levande människor som forskningen avser.
+Beskriv vilka forskningspersoner som kommer inkluderas i projektet. Redogör för de överväganden som gjorts vid valet av forskningspersoner. Om vissa grupper utesluts från deltagande i projektet ska en motivering till uteslutandet framgå.
+Redogör även för hur forskaren kommer i kontakt med eller får kännedom om lämpliga forskningspersoner.
+Teckengräns: 2000
+
+FrågeID: <8.5>:
+Fråga: 8.5 Vilka urvalskriterier kommer att användas för inklusion?
+Hjälptext: Ange vilka kriterier som måste uppfyllas för att en forskningsperson ska inkluderas i projektet.
+Teckengräns: 4500
+
+FrågeID: <8.6>:
+Fråga: 8.6 Vilka urvalskriterier kommer att användas för exklusion?
+Hjälptext: Ange vilka kriterier som måste uppfyllas för att en forskningsperson ska exkluderas ur projektet.
+Teckengräns: 4500
+
+FrågeID: <8.7>:
+Fråga: 8.7 Ange relationen mellan forskare och forskningspersonerna.
+Hjälptext: Ange forskarens roll i relation till forskningspersonens roll. Det kan till exempel vara som behandlare (läkare, psykolog, fysioterapeut etc.) och patient/klient, som lärare och student eller arbetsgivare och anställd. All form av relation som kan tänkas medföra risk för påverkan ska beskrivas. Enligt etikprövningslagen ska frågor om information och samtycke ägnas särskild uppmärksamhet vid etikprövningen om forskningspersonen står i ett beroendeförhållande till huvudmannen, forskaren eller antas ha svårigheter att ta tillvara sin rätt.
+Teckengräns: 500
+

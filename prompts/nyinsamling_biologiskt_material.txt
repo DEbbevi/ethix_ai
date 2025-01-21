@@ -1,0 +1,175 @@
+<information>
+From Guide till ansökan om etikprövning.txt:
+Pseudonymiserade personuppgifter, ibland kallat "kodade personuppgifter", innebär att direkta identifierare såsom t.ex. personnummer och namn avseende en forskningsperson har tagits bort och ersatts med en kod, där koden sedan kan kopplas ihop med namnet/personnumret via en kodnyckel. Därmed finns det en möjlighet att forskningspersonens direkta identitet går att spåra. Det spelar ingen roll var någonstans kodnyckeln finns, eller hur få personer som har tillgång till kodnyckeln.
+
+Ska du använda prov från en biobank måste du vara noga med att inkludera all nödvändig information i etikansökan som krävs för att du sedan ska kunna teckna ett biobanksavtal och få tillgång till prov som omfattas av biobankslagen. Information som ska finnas med är:
+- Vilka provtyper som ska tas
+- Vilka provmängder och hur ofta prov ska tas
+- Total mängd prov som tas
+- Vilka analyser som planeras
+- Till vilket/vilka länder prov ska skickas till för analys
+- Vad som händer med prov efter avslutad studie
+- Om prov ska sparas för framtida forskning
+- Hur prov kodas och hur och var kodnyckeln förvaras samt vem som har tillgång till den
+
+14.1.4 [Om ja 14.1] Hur länge ska det biologiska materialet vara tillgängligt för projektet?
+Estimera hur länge projektet kommer behöva tillgång, men försök att inte begränsa dig i onödan.
+
+14.1.7 [Om ja 14.1] Hur länge ska det biologiska materialet vara tillgängligt efter att projektet är avslutat?
+Estimera hur länge det biologiska materialet ska vara tillgängligt efter att projektet avslutats, men försök att inte begränsa dig i onödan, och undvik att specificera datum för när prover ska förstöras.
+
+Undantagsregeln innebär att biobankslagen inte är tillämplig på prov som är avsedda för forskning och som analyseras inom sex månader efter provtagningstillfället och förstörs omedelbart efter analysen. Båda villkoren (analyseras inom sex månader och förstörs omedelbart efter) måste uppfyllas för att undantagsregeln ska gälla.
+
+
+From Vägledning_forskningshuvudman_etikansökan_KI_RegionStockholm_version1_final_22_04_20.txt:
+2. Forskningshuvudman
+Forskningshuvudman är, enligt etikprövningslagen, den fysiska eller juridiska person i vars verksamhet forskningen utförs, till exempel lärosäte, kommun, region, myndighet eller privat företag.
+
+3.1 Personuppgiftsansvar
+Av dataskyddsförordningen följer en annan typ av ansvar än det som följer av etikprövnings-lagen, nämligen ansvar för behandlingen av personuppgifter. Vem som anges som ansvarig respektive övrig medverkande forskningshuvudman i etikansökan är inte avgörande för fördelningen av personuppgiftsansvar. Vid fastställande av om en organisation ska anses vara personuppgiftsansvarig eller personuppgiftsbiträde, eller om det finns gemensamt personuppgiftsansvariga, ska en bedömning göras utifrån de faktiska omständigheterna. I forskningsprojekt där flera forskningshuvudmän är involverade är det viktigt att reda ut hur personuppgiftsansvaret för behandlingen fördelas mellan parterna innan projektet startar.
+
+5. Personuppgiftsansvar
+Etikprövningslagen ska tillämpas på forskning som bl.a. innefattar behandling av känsliga personuppgifter. När Karolinska Institutet och vårdgivare i Region Stockholm samarbetar i ett forskningsprojekt ska ansökan om etikprövning innehålla uppgifter om vem som ansvarar för personuppgiftshanteringen, inklusive hur personuppgiftsansvaret för behandlingen fördelas mellan parterna.
+
+[Tillägg på svenska för kontext: Detta dokument ger främst vägledning kring val av forskningshuvudman och ansvarsfördelning mellan olika parter i forskningsprojekt, särskilt mellan Karolinska Institutet och Region Stockholm. För specifika frågor om hantering av biologiskt material och biobanker behövs kompletterande information från andra källor.]
+
+
+From Etikvaegledning_2021_WEBB.txt:
+GDPR nämner särskilt pseudonymisering som en lämplig skyddsåtgärd i samband med forskning för att försvåra identifiering av personuppgifter (Artikel 89.1). Pseudonymisering innebär att man ersätter de berördas namn med ett kodnummer och upprättar en särskild kodlista, en s.k. kodnyckel, och förvarar den på annan plats. Pseudonymiserade data är att anse som identifierbara, och de skyddsåtgärder som anges i GDPR är tillämpliga.
+
+Enligt GDPR ska den som behandlar personuppgifter vidta lämpliga tekniska och organisatoriska åtgärder för att säkerställa en säkerhetsnivå som är lämplig i förhållande till risken, i synnerhet skydd för oavsiktlig eller olaglig förstöring, förlust eller ändring eller till obehörigt röjande av eller obehörig åtkomst till de personuppgifter som överförs, lagras eller på annat sätt behandlas (Artikel 32).
+
+Det händer ibland att forskare planerar att förstöra det insamlade materialet omedelbart efter att ett projekt avslutats. Detta är ett brott mot arkivlagen, och det utgör dessutom en allvarlig avvikelse från god forskningssed. Anledningen är att tillgång till forskningsdata är nödvändig för att möjliggöra förnyad vetenskaplig prövning, liksom prövning av eventuella misstankar om oredlighet i forskning.
+
+Varje statlig myndighet ska ha en dokumenthanteringshanteringsplan, baserat på arkivlagen och riksarkivets anvisningar. Enligt Lunds universitets plan gäller bland annat: Visst primärmaterial får gallras 10 år efter projektets avslutande - 15 år för medicinsk forskning - dvs 10 (15) år efter resultatredovisning, publicering och ekonomisk slutredovisning.
+
+
+From Vagledning-om-etikprovning-EPM.txt:
+Om du ska forska på biologiskt material behöver du vara medveten om att biobankslagen (2023:38) normalt sett är tillämplig och att prov som faller under biobankslagen måste tillhöra och inrättas i en biobank.
+
+Först när det finns ett etikgodkännande för en konkret forskningsstudie får prover samlas in i en biobank.
+
+Redan innan du gör en etikansökan är det viktigt att du kontaktar biobankssamordnaren i din region för rådgivning kring möjligheterna att använda biologiskt material i din forskning. Konsultera också biobankssamordnaren om hur ansökan om etikprövning bör utformas för att den efterföljande biobanksprocessen ska kunna fungera på bästa sätt.
+
+Det finns två undantagssituationer då biobankslagen inte är tillämplig.
+Den ena är den s.k. niomånadersregeln, som innebär att biobankslagen inte är tillämplig på prov som är avsedda för forskning och som analyseras inom nio månader efter provtagningstillfället och förstörs omedelbart efter analysen.
+
+Den andra undantagssituationen rör prover som har blivit väsentligt modifierade inom ramen för forskning eller produktframställning. Två villkor måste båda vara uppfyllda för att undantaget ska gälla:
+- Provgivaren ska ha fått information om att prov kommer att väsentligt modifieras och att det då inte längre omfattas av biobankslagen.
+- Provgivaren ska ha lämnat sitt samtycke till en sådan modifiering.
+Om inte båda villkoren är uppfyllda omfattas sådana prov av biobankslagen.
+
+Pseudonymisering innebär att man ersätter de berördas namn med en kod och upprättar en särskild kodlista, en s.k. kodnyckel, och förvarar den på annan säker plats. Pseudonymiserade data är att anse som identifierbara, och de skyddsåtgärder som anges i GDPR är tillämpliga. När någon annan än forskaren själv har kodnyckeln brukar uppgifterna ofta beskrivas som länkade. Också länkade data är identifierbara personuppgifter. Även om du som forskare saknar tillgång till kodnyckeln är uppgifterna alltså fortfarande identifierbara och går att leda tillbaka till en individ.
+
+Arkivering är inte en del av forskningens genomförandefas och ingår inte i de delar av forskningen som etikprövas. Som forskare behöver du samråda med din huvudman i sådana frågor. Forskningsdata ska arkiveras och gallras enligt gällande arkivlag och riksarkivets förskrifter. Hos huvudmannen finns vanligen en dokumenthanteringsplan. Av planen framgår de regler huvudmannen satt upp för hur forskningsdata ska arkiveras och gallras i den egna organisationen.
+
+
+From etikansokan-ethix-ny-ansokningsmall-2023-10-19.txt:
+Pseudonymiserat: Pseudonymiserade personuppgifter, ibland kallat "kodade personuppgifter", innebär att direkta identifierare såsom t.ex. personnummer och namn avseende en forskningsperson har tagits bort och ersatts med en kod, där koden sedan kan kopplas ihop med namnet/personnumret via en kodnyckel. Därmed finns det en möjlighet att forskningspersonens direkta identitet går att spåra.
+
+Anonymiserat: Anonymiserade personuppgifter innebär att personnummer och namn eller annan identifierare har tagits bort helt (ej ersatts med en kod) och en eventuell kodnyckel har förstörts. Då är det inte längre möjligt att spåra uppgifterna till en enskild forskningspersons identitet.
+
+Biobankslagen är inte tillämplig på ett prov som har blivit väsentligt modifierat inom ramen för forskning eller produktframställning. Båda följande villkor måste vara uppfyllda: 1) provgivaren ska ha fått information om att prov kommer att väsentligt modifieras och att det då inte längre omfattas av biobankslagen, och 2) provgivaren ska ha lämnat sitt samtycke till en sådan modifiering.
+
+Biobanksansvarig och mottagaren ska i avtal reglera vad som ska hända med prover i en biobank som lämnas för analys inom eller utom landet. Krav ska i avtalet ställas på
+a) att prov som finns bevarade hos mottagaren ska, om den biobanksansvarige begär det, återlämnas eller omedelbart förstöras eller, om det inte är möjligt att förstöra prover utan att andra prover förstörs, avidentifieras, och
+b) mottagaren inte använder provet för något annat än det angivna ändamålet (5 kap. 8 § biobankslagen).
+
+
+From God forskningssed VR 2024.txt:
+Biobankslagen (2023:38) innehåller bestämmelser om hur humanbiologiskt material, med respekt för den enskilda människans integritet, för vissa ändamål får samlas in till och bevaras i en biobank och användas.
+
+Biobanksansvarig och mottagaren ska i avtal reglera vad som ska hända med prover i en biobank som lämnas för analys inom eller utom landet. Krav ska i avtalet ställas på
+a) att prov som finns bevarade hos mottagaren ska, om den biobanksansvarige begär det, återlämnas eller omedelbart förstöras eller, om det inte är möjligt att förstöra prover utan att andra prover förstörs, avidentifieras, och
+b) mottagaren inte använder provet för något annat än det angivna ändamålet (5 kap. 8 § biobankslagen).
+
+När ett material kodas ersätts individens identitet på materialet med en kod, och en kodnyckel tas fram. Genom kodnyckeln går det att identifiera vilken individ materialet kommer ifrån.
+
+Biobankslagen är inte tillämplig på ett prov som har blivit väsentligt modifierat inom ramen för forskning eller produktframställning. Båda följande villkor måste vara uppfyllda: 1) provgivaren ska ha fått information om att prov kommer att väsentligt modifieras och att det då inte längre omfattas av biobankslagen, och 2) provgivaren ska ha lämnat sitt samtycke till en sådan modifiering.
+
+Skyddsintresset har en särställning inom forskningsetiken och ska alltid ges prioritet över andra intressen, inklusive forskningsintresset och öppenhetsintresset. Forskare ska värna hälsa, säkerhet och välbefinnande för alla som deltar i eller berörs av forskningen på olika sätt, inklusive forskningspersoner, försöksdjur, medarbetare samt forskarsamhället och samhället i stort.
+
+</information>
+
+För varje fråga ska du:
+1. Läsa igenom det tillhandahållna materialet noggrant
+2. Formulera ett koncist och akademiskt svar på svenska
+3. Inkludera relevant etisk analys där det är tillämpligt
+4. Formatera svaret inom XML-taggar som motsvarar frågans ID
+
+Viktiga riktlinjer för svaren:
+- Använd ett formellt och akademiskt språk
+- Var koncis och håll dig inom angivna teckengränser
+- Basera alla svar på det tillhandahållna materialet
+- Inkludera endast relevant information
+- När etiska aspekter är relevanta, diskutera dessa explicit
+- Följ biobankslagen och andra relevanta forskningsetiska riktlinjer
+
+För frågor somkräver specifika svarsalternativ (som fråga 14.1.12), ange endast det numeriska värdet som motsvarar det korrekta alternativet.
+
+Formatera varje svar enligt följande exempel:
+<14.1.2>
+[Ditt svar här]
+</14.1.2>
+
+Om du är osäker på någon aspekt eller om informationen är otillräcklig, ange detta tydligt i svaret och förklara vilken ytterligare information som skulle behövas.
+
+Börja varje svar med en kort analys av den relevanta informationen från materialet innan du presenterar din slutsats eller rekommendation.
+Besvara följande frågor:
+FrågeID: <14.1.2>:
+Fråga: 14.1.2.1 [Om ja 14.1.2] Ange hur det biologiska materialet kommer att kodas.
+Hjälptext: När ett material kodas ersätts individens identitet på materialet med en kod, och en kodnyckel tas fram. Genom kodnyckeln går det att identifiera vilken individ materialet kommer ifrån.
+Teckengräns: 2000
+
+FrågeID: <14.1.3>:
+Fråga: 14.1.3 [Om ja 14.1] Hur mycket biologiskt material är planerat att samlas in?
+Hjälptext: Ange antalet prover, antalet bitar och/eller volym som ska samlas in vid varje enskilt
+provtagningstillfälle. Ange även det totala antalet prover, antalet bitar och/eller den totala volymen för studien. Ange i förekommande fall även antal prover, bitar och/eller volym för varje delstudie.
+Teckengräns: 2000
+
+FrågeID: <14.1.4>:
+Fråga: 14.1.4 [Om ja 14.1] Hur länge ska det biologiska materialet vara tillgängligt för projektet?
+Hjälptext: Ange under vilken tid forskningsprojektet kommer ha tillgång till det biologiska materialet.
+
+FrågeID: <14.1.5>:
+Fråga: 14.1.5.2 Prover som ska sparas i biobank
+Hjälptext: 
+Teckengräns: 2000
+
+FrågeID: <14.1.6>:
+Fråga: 14.1.6 [Om ja 14.1] Kommer det biologiska materialet väsentligt modifieras inom ramen för forskningen, det vill säga är undantagsregeln om detta tillämplig?
+Hjälptext: Biobankslagen är inte tillämplig på ett prov som har blivit väsentligt modifierat inom ramen för forskning eller produktframställning. Båda följande villkor måste vara uppfyllda: 1) provgivaren ska ha fått information om att prov kommer att väsentligt modifieras och att det då inte längre omfattas av biobankslagen, och 2) provgivaren ska ha lämnat sitt samtycke till en sådan modifiering. Om inte båda villkoren är uppfyllda omfattas sådana prov av biobankslagen.
+Teckengräns: 2000
+
+FrågeID: <14.1.7>:
+Fråga: 14.1.7 [Om ja 14.1] Ange en motivering till valet av tid som projektet kommer ha tillgång till det biologiska materialet.
+Hjälptext: 
+Teckengräns: 2000
+
+FrågeID: <14.1.8>:
+Fråga: 14.1.8 [Om ja 14.1] Hur länge ska det biologiska materialet vara tillgängligt efter att projektet är avslutat?
+Hjälptext: Ange under vilken tid sökanden planerar att ha tillgång till det biologiska materialet.
+
+FrågeID: <14.1.9>:
+Fråga: 14.1.9 [Om ja 14.1] Ange en motivering till valet av tid som projektet kommer ha tillgång till det biologiska materialet efter att projektet avslutats.
+Hjälptext: 
+Teckengräns: 2000
+
+FrågeID: <14.1.10>:
+Fråga: 14.1.10 [Om ja 14.1] Vilka analyser kommer att utföras på det biologiska materialet?
+Hjälptext: Redogör för alla analyser och bearbetningar som det biologiska materialet ska genomgå.
+Teckengräns: 2000
+
+FrågeID: <14.1.12>:
+Fråga: 14.1.12 [Om ja 14.1] Hur kommer det biologiska materialet att hanteras när analyserna är genomförda?
+Hjälptext: Biobanksansvarig och mottagaren ska i avtal reglera vad som ska hända med prover i en biobank som lämnas för analys inom eller utom landet. Krav ska i avtalet ställas på
+a) att prov som finns bevarade hos mottagaren ska, om den biobanksansvarige begär det, återlämnas eller omedelbart förstöras eller, om det inte är möjligt att förstöra prover utan att andra prover förstörs, avidentifieras, och
+b) mottagaren inte använder provet för något annat än det angivna ändamålet (5 kap. 8 § biobankslagen).
+Fortsatt bevarande hos mottagare inom eller utom landet är fullt möjligt.
+Svarsalternativ:
+- Materialet kommer att förstöras (värde: 1)
+- Materialet kommer att återlämnas till biobank i Sverige (värde: 2)
+- Materialet kommer att avidentifieras (värde: 3)
+- Materialet kommer att bevaras hos mottagaren (värde: 4)
+Denna fråga besvaras med en siffra.
+

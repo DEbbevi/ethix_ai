@@ -1,0 +1,148 @@
+<information>
+From Guide till ansökan om etikprövning.txt:
+12.1 Hur garanteras tillgång till data för forskningshuvudmannen och medverkande forskare?
+För projekt som har flera forskningshuvudmän, där till exempel en vårdgivare ansvarar för insamling av personuppgifter/biologiskt material och KI ansvarar för bearbetning och analys av personuppgifterna/proverna, så ser KI att personuppgifterna/proverna bör utlämnas till KI. Ett beslut om utlämnande innebär att KI blir (legalt) ansvarig för uppgifterna/proverna och därmed får bestämma vad som ska göras med personuppgifterna. När prover utlämnas till KI kan KI skicka dem vidare till tredje part efter tecknandet av ett Material Transfer Agreement. När personuppgifter utlämnas till KI kan KI sedan dela personuppgifterna med en tredje part, efter att ett lämpligt dataavtal (PuB, Data Transfer Agreement eller Data Controller Agreement) tecknats.
+
+12.2 Vem eller vilka ansvarar för databearbetning och skriftlig redovisning av resultaten?
+Här är det viktigt att ange korrekt(a) organisation(er)/institution(er), snarare än namn på individuella forskare. Ta även upp om samarbeten inom och utom EU/EES kan bli aktuellt.
+
+12.3 Hur och när planeras resultaten att offentliggöras?
+Om projektet är en klinisk studie, förutom att ange när resultaten planeras att till exempel publiceras i vetenskapliga "peer review" tidskrifter och presenteras på konferenser, planera också in att rapportera resultaten till det kliniska prövningsregister där studien registrerades, till exempel ClinicalTrials.gov. KI rekommenderar starkt att alla kliniska studier rapporterar resultat inom 12 månader efter studieavslut. För kliniska läkemedelsprövningar ska resultat rapporteras till EudraCT eller CTIS senast 12 månader efter studieavslut.
+
+12.4 På vilket sätt garanteras forskningspersonernas rätt till integritet när materialet offentliggörs?
+Här är exempel att resultat kommer redovisas på gruppnivå, utdrag ur intervjuer har avidentifierats, karakteristiska för enskilda individer går ej att urskilja, bilder är utan identifikationsmöjligheter etc.
+
+Kompletterande från sektion 6.4:
+Generella råd: Beskriv var eventuella enkätdata/prover/ljudfiler etc. kommer att lagras. Personuppgifter ska lagras i av KI godkända system som är säkerhetsklassade för lagring av känsliga personuppgifter.
+
+
+From Vägledning_forskningshuvudman_etikansökan_KI_RegionStockholm_version1_final_22_04_20.txt:
+From Section 2.1:
+"När flera forskningshuvudmän medverkar i ett och samma forskningsprojekt ska de gemensamt uppdra åt en av dem att ansöka om etikprövning av projektet för allas räkning. Den som får detta uppdrag ska sedan informera de övriga om Etikprövningsmyndighetens beslut. Varje forskningshuvudman ansvarar fortfarande för den del av forskningen som bedrivs i den egna verksamheten."
+
+From Section 3.1:
+"Av dataskyddsförordningen följer en annan typ av ansvar än det som följer av etikprövnings-lagen, nämligen ansvar för behandlingen av personuppgifter. Vem som anges som ansvarig respektive övrig medverkande forskningshuvudman i etikansökan är inte avgörande för fördelningen av personuppgiftsansvar. Vid fastställande av om en organisation ska anses vara personuppgiftsansvarig eller personuppgiftsbiträde, eller om det finns gemensamt personuppgiftsansvariga, ska en bedömning göras utifrån de faktiska omständigheterna."
+
+From Section 5:
+"Personuppgiftsansvarig (PUA) är den som ensam eller tillsammans med andra bestämmer ändamålen och medlen för en behandling av personuppgifter. Personuppgiftsbiträde (PUB) är den som behandlar personuppgifter för den personuppgiftsansvariges räkning. Det är de faktiska omständigheterna i det enskilda fallet som avgör vem som är personuppgiftsansvarig."
+
+"Om en organisation endast ska behandla personuppgifter för en forskningshuvudmans räkning ska ett personuppgiftsbiträdesavtal (PUB-avtal) upprättas. Biträdet behöver inte vara identifierad i etikansökan, så länge biträdet endast behandlar personuppgifter i enlighet med PUB-avtalet."
+
+Additional context in Swedish: Detta dokument beskriver hur forskningshuvudmän ska samarbeta kring datahantering och personuppgifter i forskningsprojekt, särskilt när Karolinska Institutet och vårdgivare i Region Stockholm är involverade.
+
+
+From Etikvaegledning_2021_WEBB.txt:
+Enligt GDPR ska den som behandlar personuppgifter vidta lämpliga tekniska och organisatoriska åtgärder för att säkerställa en säkerhetsnivå som är lämplig i förhållande till risken, i synnerhet skydd för oavsiktlig eller olaglig förstöring, förlust eller ändring eller till obehörigt röjande av eller obehörig åtkomst till de personuppgifter som överförs, lagras eller på annat sätt behandlas (Artikel 32).
+
+Vid Lunds universitet erbjuds forskare att använda plattformen LUSEC, som är en miljö för att lagra, hantera och analysera data på ett högsäkert sätt i enlighet med GDPR. Tjänsten är avgiftsbelagd. LUSEC bör övervägas som en lämplig säkerhetsmiljö för känsliga forskningsdata.
+
+Vid etikprövningen gäller att om ett planerat forskningsprojekt genomförs av meriterade forskare som avser att publicera resultaten vetenskapligt, så är presumtionen att det är fråga om forskning. Om resultaten endast ska spridas internt inom den egna organisationen är presumtionen i sammanhang som rör etikprövning att det inte är forskning. Detta illustrerar den tydliga anknytningen mellan vetenskapligt arbete och publicering. Vetenskapligt arbete ska syfta till publicering. Publiceringen ska vara vetenskaplig, dvs. den ska ingå i ett sammanhang där det tydligt framgår att det är ett bidrag till vetenskapen.
+
+Sedan en tid pågår ett arbete för att skapa öppen tillgång till data som samlats in eller genererats i samband med forskning. Syftet med detta arbete beskrivs ofta med de s.k. FAIR-principerna (Findable, Accessible, Interoperable & Reusable). När det gäller personuppgifter måste forskaren överväga om det över huvud taget är lämpligt och rättsligt möjligt att göra sådana uppgifter öppet tillgängliga. Detta gäller i synnerhet känsliga personuppgifter. Om tillgängliggörande av vissa data från ett forskningsprojekt visar sig vara oförenligt med dessa principer, ska sådana data i datahanteringsplanen undantas från öppen tillgång till forskningsdata.
+
+Det händer ibland att forskare planerar att förstöra det insamlade materialet omedelbart efter att ett projekt avslutats. Detta är ett brott mot arkivlagen, och det utgör dessutom en allvarlig avvikelse från god forskningssed. Anledningen är att tillgång till forskningsdata är nödvändig för att möjliggöra förnyad vetenskaplig prövning, liksom prövning av eventuella misstankar om oredlighet i forskning.
+
+[Tillägg på svenska: Dokumentet innehåller också viktiga riktlinjer för gallring och bevarande av forskningsdata vid HT-fakulteterna, samt information om att varje statlig myndighet ska ha en dokumenthanteringsplan baserad på arkivlagen.]
+
+
+From Vagledning-om-etikprovning-EPM.txt:
+"Forskningshuvudmannen är den myndighet, fysiska eller juridiska person i vars verksamhet forskningen utförs, som lärosäte, kommun, region, en annan myndighet eller en privat verksamhet. Forskningshuvudmannen bestämmer själv genom intern arbets- eller delegationsordning eller genom fullmakt vem som är behörig företrädare för huvudmannen."
+
+"Ytterst är det forskningshuvudmannen som ansvarar för ansökan. Denne är ansvarig för att forskning som omfattas av lagen inte utförs utan godkännande. Forskningshuvudmannen ansvarar också för att forskning uppfyller sådana villkor som har meddelats i samband med ett etikgodkännande."
+
+"Avsikten att publicera behöver inte avse en unik publicering av enbart resultaten av den undersökning som en ansökan om etikprövning omfattar. Det kan också ibland finnas goda skäl att inte omedelbart publicera forskningsresultat. Men om en sådan avsikt saknas i ett visst projekt, så kan detta uppfattas som en indikation på att arbetet inte är forskning, även om det utförs av forskare med hjälp av vetenskapliga frågor och metoder."
+
+"I en ansökan om etikprövning ska du beskriva hur insamlade data ska hanteras och förvaras efter insamlingen. Detta innefattar en beskrivning av:
+- de skyddsåtgärder som ska genomföras för att försvåra identifiering av uppgifterna, till exempel pseudonymisering
+- var data och eventuell kodnyckel ska förvaras
+- vem som ska ha tillgång till materialet och på vilket sätt
+- vilka säkerhetsåtgärder som planeras för att förhindra dataläckage, stöld etc.
+- om ytterligare skyddsåtgärder kommer att genomföras efter projektets slut
+- hur länge uppgifterna ska sparas."
+
+"Många integritetsskador startar i någon form av dataläckage, dvs. att obehöriga får tillgång till känsliga uppgifter, eller i att personer med berättigad åtkomst till data behandlar dessa på ett otillbörligt sätt."
+
+"Resultaten av korrelationssökningar i datamängder relaterade till kön, ålder, ursprung, lagöverträdelser, ekonomi, utbildning, migration eller hälsa kan också lätt missbrukas för att sprida förakt för eller misstänksamhet mot grupper av personer, även om inga specifika individer identifieras. Sådana utpekanden på individ- eller gruppnivå kan i sin tur leda till negativa sociala, ekonomiska och rättsliga konsekvenser."
+
+
+From etikansokan-ethix-ny-ansokningsmall-2023-10-19.txt:
+För projekt som har flera forskningshuvudmän, där till exempel en vårdgivare ansvarar för insamling av personuppgifter/biologiskt material och KI ansvarar för bearbetning och analys av personuppgifterna/proverna, så ser KI helst att personuppgifterna/proverna ska utlämnas till KI (d.v.s. man skriver ett Data Transfer Agreement så KI blir controller av uppgifterna/proverna och därmed får bestämma vad som ska göras med uppgifterna). PuB-avtal ska undvikas om KI är en del av forskningsprojektet där vi till exempel självständigt ansvarar för lagring och analys av personuppgifter/prover.
+
+Här är det viktigt att ange korrekt(a) organisation(er)/institution(er), snarare än namn på individuella forskare. Det här är viktigt att specificera för det får konsekvens sen när ni ska göra ansökan om uttag av journaldata.
+
+Exempel på formulering: "Resultat kommer redovisas på gruppnivå utan att enstaka individers identitet röjs, utdrag ur intervjuer har avidentifierats, karakteristiska för enskilda individer går ej att urskilja, bilder är utan identifikationsmöjligheter etc."
+
+Om ni vill kunna dela data i framtida forskningsamarbeten, exempelvis vid meta-analyser och liknande, så behöver ni nämna detta i etikansökan och i forskningspersoninformationen. Ett förslag på formulering ni kan använda är följande: "Pseudonymiserade personuppgifter kan komma att delas både inom och utom EU/EES-området och relevanta avtal kommer då att upprättas enligt vid var tid gällande lagstiftning".
+
+Tilläggsinformation på svenska: Det är viktigt att notera att all datahantering måste följa svensk lagstiftning och GDPR. Vid delning av data mellan olika forskningshuvudmän krävs särskilda avtal och överenskommelser för att säkerställa att personuppgifter hanteras korrekt och säkert.
+
+
+From God forskningssed VR 2024.txt:
+För all personuppgiftsbehandling gäller enligt dataskyddsförordningen vissa grundläggande principer som bland annat innebär att
+- det ska finnas stöd i förordningen för att behandla uppgifterna
+- det ska finnas specifika, särskilt angivna och berättigade ändamål med behandlingen
+- det inte ska behandlas fler uppgifter än vad ändamålet kräver
+- uppgifterna ska vara riktiga
+- uppgifterna inte ska sparas längre än vad ändamålet kräver 
+- uppgifterna ska skyddas genom lämpliga säkerhetsåtgärder, till exempel pseudonymisering 
+- den som ansvarar för behandlingen ska kunna visa att den lever upp till kraven i dataskyddsförordningen och hur.
+
+Forskare ska vara ärliga, transparenta och ansvarsfulla både i vetenskapliga publikationer och i andra typer av kommunikation. Detta innebär att
+- publicera och presentera data, metoder, resultat och tolkningar på ett öppet, ärligt, transparent och korrekt sätt, samtidigt som skyddsintresset och legitima krav på konfidentialitet tillgodoses
+- tydligt redovisa hur robust evidensen är, vilka antaganden och värderingar som påverkar forskningen, vilka möjliga felkällor som finns och i vilken utsträckning det återstår osäkerhet och kunskapsluckor
+
+Forskningen ska inte bara vara korrekt och ärligt redovisad, den ska också nå ut till relevanta intressenter. Forskare ska se till att deras arbete görs tillgängligt för kollegor och allmänhet inom rimlig tid, med hänsyn tagen till skyddsintresset och legitima skäl för dröjsmål, till exempel ansökan om patent.
+
+En grundläggande forskningsetisk princip är att människor ska informeras och samtycka innan de involveras i forskningen. Detta betraktas allmänt som en central skyddsåtgärd och en förutsättning för att individens rätt till självbestämmande ska respekteras.
+
+Enligt dataskyddsförordningen är det forskningshuvudmannen som i egenskap av personuppgiftsansvarig ansvarar för att behandlingen av personuppgifter följer de grundläggande principerna för behandlingen och i övrigt utförs i enlighet med dataskyddsreglerna. Enligt god forskningssed har även forskaren ett ansvar för att behandlingen sker i enlighet med gällande regelverk, vilket förutsätter att huvudmannen ser till att forskaren får den information och det stöd som behövs.
+
+</information>
+
+För varje fråga ska du:
+1. Analysera det tillhandahållna materialet noggrant
+2. Formulera ett koncist och akademiskt svar på svenska
+3. Säkerställa att svaret håller sig inom angiven teckengräns
+4. Inkludera etiska överväganden där det är relevant
+5. Formatera svaret med XML-taggar som innehåller frågans ID
+
+Svaren ska:
+- Vara faktabaserade och utgå från det tillhandahållna materialet
+- Ha en professionell och akademisk ton
+- Vara konkreta och tydliga
+- Ta hänsyn till etiska aspekter
+- Följa god forskningssed
+
+För fråga 12.1 ska svaret beskriva hur dataåtkomst garanteras för forskningshuvudman och medverkande forskare.
+
+För fråga 12.2 ska svaret specificera ansvar för databearbetning och resultatredovisning.
+
+För fråga 12.3 ska svaret beskriva plan och tidslinje för resultatens offentliggörande.
+
+För fråga 12.4 ska svaret redogöra för hur forskningspersonernas integritet skyddas vid publicering.
+
+Formatera varje svar inom XML-taggar som innehåller frågans ID, till exempel:
+<12.1>Ditt svar här...</12.1>
+
+Om materialet inte innehåller tillräcklig information för att besvara en specifik fråga, ange detta tydligt i svaret och föreslå vilken ytterligare information som skulle behövas.
+Besvara följande frågor:
+FrågeID: <12.1>:
+Fråga: 12.1 Hur garanteras tillgång till data för forskningshuvudmannen och medverkande forskare?
+Hjälptext: Normalt ska den som ansvarar för genomförandet av forskningen ha full tillgång till data. Om flera forskare samverkar bör den forskare som är ansvarig för genomförandet i förväg komma överens med övriga forskare om tillgång till data.
+Teckengräns: 4500
+
+FrågeID: <12.2>:
+Fråga: 12.2 Vem eller vilka ansvarar för databearbetning och skriftlig redovisning av resultaten?
+Hjälptext: Ange vem eller vilka som kommer bearbeta och analysera forskningsdata och vem eller vilka som kommer utforma den skriftliga redovisningen. Normalt ska den som ansvarar för genomförandet av forskningen ha full tillgång till data.
+Teckengräns: 2000
+
+FrågeID: <12.3>:
+Fråga: 12.3 Hur och när planeras resultaten att offentliggöras?
+Hjälptext: Ange i vilken form resultaten planeras att offentliggöras. Exempelvis vetenskaplig publicering med peer review, open acess, intern rapport. Ange om möjligt en tidsplan för offentliggörandet.
+Teckengräns: 2000
+
+FrågeID: <12.4>:
+Fråga: 12.4 På vilket sätt garanteras forskningspersonernas rätt till integritet när materialet offentliggörs?
+Hjälptext: Redogör för hur data presenteras när den offentliggörs och hur forskningspersonernas integritet skyddas vid offentliggörandet.
+Teckengräns: 4500
+

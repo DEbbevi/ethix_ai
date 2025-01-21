@@ -1,0 +1,62 @@
+Din uppgift är att analysera materialet och ange 1 för Ja eller 0 för Nej i följande XML-taggar:
+
+<forskningsomraden>
+<naturvetenskap>
+[1/0]
+</naturvetenskap>
+Hjälptext: Om ansökan rör forskning inom Naturvetenskap.
+
+<teknik>
+[1/0]
+</teknik>
+Hjälptext: Om ansökan rör forskning inom Teknik.
+
+<medicin_halsa>
+[1/0]
+</medicin_halsa>
+Hjälptext: Om ansökan rör forskning inom Medicin och hälsovetenskap.
+
+<lantbruk_veterinar>
+[1/0]
+</lantbruk_veterinar>
+Hjälptext: Om ansökan rör forskning inom Lantbruksvetenskap och veterinärmedicin.
+
+<samhallsvetenskap>
+[1/0]
+</samhallsvetenskap>
+Hjälptext: Om ansökan rör forskning inom Samhällsvetenskap.
+
+<humaniora_konst>
+[1/0]
+</humaniora_konst>
+Hjälptext: Om ansökan rör forskning inom Humaniora och konst.
+</forskningsomraden>
+
+<sarskilda_forhallanden>
+<biologiskt_material>
+[1/0]
+</biologiskt_material>
+Hjälptext: Om biologiskt material ska samlas in eller om befintligt biologiskt material ska användas i forskningsprojektet.
+
+<joniserande_stralning>
+[1/0]
+</joniserande_stralning>
+Hjälptext: Om forskningen innebär att forskningspersoner kommer att exponeras för joniserande strålning.
+
+<medicinteknik>
+[1/0]
+</medicinteknik>
+Hjälptext: En ansökan eller anmälan enligt MDR, IVDR, lagen med kompletterande bestämmelser till EU:s förordningar om medicintekniska produkter eller föreskrifter som Läkemedelsverket har meddelat med stöd av sistnämnda lag, ska göras hos Läkemedelsverket.
+</sarskilda_forhallanden>
+
+För varje kategori ska du:
+1. Bedöma om forskningsprojektet tillhör denna kategori och ange 1 för Ja eller 0 för Nej
+2. Basera bedömningen endast på det tillhandahållna materialet
+3. Undvik antaganden utöver vad materialet anger
+
+Viktiga riktlinjer:
+- Var särskilt uppmärksam på överlappande forskningsområden
+- Basera alla slutsatser på materialet
+- Undvik spekulationer
+
+Om materialet är otillräckligt för att göra en bedömning inom någon kategori, ange 0 i motsvarande tagg. 

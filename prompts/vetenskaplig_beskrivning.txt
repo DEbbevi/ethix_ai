@@ -1,0 +1,154 @@
+<information>
+From Guide till ansökan om etikprövning.txt:
+"Denna guide har som syfte att vara ett extra stöd när du fyller i ansökan om etikprövning. Tanken är att du ska ha guiden framme samtidigt som etikansökan fylls i. Guiden har ett KI-perspektiv och är tänkt att komplettera den information som redan finns i Etikprövningsmyndighetens ansökningsportal Ethix genom att förtydliga vissa avsnitt och ge förslag på hur du kan tänka kring vissa delar."
+
+"Om projekt som helt eller delvis utförs i ett annat land än Sverige, så kom ihåg att Etikprövningsmyndigheten endast prövar den del av forskningen som utförs i Sverige. Det är de delarna du ska fokusera på att beskriva utförligt i metoden. Om din insamling av personuppgifter/biologiskt material har samlats in i ett annat land (där etikgodkännande har erhållits i det landet) och ska skickas till Sverige och KI för bearbetning och analys, så kan du skriva att din insamling av personuppgifter/biologiskt material redan har samlats in i utlandet där etikgodkännande finns (vilket ska finnas! Det behöver dock inte bifogas till din etikansökan). Det viktiga är att vara tydlig med vilka delar som utförs var och av vem."
+
+"KI har etiska riktlinjer för internationella samarbeten som ska följas när KI är med i forskningsprojekt som utförs i andra länder än Sverige. Riktlinjerna för internationella samarbeten stöds av ett antal interna och externa policydokument, regler, riktlinjer och annan information som berör etiska frågor. De inkluderar diskriminering, trakasserier och kränkande särbehandling, etisk prövning och dokumentation, korruption samt riskbedömning. Grundprincipen är att man inte ska förlägga forskning i ett land som har lägre forskningsetisk nivå än Sverige bara för att kunna utföra fler/andra ingrepp, utan forskningen ska förläggas i det land där forskningsfrågan bäst kan besvaras samt att forskningsprojektet även skulle kunna bli godkänt i Sverige."
+
+"Informationen ska hållas så kortfattad och lättförståelig som möjligt så att forskningspersonerna lätt kan ta till sig den (och anpassas till mottagaren -till exempel till minderårig, äldre, nedsatt funktion, olika språk etc.)."
+
+
+From Vägledning_forskningshuvudman_etikansökan_KI_RegionStockholm_version1_final_22_04_20.txt:
+1. From Section 1:
+"Den 1 januari 2020 ändrades lagen (2003:460) om etikprövning av forskning som avser människor (etikprövningslagen). Genom ändringen tydliggjordes att alla involverade forskningshuvudmän ska anges i etikansökan. En beskrivning av respektive forskningshuvudmans roll och uppdrag i det sökta projektet ska ingå."
+
+2. From Section 2:
+"Forskningshuvudman är, enligt etikprövningslagen, den fysiska eller juridiska person i vars verksamhet forskningen utförs, till exempel lärosäte, kommun, region, myndighet eller privat företag. Ett forskningsprojekt kan genomföras hos en eller flera forskningshuvudmän."
+
+3. From Section 2.1:
+"När flera forskningshuvudmän medverkar i ett och samma forskningsprojekt ska de gemensamt uppdra åt en av dem att ansöka om etikprövning av projektet för allas räkning. Den som får detta uppdrag ska sedan informera de övriga om Etikprövningsmyndighetens beslut. Varje forskningshuvudman ansvarar fortfarande för den del av forskningen som bedrivs i den egna verksamheten."
+
+4. From Section 5:
+"När Karolinska Institutet och vårdgivare i Region Stockholm samarbetar i ett forskningsprojekt ska ansökan om etikprövning innehålla uppgifter om vem som ansvarar för personuppgiftshanteringen, inklusive hur personuppgiftsansvaret för behandlingen fördelas mellan parterna."
+
+5. From Section 3.1:
+"Av dataskyddsförordningen följer en annan typ av ansvar än det som följer av etikprövnings-lagen, nämligen ansvar för behandlingen av personuppgifter. Vem som anges som ansvarig respektive övrig medverkande forskningshuvudman i etikansökan är inte avgörande för fördelningen av personuppgiftsansvar."
+
+Tillägg på svenska för kontext: Dessa paragrafer är särskilt relevanta för att förstå hur en etikprövningsansökan ska struktureras när flera forskningshuvudmän är involverade, samt hur ansvaret för personuppgifter ska hanteras mellan olika parter i forskningsprojektet.
+
+
+From Etikvaegledning_2021_WEBB.txt:
+1. "Etiska överväganden och riktlinjer är nödvändiga om forskning på ett ansvarsfullt sätt ska kunna användas för att utveckla vetenskapen och vårt samhälle, i dag och i framtiden."
+
+2. "För forskning som bedrivs vid Lunds universitet ska personuppgiftsbehandlingen uppfylla kraven i GDPR oavsett var i världen forskningen bedrivs och vems personuppgifter som behandlas. Därutöver ska all forskning som bedrivs av forskare vid Lunds universitet uppfylla som lägst de etiska krav som svensk lagstiftning ställer."
+
+3. "När fältarbetet utförs inom en anställning som forskare i Sverige förutsätts det att en del av arbetet också utförs i Sverige, till exempel analyser, rapportskrivande och förberedelse för publicering. Det är också fråga om en import av forskningsdata till Sverige. Om forskningsdata innefattar känsliga personuppgifter, så krävs etikprövning också i Sverige."
+
+4. "Forskningspersonerna har dock rätt att veta att data överförs till annat land, och forskningspersonsinformationen ska innefatta information om överföring av data och var data bearbetas."
+
+5. "Forskaren ska informera Etikprövningsmyndigheten om vilka länder som medverkar i ett forskningsprojekt, hur dataflödet ser ut, redovisa och dokumentera omständigheterna i samband med insamling av de uppgifter som ska importeras, och redovisa vilka skyddsåtgärder som genomförts och planeras."
+
+Dessa avsnitt ger viktig vägledning för hur man ska beskriva forskningsprojekt i etikprövningsansökan, särskilt gällande internationella aspekter och personuppgiftshantering. De betonar vikten av tydlighet, transparens och etiska överväganden i forskningsprocessen.
+
+
+From Vagledning-om-etikprovning-EPM.txt:
+"Forskning får godkännas bara om den kan ske med respekt för människovärdet (7 § etikprövningslagen).
+Mänskliga rättigheter och grundläggande friheter ska alltid beaktas vid etikprövningen samtidigt som hänsyn ska tas till intresset av att ny kunskap kan utvecklas genom forskning (8 § första meningen).
+Människors välfärd ska ges företräde framför samhällets och vetenskapens behov (8 § andra meningen)."
+
+"När du fyller i ansökningsformuläret är det viktigt att beskriva omständigheterna för just ditt forskningsprojekt. Det är särskilt viktigt
+- att du tydligt beskriver det vetenskapliga värdet av den forskning som ska genomföras
+- att du så väl som möjligt beskriver vilka risker projektet kan medföra och hur du avser att förebygga och åtgärda dessa
+- att du tydligt redovisar hur forskningspersonerna ska få den information de behöver för att kunna göra ett genomtänkt ställningstagande och ta till vara sina rättigheter."
+
+"Etikprövningsmyndigheten ska och kan bara pröva den avgränsade del av forskningen som ska ske i Sverige. Denna del av projektet ska redovisas och bedömas på samma sätt som all annan forskning. Du behöver alltså besvara alla tillämpliga frågor i ansökningsformuläret och bifoga alla bilagor för denna del av projektet. All information i ansökan ska vara på svenska, förutom forskningsplan och CV, som kan vara på engelska."
+
+"För att myndigheten ska kunna göra en korrekt granskning och bedömning av forskningen i sitt sammanhang behövs också en beskrivning av hela det internationella projektet från början till slut. Bifoga därför forskningsplan för hela detta projekt och CV för ansvarig forskare."
+
+"Ansökan ska skrivas på svenska, på sådan nivå att den kan förstås av lekmän. Skälet till detta är att ansökan ska kunna förstås väl och bedömas av alla personer som medverkar i beslutsprocessen, dvs. även de lekmannaledamöter som företräder allmänna intressen."
+
+"Bedömning av de risker som ett forskningsprojekt kan innebära och en vägning av relationen mellan risk och nytta är en avgörande del av den granskning som ska göras vid etikprövningen. Du behöver ge myndigheten ett tillräckligt underlag för denna bedömning."
+
+
+From etikansokan-ethix-ny-ansokningsmall-2023-10-19.txt:
+3.1 Skriv en populärvetenskaplig sammanfattning av forskningsprojektet.
+Beskriv projektet på ett sammanfattande vis. Tänk på att texten ska kunna förstås av personer som inte har vetenskaplig kompetens. Undvik därför terminologi som kräver specialkunskaper.
+
+3.2 Vad är det vetenskapliga syftet med projektet?
+Beskriv det övergripande syftet med projektet. Redogör för vad det är för forskningsproblem som projektet ska behandla och vilka avgränsningar som gjorts.
+
+3.3 Vilka är de vetenskapliga frågeställningarna?
+Ange klart och tydligt den eller de vetenskapliga frågeställningarna i projektet.
+Håll koll på frågeställningarna så att de passar den data som samlas in.
+Se till att inte samla in mer än det som krävs för att besvara frågeställningarna i enlighet med GDPR.
+
+3.4 Kommer delar av den forskning som beskrivs i ansökan ske utanför Sverige?
+Etikprövningen omfattar enbart de delar och moment av forskningen som ska utföras i Sverige. Etikprövning krävs vidare enbart av det som är forskning enligt definitionen i 2 § etikprövningslagen, dvs. vetenskapligt experimentellt eller teoretiskt arbete eller vetenskapliga studier genom observation, om arbetet eller studierna görs för att hämta in ny kunskap, och utvecklingsarbete på vetenskaplig grund. I lagens förarbeten lyfter man fram följande moment i det man kallar genomförandefasen av en studie; rekrytering av forskningspersoner, inhämtande av underlag, genomförande av försök, analys och bearbetning.
+
+
+From God forskningssed VR 2024.txt:
+## 5.3.1 Utgångspunkter och de fyra principerna
+Inom många typer av forskning är det nödvändigt att involvera människor för att kunna uppfylla syftet med forskningen. Detta kan ske på olika sätt, till exempel genom intervjuer, observation, experiment, interventioner eller insamling och annan behandling av data (inklusive personuppgifter) från mer eller mindre öppna källor. Oavsett hur det sker ska forskaren säkerställa att:
+- forskningen utförs med respekt för människovärdet, mänskliga rättigheter och grundläggande friheter
+- riskerna för forskningspersonerna minimeras och hålls på en rimlig nivå
+- riskerna står i rimlig proportion till de förväntade kunskapsvinsterna.
+
+## 5.5 Internationell forskning och material från utlandet
+När forskningen sker helt eller delvis utanför Sverige måste forskaren se till att respekten och skyddet för människor och djur upprätthålls även i de fall riktlinjerna och regelverken i landet där forskningen genomförs är mer tillåtande än de svenska. Så kallad etikdumpning - att utföra forskning i vissa länder i syfte att kringgå andra länders etiska regelverk - är oacceptabelt. Om man väljer att förlägga sin forskning i andra länder ska man se till att den utförs i enlighet med god forskningssed och att skyddsintresset inte åsidosätts.
+
+## 3.3.1 Allmänt om samverkan och annat samarbete i forskning
+Vid forskningssamarbeten ska alla deltagare ta ansvar för att god forskningssed upprätthålls, även om vetenskapligt ansvariga forskare och forskningshuvudmän har ett särskilt ansvar. För att tydliggöra varje deltagares ansvar bör man redan inledningsvis säkerställa att alla har formerna för samarbetet klart för sig, inklusive målsättningar, utförande, skyddsåtgärder, kommunikation, informationssäkerhet, planering av datahantering, publicering och tillgängliggörande.
+
+## 2.3 Några grundläggande intressen och krav
+En grundläggande aspekt av god forskningssed är att tillgodose olika berättigade intressen. Dessa intressen kan ibland peka åt samma håll, men ibland kan de komma i konflikt och man måste då kunna göra en etiskt reflekterad avvägning och prioritering. Vilka specifika intressen som man måste ta hänsyn till, och vilka krav på god forskningssed detta ställer, varierar mellan olika forskningsområden och situationer.
+
+</information>
+
+För varje fråga ska du:
+1. Analysera det relevanta innehållet i materialet
+2. Formulera ett svar som följer frågans specifika krav och teckengräns
+3. Inkludera etiska överväganden där det är relevant
+4. Formatera svaret inom XML-taggar som motsvarar frågans ID
+
+För fråga 3.1 (populärvetenskaplig sammanfattning):
+- Använd ett enkelt och tillgängligt språk
+- Undvik facktermer eller förklara dem
+- Fokusera på projektets huvuddrag och betydelse
+- Max 4500 tecken
+
+För fråga 3.2 (vetenskapligt syfte):
+- Beskriv det övergripandesyftet koncist
+- Identifiera tydliga avgränsningar
+- Fokusera på forskningsproblemet
+- Max 2000 tecken
+
+För fråga 3.3 (frågeställningar):
+- Lista specifika forskningsfrågor
+- Var konkret och precis
+- Använd akademiskt språk
+- Max 2000 tecken
+
+För fråga 3.4.3 (internationell forskning):
+- Beskriv forskningsprocessen utanför Sverige
+- Fokusera på praktiska aspekter som rekrytering och datahantering
+- Var specifik gällande personuppgiftshantering
+- Max 2000 tecken
+
+Formatera varje svar inom relevanta XML-taggar, till exempel:
+<3.1>
+[Ditt svar på fråga 3.1]
+</3.1>
+
+Om någon information saknas i materialet för att besvara en specifik fråga, ange detta tydligt i svaret.
+Besvara följande frågor:
+FrågeID: <3.1>:
+Fråga: 3.1 Skriv en populärvetenskaplig sammanfattning av forskningsprojektet.
+Hjälptext: Beskriv projektet på ett sammanfattande vis. Tänk på att texten ska kunna förstås av personer som inte har vetenskaplig kompetens. Undvik därför terminologi som kräver specialkunskaper.
+Teckengräns: 4500
+
+FrågeID: <3.2>:
+Fråga: 3.2 Vad är det vetenskapliga syftet med projektet?
+Hjälptext: Beskriv det övergripande syftet med projektet. Redogör för vad det är för forskningsproblem som projektet ska behandla och vilka avgränsningar som gjorts.
+Teckengräns: 2000
+
+FrågeID: <3.3>:
+Fråga: 3.3 Vilka är de vetenskapliga frågeställningarna?
+Hjälptext: Ange klart och tydligt den eller de vetenskapliga frågeställningarna i projektet.
+Teckengräns: 2000
+
+FrågeID: <3.4.3>:
+Fråga: 3.4.3 [Om Ja 3.4] Beskriv hur de delar av forskningen som sker utanför Sverige kommer att genomföras.
+Hjälptext: Etikprövningsmyndigheten kan bara pröva den avgränsade del av forskningen som ska ske i Sverige. För vår prövning behövs dock en fullständig beskrivning av hela projektet från början till slut. Syftet är att kunna sätta in den del av projektet som ska utföras i Sverige i sitt sammanhang. Det ska till exempel finnas klara och tydliga beskrivningar av hur rekryteringen av forskningspersoner ska gå till eller har gått till samt om hur data hanteras och var lagringen sker. Sökanden behöver också tydligt beskriva vilka personuppgifter som kommer att behandlas i forskningen. Tänk på att texten ska kunna förstås av personer som inte har vetenskaplig kompetens. Undvik därför terminologi som kräver specialkunskaper.
+Teckengräns: 2000
+

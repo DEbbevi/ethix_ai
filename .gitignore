@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+.DS_Store
+p_id.txt
+*.log
+cookies/
+screenshots/ 
+*.pkl
+form_number.txt
+metaprompt.txt
+p_id.txt
+prompt_generator.py
+count_tokens.py
+generate_all_prompts.py
+add_ethics_info_to_prompts.py
+prompts_20250114/
+prompts_20250118/
+prompts_first_iter/
+pdf/
+!requirements.txt

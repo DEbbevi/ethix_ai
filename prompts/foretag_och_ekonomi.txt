@@ -1,0 +1,101 @@
+<information>
+From Guide till ansökan om etikprövning.txt:
+## Avgift för etikansökan
+
+Avgiften för etikansökan ska betalas innan handläggningen kan påbörjas. När ansvarig forskare samt behörig företrädare för forskningshuvudmannen har signerat ansökan inne i Ethix skickas ansökan automatiskt in till Etikprövningsmyndigheten, och först då får du information om hur betalningen ska göras. Avgiften för en ny ansökan är antingen 5 000 kronor eller 16 000 kronor. För en ändringsansökan är avgiften 2 000 kronor.
+
+Notera: Det saknas specifik information i dokumentet för att direkt besvara frågorna om ekonomiska överenskommelser och intressen. Dokumentet är en guide för att fylla i etikansökan men innehåller inte detaljer om hur man ska redovisa ekonomiska aspekter och intressekonflikter.
+
+
+From Vägledning_forskningshuvudman_etikansökan_KI_RegionStockholm_version1_final_22_04_20.txt:
+Section 3.2 Immateriella rättigheter (Intellectual Property Rights - IPR):
+Äganderätten till projektets material och/eller resultat (IPR) påverkas inte av vem som är ansvarig forskningshuvudman i ansökan. Äganderätten kan regleras i separata avtal.
+
+Section 3.3 Projektmedel för forskningen eller projektets omfattning:
+Det finns inget krav att de medel avsedda för att finansiera projektet som ansökan avser ska vara förvaltade hos den huvudman som skickar in ansökan.
+
+Section 2:
+Forskningshuvudman är, enligt etikprövningslagen, den fysiska eller juridiska person i vars verksamhet forskningen utförs, till exempel lärosäte, kommun, region, myndighet eller privat företag.
+
+Section 3.5 Flera medverkande vårdgivare:
+Viktigt att notera att det i studier där flera olika vårdgivare är medverkande kan behövas avtal mellan vårdgivarna om till exempel personal från Karolinska Universitetssjukhuset behöver utföra del av studien på Södersjukhuset.
+
+[Additional context in Swedish: Dessa paragrafer är relevanta för ekonomiska frågor eftersom de beskriver hur forskningshuvudmän kan ingå avtal med varandra och hur projektmedel kan hanteras. Detta är viktigt att känna till när man ska redovisa ekonomiska överenskommelser och intressen i en etikansökan.]
+
+
+From Etikvaegledning_2021_WEBB.txt:
+"Forskningshuvudmannen anses ha ansvar för de risker man utsätter forskningspersoner för. Om en forskningsperson kommer till skada och det kan styrkas att skadan förorsakats av att han eller hon rekryterats och medverkat som forskningsperson, så kan forskningshuvudmannen komma att bli skadeståndsskyldig. Forskningshuvudmannen kan inte friskriva sig från detta ansvar genom att hänvisa till privata försäkringar."
+
+"Hur detta ansvar fördelas inom exempelvis Lunds universitet är en intern fråga. Statliga myndigheter tar normalt inga försäkringar, utom i särskilda fall. För sådana ändamål har Kammarkollegiet en försäkringstjänst, som erbjuder försäkringar för särskilt personskadeskydd, som motsvarar arbetsskadeförsäkringens olycksfallsskydd."
+
+"När Lunds universitet är anslagsmottagare för ett forskningsprojekt ska samtidigt universitetet framstå som forskningshuvudman. Etikprövningslagen har förutsett och medger att flera forskningshuvudmän medverkar i ett och samma forskningsprojekt (23 §)."
+
+[Notera: Dokumentet innehåller begränsad information om specifika ekonomiska överenskommelser eller intressen. För att kunna ge ett fullständigt svar på frågorna 13.3 och 13.4 skulle ytterligare information om projektets finansiering och forskarnas ekonomiska intressen behövas.]
+
+
+From Vagledning-om-etikprovning-EPM.txt:
+"Ersättning till forskningspersoner betraktas enligt Skatteverket som inkomst av tjänst och är därmed skattepliktig. Undantagna är ersättningar för lämnande av blod, modersmjölk eller organ, som är skattefria. Ersättning för resor är också skattefria. Läs mer på skatteverket.se.
+
+I information till forskningspersoner ska det framgå om de får ersättning för sitt deltagande eller inte. Det ska också framgå om ersättningen är skattepliktig."
+
+"En del forskningsprojekt får medel från US National Institutes of Health (NIH) eller någon annan finansiär som förbundit sig att följa deras etiska regelverk. Enligt detta ska en lokal etisk kommitté, Institutional Review Board (IRB), årligen granska den etiska kvaliteten i forskningsprojekt som innefattar människor, och resultatet av granskningen ska rapporteras till finansiären. Motsvarande krav kan också ställas av andra forskningsfinansiärer."
+
+"Forskningshuvudmannen är den myndighet, fysiska eller juridiska person i vars verksamhet forskningen utförs, som lärosäte, kommun, region, en annan myndighet eller en privat verksamhet. Forskningshuvudmannen bestämmer själv genom intern arbets- eller delegationsordning eller genom fullmakt vem som är behörig företrädare för huvudmannen. Behörig företrädare är prefekt, enhetschef eller verksamhetschef eller annan person med motsvarande befogenheter."
+
+"Det är av stor vikt att det finns tillräckliga resurser för att slutföra projektet. Att ett projekt inte slutförs kan ha goda skäl, men det innebär också att det inte finns någon nytta som kan väga upp de risker som forskningspersoner hunnit utsättas för innan projektet stoppades. Att det saknas ekonomiska resurser är inte ett godtagbart skäl för att inte slutföra en studie."
+
+
+From etikansokan-ethix-ny-ansokningsmall-2023-10-19.txt:
+13. Ekonomiska förhållanden
+
+13.1 Redovisa eventuella ekonomiska överenskommelser med bidragsgivare eller andra finansiärer (namn och belopp).
+Redovisa alla överenskommelser om finansiering som har slutits med den eller de som ska genomföra forskningen. Ange vilka belopp som kommer att erhållas för forskningsprojektet och vad ersättningen ska täcka. Ange även eventuella belopp per forskningsperson.
+
+Här är det viktigt att visa att studien är finansierad, och att man har en plan för finansiering av hela studien och att man avser att ansöka om mer anslag.
+
+13.2 Redovisa forskningshuvudmannens, ansvarig forskares och medverkande forskares egna ekonomiska intressen.
+Redovisa egna ekonomiska intressen i form av till exempel aktieinnehav, anställning, konsultuppdrag i finansierade företag, eget företag som kan få direkt eller indirekt vinst av forskningen.
+
+
+From God forskningssed VR 2024.txt:
+"I god forskningssed ingår att använda forskningsmedel och andra resurser på ett korrekt och ansvarsfullt sätt. Det är en del i att visa respekt för kollegor, samhälle och forskningspersoner och bidrar till att värna förtroendet för forskningen. Detta är särskilt viktigt för forskning som finansieras av offentliga medel och för statliga forskningshuvudmän finns krav på att de ska hushålla med statens medel. När det gäller extern finansiering finns det ofta villkor som reglerar användningen av de beviljade forskningsmedlen."
+
+"Frågor om ägarskap och inflytande över forskningen är särskilt angelägna att lyfta när samarbetet sker i form av uppdragsforskning, det vill säga forskning som bedrivs hos en forskningshuvudman på uppdrag av en utomstående aktör som också finansierar forskningen. Uppdraget bör alltid tydligt regleras i ett avtal som ger forskarna största möjliga frihet att välja forskningsmetoder och teorier samt att publicera och sprida resultaten, även om de skulle visa sig avvika från uppdragsgivarens förväntningar eller önskemål."
+
+"Forskare ska vara ärliga, transparenta och ansvarsfulla både i vetenskapliga publikationer och i andra typer av kommunikation. Detta innebär att [...] öppet redovisa eventuella intressekonflikter, ekonomiskt stöd och beroendeförhållanden."
+
+"Enligt Vetenskapsrådets generella villkor för beviljade medel till forskning och forskningsstödjande verksamhet får medlen inte användas till kostnader som inte är direkt relaterade till att genomföra verksamheten som den beskrivs i ansökan. En förutsättning för Vetenskapsrådets beslut att bevilja finansiering är att medelsförvaltaren (forskningshuvudmannen) eller forskaren inte redan har eller kommer att ta emot annan finansiering för samma kostnader och ändamål."
+
+</information>
+
+När du formulerar svaren, följ dessa riktlinjer:
+- Skriv koncist och akademiskt
+- Använd ett objektivt och professionellt språk
+- Basera alla svar på det tillhandahållna materialet
+- Inkludera relevant etisk analys där det är lämpligt
+- Håll dig inom den angivna teckengränsen på 4500 tecken per svar
+
+För varje svar:
+1. Formatera svaret med XML-taggar som innehåller frågans ID
+2. För fråga 13.3: Redovisa tydligt alla ekonomiska överenskommelser, bidragsgivare och belopp
+3. För fråga 13.4: Redovisa alla relevanta ekonomiska intressen och potentiella intressekonflikter
+
+Exempel på formatering:
+<13.3>
+[Ditt svar på fråga 13.3 här]
+</13.3>
+
+<13.4>
+[Ditt svar på fråga 13.4 här]
+</13.4>Om någon information saknas i materialet, ange detta tydligt i svaret. Var särskilt uppmärksam på att identifiera och analysera potentiella intressekonflikter eller etiska överväganden relaterade till projektets finansiering.
+Besvara följande frågor:
+FrågeID: <13.3>:
+Fråga: 13.3 Redovisa eventuella ekonomiska överenskommelser med bidragsgivare eller andra finansiärer (namn och belopp).
+Hjälptext: Redovisa alla överenskommelser om finansiering som har slutits med den eller de som ska genomföra forskningen. Ange vilka belopp som kommer att erhållas för forskningsprojektet och vad ersättningen ska täcka. Ange även eventuella belopp per forskningsperson.
+Teckengräns: 4500
+
+FrågeID: <13.4>:
+Fråga: 13.4 Redovisa forskningshuvudmannens, ansvarig forskares och medverkande forskares egna ekonomiska intressen.
+Hjälptext: Redovisa egna ekonomiska intressen i form av till exempel aktieinnehav, anställning, konsultuppdrag i finansierade företag, eget företag som kan få direkt eller indirekt vinst av forskningen.
+Teckengräns: 4500
+

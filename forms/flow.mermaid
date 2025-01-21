@@ -1,0 +1,208 @@
+graph TD
+    subgraph "FÖRUTSÄTTNING"
+        subgraph "Projektinformation"
+            H1["1.1 Titel på forskningsprojektet"]
+            H2["1.2 Sökande huvudman"]
+            H3["1.3.1 Behörig företrädare"]
+            H4["1.4 Flera huvudmän?"]
+            H5["1.4.1 Övriga huvudmän"]
+            H6["1.5 Hemvist"]
+            H7["1.6.1 Institution"]
+            H8["1.7 Disputerad?"]
+            H9["1.7.2 Forskarens titel"]
+            H10["1.9 Antal huvudmän"]
+            H11["1.9.1 Samband"]
+            P1["1.4 Flera huvudmän?"]
+            P2["1.7 Disputerad?"]
+            P3["1.10 Endast personuppgifter?"]
+            P4["2.2 Rådgivande yttrande?"]
+            P5["2.4 Klinisk forskning?"]
+            P6["2.5.1 Äggdonation?"]
+            P7["2.5.2 Xenogen cellterapi?"]
+            K4["2.5.3 Joniserande strålning?"]
+            K5["2.5.4 Biologiskt material?"]
+            K6["2.5.5 Medicinteknisk prövning?"]
+            K6a["2.5.5.1 Motivering etikprövning"]
+            P8["3.4 Utanför Sverige?"]
+            P11["9.1 Information & samtycke?"]
+            P12["9.3 Nedsatt beslutsförmåga?"]
+            P13["10.1 Register?"]
+            P14["11.1 Djurförsök?"]
+            P15["13.1 Företagsinitierad?"]
+            P16["14.1 Nyinsamling bio. material?"]
+            P17["14.1.2 Härledbart material?"]
+            P18["14.2 Befintligt bio. material?"]
+        end
+
+        P15 -->|Ja| P16
+        K6 -->|Ja| K6a
+    end
+
+    %% Connections from P nodes
+    P1 -->|Ja| H2
+    P2 -->|Nej| D2
+    P4 --> V2
+    P5 --> M1
+    P6 --> M1
+    P7 --> M1
+    P9 -->|Ja| E2
+    P10 --> C2
+    P11 -->|Ja| C5
+    P12 -->|Ja| R2
+    P13 -->|Ja| F2
+    P13 -->|Nej| F3
+    P14 --> F2
+    P15 -->|Ja| B2
+    P17 -->|Ja| B15
+
+    subgraph "KÖRNING 1: Krävs för riskbedömning"
+        subgraph "Strålningsinformation"
+            T1["15.2.1 Åldersfördelning"]
+            T2["15.2.2 Under 30 år"]
+            T3["15.2.4 Medicinskt tillstånd"]
+            T4["15.5 Klinisk rutin"]
+            T5["15.6 Sakkunniga"]
+        end
+        
+        subgraph "Metod"
+            M1["4.1 Redogör för metod inkl. proceduren, tekniken eller behandlingen"]
+            M2["4.2 Om ny metod: Redogör för skillnad från ordinarie verksamhet"]
+            M3["4.3 Redogör för tidigare erfarenheter av metoden"]
+            V7["5.3 Tidsplan"]
+        end
+
+        subgraph "Urval"
+            U1["8.1 Hur görs urvalet?"]
+            U2["8.5 Inklusionskriterier"]
+            U3["8.6 Exklusionskriterier"]
+            U4["8.7 Relation forskare-forskningsperson"]
+        end
+
+        subgraph "Nyinsamling biologiskt material"
+            B2["14.1.2 Härledbart till person?"]
+            B3["14.1.2.1 Kodning"]
+            B4["14.1.3 Mängd material"] 
+            B5["14.1.4 Tillgänglighet"]
+            B6["14.1.5.1 Undantagsregeln"]
+            B7["14.1.5.2 Biobank"]
+            B8["14.1.6 Modifiering"]
+            B9["14.1.7 Motivering tid"]
+            B10["14.1.8 Efter projektavslut"]
+            B11["14.1.9 Motivering tid efter"]
+            B12["14.1.10 Analyser"]
+            B13["14.1.12 Hantering efter"]
+
+            P16 -->|Ja| B2
+            B2 --> B3
+            B3 --> B4
+            B4 --> B5
+            B5 --> B6
+            B6 --> B7
+            B7 --> B8
+            B8 --> B9
+            B9 --> B10
+            B10 --> B11
+            B11 --> B12
+            B12 --> B13
+        end
+        
+        subgraph "Befintligt biologiskt material"
+            B15["14.2.2 Mängd"]
+            B16["14.2.3 Kodning"]
+            B17["14.2.4 Analyser"]
+            B18["14.2.6 Hantering"]
+            B19["14.2.7 Tillgänglighet"]
+            B20["14.2.8 Motivering tid"]
+            B21["14.2.9 Efter avslut"]
+            B22["14.2.10 Motivering tid efter"]
+
+            B1 --> B14
+            P17 -->|Ja| B15
+            B15 --> B16
+            B16 --> B17
+            B17 --> B18
+            B18 --> B19
+            B19 --> B20
+            B20 --> B21
+            B21 --> B22
+        end
+
+        subgraph "Djurförsök"
+            F2["11.1.1 Resultat"]
+            F3["11.1.2 Motivering"]
+        end
+    end
+
+    subgraph "KÖRNING 1 PARALLELLT"
+
+        subgraph "Helt oberoende"
+
+            subgraph "Vetenskaplig beskrivning"
+                V2["3.1 Populärvetenskaplig sammanfattning"]
+                V3["3.2 Vetenskapligt syfte"]
+                V4["3.3 Vetenskapliga frågeställningar"]
+                V6["3.4.3 Genomförande utomlands"]
+
+                P8 -->|Ja| V6
+            end
+
+            subgraph "Data och material"
+                D1["6.1 Datainsamling"]
+                D2["6.2 Materialets storlek"]
+                D3["6.3 Dokumentation"]
+                D4["6.4 Datahantering"]
+            end
+
+            subgraph "Deltagare och säkerhet"
+                S1["8.2 Antal personer"]
+                S2["8.8 Försäkring"]
+                S3["8.9 Beredskap"]
+                S4["8.10 Ersättning?"]
+                S5["8.10.1 Vilken ersättning?"]
+            end
+
+            subgraph "Datahantering och integritet"
+                I1["12.1 Datatillgång"]
+                I2["12.2 Databearbetning"]
+                I3["12.3 Offentliggörande"]
+                I4["12.4 Integritet"]
+            end
+
+            subgraph "Företag och ekonomi"
+                F2["13.3 Ekonomi"]
+                F3["13.4 Intressen"]
+            end
+        end
+    end
+
+    subgraph "KÖRNING 2"
+        subgraph "Riskbedömning"
+            R1["7.1 Risker"]
+            R2["7.2 Nytta"]
+            R3["7.3 Risk-nytta värdering"]
+            R4["7.4 Minimering av risker"]
+            R5["7.5 Etiska problem"]
+        end
+    end
+
+    subgraph "KÖRNING 3"
+        subgraph "Samtycke"
+            C2["9.1.1 Process"]
+            C3["9.1.2 Motivering"]
+            C5["9.3.1 Motivering"]
+            C6["9.3.2 Samråd"]
+
+            C2 --> C3
+            C5 --> C6
+        end
+
+        subgraph "Register"
+            R2["10.1.1 Vilka register"]
+            R3["10.1.2 Vilka uppgifter"]
+
+            R2 --> R3
+        end
+    end
+
+    classDef parallel fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    class O1,R1,F1 parallel

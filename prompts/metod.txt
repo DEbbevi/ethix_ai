@@ -1,0 +1,185 @@
+<information>
+From Guide till ansökan om etikprövning.txt:
+För metodbeskrivning (4.1):
+"Här ska du beskriva allt som ingår i projektet som har med metoden att göra. Om projektet har flera huvudmän, var noga med att beskriva vilken huvudman som ansvarar för vad och utför vilken del av projektet samt var de delarna kommer utföras."
+
+"För projekt som helt eller delvis utförs i ett annat land än Sverige, så kom ihåg att Etikprövningsmyndigheten endast prövar den del av forskningen som utförs i Sverige. Det är de delarna du ska fokusera på att beskriva utförligt i metoden."
+
+För tidsplan (5.2-5.3):
+"Här specificerar du tidsplanen för när alla delar i din forskning estimeras att ske, som rekrytering av forskningspersoner, insamling av personuppgifter/biologiskt material, interventioner, bearbetning och analys av personuppgifter/registerdata/biologiskt material, sammanställning av resultat, publicering i tidskrift och om aktuellt, resultatrapportering i ett kliniskt prövningsregister."
+
+För datainsamling (6.1):
+"Här redogör du för hur insamlingen av personuppgifter/biologiskt material ska gå till. Om flera huvudmän ingår, ange vilken huvudman som ansvarar för vilken del. Exempel på olika insamlingar:
+- Enkätdata kommer samlas in via pappersenkäter/datahanteringsverktyg/eCRFs (t.ex. KI REDCap).
+- Blodprov/andra typer av biologiskt material från patienter samlas in på sjukhus XX.
+- Patientdata/klinisk data från journal. Ljudinspelningar/videofilmer spelas in med format XX etc.
+- Personuppgiftsinsamlingen/proverna/intervjuerna kommer samlas in/utföras av sjuksköterska/läkare/forskningsassistent etc.
+- Registerdata hämtas från SCB enligt registerhållarens rutiner för registerutdrag."
+
+För datahantering (6.4):
+"Generella råd: Beskriv var eventuella enkätdata/prover/ljudfiler etc. kommer att lagras. Personuppgifter ska lagras i av KI godkända system som är säkerhetsklassade för lagring av känsliga personuppgifter."
+
+Tillägg på svenska: Dessa avsnitt ger grundläggande riktlinjer för hur man ska beskriva metoder, datainsamling och tidsplanering i en etikansökan. De betonar vikten av tydlighet kring ansvarsfördelning mellan olika huvudmän och särskild hänsyn till internationella samarbeten.
+
+
+From Vägledning_forskningshuvudman_etikansökan_KI_RegionStockholm_version1_final_22_04_20.txt:
+Section 2:
+Forskningshuvudman är, enligt etikprövningslagen, den fysiska eller juridiska person i vars verksamhet forskningen utförs, till exempel lärosäte, kommun, region, myndighet eller privat företag.
+
+Ett forskningsprojekt kan genomföras hos en eller flera forskningshuvudmän. När ett forskningsprojekt ska genomföras inom enbart en huvudmans verksamhet anges den huvudmannen per automatik som ansvarig forskningshuvudman i etikansökan. Om uppgifter och prover hämtas in för forskningsprojektets räkning inom ramen för en vårdgivares verksamhet, men analyser och fortsatt bearbetning är tänkt att ske inom ramen för ett lärosätes verksamhet är det ett exempel på ett projekt med två potentiella forskningshuvudmän.
+
+Section 2.1:
+När flera forskningshuvudmän medverkar i ett och samma forskningsprojekt ska de gemensamt uppdra åt en av dem att ansöka om etikprövning av projektet för allas räkning. Den som får detta uppdrag ska sedan informera de övriga om Etikprövningsmyndighetens beslut. Varje forskningshuvudman ansvarar fortfarande för den del av forskningen som bedrivs i den egna verksamheten.
+
+Section 3.4:
+Det är viktigt att beakta att för att patientförsäkringen (LÖF) ska gälla, måste den hälso- och sjukvård som ingår i forskningsstudien utföras av hälso- och sjukvårdspersonal inom ramen för deras anställning hos en vårdgivare.
+
+KI har egna försäkringar när KI-personal till exempel står för provtagning inom KI:s lokaler. Sker provtagningen i sjukhuslokaler, men av KI-personal, behöver försäkringsfrågan utredas tillsammans med berört sjukhus.
+
+Section 5:
+Personuppgiftsansvarig (PUA) är den som ensam eller tillsammans med andra bestämmer ändamålen och medlen för en behandling av personuppgifter. Personuppgiftsbiträde (PUB) är den som behandlar personuppgifter för den personuppgiftsansvariges räkning. Det är de faktiska omständigheterna i det enskilda fallet som avgör vem som är personuppgiftsansvarig.
+
+Varje PUA måste ha rättslig grund, i enlighet med dataskyddsförordningen, för att inom ramen för forskningsprojektet få behandla personuppgifter.
+
+
+From Etikvaegledning_2021_WEBB.txt:
+1. För metodologi och genomförande:
+"Etikprövningsmyndigheten skall göra en de facto-prövning av att forskningspersonernas säkerhet och integritet värnas. Därför är det inte tillräckligt att en forskare bara hänvisar till att den ena eller den andra bestämmelsen kommer att följas. I stället ska de procedurer för datasäkerhet som man planerar att använda redovisas."
+
+2. För dataskydd och säkerhet:
+"Vid Lunds universitet erbjuds forskare att använda plattformen LUSEC, som är en miljö för att lagra, hantera och analysera data på ett högsäkert sätt i enlighet med GDPR. Tjänsten är avgiftsbelagd. LUSEC bör övervägas som en lämplig säkerhetsmiljö för känsliga forskningsdata."
+
+3. För internationella projekt:
+"Det är vanligt med internationella forskningsprojekt, där forskare i flera länder medverkar, där undersökningar genomförs i flera länder, och där data överförs mellan länder. Forskarna behöver då se till att arbetet genomförs i enlighet med de bestämmelser som gäller i varje land där någon verksamhet äger rum."
+
+4. För erfarenhet och kompetens:
+"Han eller hon ska ha den vetenskapliga kompetens som krävs för att bedriva sådan forskning, i normalfallet minst doktorsexamen och aktuell erfarenhet av forskning med relevant inriktning. Handledaren bör ta ett aktivt ansvar i planeringen och genomförandet av undersökningen."
+
+5. För tidsplanering:
+"Om ett projekt består av flera undersökningar i olika delstudier, och dessa ska detaljplaneras successivt med beaktande av erfarenheter från tidigare studier, så måste forskarna ansöka om godkännande för de olika delstudierna efter hand som de slutligt planeras."
+
+6. För kvalitetssäkring:
+"Enligt GDPR ska den som behandlar personuppgifter vidta lämpliga tekniska och organisatoriska åtgärder för att säkerställa en säkerhetsnivå som är lämplig i förhållande till risken, i synnerhet skydd för oavsiktlig eller olaglig förstöring, förlust eller ändring eller till obehörigt röjande av eller obehörig åtkomst till de personuppgifter som överförs, lagras eller på annat sätt behandlas."
+
+
+From Vagledning-om-etikprovning-EPM.txt:
+1. För metodologi och genomförande:
+"Kvalitativa undersökningar av mänskliga fenomen i deras naturliga sociala miljö är vanliga i flera forskningsområden, särskilt inom samhällsvetenskaplig forskning. Dessa berör inte sällan känsliga personuppgifter, som politiska eller religiösa uppfattningar eller sexuella frågor. Det kan vid sådan forskning vara svårt att sätta upp tydliga gränser för vad forskningen ska omfatta."
+
+2. För forskningskompetens:
+"För att säkerställa att det finns tillräcklig kompetens i projektet är huvudregeln att den ansvariga forskaren ska vara disputerad inom relevant ämnesområde eller ha motsvarande kompetens. Den som är ansvarig forskare svarar för att andra medverkande också har tillräcklig kompetens och har fått för projektet specifik utbildning i hur det ska genomföras. Förutom vetenskaplig kompetens kan detta också gälla pedagogisk, kulturell, språklig eller klinisk kompetens, beroende på omständigheterna."
+
+3. För datainsamling och personuppgifter:
+"All behandling av personuppgifter regleras av dataskyddsförordningen (EU 2016/679), ofta även benämnd GDPR efter den engelskspråkiga titeln General Data Protection Regulation. Forskningshuvudmannen är personuppgiftsansvarig och måste känna till när personuppgifter behandlas i verksamheten, vilka kategorier av personuppgifter det handlar om, att det finns rättsligt stöd för att behandla uppgifterna, och att de registrerades rättigheter tas tillvara."
+
+4. För projektplanering:
+"Ett godkännande vid etikprövning kan endast lämnas för forskning, och det ska avse ett bestämt forskningsprojekt. Detta godkännande kan då innefatta den insamling eller användning av befintliga data eller mänsklig vävnad som krävs för det aktuella projektet. Etikprövningsmyndigheten kan inte godkänna insamling av fler uppgifter än vad som behövs för att uppnå förväntade resultat med den aktuella forskningen."
+
+
+From etikansokan-ethix-ny-ansokningsmall-2023-10-19.txt:
+För metodfrågorna är följande stycken mest relevanta:
+
+"Redogör för hur datainsamlingen ska gå till. Beskriv den data som ska samlas in och hur den ska samlas in. Under 4.1 har ni beskrivit vilka formulär, vilken data ni ska samla in och när. Här beskriver ni hur det samlas in och var data kommer lagras."
+
+"Exempel på hur data samlas in:
+- Vårdgivarens patientjournaler
+- Kliniska interventioner
+- Enkäter och skattningsskalor distribueras på papper via webbverktyg"
+
+"All dokumentation kring forskningsprocessen i studien ska göras i ELN för forskargrupper inom CPF."
+
+För tidsplanering:
+"Ange, om möjligt, tidsplanen för de olika delarna i studien. Till exempel; rekrytering, insamling av data/interventioner, analys av data, sammanställning. Håll koll på att godkännandet upphör att gälla om inte forskningen påbörjats senast två år från godkännandet."
+
+För datahantering:
+"Data lagras och hanteras på en säkerhetsklassad filarea för känsliga personuppgifter inom Region Stockholm/SLSO. Kodnyckel och pseudonymiserade data hanteras åtskilt. Filarean och dess undermappar är situerade i en låst katalog inom Region Stockholm/SLSO."
+
+
+From God forskningssed VR 2024.txt:
+För att besvara frågorna bedömer jag följande stycken som mest relevanta:
+
+Om metod och genomförande:
+"Forskningen ska planeras så att den kan bedrivas i enlighet med tillämpliga regler utan att forskningens kvalitet påverkas negativt. Sådan planering i ett tidigt skede bidrar till att viktiga etiska aspekter byggs in i forskningen från början, vilket har en positiv effekt på forskningens kvalitet i stort."
+
+Om dokumentation och tillförlitlighet:
+"En förutsättning för både transparens och öppet tillgängliggörande är att forskaren håller ordning i sin forskning och i sina data och att forskningsinformation dokumenteras, förvaltas och bevaras på lämpligt sätt under så lång tid som behövs. Dokumentationen måste medge granskning av forskningen."
+
+Om erfarenhet och kompetens:
+"Forskare ska tillägna sig de kunskaper och de förmågor som behövs för att kunna följa, främja och värna god forskningssed. Det kan ske genom utbildning, erfarenhet, kontinuerlig diskussion om forskningsetiska frågor och utmaningar och genom att aktivt bidra till att främja en god forskningskultur."
+
+Om planering:
+"Möjligheterna till planering och framförhållning är ibland begränsade. Forskning bedrivs inte alltid i projektform med lång planeringshorisont utan kan växa fram mer organiskt eller behöva komma igång snabbt, till exempel vid händelser i omvärlden som konflikter och pandemier, eller om man får tillgång till särskilda studieobjekt under en begränsad tid."
+
+</information>
+
+För varje fråga ska du:
+1. Analysera det tillhandahållna materialet noggrant
+2. Formulera ett koncist och akademiskt svar på svenska
+3. Säkerställa att svaret är relevant för den specifika frågan
+4. Inkludera etiska överväganden där det är relevant
+5. Hålla dig inom angivet teckenantal
+6. Formatera svaret med XML-taggar som innehåller frågans ID
+
+Specifika riktlinjer för varje fråga:
+
+För fråga 4.1:
+- Beskriv metodologin tydligt och systematiskt
+- Inkludera information om datainsamling och kvalitetssäkring
+- Specificera procedurer och tekniker
+- Max 4500 tecken
+
+För fråga 4.2:
+- Tydliggör skillnader mot ordinarie verksamhet
+- Specificera forskningsspecifika moment
+- Förklara eventuella avvikelser från standardrutiner
+- Max 2000 tecken
+
+För fråga 4.3:
+- Redogör för relevant erfarenhet och kompetens
+- Inkludera både egen och andras erfarenhet
+- Relatera till aktuell forskningsmetod
+- Max 2000 tecken
+
+För fråga 5.3:
+- Presentera en tydlig kronologisk tidsplan
+- Visa hur projektets delar hänger ihop
+- Var konkret med tidsangivelser
+- Max 1000 tecken
+
+Formatera varje svar inom XML-taggar som innehåller frågans ID, till exempel:
+<4.1>
+[Ditt svar på fråga 4.1 här]
+</4.1>
+
+Svaren ska vara:
+- Koncisa och välstrukturerade
+- Skrivna på akademisk svenska
+- Faktabaserade och objektiva
+- Etiskt medvetna
+- Inom angivet teckenantal
+
+Om materialet inte innehåller tillräcklig information för att besvara en specifik fråga, ange detta tydligt i svaret och förklara vilken information som saknas.
+Besvara följande frågor:
+FrågeID: <4.1>:
+Fråga: 4.1 Redogör för metod inkl. proceduren, tekniken eller behandlingen.
+Hjälptext: Det ska framgå hur projektet planeras att genomföras. Beskriv insamlade datas karaktär och ange hur datas tillförlitlighet ska säkerställas.
+Om enkäter och intervjuer ingår ska tillvägagångssätt, frågornas innehåll och hur slutsatser dras beskrivas. Bifoga enkäter och skattningsskalor i slutet av ansökningsformuläret.
+För medicinsk forskning ska anges exempelvis typer av ingrepp, mätmetoder, antal besök, tidsåtgång.
+Om projektet är ett samarbete med utlandet ska det tydligt framgå vilken del av forskningen som utförs i Sverige och vilken del av forskningen som utförs utanför Sverige, se 3.4.3. Det är endast forskning som ska utföras i Sverige som Etikprövningsmyndigheten kan pröva. En fullständig beskrivning av hela projektet måste lämnas men de särskilda avsnitten om metoder, datainsamling, forskningspersoner, information och samtycke och om registeruppgifter ska bara fyllas i de delar som rör moment som ska utföras i Sverige.
+Teckengräns: 4500
+
+FrågeID: <4.2>:
+Fråga: 4.2 Om forskningen går ut på att pröva en ny metod eller behandling: Redogör för på vilket sätt metoden skiljer sig från den ordinarie verksamheten.
+Hjälptext: Ange vad som avviker eller tillkommer med anledning av forskningsprojektet. Vid patientnära forskning ska en beskrivning ges över de åtgärder som föranleds av forskningen vilka avviker från klinisk rutin, vårdprogram eller liknande gängse procedurer. Vid samhällsvetenskaplig forskning kan det röra sig om hur behandlingsprogram för brukare påverkas av forskningsprojektet och du behöver särskilja för vad som är ordinarie behandling och vad som utgör forskningsspecifika moment. På samma sätt behöver du som forskar inom skolmiljö beskriva vad som utgör ordinarie undervisning och vad som tillkommer eller förändras med forskningen.
+Teckengräns: 2000
+
+FrågeID: <4.3>:
+Fråga: 4.3 Redogör för tidigare erfarenheter (egna och/eller andras) av den valda metoden.
+Hjälptext: Redogör för vilken erfarenhet och kompetens som medverkande forskare har av att använda den planerade forskningsmetoden eller den procedur, teknik eller behandling som man eventuellt planerar att använda i projektet. Redogör även för vilken erfarenhet som finns generellt eller globalt.
+Teckengräns: 2000
+
+FrågeID: <5.3>:
+Fråga: 5.3 Tidsplan för de olika delar som ingår i projektet:
+Hjälptext: Redogör för projektets tidsschema, hur de olika delarna förhåller sig till varandra, vid behov kan ett förklarande flödesschema bifogas i slutet av formuläret.
+Teckengräns: 1000
+
