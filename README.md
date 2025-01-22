@@ -1,13 +1,13 @@
 # Swedish Research Ethics Documentation Generator
 
-A system for generating and managing Swedish research ethics documentation, with support for Ethix, the information system for the Swedish ethical review authority.
+A system for generating and managing Swedish research ethics documentation, with support for Ethix, the information system of the Swedish ethical review authority.
 
 ![Workflow diagram showing the process flow from input documents through template processing to final output formats](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F406bb032ca007fd1624f261af717d70e6ca86286-2401x1000.png&w=3840&q=75)
 From [Building Effective Agents](https://www.anthropic.com/research/building-effective-agents).
 
 ## Overview
 
-This project provides tools for:
+This repo provides tools for:
 - Generating documentation in multiple formats (Markdown, DOCX, PDF, Ethix backend compatible)
 - Processing research ethics applications
 - Managing research participant information and consent forms
@@ -38,22 +38,21 @@ from extract_form import load_and_create_mappings
 from create_ethix_application import main as create_application
 import os
 
-scientific_material = extract_text_from_files([
-    "projektplan.docx",
-])
-
 api_key = os.getenv("ANTHROPIC_API_KEY")
+
+scientific_material = extract_text_from_files([
+    "projektplan.docx", "cool_biobank_setup.pdf", "braindump_potential_future_implications.txt"
+])
     
-# Process the ethics application
+# Retrieve draft of ethics application
 responses = process_ethics_application(scientific_material, api_key)
 
-# Load field mapping
-field_mapping = load_and_create_mappings()
+# Create a new project in Ethix and save draft of ethics application.
+# Creates field mapping dynamically for Ethix backend.
+create_application(responses=responses, field_mapping=load_and_create_mappings())
 
-# Create and submit the ethics application
-create_application(responses=responses, field_mapping=field_mapping)
-
-# Generate documentation
+# Will output the full application draft in .docx and markdown for 
+# archiving, and draft research participant information in .docx if applicable.
 generate_documentation(responses)
 
 ```
