@@ -12,3 +12,4 @@ PyPDF2
 google-colab-selenium
 typing-extensions
 numpy
+docx2txt
