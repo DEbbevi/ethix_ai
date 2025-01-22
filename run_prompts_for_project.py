@@ -44,7 +44,7 @@ class ClaudeClient:
         system_message: Optional[str] = None,
         model: Optional[str] = None
     ) -> str:
-        """Make API call with retry logic."""
+        """Make API call with retry logic with exponential backoff for rate limits."""
         retries = 0
         model = model or self.config.sonnet_model
         
@@ -69,6 +69,14 @@ class ClaudeClient:
                 )
                 return response.content[0].text
                 
+            except anthropic.RateLimitError as e:
+                retries += 1
+                if retries == self.config.max_retries:
+                    raise ClaudeAPIError(f"Rate limit exceeded after {retries} retries: {str(e)}")
+                # Exponential backoff: 2^retries * base_delay
+                backoff_delay = self.config.retry_delay * (2 ** (retries - 1))
+                logger.warning(f"Rate limit hit. Retry {retries}/{self.config.max_retries} after {backoff_delay}s delay: {str(e)}")
+                time.sleep(backoff_delay)
             except Exception as e:
                 retries += 1
                 if retries == self.config.max_retries:

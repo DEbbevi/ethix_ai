@@ -40,7 +40,9 @@ graph TD
 
     %% Connections from P nodes
     P1 -->|Ja| H2
+    P1 -->|Ja| H11
     P2 -->|Nej| D2
+    P2 -->|Nej| H9
     P4 --> V2
     P5 --> M1
     P6 --> M1
@@ -48,12 +50,15 @@ graph TD
     P9 -->|Ja| E2
     P10 --> C2
     P11 -->|Ja| C5
+    P11 -->|Nej| C3
     P12 -->|Ja| R2
     P13 -->|Ja| F2
     P13 -->|Nej| F3
     P14 --> F2
     P15 -->|Ja| B2
     P17 -->|Ja| B15
+    
+    S4 -->|Ja| S5
 
     subgraph "KÖRNING 1: Krävs för riskbedömning"
         subgraph "Strålningsinformation"
