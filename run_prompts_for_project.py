@@ -7,6 +7,9 @@ from dataclasses import dataclass
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import anthropic
 from extract_form import load_and_create_mappings
+from utils import extract_text_from_files
+import json
+from tqdm import tqdm
 
 # Configure logging
 logging.basicConfig(
@@ -90,11 +93,12 @@ class EthicsProcessor:
     def __init__(self, claude_client: ClaudeClient):
         self.claude = claude_client
         self.field_mapping = load_and_create_mappings()
+        self.forskningsomrade_response = None  # Initialize the attribute
     
     def get_system_context(self, scientific_material: str) -> str:
         """Generate system context with scientific material."""
         return f"""Du är en forskningsassistent med särskild kompetens inom etikprövningsansökningar.
-        Du ska hjälpa till att formulera svar på svenska för en etikprövningsansökan. Du ska basera dina svar på material om ett forskningsprojekt.
+        Du ska hjälpa till att formulera svar på svenska för en etikprövningsansökan. Du ska basera dina svar på material om ett forskningsprojekt. Skriv i första hand svar i löpande text och undvik punktlistor.
         
         Här är forskningsmaterialet som du ska basera dina svar på:
         <material>
@@ -107,23 +111,50 @@ class EthicsProcessor:
             with open('prompts/forskningsomrade.txt', 'r', encoding='utf-8') as f:
                 prompt_content = f.read()
             
-            return self.claude.call_with_retry(
+            response = self.claude.call_with_retry(
                 prompt=prompt_content,
                 system_message=self.get_system_context(scientific_material)
             )
+            self.forskningsomrade_response = response  # Store the response
+            return response
         except Exception as e:
             logger.error(f"Error processing forskningsomrade: {e}")
             raise
 
     def process_remaining_prompts(self, scientific_material: str) -> Dict[str, str]:
-        """Process all remaining prompts in parallel."""
+        """Process all remaining prompts in parallel with progress bar (max 3 concurrent)."""
         prompt_files = get_prompt_files()
         if 'forskningsomrade.txt' in prompt_files:
             del prompt_files['forskningsomrade.txt']
         
+        # First process forskningsomrade to get category selections
+        forskningsomrade_tags = extract_xml_tags(self.forskningsomrade_response)
+        
+        # Remove conditional prompts based on forskningsomrade selections
+        should_process_djurforsok = any(
+            forskningsomrade_tags.get(tag, '0') == '1' 
+            for tag in ['naturvetenskap', 'medicin_halsa', 'biologiskt_material', 
+                       'joniserande_stralning', 'medicinteknik']
+        )
+        if not should_process_djurforsok and 'djurforsok.txt' in prompt_files:
+            del prompt_files['djurforsok.txt']
+            
+        biologiskt_material_selected = forskningsomrade_tags.get('biologiskt_material', '0') == '1'
+        if not biologiskt_material_selected:
+            prompt_files.pop('nyinsamling_biologiskt_material.txt', None)
+            prompt_files.pop('befintligt_biologiskt_material.txt', None)
+            
+        joniserande_stralning_selected = forskningsomrade_tags.get('joniserande_stralning', '0') == '1'
+        if not joniserande_stralning_selected:
+            prompt_files.pop('stralningsinformation.txt', None)
+        
         system_context = self.get_system_context(scientific_material)
         
-        with ThreadPoolExecutor() as executor:
+        # Create progress bar before starting parallel processing
+        pbar = tqdm(total=len(prompt_files), desc="Processing prompts")
+        
+        # Use max_workers=3 to limit concurrent executions
+        with ThreadPoolExecutor(max_workers=3) as executor:
             futures = {
                 executor.submit(
                     self._process_single_prompt,
@@ -134,7 +165,27 @@ class EthicsProcessor:
                 for filename, content in prompt_files.items()
             }
             
-            return self._collect_responses(futures)
+            return self._collect_responses(futures, pbar)
+    
+    def _collect_responses(self, futures: Dict[Any, str], pbar: tqdm) -> Dict[str, str]:
+        """Collect and combine responses from futures with progress updates."""
+        all_responses = {}
+        submitted_order = list(futures.values())  # Keep track of original submission order
+        
+        # Process responses as they complete (may be in any order)
+        for i, future in enumerate(as_completed(futures)):
+            filename = futures[future]
+            original_position = submitted_order.index(filename) + 1
+            try:
+                pbar.set_description(f"Processing {filename} (submitted #{original_position}/{len(submitted_order)})")
+                tags = future.result()
+                all_responses.update(tags)
+                pbar.update(1)
+            except Exception as exc:
+                logger.error(f"Error processing {filename} (submitted #{original_position}): {exc}")
+                pbar.update(1)
+        pbar.close()
+        return all_responses
     
     def _process_single_prompt(
         self,
@@ -203,18 +254,6 @@ class EthicsProcessor:
             for tag in expected_tags:
                 if tag not in tags:
                     logger.warning(f"Missing expected tag {tag} in response from {filename}")
-    
-    def _collect_responses(self, futures: Dict[Any, str]) -> Dict[str, str]:
-        """Collect and combine responses from futures."""
-        all_responses = {}
-        for future in as_completed(futures):
-            filename = futures[future]
-            try:
-                tags = future.result()
-                all_responses.update(tags)
-            except Exception as exc:
-                logger.error(f"Error processing {filename}: {exc}")
-        return all_responses
 
 def get_prompt_files() -> Dict[str, str]:
     """Get all prompt files from the prompts directories."""
@@ -296,20 +335,179 @@ Viktigt:
 4. Behåll samma språkliga ton och akademiska nivå
 """
 
-def main():
-    config = ClaudeConfig(api_key=os.getenv("ANTHROPIC_API_KEY"))
+def clean_conditional_responses(responses: Dict[str, str], field_mapping: Dict[str, Dict]) -> Dict[str, str]:
+    """Remove responses that don't meet their conditional requirements."""
+    cleaned_responses = responses.copy()
+    
+    # Map of parent questions and their required values for child questions
+    conditional_map = {
+        '14.1': {'required_value': '1', 'children': [
+            '14.1.2', '14.1.2.1', '14.1.3', '14.1.4', '14.1.5', '14.1.6', 
+            '14.1.7', '14.1.8', '14.1.9', '14.1.10', '14.1.12'
+        ]},
+        '14.1.2': {'required_value': '1', 'children': ['14.1.2.1']},
+        '14.2': {'required_value': '1', 'children': [
+            '14.2.2', '14.2.3', '14.2.4', '14.2.6', '14.2.7', 
+            '14.2.8', '14.2.9', '14.2.10'
+        ]},
+        '9.1': {'required_value': '1', 'children': ['9.1.1']},
+        '9.1': {'required_value': '2', 'children': ['9.1.2']},
+        '9.3': {'required_value': '1', 'children': ['9.3.1', '9.3.2']},
+        '10.1': {'required_value': '1', 'children': ['10.1.1', '10.1.2']},
+        '11.1': {'required_value': '1', 'children': ['11.1.1']},
+        '11.1': {'required_value': '2', 'children': ['11.1.2']},
+        '1.7': {'required_value': '2', 'children': ['1.7.2']},
+        '8.10': {'required_value': '1', 'children': ['8.10.1']},
+        '2.5.5': {'required_value': '1', 'children': ['2.5.5.1']},
+        '3.4': {'required_value': '1', 'children': ['3.4.3']},
+    }
+    
+    # Additional category-based cleaning
+    category_conditions = {
+        'djurforsok': {
+            'any_of': ['naturvetenskap', 'medicin_halsa', 'biologiskt_material', 
+                      'joniserande_stralning', 'medicinteknik'],
+            'required_value': '1',
+            'tags': ['11.1', '11.1.1', '11.1.2']
+        },
+        'biologiskt_material': {
+            'tag': 'biologiskt_material',
+            'required_value': '1',
+            'tags': ['14.1', '14.1.2', '14.1.2.1', '14.1.3', '14.1.4', '14.1.5', 
+                    '14.1.6', '14.1.7', '14.1.8', '14.1.9', '14.1.10', '14.1.12',
+                    '14.2', '14.2.2', '14.2.3', '14.2.4', '14.2.6', '14.2.7', 
+                    '14.2.8', '14.2.9', '14.2.10']
+        },
+        'joniserande_stralning': {
+            'tag': 'joniserande_stralning',
+            'required_value': '1',
+            'tags': ['15.2.1', '15.2.2', '15.2.4', '15.5', '15.6']
+        }
+    }
+    
+    # Clean based on category conditions
+    for category, config in category_conditions.items():
+        should_keep = False
+        if 'any_of' in config:
+            should_keep = any(
+                cleaned_responses.get(tag, '0') == config['required_value']
+                for tag in config['any_of']
+            )
+        else:
+            should_keep = cleaned_responses.get(config['tag'], '0') == config['required_value']
+            
+        if not should_keep:
+            for tag in config['tags']:
+                if tag in cleaned_responses:
+                    logger.info(f"Removing {tag} because category {category} condition not met")
+                    del cleaned_responses[tag]
+    
+    # Clean based on parent-child conditions
+    for parent, config in conditional_map.items():
+        if parent in cleaned_responses:
+            parent_value = str(cleaned_responses[parent]).strip()
+            if parent_value != config['required_value']:
+                for child in config['children']:
+                    if child in cleaned_responses:
+                        logger.info(f"Removing {child} because {parent}={parent_value} (required: {config['required_value']})")
+                        del cleaned_responses[child]
+    
+    return cleaned_responses
+
+def process_ethics_application(scientific_material: str, api_key: str) -> Dict[str, str]:
+    """
+    Process an ethics application with the given scientific material.
+    
+    Args:
+        scientific_material: The text content to base the ethics application on
+        api_key: The Anthropic API key
+    
+    Returns:
+        Dict containing all responses with their tags
+    """
+    config = ClaudeConfig(api_key=api_key)
     claude_client = ClaudeClient(config)
     processor = EthicsProcessor(claude_client)
-    
-    scientific_material = "Your scientific material here"
     
     # Process forskningsomrade
     base_response = processor.process_forskningsomrade(scientific_material)
     logger.info("Completed forskningsomrade processing")
     
+    # Extract values from tags in forskningsomrade response
+    forskningsomrade_data = {
+        'dsd_8384': re.search(r'<naturvetenskap>(.*?)</naturvetenskap>', base_response, re.DOTALL).group(1).strip(),
+        'dsd_8385': re.search(r'<teknik>(.*?)</teknik>', base_response, re.DOTALL).group(1).strip(), 
+        'dsd_8383': re.search(r'<medicin_halsa>(.*?)</medicin_halsa>', base_response, re.DOTALL).group(1).strip(),
+        'dsd_8387': re.search(r'<lantbruk_veterinar>(.*?)</lantbruk_veterinar>', base_response, re.DOTALL).group(1).strip(),
+        'dsd_8386': re.search(r'<samhallsvetenskap>(.*?)</samhallsvetenskap>', base_response, re.DOTALL).group(1).strip(),
+        'dsd_8382': re.search(r'<humaniora_konst>(.*?)</humaniora_konst>', base_response, re.DOTALL).group(1).strip(),
+        'dsd_8379': re.search(r'<biologiskt_material>(.*?)</biologiskt_material>', base_response, re.DOTALL).group(1).strip(),
+        'dsd_8380': re.search(r'<joniserande_stralning>(.*?)</joniserande_stralning>', base_response, re.DOTALL).group(1).strip(),
+        'dsd_8381': re.search(r'<medicinteknik>(.*?)</medicinteknik>', base_response, re.DOTALL).group(1).strip()
+    }
+    
+    for field_id, response_value in forskningsomrade_data.items():
+        value = 1 if str(response_value).lower() in ['yes', 'true', '1', 'ja'] else 0
+        forskningsomrade_data[field_id] = value
+
+    # Save extracted values to JSON
+    with open('forskningsomrade_response.json', 'w', encoding='utf-8') as f:
+        json.dump(forskningsomrade_data, f, ensure_ascii=False, indent=4)
+    logger.info("Saved forskningsomrade tag values to JSON")
+    
     # Process remaining prompts
     responses = processor.process_remaining_prompts(scientific_material)
     logger.info("Completed processing all remaining prompts")
+
+    # Combine all responses
+    all_responses = {
+        'forskningsomrade': base_response,
+        **responses
+    }
+    
+    # Clean conditional responses
+    cleaned_responses = clean_conditional_responses(all_responses, processor.field_mapping)
+    
+    # Save responses to JSON
+    with open('all_responses.json', 'w', encoding='utf-8') as f:
+        json.dump(cleaned_responses, f, ensure_ascii=False, indent=4)
+    logger.info("Saved cleaned responses to JSON")
+    
+    return cleaned_responses
+
+def main():
+    try:
+        scientific_material = extract_text_from_files([
+            "projektplan.docx",
+        ])
+    except ValueError as e:
+        logger.error(f"Failed to extract text from files: {e}\n\nUsing default Loperamide text instead.")
+        scientific_material = """ABSTRACT
+Objective: To compare efficacy and tolerability of a loperamide/simethicone (LOP/SIM) combination product with that of 
+loperamide (LOP) alone, simethicone (SIM) alone, and placebo (PBO) for acute nonspecific diarrhea with gas-related abdominal discomfort.
+Research design and methods: In this multicenter, double-blind, 48‑h study, patients were randomly assigned to receive two 
+tablets, each containing either LOP/SIM 2 mg/125 mg (n = 121), LOP 2 mg (n = 120), SIM 125 mg (n = 123), or PBO (n = 121), 
+followedby one tablet after each unformed stool, up to four tablets in any 24‑h period. The primary outcome measures were 
+time to last unformed stool and time to complete relief of gas-related abdominal discomfort. For time to last unformed stool, 
+an unformed stool after a 24‑h period of formed stools or no stools was considered a continuance of the original episode 
+(stricter definition) or a new episode (alternate definition).
+Results: A total of 483 patients were included in the intent-to-treat analysis. The median time to last unformed stool for 
+LOP/SIM (7.6 h) was significantly shorter than that of LOP (11.5 h), SIM (26.0 h), and PBO (29.4 h) ( p ≤ 0.0232 in comparison 
+with survival curves) using the alternate definition; it was numerically but not significantly shorter than that of LOP 
+( p = 0.0709) and significantly shorter than that of SIM and PBO ( p = 0.0001) using the stricter definition. LOP/SIM-treated 
+patients had a shorter time to complete relief of gas-related abdominal discomfort than patients who received either ingredient 
+alone or placebo (all p = 0.0001). Few patients reported adverse events in the four treatment groups, none of which were serious 
+in nature. Potential study limitations include the ability to generalize study results to the population at large, variability 
+in total dose consumed, and subjectivity of patient diary data.
+Conclusions: LOP/SIM was well-tolerated and more efficacious than LOP alone, SIM alone, or placebo for acute nonspecific 
+diarrhea and gas-related abdominal discomfort."""
+        
+    api_key = os.getenv("ANTHROPIC_API_KEY")
+    if not api_key:
+        logger.error("ANTHROPIC_API_KEY environment variable not set")
+        return
+        
+    responses = process_ethics_application(scientific_material, api_key)
     
     # Print results
     for tag_id, content in responses.items():

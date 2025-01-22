@@ -121,6 +121,8 @@ def fill_form(driver, field_values):
         (By.CSS_SELECTOR, 'input[type="submit"][name="set_cond"][value="Fortsätt"]')))
     submit_button.click()
     logger.debug("Clicked submit button")
+
+    
     
     # Wait for URL change and extract p_id with timeout handling
     try:
@@ -192,14 +194,108 @@ def send_form_data(cookies, form_number, p_id, form_data=None):
             logger.warning(f"Form submission attempt {attempt + 1} failed, retrying...")
             time.sleep(2 ** attempt)  # Exponential backoff
 
+def process_responses(responses, field_mapping):
+    """Convert AI responses to form field values"""
+    logger.debug("Processing AI responses")
+    logger.debug(f"Input responses: {responses}")
+    
+    field_values = {}  # For checkboxes (preform)
+    form_data = {}     # For main form fields
+    
+    for response_key, response_value in responses.items():
+        # Find matching field in mapping
+        matching_field = None
+        field_id = None
+        
+        for f_id, field_info in field_mapping.items():
+            if field_info.get('question_id') == response_key:
+                matching_field = field_info
+                field_id = f_id
+                logger.debug(f"\nProcessing response for question {response_key}")
+                logger.debug(f"Found matching field: {field_id}")
+                logger.debug(f"Field info: {field_info}")
+                break
+        
+        if not matching_field:
+            logger.warning(f"No matching field found for response {response_key}")
+            continue
+            
+        # Process based on field type
+        if matching_field['field_type'] == 'ftype_checkbox':
+            # Convert boolean/text response to 1/0
+            value = 1 if str(response_value).lower() in ['yes', 'true', '1', 'ja'] else 0
+            field_values[field_id] = value
+            logger.debug(f"Added checkbox value: {field_id} = {value}")
+            
+        elif matching_field['field_type'] == 'ftype_7':  # Radio buttons
+            form_var = matching_field.get('form_variable')
+            if not form_var:
+                logger.warning(f"No form variable found for field {field_id}")
+                continue
+            
+            # Handle numeric responses directly
+            try:
+                value = int(response_value)
+                # Verify the value exists in options
+                valid_values = [int(opt['value']) for opt in matching_field.get('options', [])]
+                if value in valid_values:
+                    if form_var.endswith('_int'):
+                        form_data[form_var] = value
+                    else:
+                        form_data[form_var] = str(value)
+                    logger.debug(f"Added radio value: {form_var} = {value}")
+                else:
+                    logger.warning(f"Invalid radio value {value} for field {field_id}. Valid values: {valid_values}")
+            except (ValueError, TypeError):
+                # If not numeric, try to match by text
+                found_match = False
+                for option in matching_field.get('options', []):
+                    if option['text'].lower() == str(response_value).lower():
+                        value = int(option['value']) if form_var.endswith('_int') else option['value']
+                        form_data[form_var] = value
+                        found_match = True
+                        logger.debug(f"Added radio value by text match: {form_var} = {value}")
+                        break
+                
+                if not found_match:
+                    logger.warning(f"No matching option found for response {response_value} in field {field_id}")
+                
+        else:
+            # Text fields
+            form_var = matching_field.get('form_variable')
+            if not form_var:
+                logger.warning(f"No form variable found for field {field_id}")
+                continue
+                
+            # Cast to int if form variable ends with _int
+            if form_var.endswith('_int'):
+                try:
+                    form_data[form_var] = int(response_value)
+                    logger.debug(f"Added int value: {form_var} = {form_data[form_var]}")
+                except (ValueError, TypeError):
+                    logger.warning(f"Could not convert {response_value} to int for {form_var}")
+                    continue
+            else:
+                form_data[form_var] = str(response_value)
+                logger.debug(f"Added string value: {form_var} = {form_data[form_var]}")
+    
+    logger.debug(f"\nFinal results:")
+    logger.debug(f"field_values: {field_values}")
+    logger.debug(f"form_data: {form_data}")
+    return field_values, form_data
+
 def main(field_values=None, form_data=None):
+    """
+    Main function that accepts either:
+    - field_values + form_data: for direct form submission
+    """
     logger.info("Starting application process")
+    
     driver = initialize_driver()
     try:
         if handle_bankid_login(driver):
             form_number = navigate_to_form(driver)
             
-            # Only proceed with form filling if field_values provided
             if field_values:
                 p_id = fill_form(driver, field_values)
                 
@@ -209,7 +305,6 @@ def main(field_values=None, form_data=None):
                     pickle.dump(cookies, file)
                 logger.debug(f"Saved cookies: {cookies}")
                 
-                # Send form data if provided
                 if form_data:
                     status_code = send_form_data(cookies, form_number, p_id, form_data)
                     logger.info(f"Form submission status code: {status_code}")
@@ -221,12 +316,35 @@ def main(field_values=None, form_data=None):
 
 # Example usage:
 if __name__ == "__main__":
-    #Example usage:
-    field_values = {
-        'dsd_8384': 1,  # Naturvetenskap: Ja
-        'dsd_8385': 0,  # Teknik: Nej
+    # Complete field mapping for both checkbox and text fields
+    example_field_mapping = {
+        'dsd_8384': {
+            'question_id': 'science',
+            'field_type': 'ftype_checkbox'
+        },
+        'dsd_8385': {
+            'question_id': 'tech',
+            'field_type': 'ftype_checkbox'
+        },
+        'a_1316982_text': {
+            'question_id': 'title',
+            'field_type': 'ftype_text'
+        }
     }
-    form_data = {
-        'a_1316982_text': 'test',  # Example field
+    
+    # Research area responses (for checkboxes/fill_form)
+    example_responses = {
+        'science': 'yes',
+        'tech': 'no'
     }
-    main(field_values, form_data)
+    
+    # Form data responses (for text fields/send_form_data)
+    example_form_data = {
+        'title': 'test'
+    }
+    
+    # Process each separately using the same mapping
+    field_values, _ = process_responses(example_responses, example_field_mapping)
+    _, form_data = process_responses(example_form_data, example_field_mapping)
+    
+    main(field_values=field_values, form_data=form_data)

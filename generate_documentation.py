@@ -10,6 +10,8 @@ import docx2txt
 from pathlib import Path
 from run_prompts_for_project import EthicsProcessor, ClaudeClient, ClaudeConfig
 from extract_form import load_and_create_mappings
+from utils import extract_text_from_files
+import re
 
 # Configure logging
 logging.basicConfig(
@@ -45,6 +47,21 @@ def docx_replace(old_file: str, new_file: str, rep: Dict[str, str]) -> None:
     except Exception as e:
         logger.error(f"Error during docx replacement: {e}")
         raise
+
+def docx_replace_regex(doc_obj, regex, replace):
+    """Replace text in docx object using regex pattern."""
+    for p in doc_obj.paragraphs:
+        if regex.search(p.text):
+            inline = p.runs
+            for i in range(len(inline)):
+                if regex.search(inline[i].text):
+                    text = regex.sub(replace, inline[i].text)
+                    inline[i].text = text
+
+    for table in doc_obj.tables:
+        for row in table.rows:
+            for cell in row.cells:
+                docx_replace_regex(cell, regex, replace)
 
 class DocumentGenerator:
     def __init__(self):
@@ -101,6 +118,21 @@ class DocumentGenerator:
         # Convert markdown to HTML first
         html = markdown.markdown(markdown_content)
         
+        # Clean up HTML tags
+        html = (html
+            .replace('<p>', '')
+            .replace('</p>', '\n')
+            .replace('<li>', '• ')
+            .replace('</li>', '\n')
+            .replace('<ul>', '\n')
+            .replace('</ul>', '\n')
+            .replace('<ol>', '\n')
+            .replace('</ol>', '\n')
+            .replace('<br>', '\n')
+            .replace('<br/>', '\n')
+            .replace('&nbsp;', ' ')
+        )
+        
         # Split by headers
         sections = html.split('<h')
         
@@ -116,15 +148,21 @@ class DocumentGenerator:
                 content = section[section.find('</h')+5:]
                 
                 # Add header with appropriate style
-                doc.add_heading(header_text, level=level)
+                doc.add_heading(header_text.strip(), level=level)
                 
                 # Add content
                 if content.strip():
-                    doc.add_paragraph(content.strip())
+                    paragraphs = content.strip().split('\n')
+                    for para in paragraphs:
+                        if para.strip():
+                            doc.add_paragraph(para.strip())
             else:
                 # Just content without header
                 if section.strip():
-                    doc.add_paragraph(section.strip())
+                    paragraphs = section.strip().split('\n')
+                    for para in paragraphs:
+                        if para.strip():
+                            doc.add_paragraph(para.strip())
         
         # Save the document
         doc.save(output_file)
@@ -132,93 +170,92 @@ class DocumentGenerator:
 
     def update_forskningspersonsinformation(self, responses: Dict[str, str]) -> None:
         """Update forskningspersonsinformation.docx with responses."""
-        # Get the title from response 1.1 for the filename
         title = responses.get("1.1", "untitled")
         clean_title = clean_title_for_filename(title)
         output_file = f"FPI_{clean_title}.docx"
         
-        # Create replacement dictionary with just the tag names as keys
-        replacements = {
-            "BackgroundAndPurpose": responses.get("BackgroundAndPurpose", ""),
-            "ParticipantRequirements": responses.get("ParticipantRequirements", ""),
-            "RisksAndConsequences": responses.get("RisksAndConsequences", ""),
-            "DataManagement": responses.get("DataManagement", ""),
-            "SampleHandling": responses.get("SampleHandling", ""),
-            "ResultsAccess": responses.get("ResultsAccess", ""),
-            "InsuranceAndCompensation": responses.get("InsuranceAndCompensation", ""),
-            "title": responses.get("1.1", "")  # Map <title> to response from 1.1
-        }
-        
-        # Perform the replacement
         try:
-            docx_replace(
-                old_file='forskningspersonsinformation_template.docx',
-                new_file=output_file,
-                rep=replacements
-            )
+            # Load the template
+            doc = Document('forms/forskningspersonsinformation_template.docx')
+            
+            # Define replacements
+            replacements = {
+                r"<BackgroundAndPurpose>": responses.get("BackgroundAndPurpose", "Ge en kort men tydlig beskrivning av bakgrund och övergripande syfte med projektet. Informera om varför just den aktuella personen tillfrågas samt hur projektet har fått tillgång till uppgifter om personen som gör att denne tillfrågas."),
+                r"<ParticipantRequirements>": responses.get("ParticipantRequirements", "Beskriv ur forskningspersonens perspektiv vad ett deltagande innebär. Vad krävs av forskningspersonen? Vilka metoder kommer att användas? Antal besök, intervjuer, enkäter, tester och tidsåtgång? Ska prover tas? Vilken sorts prover (vävnad) ska tas? Provmängd? Det ska tydligt framgå på vilket sätt undersökningsproceduren eventuellt skiljer sig från den rutinmässiga behandlingen."),
+                r"<RisksAndConsequences>": responses.get("RisksAndConsequences", "Ge saklig information om de följder och risker som deltagandet kan innebära. Undvik förskönande formuleringar och formuleringar som kan innebära otillbörlig påverkan. Kan deltagandet innebära obehag, smärta, känslomässiga effekter, integritetsintrång etc.? Beskriv eventuella biverkningar och andra effekter på kort och lång sikt. I förekommande fall ska det framgå hur de projektansvariga kommer att hantera de problem som kan uppstå. Kan deltagandet i projektet/studien avbrytas vid vissa effekter? Vilken möjlighet finns till uppföljande undersökning eller samtal etc.?"),
+                r"<DataManagement>": responses.get("DataManagement", "Förklara vilken information som kommer att samlas in, hur den kommer att hanteras och förvaras samt för hur lång tid. Varifrån kommer data hämtas, vilka källor kommer att användas? Kommer informationen gå att härleda till forskningspersonen? Hur kommer tillgången till uppgifterna att se ut? Hur skyddas uppgifterna?Ange ändamålen med behandlingen av personuppgifterna och den rättsliga grunden enligt EU:s dataskyddsförordning för behandlingen. Om uppgifterna kommer att överföras till ett land utanför EU och EES-området (s.k. tredjeland) eller till en internationell organisation ska detta särskilt anges. Det ska också anges om det finns ett beslut av EU-kommissionen om att landet eller organisationen kan säkerställa en adekvat skyddsnivå och i annat fall en hänvisning till lämpliga eller passande skyddsåtgärder och hur en kopia av dessa kan erhållas eller var dessa har gjorts tillgängliga."),
+                r"<SampleHandling>": responses.get("SampleHandling", "Om prover kommer att sändas inom Sverige eller utomlands för analys ska det framgå. Det ska framgå om proverna ska sändas till ett annat EU/EES-land eller till ett tredje land. Kommer proverna bevaras hos mottagaren, återlämnas, avidentifieras eller förstöras? Hur lång tid kommer proverna förvaras/analyseras i Sverige eller utomlands och inom vilken tid kommer proverna återlämnas, avidentifieras eller förstöras?"),
+                r"<ResultsAccess>": responses.get("ResultsAccess", "Informera om på vilket sätt forskningspersonen kan ta del av sina individuella data respektive resultatet av hela projektet/studien. Forskningspersonens möjlighet att inte behöva ta del av eventuella analysresultat bör framgå. Det bör också framgå hur projektet kommer att hantera eventuella oförutsedda fynd."),
+                r"<InsuranceAndCompensation>": responses.get("InsuranceAndCompensation", "Informera om vilket försäkringsskydd som gäller. Alla forskningspersoner ska ha ett heltäckande försäkringsskydd. Det ska framgå om forskningspersonen har rätt att få ersättning för förlorad arbetsinkomst eller utgifter som är kopplade till projektet. Det ska också framgå om ersättningen är skattepliktig eller inte."),
+                r"<title>": responses.get("1.1", "Forskningsprojektets titel, ska vara samma som i etikansökan")
+            }
+            
+            # Perform replacements
+            for pattern, replacement in replacements.items():
+                regex = re.compile(pattern)
+                docx_replace_regex(doc, regex, replacement)
+            
+            # Save the document
+            doc.save(output_file)
             logger.info(f"Successfully created {output_file}")
         except Exception as e:
             logger.error(f"Failed to create {output_file}: {e}")
             raise
 
-def extract_text_from_files(file_paths: Union[str, List[str]]) -> str:
-    """
-    Extract text from various file types (.doc, .docx, .pdf, .txt).
-    Args:
-        file_paths: Single file path or list of file paths
-    Returns:
-        Concatenated string of all text content
-    """
-    if isinstance(file_paths, str):
-        file_paths = [file_paths]
-    
-    all_text = []
-    
-    for file_path in file_paths:
+    def update_samtyckesblankett(self, responses: Dict[str, str]) -> None:
+        """Update samtyckesblankett.docx with responses."""
+        title = responses.get("1.1", "untitled")
+        clean_title = clean_title_for_filename(title)
+        output_file = f"Samtycke_{clean_title}.docx"
+        
         try:
-            path = Path(file_path)
-            if not path.exists():
-                logger.error(f"File not found: {file_path}")
-                continue
-                
-            logger.info(f"Processing file: {file_path}")
+            # Load the template
+            doc = Document('forms/samtyckesblankett_template.docx')
             
-            if path.suffix.lower() == '.pdf':
-                # Handle PDF files
-                with open(path, 'rb') as file:
-                    pdf_reader = PyPDF2.PdfReader(file)
-                    text = []
-                    for page in pdf_reader.pages:
-                        text.append(page.extract_text())
-                    all_text.append('\n'.join(text))
-                    
-            elif path.suffix.lower() in ['.doc', '.docx']:
-                # Handle Word documents
-                text = docx2txt.process(path)
-                all_text.append(text)
-                
-            elif path.suffix.lower() == '.txt':
-                # Handle text files
-                with open(path, 'r', encoding='utf-8') as file:
-                    text = file.read()
-                    all_text.append(text)
-                    
-            else:
-                logger.warning(f"Unsupported file type: {path.suffix}")
-                continue
-                
+            # Define replacements
+            replacements = {
+                r"<title>": responses.get("1.1", ""),
+                r"<ProjectDescription>": responses.get("ProjectDescription", ""),
+                r"<DataHandling>": responses.get("DataHandling", ""),
+                r"<SampleStorage>": responses.get("SampleStorage", "")
+            }
+            
+            # Perform replacements
+            for pattern, replacement in replacements.items():
+                regex = re.compile(pattern)
+                docx_replace_regex(doc, regex, replacement)
+            
+            # Save the document
+            doc.save(output_file)
+            logger.info(f"Successfully created {output_file}")
         except Exception as e:
-            logger.error(f"Error processing {file_path}: {e}")
-            continue
+            logger.error(f"Failed to create {output_file}: {e}")
+            raise
+
+def generate_documentation(responses: Dict[str, str]) -> None:
+    """
+    Generate all documentation from the ethics application responses.
     
-    if not all_text:
-        raise ValueError("No text could be extracted from the provided files")
-    
-    # Join all text with double newlines between documents
-    combined_text = '\n\n'.join(all_text)
-    logger.info(f"Successfully extracted text from {len(file_paths)} file(s)")
-    
-    return combined_text
+    Args:
+        responses: Dictionary containing all responses from the ethics application
+    """
+    try:
+        # Generate documentation
+        doc_generator = DocumentGenerator()
+        
+        # Generate and save markdown/docx
+        markdown_content = doc_generator.generate_markdown(responses)
+        doc_generator.save_markdown(markdown_content, 'output.txt')
+        doc_generator.generate_docx(markdown_content, 'output.docx')
+        
+        # Update both template documents
+        doc_generator.update_forskningspersonsinformation(responses)
+        doc_generator.update_samtyckesblankett(responses)
+        
+        logger.info("Successfully generated all documentation")
+    except Exception as e:
+        logger.error(f"Error generating documentation: {e}")
+        raise
 
 def main():
     # Initialize Claude client
@@ -247,16 +284,8 @@ def main():
         **responses
     }
     
-    # Generate documentation
-    doc_generator = DocumentGenerator()
-    
-    # Generate and save markdown/docx
-    markdown_content = doc_generator.generate_markdown(all_responses)
-    doc_generator.save_markdown(markdown_content, 'output.txt')
-    doc_generator.generate_docx(markdown_content, 'output.docx')
-    
-    # Update forskningspersonsinformation.docx
-    doc_generator.update_forskningspersonsinformation(all_responses)
+    # Generate documentation using the new function
+    generate_documentation(all_responses)
 
 if __name__ == "__main__":
     main() 

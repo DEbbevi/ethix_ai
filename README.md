@@ -1,25 +1,24 @@
 # Swedish Research Ethics Documentation Generator
 
-A system for generating and managing research ethics documentation, with specific support for Swedish research institutions.
+A system for generating and managing Swedish research ethics documentation, with support for Ethix, the information system for the Swedish ethical review authority.
+
+![Workflow diagram showing the process flow from input documents through template processing to final output formats](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F406bb032ca007fd1624f261af717d70e6ca86286-2401x1000.png&w=3840&q=75)
+From [Building Effective Agents](https://www.anthropic.com/research/building-effective-agents).
 
 ## Overview
 
 This project provides tools for:
-- Generating documentation in multiple formats (Markdown, DOCX, PDF)
+- Generating documentation in multiple formats (Markdown, DOCX, PDF, Ethix backend compatible)
 - Processing research ethics applications
 - Managing research participant information and consent forms
 - Handling biobank and biological material documentation
-- GDPR-compliant data processing
+- GDPR-compliant data processing (Uses Anthropic's model suite)
 
 ## Features
 
-### Documentation Generation
-- Support for template-based document generation(DOCX, PDF)
-- Custom styling and formatting for institutional requirements
+- Support for template-based document generation (DOCX, PDF)
 - Automated file naming and organization
 - XML tag-based content replacement
-
-### Ethics Processing
 - Support for the Swedish research ethics applications system Ethix
 - Management of participant consent forms
 - Handling of biological material documentation
@@ -31,27 +30,33 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Generate Documentation
-
 ```python
-from generate_documentation import DocumentGenerator
+from run_prompts_for_project import process_ethics_application
+from generate_documentation import generate_documentation
+from utils import extract_text_from_files
+from extract_form import load_and_create_mappings
+from create_ethix_application import main as create_application
+import os
 
-generator = DocumentGenerator()
+scientific_material = extract_text_from_files([
+    "projektplan.docx",
+])
 
-# Generate DOCX from markdown
-generator.generate_docx("your_research_content.md", "output.docx")
+api_key = os.getenv("ANTHROPIC_API_KEY")
+    
+# Process the ethics application
+responses = process_ethics_application(scientific_material, api_key)
 
-# Save as markdown
-generator.save_markdown("your_research_content", "output.md")
+# Load field mapping
+field_mapping = load_and_create_mappings()
+
+# Create and submit the ethics application
+create_application(responses=responses, field_mapping=field_mapping)
+
+# Generate documentation
+generate_documentation(responses)
+
 ```
-
-### Ethics Processing
-
-The system supports processing of ethics applications according to Swedish regulations and guidelines, including:
-- Research participant information
-- Consent management
-- Biobank handling
-- International collaboration
 
 ## File Structure
 
@@ -62,9 +67,7 @@ The system supports processing of ethics applications according to Swedish regul
 - `forms/`: HTML templates for ethics applications
 - `txt/`: Reference documents and guidelines
 
-## Guidelines
-
-### Research Ethics Principles
+## Research Ethics Principles
 
 1. Research must respect human dignity
 2. Human rights and fundamental freedoms must be considered
@@ -72,7 +75,7 @@ The system supports processing of ethics applications according to Swedish regul
 4. Informed consent is required for participant research
 5. Data protection and privacy must be maintained
 
-### Produces Documents With
+### Propted To Produce Documents With
 
 - Clear and accessible language
 - Complete information for informed consent
@@ -82,7 +85,7 @@ The system supports processing of ethics applications according to Swedish regul
 
 ## Contributing
 
-Please contribe to the project by creating a pull request.
+Please contribute to the project by creating a pull request.
 
 ## License
 
