@@ -55,3 +55,5 @@ test.py
 *.docx
 *.json
 !requirements.txt
+!forms/forskningspersonsinformation_template.docx
+!forms/samtyckesblankett_template.docx
