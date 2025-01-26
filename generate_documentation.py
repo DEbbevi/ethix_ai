@@ -30,6 +30,7 @@ def clean_title_for_filename(title: str) -> str:
 
 def docx_replace(old_file: str, new_file: str, rep: Dict[str, str]) -> None:
     """Replace text in docx file using zipfile method."""
+    logger.debug(f"Attempting to replace in {old_file} with: {rep}")
     try:
         with zipfile.ZipFile(old_file, 'r') as zin:
             with zipfile.ZipFile(new_file, 'w') as zout:
@@ -37,10 +38,12 @@ def docx_replace(old_file: str, new_file: str, rep: Dict[str, str]) -> None:
                     buffer = zin.read(item.filename)
                     if item.filename == 'word/document.xml':
                         content = buffer.decode('utf-8')
+                        logger.debug(f"Original content: {content}")
                         for tag, replacement_text in rep.items():
-                            # Replace just the opening tag with the content
                             tag_placeholder = f"<{tag}>"
+                            logger.debug(f"Replacing {tag_placeholder} with {replacement_text}")
                             content = content.replace(tag_placeholder, replacement_text)
+                        logger.debug(f"Modified content: {content}")
                         buffer = content.encode('utf-8')
                     zout.writestr(item, buffer)
         logger.info(f"Successfully created {new_file} with replacements")
@@ -75,15 +78,25 @@ class DocumentGenerator:
         """Sort responses by question ID and get titles."""
         sorted_items = []
         for question_id, content in responses.items():
-            # Find the title from field mapping
+            # Find the title and option text from field mapping
             title = ""
+            option_text = None
             for field_info in self.field_mapping.values():
                 if field_info.get('question_id') == question_id:
                     title = field_info['title']
+                    # Check if this response matches any option
+                    if 'options' in field_info:
+                        option_text = next(
+                            (opt['text'] for opt in field_info['options'] 
+                             if str(opt['value']) == str(content)),
+                            None
+                        )
                     break
             
             if title:
-                sorted_items.append((question_id, title, content))
+                # Use option text if available, otherwise use original content
+                final_content = option_text if option_text else content
+                sorted_items.append((question_id, title, final_content))
         
         # Sort by question ID numerically
         return sorted(sorted_items, key=lambda x: [int(n) for n in x[0].split('.')])
@@ -176,9 +189,11 @@ class DocumentGenerator:
         
         try:
             # Load the template
-            doc = Document('forms/forskningspersonsinformation_template.docx')
+            template_path = 'forms/forskningspersonsinformation_template.docx'
+            if not os.path.exists(template_path):
+                raise FileNotFoundError(f"Template file not found: {template_path}")
             
-            # Define replacements
+            # First try using direct replacement
             replacements = {
                 r"<BackgroundAndPurpose>": responses.get("BackgroundAndPurpose", "Ge en kort men tydlig beskrivning av bakgrund och övergripande syfte med projektet. Informera om varför just den aktuella personen tillfrågas samt hur projektet har fått tillgång till uppgifter om personen som gör att denne tillfrågas."),
                 r"<ParticipantRequirements>": responses.get("ParticipantRequirements", "Beskriv ur forskningspersonens perspektiv vad ett deltagande innebär. Vad krävs av forskningspersonen? Vilka metoder kommer att användas? Antal besök, intervjuer, enkäter, tester och tidsåtgång? Ska prover tas? Vilken sorts prover (vävnad) ska tas? Provmängd? Det ska tydligt framgå på vilket sätt undersökningsproceduren eventuellt skiljer sig från den rutinmässiga behandlingen."),
@@ -190,16 +205,24 @@ class DocumentGenerator:
                 r"<title>": responses.get("1.1", "Forskningsprojektets titel, ska vara samma som i etikansökan")
             }
             
-            # Perform replacements
-            for pattern, replacement in replacements.items():
-                regex = re.compile(pattern)
-                docx_replace_regex(doc, regex, replacement)
+            # Try both replacement methods
+            docx_replace(template_path, output_file, replacements)
             
-            # Save the document
+            # Double-check if replacements worked
+            doc = Document(output_file)
+            for paragraph in doc.paragraphs:
+                logger.debug(f"Paragraph text: {paragraph.text}")
+                # Additional regex replacement as backup
+                for pattern, replacement in replacements.items():
+                    regex = re.compile(f"<{pattern}>")
+                    docx_replace_regex(doc, regex, replacement)
+            
             doc.save(output_file)
             logger.info(f"Successfully created {output_file}")
+            
         except Exception as e:
             logger.error(f"Failed to create {output_file}: {e}")
+            logger.error(f"Exception details: {str(e)}")
             raise
 
     def update_samtyckesblankett(self, responses: Dict[str, str]) -> None:
@@ -214,10 +237,7 @@ class DocumentGenerator:
             
             # Define replacements
             replacements = {
-                r"<title>": responses.get("1.1", ""),
-                r"<ProjectDescription>": responses.get("ProjectDescription", ""),
-                r"<DataHandling>": responses.get("DataHandling", ""),
-                r"<SampleStorage>": responses.get("SampleStorage", "")
+                r"<title>": responses.get("1.1", "Titel, ska vara samma som i etikansökan")
             }
             
             # Perform replacements

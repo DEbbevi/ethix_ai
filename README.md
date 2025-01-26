@@ -47,13 +47,13 @@ scientific_material = extract_text_from_files([
 # Retrieve draft of ethics application
 responses = process_ethics_application(scientific_material, api_key)
 
-# Create a new project in Ethix and save draft of ethics application.
-# Creates field mapping dynamically for Ethix backend.
-create_application(responses=responses, field_mapping=load_and_create_mappings())
-
-# Will output the full application draft in .docx and markdown for 
-# archiving, and draft research participant information in .docx if applicable.
+# Will output the full application draft in .docx and markdown .txt for 
+# archiving, and research participant information in .docx if applicable.
 generate_documentation(responses)
+
+# Create a new project in Ethix and save draft of ethics application.
+# load_and_create_mappings() creates field mapping dynamically for Ethix backend.
+create_application(responses=responses, field_mapping=load_and_create_mappings())
 
 ```
 
@@ -62,9 +62,9 @@ generate_documentation(responses)
 - `generate_documentation.py`: Core documentation generation functionality
 - `run_prompts_for_project.py`: Ethics processing and prompt handling
 - `create_ethix_application.py`: Functionality for interfacing directly with ethix backend
-- `prompts/`: Templates and guidance documents
-- `forms/`: HTML templates for ethics applications
-- `txt/`: Reference documents and guidelines
+- `prompts/`: Prompts for the LLM
+- `forms/`: HTML templates etc for ethics application and workflow of the LLM
+- `txt/`: Source documents and guidelines used to develop the prompts
 
 ## Research Ethics Principles
 
@@ -84,7 +84,7 @@ generate_documentation(responses)
 
 ## Contributing
 
-Please contribute to the project by creating a pull request.
+Project is in early alpha. Some parts are ducktaped (with style). Please contribute by creating a pull request.
 
 ## License
 

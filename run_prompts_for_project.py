@@ -205,6 +205,9 @@ class EthicsProcessor:
             tags = extract_xml_tags(response)
             processed_tags = self._process_tags(filename, tags)
             
+            # Add check for missing tags
+            check_missing_tags(prompt_content, processed_tags, filename)
+            
             return processed_tags
             
         except Exception as e:
@@ -514,6 +517,28 @@ diarrhea and gas-related abdominal discomfort."""
         print(f"\nTag: {tag_id}")
         print("-" * 40)
         print(content)
+
+def extract_expected_tags_from_prompt(prompt_content: str) -> List[str]:
+    """Extract expected tag IDs from a prompt file."""
+    # Skip the <information> section
+    content = re.sub(r'<information>.*?</information>', '', prompt_content, flags=re.DOTALL)
+    
+    # Look for FrågeID patterns and XML tags in example responses
+    frageids = re.findall(r'FrågeID:\s*<([^>]+)>', content)
+    example_tags = re.findall(r'<(\d+(?:\.\d+)*?)>', content)
+    
+    # Combine and deduplicate tags
+    all_tags = set(frageids + example_tags)
+    return sorted(list(all_tags))
+
+def check_missing_tags(prompt_content: str, extracted_tags: Dict[str, str], filename: str) -> None:
+    """Check for missing tags that were expected in the response."""
+    expected_tags = extract_expected_tags_from_prompt(prompt_content)
+    extracted_tag_ids = set(extracted_tags.keys())
+    
+    missing_tags = set(expected_tags) - extracted_tag_ids
+    if missing_tags:
+        logger.warning(f"Missing expected tags in response from {filename}: {', '.join(sorted(missing_tags))}")
 
 if __name__ == "__main__":
     main()
