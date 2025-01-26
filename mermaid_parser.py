@@ -4,6 +4,18 @@ from dataclasses import dataclass
 from enum import Enum
 from typing import List, Optional
 
+
+# Set up logging
+logging.basicConfig(
+    level=logging.DEBUG,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler('ethix_application.log'),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger(__name__)
+
 def create_flow_stage_enum(mermaid_content: str) -> type:
     """Dynamically create FlowStage enum from Mermaid content."""
     stages = []
