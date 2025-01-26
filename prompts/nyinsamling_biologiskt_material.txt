@@ -104,6 +104,7 @@ Viktiga riktlinjer för svaren:
 - Inkludera endast relevant information
 - När etiska aspekter är relevanta, diskutera dessa explicit
 - Följ biobankslagen och andra relevanta forskningsetiska riktlinjer
+- Skriv svar i löpande text och undvik punktlistor
 
 För frågor somkräver specifika svarsalternativ (som fråga 14.1.12), ange endast det numeriska värdet som motsvarar det korrekta alternativet.
 

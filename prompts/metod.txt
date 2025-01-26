@@ -157,6 +157,7 @@ Svaren ska vara:
 - Faktabaserade och objektiva
 - Etiskt medvetna
 - Inom angivet teckenantal
+- Skriv svar i löpande text och undvik punktlistor (dock okej med lista i tidsplanen för fråga 5.3)
 
 Om materialet inte innehåller tillräcklig information för att besvara en specifik fråga, ange detta tydligt i svaret och förklara vilken information som saknas.
 Besvara följande frågor:

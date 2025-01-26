@@ -110,6 +110,7 @@ Följ dessa riktlinjer när du formulerar svaren:
 5. Håll dig inom angivna teckengränser
 6. Var specifik och tydlig i beskrivningar av register och variabler
 7. Motivera tydligt varför uppgifterna behövs för forskningens syfte
+8. Skriv svar i löpande text och undvik punktlistor
 
 För fråga 10.1.1:
 - Ange specifikt vilka register som ska användas

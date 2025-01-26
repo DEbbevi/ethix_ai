@@ -112,6 +112,7 @@ Svaren ska:
 - Vara konkreta och tydliga
 - Ta hänsyn till etiska aspekter
 - Följa god forskningssed
+- Skriv svar i löpande text och undvik punktlistor.
 
 För fråga 12.1 ska svaret beskriva hur dataåtkomst garanteras för forskningshuvudman och medverkande forskare.
 

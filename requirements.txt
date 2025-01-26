@@ -13,3 +13,4 @@ google-colab-selenium
 typing-extensions
 numpy
 docx2txt
+python-docx-replace

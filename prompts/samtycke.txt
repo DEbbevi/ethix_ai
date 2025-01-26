@@ -128,6 +128,7 @@ Viktiga riktlinjer för svaren:
 - Fokusera på etiska överväganden
 - Utgå strikt från det tillhandahållna materialet
 - Var tydlig med hur forskningspersonernas rättigheter och välbefinnande skyddas
+- Skriv svar i löpande text och undvik punktlistor
 
 Format för svar:
 För fråga 9.1.1 ska svaret formateras som: <9.1.1>ditt svar</9.1.1>

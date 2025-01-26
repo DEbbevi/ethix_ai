@@ -98,7 +98,7 @@ class EthicsProcessor:
     def get_system_context(self, scientific_material: str) -> str:
         """Generate system context with scientific material."""
         return f"""Du är en forskningsassistent med särskild kompetens inom etikprövningsansökningar.
-        Du ska hjälpa till att formulera svar på svenska för en etikprövningsansökan. Du ska basera dina svar på material om ett forskningsprojekt. Skriv i första hand svar i löpande text och undvik punktlistor.
+        Du ska hjälpa till att formulera svar på svenska för en etikprövningsansökan. Du ska basera dina svar på material om ett forskningsprojekt. Skriv svar i löpande text och undvik punktlistor.
         
         Här är forskningsmaterialet som du ska basera dina svar på:
         <material>

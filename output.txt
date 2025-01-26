@@ -1,3 +1,86 @@
+# Question forskningsomrade
+
+Baserat på det tillhandahållna materialet gör jag följande bedömning:
+
+<forskningsomraden>
+<naturvetenskap>
+0
+</naturvetenskap>
+Motivering: Materialet indikerar inte någon naturvetenskaplig forskningskomponent.
+
+<teknik>
+0
+</teknik>
+Motivering: Inga tekniska forskningsaspekter framgår av materialet.
+
+<medicin_halsa>
+1
+</medicin_halsa>
+Motivering: Projektet har tydliga kopplingar till hälsovetenskap genom fokus på hälsoeffekter, barnhälsa och medicinska utfall som mäts genom medicinska journaler.
+
+<lantbruk_veterinar>
+0
+</lantbruk_veterinar>
+Motivering: Inga aspekter av lantbruk eller veterinärmedicin nämns i materialet.
+
+<samhallsvetenskap>
+1
+</samhallsvetenskap>
+Motivering: Projektet har en stark samhällsvetenskaplig komponent genom studier av sociala och ekonomiska interventioner (barnbidrag) och dess effekter på familjer.
+
+<humaniora_konst>
+0
+</humaniora_konst>
+Motivering: Inga humanistiska eller konstnärliga forskningsaspekter framgår av materialet.
+</forskningsomraden>
+
+<sarskilda_forhallanden>
+<biologiskt_material>
+0
+</biologiskt_material>
+Motivering: Inget insamlande eller användande av biologiskt material nämns i materialet.
+
+<joniserande_stralning>
+0
+</joniserande_stralning>
+Motivering: Ingen exponering för joniserande strålning nämns i materialet.
+
+<medicinteknik>
+0
+</medicinteknik>
+Motivering: Inga medicintekniska produkter eller behov av godkännande från Läkemedelsverket nämns i materialet.
+</sarskilda_forhallanden>
+
+Denna bedömning baseras strikt på det tillhandahållna materialet och undviker antaganden utöver vad som explicit framgår av texten.
+
+# Question BackgroundAndPurpose
+
+Vi genomför en forskningsstudie för att undersöka hur utökat ekonomiskt stöd till barnfamiljer kan påverka barns hälsa och utveckling. Studien leds av Karolinska Institutet. Du tillfrågas om att delta eftersom du väntar ditt första barn och är inskriven på en barnmorskemottagning i Stockholms län. Vi har fått information om att du väntar barn genom barnmorskemottagningen där du är inskriven.
+
+# Question ParticipantRequirements
+
+Om du väljer att delta i studien kommer du att lottas till en av tre grupper. En grupp får ingen extra ersättning utöver vanligt barnbidrag, en grupp får 500 kronor extra per månad, och en grupp får 1500 kronor extra per månad under tre år. Du kommer att få svara på enkäter var sjätte månad under tre år. Enkäterna handlar om din och ditt barns hälsa och välmående och tar cirka 15-20 minuter att besvara. Enkäterna skickas till dig via sms eller brev. Du behöver inte förbereda dig på något särskilt sätt inför att svara på enkäterna.
+
+# Question RisksAndConsequences
+
+Deltagandet innebär inga fysiska risker. Den extra ersättningen är skattepliktig och kan påverka andra bidrag eller stöd du får. Vi rekommenderar att du kontaktar Försäkringskassan för att få information om hur ett deltagande kan påverka dina övriga bidrag. Det kan kännas personligt att svara på frågor om din och ditt barns hälsa. Du kan när som helst välja att hoppa över frågor som känns obekväma eller avbryta ditt deltagande utan att behöva förklara varför.
+
+# Question DataManagement
+
+Vi samlar in uppgifter om din och ditt barns hälsa genom enkäter och från din journal på barnavårdscentralen. Vi hämtar också information från olika register om din inkomst, utbildning och hälso- och sjukvårdskontakter. Alla uppgifter kodas och förvaras säkert på Karolinska Institutet. Endast forskare i projektet har tillgång till uppgifterna. Dina personuppgifter sparas i 10 år efter projektets slut enligt arkivlagen. Den rättsliga grunden för behandling av personuppgifter är att forskningen är en uppgift av allmänt intresse. Inga uppgifter kommer att föras utanför EU/EES-området.
+
+# Question SampleHandling
+
+Inga prover kommer att samlas in i denna studie.
+
+# Question ResultsAccess
+
+Du kan när som helst kontakta forskningsledaren för att få veta vilka uppgifter som finns registrerade om dig. Studiens övergripande resultat kommer att publiceras i vetenskapliga tidskrifter och presenteras på konferenser. Du kommer att få en sammanfattning av resultaten när studien är klar, vilket beräknas vara i slutet av 2028. Om du inte vill ta del av resultaten kan du meddela detta till forskningsledaren.
+
+# Question InsuranceAndCompensation
+
+Du omfattas av patientskadeförsäkringen och Karolinska Institutets försäkring för forskningspersoner. För varje enkät du besvarar får du ett presentkort på 50 kronor till en större matvarukedja. Om du lottas till en grupp som får extra ersättning betalas denna ut månadsvis till ditt bankkonto. Ersättningen är skattepliktig och du ansvarar själv för att deklarera den. Utöver detta utgår ingen ersättning för deltagande i studien.
+
 ## 1.1 Titel på forskningsprojektet
 
 Hälsoeffekter av utökade barnbidrag
@@ -12,7 +95,7 @@ Prefekt
 
 ## 1.4 Kommer flera forskningshuvudmän att medverka i forskningsprojektet?
 
-1
+Ja
 
 ### 1.4.1 Övriga forskningshuvudmän som deltar i projektet:
 
@@ -20,7 +103,7 @@ Region Stockholm
 
 ## 1.5 Hemvist för forskningen
 
-Studien genomförs i Stockholms län med rekrytering via barnhälsovården
+Stockholms län, rekrytering via barnavårdscentraler
 
 ### 1.6.1 Institution/hemvist som ansvarig forskare är verksam vid
 
@@ -28,35 +111,35 @@ Information saknas i materialet
 
 ## 1.7 Är den ansvariga forskaren disputerad?
 
-1
+Ja
 
 ## 1.9 Hur många forskningshuvudmän kommer att ingå i forskningsprojektet?
 
-2
+Flera
 
 ### 1.9.1 [Om Flera] Har samtliga forskningspersoner ett omedelbart samband med endast en av forskningshuvudmännen?
 
-2
+Nej
 
 ## 1.10 Innefattar forskningen endast behandling av personuppgifter?
 
-2
+Nej
 
 ## 2.2 Önskas ett rådgivande yttrande?
 
-2
+Nej
 
 ## 2.4 Gäller studien klinisk forskning?
 
-1
+Ja
 
 ### 2.5.1 Avser ansökan forskning som inbegriper äggdonation?
 
-2
+Nej
 
 ### 2.5.2 Avser ansökan forskning med xenogen cellterapi?
 
-2
+Nej
 
 ### 2.5.3 Kommer joniserande strålning ingå i forskningsprojektet?
 
@@ -64,250 +147,211 @@ Information saknas i materialet
 
 ### 2.5.4 Kommer biologiskt material att användas i projektet?
 
-2
+Ja
+
+#### Question 2.5.5.1
+
+Ej tillämpligt
 
 ## 3.1 Skriv en populärvetenskaplig sammanfattning av forskningsprojektet.
 
-Detta forskningsprojekt undersöker om ökade barnbidrag kan förbättra barns hälsa och välmående. I Stockholm kommer förstagångsföräldrar att erbjudas olika nivåer av ekonomiskt stöd under tre år för att se hur detta påverkar barnens utveckling och familjernas situation.
+Detta forskningsprojekt undersöker om ökade barnbidrag kan förbättra barns hälsa och välmående. Projektet kommer att genomföras i Stockholmsområdet och omfattar familjer som väntar sitt första barn.
 
-Projektet delar slumpmässigt in familjerna i tre grupper: en grupp får vanligt barnbidrag, en grupp får 500 kronor extra per månad, och en tredje grupp får 1500 kronor extra per månad. Under tre år följer forskarna sedan hur det går för familjerna genom att samla information via enkäter och hälsoundersökningar.
+För att ta reda på om extra ekonomiskt stöd kan göra skillnad för barnfamiljer delas deltagarna in i tre grupper: en grupp får vanligt barnbidrag, en grupp får 500 kronor extra per månad, och en tredje grupp får 1500 kronor extra per månad. Detta extra stöd ges under tre år från barnets födelse.
 
-Forskarna kommer att titta på flera olika saker, som hur föräldrarna mår psykiskt och fysiskt, hur relationen mellan föräldrar och barn utvecklas, och hur barnen utvecklas. De kommer också att undersöka om familjernas ekonomiska situation blir stabilare och om föräldrarna kan investera mer i barnens utbildning och hälsa.
+Under projektets gång följer forskarna familjernas situation genom att samla in information via enkäter och hälsovårdsdata. De tittar särskilt på hur föräldrarna mår, hur relationen mellan föräldrar och barn utvecklas, och barnets allmänna utveckling. Forskarna undersöker också om familjernas ekonomiska situation blir stabilare och om de kan investera mer i barnens utbildning och hälsa.
 
-Projektet är viktigt eftersom barn som växer upp i familjer med ekonomiska svårigheter ofta har sämre hälsa och utvecklingsmöjligheter. Genom att ge extra ekonomiskt stöd tidigt i barnens liv hoppas forskarna kunna minska dessa skillnader och ge alla barn bättre förutsättningar för en god uppväxt.
+Projektet är särskilt viktigt eftersom vi vet att barn som växer upp i familjer med begränsade ekonomiska resurser ofta har sämre förutsättningar för god hälsa och utveckling. Genom att studera effekterna av ökat ekonomiskt stöd hoppas forskarna kunna visa om detta är ett effektivt sätt att hjälpa utsatta familjer och förbättra barns uppväxtvillkor.
 
-Resultaten från studien kommer att användas för att utvärdera om ökade barnbidrag är ett effektivt sätt att förbättra barns hälsa och utveckling. Detta kan hjälpa beslutsfattare att utforma bättre stöd till barnfamiljer i framtiden.
+Resultaten från studien kommer att användas för att ge underlag till beslut om hur samhället bäst kan stödja barnfamiljer och minska ojämlikhet i barns uppväxtvillkor. Detta kan i förlängningen leda till bättre hälsa och utvecklingsmöjligheter för alla barn, oavsett familjens ekonomiska situation.
 
 ## 3.2 Vad är det vetenskapliga syftet med projektet?
 
-Projektets övergripande syfte är att utvärdera effekterna av utökade barnbidrag på barns utveckling och familjers välbefinnande. Forskningsproblemet som behandlas är hur ekonomiskt stöd till barnfamiljer påverkar barns hälsa och utveckling, särskilt i socioekonomiskt utsatta områden.
+Projektets övergripande syfte är att utvärdera effektiviteten av utökade barnbidrag för att förbättra barns utveckling och välmående i familjer med begränsade ekonomiska resurser. Forskningsproblemet utgår från den dokumenterade kopplingen mellan låg inkomst och sämre hälsoutfall hos barn, samt behovet av att hitta kostnadseffektiva interventioner för att bryta denna negativa spiral.
 
-Projektet avgränsas till förstagångsföräldrar i Stockholmsområden med högt Care Need Index. Studien fokuserar på effekterna under barnets första tre levnadsår och undersöker specifikt hur olika nivåer av ekonomiskt stöd (500 respektive 1500 kronor per månad) påverkar familjernas situation jämfört med en kontrollgrupp.
-
-Avgränsningen omfattar även specifika utfallsmått relaterade till barnmisshandelsrisk, föräldrastress, psykisk hälsa och föräldra-barn-relation. Kostnadseffektiviteten av interventionen kommer också att utvärderas.
+Projektet avgränsas till förstagångsföräldrar i Stockholmsområden med högt Care Need Index, vilket indikerar socioekonomisk utsatthet. Studien fokuserar på barnets första tre levnadsår, en kritisk period för utveckling. Interventionen begränsas till två nivåer av extra ekonomiskt stöd (500 respektive 1500 kr/månad) utöver ordinarie barnbidrag.
 
 ## 3.3 Vilka är de vetenskapliga frågeställningarna?
 
-1. Vilka kort- och långsiktiga effekter har utökade barnbidrag på risk för barnmisshandel och barns utveckling?
+1. Vilka är de kort- och långsiktiga effekterna av utökat barnbidrag på risk för barnmisshandel och barns utveckling?
 
 2. Hur påverkar utökade barnbidrag familjers ekonomiska stabilitet och föräldrars investeringar i barns utbildning och hälsa?
 
-3. Finns det skillnader i effekterna av utökade barnbidrag mellan olika socioekonomiska grupper, och vilka faktorer medierar dessa effekter?
+3. Finns det skillnader i effekten av utökade barnbidrag mellan olika socioekonomiska grupper, och vilka faktorer medierar dessa effekter?
 
-4. Vilken är kostnadseffektiviteten av utökade barnbidrag som intervention för att förbättra barns hälsa och utveckling?
+4. Vilken är kostnadseffektiviteten av utökade barnbidrag jämfört med andra interventioner för att förbättra barns hälsa och utveckling?
 
 ## 3.4 Kommer delar av den forskning som beskrivs i ansökan ske utanför Sverige?
 
-2
+Nej
 
 ## 4.1 Redogör för metod inkl. proceduren, tekniken eller behandlingen.
 
-Studien är en randomiserad kontrollerad studie som genomförs i Stockholm. Projektet omfattar följande metodologiska komponenter:
+Studien är en randomiserad kontrollerad studie som genomförs i Stockholm. Projektet omfattar följande datainsamlingsmetoder:
 
-Rekrytering och randomisering:
+1. Rekrytering och randomisering:
 - Rekrytering sker vid första besöket på barnavårdscentralen
 - Familjer randomiseras i block till tre grupper: kontroll (ingen extra ersättning), 500 SEK/månad, eller 1500 SEK/månad
 - Utbetalningar sker månadsvis under tre år, primärt till moderns bankkonto
 
-Datainsamling:
-1. Enkätdata:
-- Digital distribution via SMS med QR-kod
-- Vid utebliven respons skickas pappersenkät
+2. Datainsamling via enkäter:
+- Digitala enkäter distribueras via SMS var sjätte månad (totalt 7 mätpunkter)
+- Vid utebliven respons skickas påminnelse med QR-kod, följt av pappersenkät
 - Enkäter tillhandahålls på svenska, engelska, somaliska, tigrinja och arabiska
 - Möjlighet till ljudbaserade enkäter för personer med läs- och skrivsvårigheter
-- Datainsamling sker var sjätte månad under studieperioden (7 mätpunkter)
+- Validerade mätinstrument används:
+  * Brief Child Abuse Potential Inventory (B-CAP)
+  * Parent Anger Scale (PAS)
+  * Perceived Stress Scale (PSS)
+  * Patient Health Questionnaire (PHQ-9)
+  * Generalized Anxiety Disorder Scale (GAD-7)
+  * AUDIT-C
+  * Adult Child Relationship Scale (ACRS)
+  * Alabama Parenting Questionnaire (APQ)
+  * Strengths and Difficulties Questionnaire (SDQ)
 
-2. Registerdata:
-- Medicinska journaler från barnavårdscentraler
-- Socioekonomiska data från SCB
-- Rapporter från socialtjänsten
+3. Registerdata:
+- Medicinska journaler från barnavårdscentralen
+- Data om våldsutsatthet från socialtjänsten
+- Demografiska och socioekonomiska data
 
-Mätinstrument:
-- Brief Child Abuse Potential Inventory (B-CAP)
-- Parent Anger Scale (PAS)
-- Perceived Stress Scale (PSS)
-- Patient Health Questionnaire (PHQ-9)
-- Generalized Anxiety Disorder Scale (GAD-7)
-- AUDIT-C för alkoholkonsumption
-- Adult Child Relationship Scale (ACRS)
-- Alabama Parenting Questionnaire (APQ)
-- Strengths and Difficulties Questionnaire (SDQ)
+4. Kvalitativ datainsamling:
+- Semistrukturerade intervjuer med deltagare från interventionsgrupperna
+- Maximum variation sampling används för urval
+- Intervjuer fortsätter tills datamättnad uppnås
 
-Kvalitetssäkring:
-- Validering genom EPA-SF88:s lågfrekvens- och dygdskalor
-- Kontroll av svarstider på enkäter
-- Multipel imputering vid saknade data
+Datakvalitet säkerställs genom:
+- Validering med EPA-SF88:s skalor för låg frekvens och dygd
+- Kontroll av svarstider för enkäter
+- Multiple imputation vid behov
 - Blockrandomisering för att säkerställa balanserade grupper
 
-Datahantering:
-- All data lagras på säkerhetsklassade filareor inom Region Stockholm/SLSO
-- Kodnyckel och pseudonymiserade data hanteras separat
-- Datainsamling sker enligt GDPR och etikprövningslagens krav
-
-Kompletterande kvalitativ datainsamling:
-- Semistrukturerade intervjuer med deltagare från interventionsgrupperna
-- Maximal variation i urvalet baserat på baslinjekarakteristika
-- Datainsamling till teoretisk mättnad uppnås
+All data lagras på säkerhetsklassade servrar inom Region Stockholm/SLSO med separata lagringsplatser för kodnyckel och pseudonymiserade data. Karolinska Institutet är forskningshuvudman och personuppgiftsansvarig för projektet.
 
 ## 4.2 Om forskningen går ut på att pröva en ny metod eller behandling: Redogör för på vilket sätt metoden skiljer sig från den ordinarie verksamheten.
 
 Den föreslagna interventionen skiljer sig från ordinarie verksamhet på följande sätt:
 
 1. Ekonomiskt stöd:
-- Ordinarie barnbidrag kompletteras med ytterligare månatliga utbetalningar
-- Två interventionsnivåer (500 SEK/månad eller 1500 SEK/månad) utöver standardbidraget
+- Ordinarie barnbidrag kompletteras med ytterligare månatliga utbetalningar (500 eller 1500 SEK)
 - Utbetalningarna är ovillkorliga och sker under en treårsperiod
+- Beloppen är skattepliktiga till skillnad från ordinarie barnbidrag
 
-2. Uppföljning och datainsamling:
-- Regelbunden insamling av enkätdata var sjätte månad
-- Omfattande användning av standardiserade mätinstrument
-- Systematisk uppföljning av barnets utveckling och familjens situation
+2. Datainsamling:
+- Regelbundna enkäter var sjätte månad utöver ordinarie uppföljning på BVC
+- Omfattande psykometrisk testning som inte ingår i standardvård
+- Kvalitativa intervjuer med utvalda deltagare
 
-3. Forskningsspecifika moment:
-- Randomisering av familjer till olika bidragsnivåer
-- Mer frekventa kontakter med forskningsteamet än vid ordinarie verksamhet
-- Strukturerad datainsamling genom enkäter och intervjuer
-- Särskild uppföljning av ekonomiska och psykosociala faktorer
+3. Uppföljning:
+- Mer frekvent och systematisk uppföljning än vid ordinarie barnhälsovård
+- Utökad registrering av socioekonomiska faktorer
+- Särskild dokumentation av våldsutsatthet och barnmisshandel
 
-4. Dokumentation:
-- Utökad dokumentation jämfört med standardrutiner
-- Särskild registrering av utfall och biverkningar
-- Systematisk insamling av data om familjernas ekonomiska situation
+Dessa forskningsspecifika moment går utöver den vanliga verksamheten vid barnavårdscentraler och socialtjänst, men påverkar inte tillgången till ordinarie vård och stöd.
 
 ## 4.3 Redogör för tidigare erfarenheter (egna och/eller andras) av den valda metoden.
 
-Forskningsteamet har omfattande erfarenhet av relevanta metoder:
+Forskningsgruppen har omfattande erfarenhet av liknande studier och metoder:
 
-Klinisk erfarenhet:
+1. Metodologisk erfarenhet:
 - Projektdeltagarna arbetar kliniskt vid barnrättscentrum med hälsobedömningar
-- Erfarenhet av forensiska undersökningar och barnhälsovård
-- Praktisk kunskap om implementering av interventioner i vårdmiljö
-
-Forskningserfarenhet:
 - Multidisciplinärt team med expertis inom pediatrik, socialvetenskap och hälsoekonomi
-- Tidigare erfarenhet av randomiserade kontrollerade studier
-- Kompetens inom kvalitativ och kvantitativ forskningsmetodik
+- Erfarenhet av randomiserade kontrollerade studier i sårbara populationer
 
-Internationell evidens:
-- Omfattande evidens från låginkomstländer gällande ovillkorliga kontantöverföringar
-- Erfarenheter från liknande interventioner i USA (Child Development Accounts)
-- Kunskap från tidigare studier om ekonomiska interventioners påverkan på barns utveckling
+2. Tidigare forskning:
+- Internationella studier har visat effektivitet av ovillkorliga kontantöverföringar i låginkomstländer
+- Omfattande erfarenhet av validerade mätinstrument som används i studien
+- Dokumenterad kompetens inom registerbaserad forskning
 
-Metodologisk kompetens:
-- Erfarenhet av validerade mätinstrument för barnmisshandel och utveckling
-- Kunskap om hantering av känsliga personuppgifter och registerdata
-- Expertis inom hälsoekonomisk utvärdering och kostnadseffektivitetsanalys
+3. Relevant kompetens:
+- Forskningsteamet inkluderar disputerade forskare inom relevanta områden
+- Erfarenhet av att genomföra interventioner i socioekonomiskt utsatta områden
+- Etablerad samverkan med barnavårdscentraler och socialtjänst
+
+Internationellt finns omfattande erfarenhet av liknande interventioner, särskilt i USA genom Child Development Accounts (CDAs) och American Family Act (AFA), vilket ger stöd för metodens genomförbarhet.
 
 ## 5.3 Tidsplan för de olika delar som ingår i projektet:
 
-December 2024:
-- Etikansökan och förregistrering av studie
-- Utveckling av datahanteringsplan och statistisk analysplan
-
-Januari-Juni 2025:
-- Initial rekrytering av studiedeltagare
-- Baseline-datainsamling
-
-Juli-December 2025:
-- Slutförande av rekrytering
-- Fortsatt datainsamling
-
-2026-2027:
-- Kontinuerlig datainsamling var sjätte månad
-- Utveckling av analysmodeller
-- Förberedelse av publikationer
-
-Januari-Juni 2028:
-- Insamling av medicinska journaldata
-- Slutlig datainsamling
-- Dataanalys
-
-Juli-December 2028:
-- Slutanalys och sammanställning
-- Manuskriptskrivande och publicering
+Projektets tidsplan:
+December 2024: Förberedelser, etikansökan, förregistrering av studie
+Januari-Juni 2025: Rekrytering av första omgången deltagare
+Juli-December 2025: Slutförande av rekrytering
+2025-2027: Löpande datainsamling och interventioner
+- Enkäter var sjätte månad
+- Kontinuerliga utbetalningar till interventionsgrupperna
+- Kvalitativa intervjuer enligt maximum variation sampling
+Våren 2028: Insamling av journaldata och registerdata
+Hösten 2028: Slutlig dataanalys och sammanställning av resultat
+December 2028: Projektavslut och rapportskrivning
 
 ## 6.1 Redogör för datainsamling och datas karaktär.
 
 Datainsamlingen omfattar följande komponenter:
 
 1. Enkätdata:
-- Primära utfallsmått samlas in via validerade enkätinstrument som Brief Child Abuse Potential Inventory (B-CAP)
-- Sekundära utfallsmått inkluderar Parent Anger Scale (PAS), Perceived Stress Scale (PSS), Patient Health Questionnaire (PHQ-9), Generalized Anxiety Disorder Scale (GAD-7), AUDIT-C, Adult Child Relationship Scale (ACRS), Alabama Parenting Questionnaire (APQ) och Strengths and Difficulties Questionnaire (SDQ)
+- Primär utfallsvariabel: Brief Child Abuse Potential Inventory (B-CAP)
+- Sekundära utfallsvariabler: Parent Anger Scale (PAS), Perceived Stress Scale (PSS), Patient Health Questionnaire (PHQ-9), Generalized Anxiety Disorder Scale (GAD-7), AUDIT-C, Adult Child Relationship Scale (ACRS), Alabama Parenting Questionnaire (APQ), och Strengths and Difficulties Questionnaire (SDQ)
 - Enkäterna distribueras digitalt via SMS-länk var sjätte månad under studieperioden (totalt 7 mätpunkter)
-- Vid utebliven respons skickas påminnelse med QR-kod och därefter pappersenkät
+- Vid utebliven respons skickas påminnelse med QR-kod, följt av pappersenkät
 - Enkäterna finns tillgängliga på svenska, engelska, somaliska, tigrinja och arabiska
-- Möjlighet till AI-baserad uppläsning av enkäter undersöks för att öka tillgängligheten
+- Möjlighet till AI-baserad ljuduppläsning undersöks för att öka tillgängligheten
 
 2. Registerdata:
-- Medicinska journaldata från barnhälsovården gällande remisser, hälso- och utvecklingsutfall
+- Medicinska journaldata från barnhälsovården
 - Data om våldsutsatthet från individuella besök
-- Uppgifter om moderns psykiska hälsa under graviditet
-- Data om föräldrarnas hälsa vid 2-5 månader
-- Rapporter om barnmisshandel från socialtjänsten
-- Socioekonomiska bakgrundsdata från SCB
+- Moderns psykiska hälsa under graviditet
+- Föräldrars psykiska hälsa vid 2-5 månader
+- Orosanmälningar från socialtjänsten kategoriserade som barnmisshandel eller försummelse/annat familjevåld
+- Utdrag görs enligt respektive registerhållares rutiner
 
-3. Baseline-data:
-- Demografiska uppgifter som utbildning, inkomst, födelseland, religion och ålder
+3. Ekonomiska data:
+- Överföringar av barnbidrag (0, 500 eller 1500 kr/månad)
+- Transaktionsdata för utbetalningar
+- Skatteeffekter på grund av progressiv beskattning
+
+4. Baseline-data vid inklusion:
+- Demografiska uppgifter
+- Utbildningsnivå
+- Inkomst
+- Födelseland
+- Religion
+- Ålder
 - Tidigare erfarenhet av våld
-- Care Need Index och andra områdesindikatorer från barnhälsovårdens samordningsenhet
-- Folkhälsoindikatorer från Folkhälsokollen
 
-4. Ekonomiska data:
-- Dokumentation av utbetalda barnbidrag
-- Administrativa kostnader via time-driven activity based costing
-
-5. Kvalitativa data:
-- Semistrukturerade intervjuer med deltagare från interventionsgrupperna
-- Tematisk analys av transkriberade intervjuer
-
-All datainsamling sker i enlighet med GDPR och etiska riktlinjer. Särskild hänsyn tas till deltagarnas integritet och datasäkerhet genom pseudonymisering och säker datahantering.
+Datainsamlingen genomförs av forskningsassistenter och vårdpersonal inom ordinarie verksamhet. För att säkerställa hög svarsfrekvens erhåller deltagarna ett presentkort på 50 kr till en matvarukedja vid varje enkätifyllnad, oavsett randomiseringsgrupp.
 
 ## 6.2 Redogör för de beräkningar och/eller överväganden som motiverar undersökningsmaterialets storlek.
 
-Studiens omfattning baseras på följande statistiska beräkningar och överväganden:
+Studiens statistiska power-beräkning visar att 54 familjer per arm krävs för att uppnå 80% power att detektera effektstorlekar över d=0.35 med alpha=0.05, förutsatt fullständig data och sfäricitet. Med hänsyn till förväntad bortfallsfrekvens på 20-25% bland sårbara föräldrar planeras rekrytering av 72 familjer per arm, totalt 216 deltagare.
 
-För att uppnå 80% statistisk styrka att detektera effektstorlekar över d=0.35 med alfanivå 0.05 krävs 54 familjer per studiearm vid perfekt uppföljning och full sfäricitet. Med hänsyn till förväntad bortfallsfrekvens på 20-25% bland sårbara föräldrar har sampelstorleken ökats till 72 familjer per arm, vilket ger totalt 216 deltagare.
+Urvalsstorleken är beräknad för att kunna detektera kliniskt relevanta skillnader i primärutfallet Brief Child Abuse Potential Inventory (B-CAP) mellan kontrollgrupp och interventionsgrupper. Storleken möjliggör även analys av sekundära utfall som föräldrastress, ilska, depression och ångest med tillräcklig statistisk styrka.
 
-Denna sampelstorlek är tillräcklig för att:
-- Detektera kliniskt relevanta skillnader i primärutfallet (B-CAP)
-- Möjliggöra subgruppsanalyser av olika socioekonomiska grupper
-- Kompensera för förväntat bortfall
-- Tillåta robusta statistiska analyser med hierarkiska regressionsmodeller
-- Ge tillräcklig power för analys av sekundära utfallsmått
-
-För den kvalitativa delen används maximum variation sampling tills datamättnad uppnås, vilket säkerställer att olika perspektiv och erfarenheter fångas upp.
-
-Urvalsstorleken är väl avvägd för att balansera mellan statistisk styrka och etiska hänsyn att inte inkludera fler deltagare än nödvändigt.
+Den longitudinella designen med sju mätpunkter över tre år ger robusta data för att analysera både kortsiktiga och långsiktiga effekter. Kvalitativa intervjuer genomförs tills datamättnad uppnås för att säkerställa djupare förståelse av mekanismer. Sammantaget ger materialets omfattning goda förutsättningar att besvara forskningsfrågorna om barnbidragets effekter på barnmisshandel och familjers välbefinnande.
 
 ## 6.3 Hur kommer undersökningsprocedurerna att dokumenteras?
 
-Undersökningsprocedurerna dokumenteras genom följande system:
+Dokumentationen av studien sker genom följande metoder:
 
 1. Digital datainsamling:
-- Enkätsvar samlas in via säkra digitala formulär
-- Svarsfrekvens och bortfall registreras systematiskt
-- Validering sker genom EPA-SF88:s lågfrekvens- och dygdskala
-- Tidsåtgång för enkätifyllnad registreras
+- Enkätsvar samlas in via säker digital plattform
+- Alla transaktioner av barnbidrag dokumenteras automatiskt i ekonomisystemet
+- Registerdata extraheras enligt standardiserade rutiner
 
-2. Registerdata:
-- Strukturerad inhämtning från medicinska journaler och socialtjänst enligt standardiserade protokoll
-- Dokumentation av utbetalda barnbidrag och administrativa kostnader
+2. Forskningsdokumentation:
+- All studiedokumentation förs i Electronic Lab Notebook (ELN) för forskargrupper inom CPF
+- Standardiserade protokoll används för att dokumentera alla procedurer
+- Avvikelser från protokoll dokumenteras systematiskt
 
 3. Kvalitativa intervjuer:
-- Ljudinspelning av semistrukturerade intervjuer efter informerat samtycke
-- Transkribering enligt standardiserad metod
-- Systematisk dokumentation av analysprocess och tematisering
+- Ljudinspelningar görs av intervjuer med deltagare från interventionsgrupperna
+- Inspelningarna motiveras av behovet att fånga exakta formuleringar för analys av mekanismer
+- Personuppgifter som kan framkomma i intervjuerna inkluderar upplevelser av ekonomisk situation och föräldraskap
 
-Ljudinspelningar används endast för de kvalitativa intervjuerna och motiveras av behovet att:
-- Säkerställa korrekt återgivning av deltagarnas utsagor
-- Möjliggöra detaljerad analys av intervjumaterialet
-- Uppnå hög kvalitet i den kvalitativa analysen
-
-Personuppgifter som samlas in via inspelningar begränsas till röst och verbal information. Alla inspelningar pseudonymiseras och hanteras enligt GDPR och forskningshuvudmannens riktlinjer.
+All dokumentation följer GDPR och forskningshuvudmannens riktlinjer för hantering av personuppgifter. Särskild hänsyn tas till den känsliga naturen av insamlade data rörande barnmisshandel och familjers ekonomiska situation.
 
 ## 6.4 Hur kommer insamlade data att hanteras och förvaras?
 
-Insamlade data hanteras enligt följande principer:
+All data hanteras enligt följande principer:
 
 1. Pseudonymisering:
 - Varje deltagare tilldelas ett studie-ID
@@ -315,334 +359,355 @@ Insamlade data hanteras enligt följande principer:
 - Huvudansvarig forskare ansvarar för kodnyckeln
 
 2. Dataförvaring:
-- All data lagras på säkerhetsklassad filarea för känsliga personuppgifter inom Region Stockholm/SLSO
+- Data lagras på säkerhetsklassad filarea för känsliga personuppgifter inom Region Stockholm/SLSO
 - Åtkomst kräver e-tjänstekort och specifik behörighet
-- Kodnyckel och pseudonymiserade data förvaras åtskilda
-- Dokumentation sker i ELN för forskargrupper inom CPF
+- Kodnyckel och forskningsdata förvaras åtskilda
+- Behörighetsstyrning tillämpas för access till undermappar
 
-3. Säkerhetsåtgärder:
-- Behörighetsstyrning tillämpas för specifika undermappar
-- Låst katalogstruktur inom Region Stockholm/SLSO
-- Loggning av dataåtkomst
-
-4. Bevarande och gallring:
+3. Långtidsförvaring:
 - Data sparas enligt KI:s arkivregler för forskningshandlingar
-- Följer KI:s dokumenthanteringsplan
-- Pseudonymiserade data kan komma att delas med mottagare inom och utom EU/EES enligt gällande lagstiftning
+- Gallring sker enligt KI:s dokumenthanteringsplan
+- Pseudonymiserade data bevaras för forskningsändamål
+- Kodnycklar förstörs efter projektets slutförande enligt gällande gallringsrutiner
+
+Dataöverföring till andra forskare kan ske i pseudonymiserad form enligt gällande lagstiftning och efter etikprövning.
 
 ## 7.1 Vilka risker kan ett deltagande medföra för de forskningspersoner som ingår i forskningsprojektet?
 
-Baserat på forskningsmaterialet kan följande risker identifieras för forskningspersonerna:
+Projektet medför flera potentiella risker för forskningspersonerna:
 
-Integritetsmässiga risker:
-- Risk för röjande av känsliga personuppgifter då studien samlar in omfattande data om familjers ekonomi, hälsa och sociala förhållanden
-- Risk för bakvägsidentifiering genom kombination av variabler som inkomst, bostadsområde och familjeförhållanden
-- Risk vid hantering av registerdata från medicinska journaler och socialtjänst
-- Särskild sårbarhet då målgruppen är socioekonomiskt utsatta familjer
+Integritetsrisker:
+- Risk för röjande av känsliga personuppgifter då studien samlar omfattande data om familjers ekonomi, hälsa och sociala förhållanden
+- Risk för bakvägsidentifiering genom kombination av variabler som ålder, bostadsområde, inkomst och hälsostatus
+- Särskild sårbarhet då målgruppen är familjer i socioekonomiskt utsatta områden
+- Risk vid hantering av data från medicinska journaler och registerdata
+- Risk vid överföring av data mellan olika system och aktörer
 
 Psykosociala risker:
-- Risk för stigmatisering genom deltagande i en studie riktad mot låginkomstområden
 - Stress och oro kopplat till ekonomisk intervention och uppföljning
-- Risk för påverkan på familjedynamik när ekonomiskt stöd ges till en förälder
-- Psykologisk påfrestning vid ifyllande av enkäter om känsliga ämnen som föräldraskap, ekonomi och psykisk hälsa
+- Risk för stigmatisering då studien fokuserar på låginkomstområden
+- Påverkan på familjedynamik genom ekonomisk intervention
+- Risk för beroendeställning till forskarna genom det ekonomiska stödet
+- Psykologisk påfrestning vid ifyllande av enkäter om känsliga ämnen som barnmisshandel och psykisk ohälsa
 
 Ekonomiska risker:
-- Risk för negativ påverkan på andra bidrag/stöd
-- Beskattningskonsekvenser av det ekonomiska stödet
-- Anpassningssvårigheter när stödet upphör efter tre år
-- Risk för beroenderelation till forskningsprojektet
+- Risk för anpassning till temporärt höjd inkomst som sedan upphör
+- Skattemässiga konsekvenser av det ekonomiska bidraget
+- Potentiell påverkan på andra bidrag eller stöd
 
 Långsiktiga risker:
 - Risk för att data kan användas på oförutsedda sätt i framtiden
-- Möjlig påverkan på framtida socioekonomisk status genom dokumentation av deltagande
-- Risk för att barnen påverkas av att familjen kategoriseras som socialt utsatt
+- Möjlig påverkan på framtida socioekonomisk status genom deltagande
+- Risk för att barnen påverkas av att familjen deltagit i studien
 
 Särskilda sårbarhetsaspekter:
-- Beroendeställning till vårdgivare då rekrytering sker via barnhälsovården
-- Språkliga barriärer kan påverka förståelsen av studiens innebörd
-- Extra sårbarhet hos förstagångsföräldrar som målgrupp
+- Barn som indirekt forskningspersoner genom föräldrarnas deltagande
+- Språkliga och kulturella barriärer kan påverka förståelsen av studien
+- Beroendeförhållande till vården då rekrytering sker via barnhälsovården
 
 ## 7.2 Vilken nytta kan ett deltagande medföra för de forskningspersoner som ingår i forskningsprojektet?
 
 Deltagande i forskningsprojektet kan medföra följande direkta nytta för forskningspersonerna:
 
 Ekonomiska fördelar:
-- Direkt ekonomisk förstärkning genom månatliga bidrag på 500 eller 1500 kr under tre år
-- Möjlighet till förbättrad ekonomisk stabilitet
-- Ökad möjlighet att investera i barnets utveckling och välbefinnande
+- Två tredjedelar av deltagarna får ett månatligt ekonomiskt tillskott (500 eller 1500 kr) under tre år
+- Förbättrad ekonomisk stabilitet under studieperioden
+- Ersättning för deltagande i datainsamling (50 kr per enkät)
 
 Hälsorelaterade fördelar:
 - Regelbunden uppföljning av barnets hälsa och utveckling
-- Tidig identifiering av eventuella hälsoproblem genom kontinuerlig kontakt med vården
-- Möjlighet till stöd vid föräldrastress eller andra psykosociala utmaningar
+- Ökad uppmärksamhet på familjens hälsosituation
+- Tidig identifiering av eventuella hälsoproblem genom regelbunden screening
 
 Kunskapsrelaterade fördelar:
-- Ökad insikt i det egna föräldraskapet genom deltagande i uppföljningar
-- Tillgång till professionellt stöd och rådgivning
-- Möjlighet att bidra till kunskap som kan förbättra situationen för andra i liknande situation
+- Ökad medvetenhet om egen hälsosituation genom deltagande i enkäter
+- Möjlighet att bidra till kunskap som kan förbättra situationen för andra familjer
+- Tillgång till information om hälsa och föräldraskap genom kontakt med forskningsteamet
 
-Kompensation:
-- Ersättning för deltagande i enkäter (50 SEK per tillfälle)
-- Tillgång till information på olika språk vilket ökar tillgängligheten
+Det bör noteras att kontrollgruppen inte får del av de ekonomiska fördelarna, men får samma övriga fördelar som interventionsgrupperna.
 
 ## 7.3 Gör en värdering av förhållandet mellan riskerna och nyttan av projektet.
 
 Vid värdering av förhållandet mellan risker och nytta bedöms projektets vetenskapliga värde överväga riskerna av följande skäl:
 
-Riskminimerande faktorer:
-- Studien använder etablerade mätinstrument med god validitet
-- Datahanteringen följer strikta säkerhetsrutiner
-- Deltagandet är frivilligt med möjlighet att avbryta
-- Interventionen (ekonomiskt stöd) innebär minimal fysisk risk
+1. Riskhantering:
+- Identifierade risker är huvudsakligen av låg till måttlig allvarlighetsgrad
+- Konkreta åtgärder finns för att minimera riskerna
+- Inga invasiva medicinska interventioner ingår
+- Datahanteringen följer etablerade säkerhetsrutiner
 
-Vetenskapligt värde:
-- Projektet adresserar ett viktigt folkhälsoproblem
+2. Vetenskapligt värde:
+- Studien adresserar ett viktigt folkhälsoproblem
 - Resultaten kan direkt påverka policy och stödinsatser
-- Studiedesignen (RCT) ger stark evidens
-- Kunskapen kan minska hälsoklyftor i samhället
+- Forskningsdesignen möjliggör kausala slutsatser
+- Projektet fyller en viktig kunskapslucka
 
-Proportionalitetsbedömning:
-- De identifierade riskerna är huvudsakligen av integritetsmässig karaktär och kan hanteras genom säkerhetsåtgärder
-- Nyttan för deltagarna är både direkt (ekonomiskt stöd) och indirekt (förbättrad uppföljning)
-- Det samhälleliga värdet av kunskapen är betydande
-- Alternativa studiedesigner skulle ge mindre tillförlitliga resultat
+3. Samhällsnytta:
+- Potential att minska barnfattigdom och dess konsekvenser
+- Möjlighet att utveckla mer effektiva välfärdsinsatser
+- Bidrag till evidensbaserad socialpolitik
+
+4. Individuell nytta:
+- Direkt ekonomisk nytta för två tredjedelar av deltagarna
+- Förbättrad uppföljning av barnhälsa
+- Inga negativa konsekvenser för kontrollgruppen jämfört med normalsituation
+
+Sammantaget bedöms nyttan överväga riskerna, särskilt då riskerna kan minimeras genom planerade skyddsåtgärder.
 
 ## 7.4 Beskriv hur projektet har utformats för att minimera riskerna för forskningspersonerna.
 
 Projektet har utformats med följande riskminimerande åtgärder:
 
-Dataskydd:
-- Pseudonymisering av personuppgifter
-- Säker lagring i godkända system
-- Begränsad åtkomst till data
+Dataskydd och integritet:
+- Pseudonymisering av all persondata
+- Säker datalagring i godkända system
+- Strikt åtkomstkontroll till forskningsdata
 - Resultatredovisning på gruppnivå
+- Sekretessförbindelser för all personal
 
-Metodologiska val:
-- Validerade mätinstrument
-- Möjlighet att besvara enkäter på olika språk
-- Flexibla svarsalternativ (digitalt/papper)
-- Begränsad datainsamling till nödvändiga variabler
+Metodologiska skyddsåtgärder:
+- Möjlighet att delta på olika språk för att säkerställa informerat samtycke
+- Flexibla datainsamlingsmetoder (digital/papper/audio)
+- Frivilligt deltagande med rätt att avbryta
+- Regelbunden uppföljning av deltagare
+
+Ekonomiska aspekter:
+- Tydlig information om tidsbegränsning av ekonomiskt stöd
+- Information om skattekonsekvenser
+- Separat ersättning för enkätdeltagande
 
 Etiska hänsyn:
-- Tydlig information om frivillighet
-- Rätt att avbryta utan konsekvenser
-- Informerat samtycke
-- Särskild hänsyn till språkliga behov
-
-Praktiska åtgärder:
-- Stöd vid enkätifyllande vid behov
-- Kontinuerlig uppföljning av eventuella negativa effekter
-- Tydlig plan för avslut av ekonomiskt stöd
-- Beredskap för att hantera eventuella problem som uppstår
+- Särskild hänsyn till barn som indirekt berörs
+- Stöd tillgängligt vid eventuellt obehag från enkäter
+- Kontinuerlig etisk utvärdering genom projektets gång
+- Möjlighet till återkoppling från deltagare
 
 ## 7.5 Identifiera och precisera om eventuella etiska problem (nackdelar/fördelar) kan uppstå i ett vidare perspektiv genom forskningsprojektet.
 
-I ett vidare perspektiv kan följande etiska konsekvenser identifieras:
+Projektet kan medföra följande vidare etiska konsekvenser:
 
-Påverkan på andra grupper:
-- Risk för stigmatisering av låginkomstområden
-- Möjlig påverkan på syskon som inte omfattas av stödet
-- Effekter på andra familjer i samma område som inte deltar
+Positiva effekter:
+- Ökad kunskap om effektiva välfärdsinsatser
+- Förbättrat beslutsunderlag för socialpolitiska åtgärder
+- Potential att minska hälsoklyftor i samhället
+- Möjlig positiv påverkan på framtida generationer
 
-Samhällseffekter:
-- Kunskap som kan påverka framtida socialpolitik
-- Möjlig påverkan på synen på ekonomiskt stöd till barnfamiljer
-- Bidrag till diskussionen om universella vs riktade insatser
+Potentiella negativa effekter:
+- Risk för stigmatisering av socioekonomiskt utsatta områden
+- Möjlig påverkan på synen på föräldraskap i olika socioekonomiska grupper
+- Risk för att resultat misstolkas i samhällsdebatten
+- Indirekt påverkan på barn vars föräldrar deltar
 
-Långsiktiga konsekvenser:
-- Generationseffekter genom förbättrade uppväxtvillkor
-- Påverkan på framtida policy för ekonomiskt stöd
-- Möjlig förändring i synen på förebyggande insatser
-
-Tredjepartseffekter:
-- Information samlas in om andra familjemedlemmar
-- Påverkan på lokala stödstrukturer och nätverk
-- Effekter på relationerna mellan olika samhällsgrupper
+Särskilda hänsyn:
+- Tredjepersonseffekter på syskon och andra familjemedlemmar
+- Påverkan på lokalsamhället där studien genomförs
+- Långsiktiga konsekvenser för synen på ekonomiska interventioner
+- Balans mellan forskningsbehov och integritetsskydd
 
 ## 8.1 Hur görs urvalet av forskningspersoner?
 
-Rekryteringen sker vid barnhälsovårdscentraler i Stockholmsområden med högt Care Need Index (>1,2). Första kontakten tas vid familjens första besök på BVC. Rekryteringsprocessen sker i flera steg för att säkerställa frivillighet och ge betänketid:
+Urvalet av forskningspersoner sker genom rekrytering av förstagångsföräldrar vid barnavårdscentraler (BVC) i Stockholmsområden med lågt socioekonomiskt index (Care Need Index < 1,2). Rekryteringen sker vid familjens första BVC-besök. Processen följer en flerstegsmodell där:
 
-1. Initial intresseförfrågan görs av BVC-sjuksköterska vid första besöket
-2. För intresserade familjer ger forskningsteamet fullständig forskningspersonsinformation
-3. Betänketid ges innan slutgiltigt beslut om deltagande
+1. Initial kontakt sker via BVC-personal som presenterar en kort intresseförfrågan
+2. De som visar intresse får fullständig forskningspersonsinformation från forskningsteamet
+3. Intresserade familjer ges betänketid innan beslut om deltagande
+4. Efter informerat samtycke randomiseras familjerna till en av tre grupper
 
-Studien avser rekrytera totalt 216 familjer (72 per studiearm) för att kompensera för förväntad bortfall på 20-25%. Urvalet baseras på områden med dokumenterad socioekonomisk utsatthet där familjer redan erbjuds utökat hembesöksprogram. 
+Studien avser rekrytera totalt 216 familjer (72 per arm) för att kompensera för förväntade bortfall på 20-25%. Detta urval baseras på en powerberäkning som visar att 54 familjer per arm krävs för att uppnå 80% power att detektera effektstorlekar över 0,35 med alpha 0,05.
 
-För att hantera språkbarriärer och säkerställa informerat samtycke erbjuds information på flera språk (somaliska, tigrinja, arabiska, engelska och svenska). Särskild hänsyn tas till familjernas potentiella sårbarhet genom noggrann information och betänketid.
+För att säkerställa att rekryteringen sker etiskt korrekt och utan otillbörlig påverkan kommer särskild hänsyn tas till familjernas potentiella sårbarhet relaterad till socioekonomisk utsatthet. Information kommer att tillhandahållas på flera språk (somaliska, tigrinja, arabiska, engelska och svenska) för att säkerställa informerat samtycke.
 
 ## 8.5 Vilka urvalskriterier kommer att användas för inklusion?
 
-Följande inklusionskriterier tillämpas:
+Följande inklusionskriterier kommer att tillämpas:
 
 1. Förstagångsföräldrar
-- Motivering: Studien fokuserar på tidiga interventioner för nyblivna föräldrar
+- Motivering: Studien fokuserar på tidiga interventioner och föräldrar utan tidigare erfarenhet av föräldraskap
 
-2. Boende i Stockholmsområden med högt Care Need Index (>1,2)
-- Motivering: Områden med dokumenterad socioekonomisk utsatthet där familjer kan ha störst nytta av interventionen
+2. Boende i Stockholmsområden med lågt socioekonomiskt index (Care Need Index < 1,2)
+- Motivering: Dessa områden har identifierats som särskilt relevanta för studien av ekonomiska interventioners effekt på barns hälsa och utveckling
 
-3. Inskrivna vid deltagande BVC
-- Motivering: Möjliggör uppföljning genom befintliga vårdkontakter och datainsamling via medicinska journaler
-
-4. Förmåga att ge informerat samtycke
+3. Förmåga att ge informerat samtycke
 - Motivering: Etiskt krav för forskningsdeltagande
-- Information tillhandahålls på flera språk för att säkerställa förståelse
 
-5. Tillgång till bankkonto för utbetalning
+4. Nyligen fått barn eller väntar barn
+- Motivering: Interventionen är designad för att starta vid barnets födelse
+
+5. Deltagande i ordinarie BVC-program
+- Motivering: Nödvändigt för uppföljning och datainsamling genom befintliga vårdstrukturer
+
+6. Tillgång till bankkonto för utbetalningar
 - Motivering: Praktiskt krav för genomförande av interventionen
 
-Inklusionskriterierna är utformade för att:
-- Nå familjer med störst potentiell nytta av interventionen
-- Säkerställa vetenskaplig kvalitet genom tillräcklig uppföljning
-- Uppfylla etiska krav på informerat samtycke
-- Möjliggöra praktiskt genomförande av studien
+För att säkerställa etisk rekrytering och deltagande kommer särskild hänsyn tas till:
+- Språkbehov genom tillhandahållande av information på relevanta språk
+- Kulturella aspekter vid kommunikation och datainsamling
+- Socioekonomisk sårbarhet vid utformning av deltagandekrav
+- Tillgänglighet för uppföljning och datainsamling
 
 ## 8.6 Vilka urvalskriterier kommer att användas för exklusion?
 
-Följande exklusionskriterier tillämpas:
+Följande exklusionskriterier kommer att tillämpas:
 
-1. Tidigare föräldraskap
-- Motivering: Studien fokuserar specifikt på förstagångsföräldrar för att utvärdera effekten av tidiga interventioner
+1. Tidigare barn i familjen
+- Motivering: Skulle påverka studiens fokus på förstagångsföräldrar och försvåra analys av interventionens effekter
 
-2. Boende utanför studieområdet
-- Motivering: Försvårar uppföljning och påverkar studiens validitet
-- Områdesbaserad intervention kräver geografisk avgränsning
+2. Planerad flytt från studieområdet under interventionsperioden
+- Motivering: Skulle omöjliggöra uppföljning och datainsamling
 
 3. Oförmåga att ge informerat samtycke
 - Motivering: Etiskt krav enligt forskningsetiska principer
-- Skydd av sårbara personer
 
-4. Avsaknad av bankkonto för utbetalning
-- Motivering: Praktiskt hinder för genomförande av interventionen
+4. Avsaknad av möjlighet att ta emot ekonomiska transaktioner
+- Motivering: Praktiskt hinder för interventionens genomförande
 
-5. Planerad flytt från området inom studieperioden
-- Motivering: Risk för bortfall och bristande uppföljningsmöjligheter
+5. Deltagande i andra interventionsstudier som kan påverka utfallet
+- Motivering: Skulle försvåra analys av denna interventions specifika effekter
 
-Exklusionskriterierna syftar till att:
-- Säkerställa studiens vetenskapliga kvalitet
-- Skydda potentiellt sårbara personer
-- Möjliggöra praktiskt genomförande
-- Minimera risken för bortfall
+6. Bostadsort utanför definierade områden med Care Need Index < 1,2
+- Motivering: Studien fokuserar på områden med särskilda socioekonomiska utmaningar
+
+Exklusionskriterierna har utformats för att:
+- Säkerställa vetenskaplig kvalitet och analysbarhet
+- Uppfylla etiska krav på forskningsdeltagande
+- Möjliggöra praktiskt genomförande av interventionen
+- Bibehålla studiens fokus på målgruppen
 
 ## 8.7 Ange relationen mellan forskare och forskningspersonerna.
 
-Här är en förkortad version som bevarar all väsentlig information:
+Här är en förkortad version som bevarar den väsentliga informationen:
 
-Forskarna har ingen vårdrelation till deltagarna. Rekrytering via BVC sker för att minimera beroenden. Särskild hänsyn tas till deltagarnas potentiellt sårbara position genom:
+Forskarna undviker direkt vårdrelation genom initial kontakt via BVC och fortsatt kommunikation från forskningsteamet. Särskild hänsyn tas till ekonomiskt sårbara deltagare genom:
 
-- Tydlig separation mellan vård och forskning
-- Betoning på frivillighet
-- Flerspråkig information
-- Betänketid
-- Ekonomisk ersättning oavsett studiearm
+- Helt frivilligt deltagande
+- Tydlig information om studiens omfattning
+- Möjlighet att återkalla samtycke utan konsekvenser
+- Betänketid innan beslut
 
-Upplägget skyddar deltagarnas autonomi och minimerar otillbörlig påverkan.
+Syftet är att minimera beroendeförhållanden och säkerställa deltagarnas integritet.
 
-Denna version är 456...
+Denna...
 
 ## 8.8 Vilket försäkringsskydd finns för de forskningspersoner som deltar i forskningsprojektet?
 
-Forskningspersonerna omfattas av flera försäkringar genom forskningshuvudmannen. Personskadeskydd täcker vistelse på forskningsplatsen och resor dit. Patientförsäkringen gäller vid eventuella hälsoundersökningar som utförs inom hälso- och sjukvården. Eftersom studien främst hanterar personuppgifter och ekonomiska transaktioner är riskerna begränsade, men forskningshuvudmannens grundläggande ansvar för eventuella skador kvarstår.
+Forskningspersonerna omfattas av flera försäkringar genom forskningshuvudmannen. Personskadeskydd täcker vistelse på forskningsplatsen och resor dit. Patientförsäkringen gäller vid eventuella hälsoundersökningar som utförs inom hälso- och sjukvården. Eftersom studien involverar ekonomiska transaktioner och personuppgiftshantering finns även skydd genom forskningshuvudmannens grundläggande ansvarsförsäkring för eventuella skador relaterade till forskningsdeltagandet.
 
 ## 8.9 Redogör för den beredskap som finns för att hantera oväntade bifynd eller händelser under forskningsprocessen som kan äventyra forskningspersonernas hälsa, säkerhet och personlig integritet.
 
 Projektet har etablerat följande beredskap för att hantera oväntade händelser:
 
 1. Dataskydd och integritet:
-- Alla personuppgifter lagras i säkerhetsklassade system enligt GDPR
-- Rutiner för hantering av personuppgiftsincidenter finns på plats
-- Omedelbar rapportering av eventuella dataläckor till dataskyddsombud
+- All datahantering sker i säkra, GDPR-kompatibla system
+- Rutiner finns för att hantera eventuella personuppgiftsincidenter
+- Tydliga protokoll för dataåtkomst och behörighetsnivåer
+- Regelbunden säkerhetskopiering och kryptering av känsliga data
 
-2. Ekonomisk sårbarhet:
-- Rutiner för att identifiera och hantera fall där familjer hamnar i ekonomisk kris
-- Samarbete med socialtjänsten för akuta ekonomiska problem
-- Beredskap för att hänvisa till ekonomisk rådgivning vid behov
+2. Ekonomisk säkerhet:
+- Rutiner för att hantera problem med utbetalningar
+- System för att spåra och dokumentera alla ekonomiska transaktioner
+- Beredskap för att hantera eventuella tekniska problem med betalningssystem
 
 3. Psykosocial beredskap:
-- Tillgång till kliniskt verksam personal med expertis inom pediatrik och socialt arbete
-- Etablerade kontaktvägar till barn- och ungdomspsykiatrin
-- Rutiner för hantering av information om våld eller övergrepp som framkommer
+- Tillgång till klinisk expertis genom projektgruppens medlemmar
+- Etablerade kontaktvägar till socialtjänst och vårdgivare
+- Rutiner för att hantera upptäckt av sociala problem eller ohälsa
+- Möjlighet till stödsamtal vid behov
 
-4. Organisatorisk beredskap:
-- Multidisciplinärt team med kompetens inom pediatrik, socialmedicin och forskningsetik
-- Advisory implementation panel för löpande utvärdering av risker
-- Tydliga eskaleringsvägar för olika typer av incidenter
+4. Kompetens och resurser:
+- Multidisciplinärt team med expertis inom pediatrik, socialmedicin och hälsoekonomi
+- Etablerade samarbeten med vårdcentraler och socialtjänst
+- Tillgång till tolkar vid behov
+- Administrativ support för att hantera praktiska frågor
 
-5. Specifika rutiner för:
+5. Särskilda rutiner för:
 - Upptäckt av allvarliga sociala problem
-- Indikationer på barnmisshandel eller försummelse
-- Akuta ekonomiska krissituationer
-- Psykisk ohälsa hos föräldrar eller barn
+- Misstanke om barnmisshandel eller omsorgssvikt
+- Akuta ekonomiska kriser hos deltagare
+- Psykisk ohälsa hos föräldrar
 
 6. Dokumentation och uppföljning:
-- System för dokumentation av oväntade händelser
-- Regelbunden utvärdering av incidenter
-- Uppdatering av rutiner baserat på erfarenheter
+- Systematisk dokumentation av alla incidenter
+- Regelbunden utvärdering av säkerhetsrutiner
+- Uppdatering av handlingsplaner baserat på erfarenheter
+- Rapportering till etikprövningsnämnd vid allvarliga händelser
 
-All personal i projektet får utbildning i dessa rutiner och regelbundna uppdateringar om eventuella förändringar. Särskild vikt läggs vid sekretess och skydd av personuppgifter enligt GDPR.
+7. Kommunikationsplan:
+- Tydliga kontaktvägar för deltagare
+- Rutiner för snabb respons vid problem
+- Information om tillgängligt stöd
+- Regelbunden uppföljning med deltagare
+
+Alla rutiner är utformade med hänsyn till forskningsetiska principer och skyddsintresset för deltagarna har högsta prioritet.
 
 ## 8.10 Kommer ekonomisk ersättning eller andra förmåner betalas ut till forskningspersonerna?
 
-1
+Ja
 
 ### 8.10.1 [Om Ja 8.10] Vilken ekonomisk ersättning kommer betalas ut och när?
 
-Forskningspersonerna erhåller 50 SEK i presentkort på matvarukedja för varje genomförd enkät (totalt 7 tillfällen). Ersättningen betalas ut direkt efter varje genomförd datainsamling. Beloppet är skäligt då det kompenserar för tid och engagemang utan att utgöra otillbörlig påverkan. Ersättningen är skattepliktig och information om detta ges till deltagarna.
+Deltagare erhåller 50 SEK i presentkort på matvarukedja för varje genomförd enkät (totalt 7 tillfällen). Ersättningen betalas ut direkt efter varje genomförd datainsamling. Beloppet är skäligt då det kompenserar för tid och engagemang utan att vara så stort att det riskerar utgöra otillbörlig påverkan på deltagandet. Ersättningen är skattebelagd enligt gällande regler.
 
 ## 9.1 Kommer forskningspersonerna att informeras om forskningsprojektet och tillfrågas om de vill vara med eller inte?
 
-1
+Ja
 
 ### 9.1.1 [Om Ja 9.1] Hur, när (i vilket skede) och av vem informeras och tillfrågas forskningspersonerna?
 
-Rekryteringsprocessen sker i flera steg vid barnhälsovårdscentralerna i Stockholm. Den initiala kontakten tas vid familjens första besök på barnhälsovårdscentralen, där en kortfattad intresseförfrågan presenteras av barnhälsovårdspersonalen. Processen utformas för att undvika beroendeförhållanden mellan forskare och deltagare.
+Rekryteringsprocessen sker i flera steg vid barnhälsovårdens första besök. Processen är utformad för att säkerställa frivillighet och undvika beroendeförhållanden:
 
-För intresserade familjer följer en detaljerad informationsprocess:
+1. Initial kontakt:
+- Sker vid första besöket på barnavårdscentralen
+- Kortfattad muntlig information ges av barnhälsovårdspersonal om projektets övergripande syfte
+- Tillhandahålls på svenska, somaliska, tigrinja, arabiska eller engelska
 
-1. Skriftlig och muntlig information tillhandahålls på deltagarnas föredragna språk (svenska, engelska, somaliska, tigrinja eller arabiska) om:
-- Forskningens övergripande plan och syfte
-- Metoder för datainsamling och intervention
-- Potentiella följder och risker
-- Information om forskningshuvudmannen
-- Frivillighet och rätt att avbryta deltagande
-- Hantering av personuppgifter enligt GDPR
+2. Fördjupad information:
+- De som visar intresse får detaljerad skriftlig forskningspersonsinformation som innehåller:
+  * Projektets övergripande plan och syfte
+  * Beskrivning av metoder och datainsamling
+  * Information om möjliga följder och risker
+  * Uppgift om forskningshuvudman
+  * Tydlig information om frivillighet och rätt att avbryta
+  * Information om personuppgiftshantering enligt GDPR
+- Möjlighet att ställa frågor till forskningsteamet
 
-2. Betänketid ges till nästa besök på barnhälsovårdscentralen, där familjen får möjlighet att ställa kompletterande frågor.
-
-3. Vid accepterat deltagande dokumenteras samtycket skriftligt genom:
-- Undertecknande av samtyckesblankett i två exemplar
+3. Betänketid och samtycke:
+- Minst 24 timmars betänketid ges
+- Vid fortsatt intresse undertecknas samtyckesblankett i två exemplar
 - Ett exemplar behålls av forskningspersonen
-- Ett exemplar arkiveras av forskningsprojektet
+- Samtycket dokumenteras och arkiveras enligt forskningshuvudmannens rutiner
 
-Samtycket omfattar specifikt:
-- Deltagande i randomisering till interventionsgrupper
-- Godkännande av ekonomisk ersättning
-- Deltagande i uppföljande enkäter
-- Tillgång till medicinska journaldata
-- Hantering av personuppgifter
+4. Randomisering:
+- Efter inhämtat samtycke sker randomisering till studiegrupper
+- Ny information ges om vilken grupp personen tilldelats
+- Möjlighet att avbryta deltagandet finns fortsatt
 
-All information och dokumentation anpassas för att vara lättförståelig och tillgänglig. Möjlighet att ställa frågor ges kontinuerligt under hela forskningsprocessen, och deltagarna informeras tydligt om rätten att när som helst avbryta sitt deltagande utan att ange orsak.
+Samtycket är:
+- Informerat: Anpassad information på lämpligt språk
+- Frivilligt: Ingen påtryckning eller beroendeställning
+- Specifikt: Tydligt avgränsat till denna studie
+- Dokumenterat: Skriftligt i två exemplar
+- Möjligt att återkalla: När som helst under studien
 
 ## 9.3 Kommer forskningspersoner, vars mening på grund av sjukdom, psykisk störning, försvagat hälsotillstånd eller något annat liknande förhållande inte kan inhämtas, att ingå i forskningsprojektet?
 
-2
+Nej
 
 ## 10.1 Kommer projektet att begära ut uppgifter från ett befintligt register?
 
-1
+Ja
 
 ### 10.1.1 [Om Ja 10.1] Ur vilket eller vilka register kommer uppgifterna att begäras?
 
 Uppgifterna kommer att begäras från följande register:
 
 1. TakeCare (journalsystem) - Region Stockholm är huvudman
-Används för att hämta information om hälsoutfall och utvecklingsbedömningar från barnhälsovårdsbesök.
+Används för att hämta medicinska data och utvecklingsdata från barnhälsovårdsbesök.
 
 2. Socialstyrelsens hälsodataregister - Socialstyrelsen är huvudman
 För uppgifter om vårdkontakter och diagnoser.
 
 3. SCB:s register över totalbefolkningen (RTB) - Statistiska Centralbyrån är huvudman
-För demografiska uppgifter och socioekonomiska variabler.
+För demografiska och socioekonomiska uppgifter.
 
 4. Socialtjänstens register - Respektive kommun är huvudman
 För uppgifter om orosanmälningar och socialtjänstinsatser relaterade till barn.
@@ -652,132 +717,150 @@ För uppgifter om orosanmälningar och socialtjänstinsatser relaterade till bar
 Följande uppgifter kommer att begäras ut från respektive register:
 
 TakeCare:
-- Utvecklingsbedömningar från barnhälsovårdsbesök
+- Utvecklingsdata från barnhälsovårdsbesök
 - Remisser och vårdkontakter
 - Exponering för våld vid individuella besök
-- Mödrars psykiska hälsoutfall under graviditet
+- Moderns psykiska hälsa under graviditet
 - Föräldrars psykiska hälsa vid 2-5 månaders ålder
-Dessa uppgifter behövs för att utvärdera interventionens effekt på barnets utveckling och familjens hälsa.
+Dessa uppgifter behövs för att utvärdera barnets utveckling och familjens hälsostatus som sekundära utfallsmått.
 
 Socialstyrelsens hälsodataregister:
 - Diagnoser relaterade till barnmisshandel och försummelse
 - Vårdkontakter relaterade till psykisk ohälsa
 - Förskrivna läkemedel
-Dessa data krävs för att analysera interventionens påverkan på barnmisshandel och familjens hälsoutfall.
+Dessa data krävs för att analysera hälsoeffekter av interventionen och identifiera eventuella skillnader mellan grupperna.
 
 SCB:s register:
 - Demografiska uppgifter (ålder, kön)
 - Utbildningsnivå
-- Inkomst
-- Sysselsättning
+- Inkomstuppgifter
+- Sysselsättningsstatus
 - Bostadsområde
-Dessa variabler behövs för att analysera socioekonomiska faktorer som kan påverka interventionens effektivitet och för att undersöka differentiella effekter mellan olika socioekonomiska grupper.
+Dessa variabler behövs för att analysera socioekonomiska faktorer som kan påverka interventionens effektivitet och för att undersöka differentiella effekter across olika socioekonomiska grupper.
 
 Socialtjänstens register:
 - Orosanmälningar gällande barn
 - Insatser från socialtjänsten
-- Kategorisering av anmälningar (barnmisshandel eller försummelse/annat familjevåld)
-Dessa uppgifter är nödvändiga för att utvärdera interventionens effekt på förekomsten av barnmisshandel och familjens behov av socialt stöd.
+- Rapporter om barnmisshandel eller försummelse
+Dessa uppgifter är nödvändiga för att utvärdera interventionens effekt på det primära utfallsmåttet - risk för barnmisshandel.
 
-Alla uppgifter kommer att pseudonymiseras och hanteras enligt GDPR och gällande forskningsetiska riktlinjer. Data kommer endast att användas för att besvara projektets specifika forskningsfrågor om effekten av utökade barnbidrag på barnmisshandel och barns utveckling. En komplett variabellista med detaljerad specifikation av samtliga variabler bifogas ansökan.
+Alla uppgifter kommer att pseudonymiseras och hanteras enligt gällande dataskyddslagstiftning. Uppgifterna är nödvändiga för att kunna besvara projektets huvudfrågeställningar om effekterna av utökade barnbidrag på barnmisshandel och barns utveckling, samt för att analysera hur dessa effekter varierar mellan olika socioekonomiska grupper.
 
-Uppgifterna är nödvändiga för att kunna genomföra den planerade effektutvärderingen och kostnadseffektivitetsanalysen av interventionen med utökade barnbidrag. De möjliggör analys av både kort- och långsiktiga effekter på barns hälsa och utveckling, samt hur dessa effekter varierar mellan olika socioekonomiska grupper.
+En komplett variabellista med specifika variabler från respektive register bifogas ansökan.
 
 ## 12.1 Hur garanteras tillgång till data för forskningshuvudmannen och medverkande forskare?
 
 Karolinska Institutet (KI) och Region Stockholm kommer att vara forskningshuvudmän i projektet. För att garantera säker tillgång till data kommer följande åtgärder att vidtas:
 
-1. Ett Data Transfer Agreement upprättas där personuppgifterna utlämnas till KI som blir controller för uppgifterna. Detta ger KI legal rätt att bestämma över datahanteringen och möjliggör delning med tredje part efter lämpliga avtal.
+1. Ett Data Transfer Agreement upprättas där personuppgifterna utlämnas till KI som blir controller för uppgifterna. Detta ger KI legal rätt att bestämma över datahanteringen och möjliggör delning med tredje part efter upprättande av lämpliga avtal.
 
 2. All data kommer att lagras i av KI godkända system som är säkerhetsklassade för lagring av känsliga personuppgifter. Detta inkluderar enkätdata, medicinska journaler och registerdata.
 
-3. För att säkerställa GDPR-efterlevnad kommer tekniska och organisatoriska åtgärder implementeras för att skydda mot oavsiktlig förstöring, förlust, ändring eller obehörigt röjande av personuppgifter.
+3. För att säkerställa datasäkerhet och integritet kommer tekniska och organisatoriska skyddsåtgärder att implementeras i enlighet med GDPR artikel 32, inklusive:
+- Pseudonymisering av personuppgifter
+- Säker lagring med behörighetsstyrning
+- Dokumenterade rutiner för dataåtkomst
+- Skydd mot oavsiktlig eller olaglig förstöring
 
-4. Pseudonymisering kommer att användas som säkerhetsåtgärd, och kodnycklar förvaras separat från forskningsdata med begränsad åtkomst.
+4. En datahanteringsplan upprättas som specificerar:
+- Var data och kodnycklar förvaras
+- Vilka som har åtkomst till materialet
+- Säkerhetsåtgärder mot dataläckage
+- Rutiner för långtidsförvaring
 
-5. För framtida forskningssamarbeten, inklusive potentiella meta-analyser, kommer pseudonymiserade personuppgifter kunna delas både inom och utom EU/EES-området efter upprättande av relevanta avtal enligt gällande lagstiftning.
-
-Data kommer att bevaras enligt arkivlagen för att möjliggöra förnyad vetenskaplig prövning och eventuell granskning av forskningsetiska aspekter.
+Materialet kommer att bevaras enligt arkivlagen för att möjliggöra framtida vetenskaplig prövning. För eventuella framtida forskningssamarbeten kommer pseudonymiserade data kunna delas både inom och utom EU/EES-området efter upprättande av relevanta avtal enligt gällande lagstiftning.
 
 ## 12.2 Vem eller vilka ansvarar för databearbetning och skriftlig redovisning av resultaten?
 
-Karolinska Institutet ansvarar primärt för databearbetning och skriftlig redovisning av resultaten. Den multidisciplinära forskningsgruppen, som inkluderar experter inom pediatrik, samhällsvetenskap och hälsoekonomi, kommer att genomföra analyser och författa vetenskapliga publikationer. Samarbeten kan bli aktuella både inom och utom EU/EES efter upprättande av lämpliga dataavtal.
+Karolinska Institutet ansvarar som huvudman för databearbetning och analys av forskningsdata. Den multidisciplinära forskargruppen, som inkluderar experter inom pediatrik, samhällsvetenskap och hälsoekonomi, kommer att genomföra analyser och författa vetenskapliga publikationer. 
 
-Ett advisory implementation panel och en children's advisory panel kommer att bidra till tolkning och implementering av resultaten. Databearbetning sker under 2025-2027, med final analys och publicering planerad till 2028.
+Samarbete kommer att ske med Region Stockholm som bidrar med datainsamling genom barnhälsovården. Varje forskningshuvudman ansvarar för sin del av forskningen enligt etikprövningslagen, medan personuppgiftsansvaret regleras genom särskilda avtal mellan parterna.
+
+Specifika roller och ansvar för databearbetning och resultatredovisning kommer att dokumenteras i projektets arbets- och delegationsordning.
 
 ## 12.3 Hur och när planeras resultaten att offentliggöras?
 
-Resultaten planeras att offentliggöras genom:
+Resultaten planeras att offentliggöras enligt följande plan:
 
-1. Vetenskapliga publikationer i peer-reviewed tidskrifter under 2028
-2. Presentationer vid nationella och internationella konferenser, inklusive Children's Rights Days och Child Week
-3. Rapporter till beslutsfattare och implementeringspanel
-4. Populärvetenskapliga sammanfattningar för allmänheten
+1. Datainsamling och preliminära analyser genomförs 2025-2027
+2. Slutlig dataanalys och publicering sker under 2028
+3. Resultaten kommer att:
+- Publiceras i peer-reviewed vetenskapliga tidskrifter
+- Presenteras vid relevanta nationella och internationella konferenser
+- Kommuniceras till berörda intressenter genom seminarier och workshops
+- Sammanfattas i populärvetenskapliga artiklar för allmänheten
 
-Preliminär tidsplan:
-- 2025-2027: Löpande datainsamling och preliminära analyser
-- 2028: Slutlig dataanalys och huvudsaklig publicering av resultat
-- Kontinuerlig rapportering till advisory panels under projektets gång
+Projektet följer principerna om öppen vetenskap och transparent rapportering, samtidigt som hänsyn tas till legitima krav på konfidentialitet och dataskydd.
 
 ## 12.4 På vilket sätt garanteras forskningspersonernas rätt till integritet när materialet offentliggörs?
 
-För att garantera forskningspersonernas integritet vid offentliggörande kommer följande åtgärder att vidtas:
+För att garantera forskningspersonernas integritet vid offentliggörande av materialet kommer följande åtgärder att vidtas:
 
-1. All resultatredovisning sker på gruppnivå utan möjlighet att identifiera enskilda individer. Detta gäller särskilt för analyser relaterade till socioekonomisk status, hälsoutfall och ekonomiska variabler.
+1. All resultatredovisning sker på gruppnivå där enskilda individer inte kan identifieras. Detta gäller särskilt för:
+- Statistiska analyser och tabeller
+- Demografiska data
+- Socioekonomiska variabler
+- Hälsoutfall och interventionseffekter
 
-2. Data pseudonymiseras och känsliga personuppgifter skyddas genom lämpliga tekniska och organisatoriska åtgärder enligt GDPR.
+2. Vid presentation av kvalitativa data:
+- Avidentifieras alla intervjucitat
+- Tas karakteristiska drag som kan möjliggöra identifiering bort
+- Används pseudonymer vid behov
 
-3. Vid presentation av kvalitativa data (t.ex. från intervjuer) kommer citat att avidentifieras och karakteristiska drag som kan möjliggöra identifiering att modifieras eller utelämnas.
+3. Särskild hänsyn tas till risken för indirekt identifiering genom kombinationer av variabler, särskilt eftersom studien omfattar känsliga uppgifter om:
+- Ekonomisk situation
+- Hälsostatus
+- Familjeförhållanden
+- Barnbidrag
 
-4. Särskild hänsyn tas till att resultaten inte ska kunna missbrukas för att sprida förakt eller misstänksamhet mot specifika grupper, även när inga enskilda individer kan identifieras.
+4. Vid publicering av korrelationer mellan olika variabler tas särskild hänsyn till att resultaten inte ska kunna missbrukas för att peka ut eller stigmatisera specifika grupper baserat på socioekonomiska faktorer.
 
-5. Vid publicering följs principen om att inte behandla fler uppgifter än vad ändamålet kräver, och endast relevanta data för forskningsfrågorna presenteras.
-
-6. Resultaten kommuniceras på ett transparent och ansvarsfullt sätt med tydlig redovisning av metodologiska begränsningar och osäkerheter.
+Alla publikationer granskas före submission för att säkerställa att ovanstående integritetsskydd upprätthålls.
 
 ## 13.1 Är forskningen företagsinitierad?
 
-2
+Nej
 
 ## 13.3 Redovisa eventuella ekonomiska överenskommelser med bidragsgivare eller andra finansiärer (namn och belopp).
 
 Baserat på det tillgängliga materialet kan följande ekonomiska överenskommelser redovisas:
 
 Projektets huvudsakliga kostnader omfattar:
-1. Barnbidragsutbetalningar till interventionsgrupperna:
-- 500 SEK/månad × 72 familjer × 36 månader = 1,296,000 SEK
-- 1500 SEK/månad × 72 familjer × 36 månader = 3,888,000 SEK
+1. Direkta bidrag till studiedeltagare:
+- Kontrollgrupp: 0 SEK/månad
+- Interventionsgrupp 1: 500 SEK/månad per familj
+- Interventionsgrupp 2: 1500 SEK/månad per familj
+- Ersättning för enkätdeltagande: 50 SEK per ifylld enkät till samtliga deltagare
 
-2. Deltagarersättningar för enkätsvar:
-- 50 SEK × 216 deltagare × 7 mättillfällen = 75,600 SEK
+Med 72 familjer per grupp (totalt 216 familjer) över 36 månader blir den totala kostnaden för interventionen:
+- Grupp 1: 500 SEK × 72 familjer × 36 månader = 1,296,000 SEK
+- Grupp 2: 1500 SEK × 72 familjer × 36 månader = 3,888,000 SEK
+- Enkätersättning: 50 SEK × 216 familjer × 7 tillfällen = 75,600 SEK
 
-3. Administrativa kostnader för projektgenomförande och datahantering
-
-Det saknas dock specifik information i det tillhandahållna materialet om exakta finansieringskällor och överenskomna belopp. För att säkerställa god forskningssed och transparens behöver följande information kompletteras:
-- Namn på bidragsgivare och finansiärer
-- Totala beviljade belopp från respektive finansiär
-- Specificering av vad olika bidrag ska täcka
+OBS: Det saknas information i det tillhandahållna materialet om exakt vilka finansiärer som bidrar till projektet och deras respektive bidragsbelopp. För en komplett etikansökan behöver denna information kompletteras med:
+- Namn på samtliga bidragsgivare
+- Beviljade belopp från respektive finansiär
+- Specifikation av övriga projektkostnader såsom personal, administration och datainsamling
 - Eventuella villkor kopplade till finansieringen
 
-I enlighet med Vetenskapsrådets riktlinjer är det viktigt att tydligt redovisa att det finns tillräckliga resurser för att slutföra projektet, då ett ofullständigt projekt kan innebära att forskningspersoner utsätts för risker utan motsvarande nytta. En detaljerad finansieringsplan bör därför upprättas innan projektet påbörjas.
+I enlighet med god forskningssed ska alla ekonomiska överenskommelser redovisas transparent och fullständigt. Projektets totala budget bör säkerställa tillräckliga resurser för att slutföra studien, vilket är ett etiskt krav för att motivera forskningspersonernas deltagande.
 
 ## 13.4 Redovisa forskningshuvudmannens, ansvarig forskares och medverkande forskares egna ekonomiska intressen.
 
-Baserat på det tillhandahållna materialet kan följande redovisas gällande ekonomiska intressen:
+Baserat på det tillgängliga materialet kan följande noteras angående ekonomiska intressen:
 
-Forskningshuvudmannen är den organisation i vars verksamhet forskningen utförs. I detta fall behöver följande klargöras:
-- Om forskningshuvudmannen är Karolinska Institutet, Region Stockholm, eller annan organisation
-- Eventuella ekonomiska intressen hos forskningshuvudmannen i projektets utfall
-- Potentiella intressekonflikter relaterade till projektets genomförande
+Forskningshuvudmannen är den organisation i vars verksamhet forskningen utförs. Enligt materialet involverar projektet samarbete mellan olika vårdgivare, vilket kan kräva särskilda avtal mellan parterna.
 
-För ansvarig forskare och medverkande forskare saknas information i materialet om:
-- Aktieinnehav i relevanta företag
-- Konsultuppdrag eller andra uppdrag som kan påverka forskningen
-- Anställningsförhållanden utöver huvudanställningen
-- Egna företag som kan få direkt eller indirekt vinst av forskningen
+Det saknas dock specifik information i det tillhandahållna materialet om:
+- Forskningshuvudmannens eventuella ekonomiska intressen
+- Ansvarig forskares ekonomiska intressen eller bindningar
+- Medverkande forskares ekonomiska intressen eller bindningar
+- Eventuella aktieinnehav, konsultuppdrag eller andra ekonomiska kopplingar till företag som kan påverkas av forskningsresultaten
 
-I enlighet med god forskningssed ska forskare vara ärliga, transparenta och ansvarsfulla i redovisningen av eventuella intressekonflikter, ekonomiskt stöd och beroendeförhållanden. Detta är särskilt viktigt då projektet involverar sårbara grupper och omfattar ekonomiska interventioner.
+För en komplett etikansökan behöver denna information kompletteras med en fullständig redovisning av:
+1. Alla relevanta ekonomiska intressen hos forskningshuvudmannen
+2. Ansvarig forskares eventuella ekonomiska bindningar eller intressen
+3. Medverkande forskares eventuella ekonomiska bindningar eller intressen
+4. Potentiella intressekonflikter relaterade till projektets finansiering
 
-Sex av programdeltagarna arbetar kliniskt med relevans för studien, vilket bör analyseras ur ett intressekonfliktsperspektiv för att säkerställa forskningens objektivitet och trovärdighet.
-
-För fullständig transparens behöver ovanstående information kompletteras innan projektet påbörjas.
+I enlighet med god forskningssed ska forskare vara transparenta och öppet redovisa eventuella intressekonflikter, ekonomiskt stöd och beroendeförhållanden. Detta är särskilt viktigt då projektet involverar offentliga medel och kan påverka framtida socialpolitiska beslut.

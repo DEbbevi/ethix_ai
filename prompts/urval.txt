@@ -131,6 +131,9 @@ Var särskilt uppmärksam på:
 - Att etiska aspekter beaktas där det är relevant
 - Att svaren håller sig inom angivna teckengränser
 - Att alla påståenden har stöd i det tillhandahållna materialet
+- Skriv svar i löpande text och undvik punktlistor
+
+
 Besvara följande frågor:
 FrågeID: <8.1>:
 Fråga: 8.1 Hur görs urvalet av forskningspersoner?

@@ -93,6 +93,7 @@ Undvik:
 - Att använda teknisk jargong utan förklaring
 - Att inkludera irrelevanta detaljer
 - Att göra antaganden utöver det som finns i materialet
+- Undvik punktlistor, skriv svar i löpande text.
 
 Börja ditt svar direkt med relevant XML-tagg utan någon inledande text.
 Besvara följande frågor:

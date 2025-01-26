@@ -176,6 +176,7 @@ Svaren ska:
 - Baseras strikt på det tillhandahållna materialet
 - Innehålla relevant etisk analys
 - Vara skrivna på korrekt svenska
+- Skriv svar i löpande text och undvik punktlistor
 
 Om materialet inte ger tillräcklig information för att besvara någon aspekt, ange detta explicit i svaret.
 Besvara följande frågor:

@@ -125,6 +125,7 @@ Viktiga riktlinjer för svaren:
 - Fokusera på väsentlig information
 - Se till att alla påståenden stöds av materialet
 - Inkludera etiska överväganden där det är relevant
+- Skriv svar i löpande text och undvik punktlistor.
 
 För fråga 6.1 ska svaret:
 - Beskriva datainsamlingsmetoderna i detalj

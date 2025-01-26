@@ -78,6 +78,7 @@ När du formulerar svaren, följ dessa riktlinjer:
 4. Inkludera relevant etisk analys där det är lämpligt
 5. Var specifik och exakt i beskrivningar av medicinska och vetenskapliga aspekter
 6. Undvik spekulationer utöver det som stöds av materialet
+7. Skriv svar i löpande text och undvik punktlistor
 
 Formatera varje svar med XML-taggar som innehåller frågans ID. Till exempel:
 
