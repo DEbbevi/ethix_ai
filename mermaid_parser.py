@@ -139,10 +139,10 @@ def parse_mermaid_flow(mermaid_content: str) -> Dict[str, PromptGroup]:
             #print(f"Found dependency: {source} -> {target}")
     
     # Print parsed groups
-    print("\nParsed groups:")
-    print("-------------")
+    logger.info("\nParsed groups:")
+    logger.info("-------------")
     for group_name, group_data in groups.items():
-        print(f"Group {group_name}: {group_data['questions']} (Stage: {group_data['stage'].name if group_data['stage'] else 'None'})")
+        logger.info(f"Group {group_name}: {group_data['questions']} (Stage: {group_data['stage'].name if group_data['stage'] else 'None'})")
     
     # Create PromptGroups
     prompt_groups = {}
