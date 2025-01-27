@@ -13,7 +13,7 @@ from selenium.common.exceptions import TimeoutException
 
 # Set up logging
 logging.basicConfig(
-    level=logging.DEBUG,
+    level=logging.ERROR,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
         logging.FileHandler('ethix_application.log'),
