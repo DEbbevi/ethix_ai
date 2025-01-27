@@ -3,6 +3,19 @@ from typing import Dict, Set
 from dataclasses import dataclass
 from enum import Enum
 from typing import List, Optional
+import logging
+
+
+# Set up logging
+logging.basicConfig(
+    level=logging.DEBUG,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler('ethix_application.log'),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger(__name__)
 
 def create_flow_stage_enum(mermaid_content: str) -> type:
     """Dynamically create FlowStage enum from Mermaid content."""
@@ -139,10 +152,10 @@ def parse_mermaid_flow(mermaid_content: str) -> Dict[str, PromptGroup]:
             #print(f"Found dependency: {source} -> {target}")
     
     # Print parsed groups
-    print("\nParsed groups:")
-    print("-------------")
+    logger.info("\nParsed groups:")
+    logger.info("-------------")
     for group_name, group_data in groups.items():
-        print(f"Group {group_name}: {group_data['questions']} (Stage: {group_data['stage'].name if group_data['stage'] else 'None'})")
+        logger.info(f"Group {group_name}: {group_data['questions']} (Stage: {group_data['stage'].name if group_data['stage'] else 'None'})")
     
     # Create PromptGroups
     prompt_groups = {}

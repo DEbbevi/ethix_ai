@@ -100,6 +100,7 @@ För varje fråga ska du:
 2. Formulera ett svar som följer frågans specifika krav och teckengräns
 3. Inkludera etiska överväganden där det är relevant
 4. Formatera svaret inom XML-taggar som motsvarar frågans ID
+5. Skriv svar i löpande text och undvik punktlistor
 
 För fråga 3.1 (populärvetenskaplig sammanfattning):
 - Använd ett enkelt och tillgängligt språk

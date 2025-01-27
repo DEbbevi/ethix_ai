@@ -100,6 +100,7 @@ Viktiga riktlinjer för dina svar:
 5. För fråga 14.2.6, ange endast siffervärdet (1-4) som motsvarar det valda alternativet
 6. För tidsangivelser, var specifik och tydlig
 7. För motiveringar, inkludera både vetenskapliga och etiska aspekter när relevant
+8. Skriv svar i löpande text och undvik punktlistor.
 
 Om information saknas i det tillhandahållna materialet för att besvara någon fråga, ange detta tydligt i svaret och förklara vilken information som saknas.
 

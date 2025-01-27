@@ -68,6 +68,7 @@ Viktiga riktlinjer:
 - Inkludera all information som krävs enligt etikprövningslagen
 - Anpassa informationen till målgruppen
 - Betona frivillighet och rätten att avbryta deltagande
+- Skriv svar i löpande text och undvik punktlistor.
 
 Formatera informationen med XML-taggar enligt strukturen ovan. Varje sektion ska innehålla relevant information baserad på det tillhandahållna materialet. Om information saknas för någon sektion, ange detta explicit.
 

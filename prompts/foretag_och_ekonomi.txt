@@ -74,6 +74,7 @@ När du formulerar svaren, följ dessa riktlinjer:
 - Basera alla svar på det tillhandahållna materialet
 - Inkludera relevant etisk analys där det är lämpligt
 - Håll dig inom den angivna teckengränsen på 4500 tecken per svar
+- Skriv svar i löpande text och undvik punktlistor.
 
 För varje svar:
 1. Formatera svaret med XML-taggar som innehåller frågans ID
