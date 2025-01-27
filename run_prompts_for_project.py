@@ -9,11 +9,11 @@ import anthropic
 from extract_form import load_and_create_mappings
 from utils import extract_text_from_files
 import json
-from tqdm import tqdm
+from tqdm.autonotebook import tqdm
 
 # Configure logging
 logging.basicConfig(
-    level=logging.INFO,
+    level=logging.ERROR,
     format='%(asctime)s - %(levelname)s - %(message)s',
     datefmt='%Y-%m-%d %H:%M:%S'
 )
