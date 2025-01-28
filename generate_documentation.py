@@ -139,7 +139,7 @@ class DocumentGenerator:
             f.write(markdown_content)
         logger.info(f"Markdown saved to {output_file}")
     
-    def generate_docx(self, markdown_content: str, output_file: str = 'output.docx'):
+    def generate_docx(self, markdown_content: str, output_file: str = 'etikansokan_utkast.docx'):
         """Convert markdown to docx and save."""
         doc = Document()
         
