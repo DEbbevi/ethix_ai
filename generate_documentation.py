@@ -146,7 +146,7 @@ class DocumentGenerator:
         
         return '\n'.join(markdown_content)
     
-    def save_markdown(self, markdown_content: str, output_file: str = 'output.txt'):
+    def save_markdown(self, markdown_content: str, output_file: str = 'etikansokan_utkast.txt'):
         """Save markdown content to file."""
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(markdown_content)
