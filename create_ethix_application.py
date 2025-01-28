@@ -147,7 +147,6 @@ def fill_form(driver, field_values):
         p_id = current_url.split('p_id=')[1].split('&')[0]
     except TimeoutException:
         # If URL doesn't change, try to find p_id in the page source or another element
-        logger.warning("URL did not change as expected, attempting alternative p_id extraction")
         try:
             # Look for hidden input with p_id or another reliable element containing p_id
             p_id_element = wait.until(EC.presence_of_element_located((By.NAME, "p_id")))
