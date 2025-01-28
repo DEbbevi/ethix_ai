@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 def extract_text_from_files(file_paths: Union[str, List[str]]) -> str:
     """
-    Extract text from various file types (.doc, .docx, .pdf, .txt).
+    Extract text from various file types (.doc, ., .pdf, .txt).
     Args:
         file_paths: Single file path or list of file paths
     Returns:

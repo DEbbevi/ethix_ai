@@ -105,16 +105,31 @@ def navigate_to_form(driver):
 
 def fill_form(driver, field_values):
     logger.debug("Starting to fill form")
+    
+    # Validate input
+    if not isinstance(field_values, dict):
+        error_msg = f"field_values must be a dictionary, got {type(field_values)}"
+        logger.error(error_msg)
+        raise TypeError(error_msg)
+    
+    if not field_values:
+        logger.warning("No field values provided to fill_form")
+        return None
+        
     wait = WebDriverWait(driver, 10)
     
     for field_id, value in field_values.items():
         logger.debug(f"Processing field {field_id} with value {value}")
-        checkbox = wait.until(EC.presence_of_element_located((By.ID, field_id)))
-        is_checked = checkbox.is_selected()
-        
-        if (value == 1 and not is_checked) or (value == 0 and is_checked):
-            checkbox.click()
-            logger.debug(f"Clicked checkbox {field_id}")
+        try:
+            checkbox = wait.until(EC.presence_of_element_located((By.ID, field_id)))
+            is_checked = checkbox.is_selected()
+            
+            if (value == 1 and not is_checked) or (value == 0 and is_checked):
+                checkbox.click()
+                logger.debug(f"Clicked checkbox {field_id}")
+        except Exception as e:
+            logger.error(f"Error processing field {field_id}: {str(e)}")
+            raise
     
     # Submit form
     submit_button = wait.until(EC.presence_of_element_located(
@@ -199,10 +214,26 @@ def process_responses(responses, field_mapping):
     logger.debug("Processing AI responses")
     logger.debug(f"Input responses: {responses}")
     
+    # Fields to ignore
+    ignored_fields = {
+        'forskningsomrade',
+        'BackgroundAndPurpose',
+        'ParticipantRequirements',
+        'RisksAndConsequences',
+        'DataManagement',
+        'SampleHandling',
+        'ResultsAccess',
+        'InsuranceAndCompensation'
+    }
+    
     field_values = {}  # For checkboxes (preform)
     form_data = {}     # For main form fields
     
     for response_key, response_value in responses.items():
+        # Skip ignored fields
+        if response_key in ignored_fields:
+            continue
+            
         # Find matching field in mapping
         matching_field = None
         field_id = None
@@ -284,7 +315,7 @@ def process_responses(responses, field_mapping):
     logger.debug(f"form_data: {form_data}")
     return field_values, form_data
 
-def main(field_values=None, form_data=None):
+def main(application_creation_values=None, form_data=None):
     """
     Main function that accepts either:
     - field_values + form_data: for direct form submission
@@ -296,8 +327,8 @@ def main(field_values=None, form_data=None):
         if handle_bankid_login(driver):
             form_number = navigate_to_form(driver)
             
-            if field_values:
-                p_id = fill_form(driver, field_values)
+            if application_creation_values:
+                p_id = fill_form(driver, application_creation_values)
                 
                 # Save cookies
                 cookies = driver.get_cookies()
@@ -347,4 +378,4 @@ if __name__ == "__main__":
     field_values, _ = process_responses(example_responses, example_field_mapping)
     _, form_data = process_responses(example_form_data, example_field_mapping)
     
-    main(field_values=field_values, form_data=form_data)
+    main(application_creation_values=field_values, form_data=form_data)

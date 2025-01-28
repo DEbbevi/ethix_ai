@@ -77,10 +77,23 @@ class DocumentGenerator:
     
     def _sort_responses(self, responses: Dict[str, str]) -> List[Tuple[str, str, str]]:
         """Sort responses by question ID and get titles."""
+        # Define excluded keys
+        excluded_keys = {
+            'forskningsomrade',
+            'BackgroundAndPurpose',
+            'ParticipantRequirements',
+            'RisksAndConsequences',
+            'DataManagement',
+            'SampleHandling',
+            'ResultsAccess',
+            'InsuranceAndCompensation'
+        }
+        
         sorted_items = []
         for question_id, content in responses.items():
-            if content is None:
-                logger.warning(f"Skipping None content for question_id: {question_id}")
+            # Skip excluded keys and None content
+            if question_id in excluded_keys or content is None:
+                logger.debug(f"Skipping excluded or None content for question_id: {question_id}")
                 continue
             
             # Find the title and option text from field mapping
@@ -139,7 +152,7 @@ class DocumentGenerator:
             f.write(markdown_content)
         logger.info(f"Markdown saved to {output_file}")
     
-    def generate_docx(self, markdown_content: str, output_file: str = 'output.docx'):
+    def generate_docx(self, markdown_content: str, output_file: str = 'etikansokan_utkast.docx'):
         """Convert markdown to docx and save."""
         doc = Document()
         
@@ -292,14 +305,18 @@ def generate_documentation(responses: Dict[str, str]) -> None:
 
         # Generate documentation
         doc_generator = DocumentGenerator()
+
+        title = responses.get("1.1", "untitled")
+        clean_title = clean_title_for_filename(title)
+        output_file = f"etikansokan_utkast_{clean_title}"
         
         # Generate and save markdown/docx
         logger.info("Generating markdown content...")
         markdown_content = doc_generator.generate_markdown(responses)
         logger.info("Saving markdown content...")
-        doc_generator.save_markdown(markdown_content, 'output.txt')
+        doc_generator.save_markdown(markdown_content, f"{output_file}.txt")
         logger.info("Generating docx...")
-        doc_generator.generate_docx(markdown_content, 'output.docx')
+        doc_generator.generate_docx(markdown_content, f"{output_file}.docx")
         
         # Update both template documents
         logger.info("Updating forskningspersonsinformation...")
