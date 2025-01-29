@@ -84,7 +84,7 @@ create_application(responses=responses, field_mapping=load_and_create_mappings()
 
 ## Contributing
 
-Project is in early alpha. Some parts are ducktaped (with style). Please contribute by creating a pull request.
+Project is in early alpha. Some parts are duct taped (with style). Please contribute by creating a pull request.
 
 ## License
 
