@@ -23,6 +23,15 @@ This repo provides tools for:
 - Management of participant consent forms
 - Handling of biological material documentation
 
+## Demo & Quick Start
+
+- [Try it in Google Colab](https://colab.research.google.com/drive/1pEhEoK1K1fWhtEvbMnCVfNFvO4NuJK_b?usp=sharing)
+
+
+https://github.com/user-attachments/assets/7cb52b14-69aa-4a57-87e8-06793909e7c5
+
+
+
 ## Installation
 ```bash
 pip install -r requirements.txt
