@@ -29,7 +29,7 @@ class FormField:
 def validate_field_hierarchy(field_mapping: Dict[str, Dict]) -> List[Dict]:
     """
     Validate that all parent questions exist for numbered questions.
-    For example, if question 14.4.1 exists, verify that 14.4 exists (but not 14).
+    For example, if question 14.4.1 exists, verify that 14.4, 14.3, 14.2, 14.1 and 14 exist.
     """
     # Extract all question numbers from titles
     question_numbers = set()
@@ -50,27 +50,37 @@ def validate_field_hierarchy(field_mapping: Dict[str, Dict]) -> List[Dict]:
     
     # Check for missing parent questions
     missing_parents = []
+    reported_missing = set()  # Track which numbers we've already reported as missing
     
     for number in sorted(question_numbers):
         parts = number.split('.')
-        if len(parts) <= 2:  # Skip validation for X.Y format (no parent needed)
+        if len(parts) == 1:  # Skip single numbers
             continue
             
-        # Generate parent numbers, but skip the top level
+        # Generate all parent numbers
         parent_numbers = []
-        for i in range(2, len(parts)):
-            parent_numbers.append('.'.join(parts[:i]))
         
+        # Add direct parent (e.g. 14.4 for 14.4.1)
+        if len(parts) > 1:
+            parent_numbers.append('.'.join(parts[:-1]))
+            
+        # Add all previous siblings at same level (e.g. 14.3, 14.2, 14.1 for 14.4)
+        base_parts = parts[:-1]
+        last_num = int(parts[-1])
+        for i in range(last_num - 1, 0, -1):
+            sibling = '.'.join(base_parts + [str(i)])
+            parent_numbers.append(sibling)
         
         # Check if each parent exists
         for parent in parent_numbers:
-            if parent not in question_numbers:
-                logger.warning(f"Missing parent: {parent}")
+            if parent not in question_numbers and parent not in reported_missing and "." in parent:
+                logger.warning(f"Missing parent/sibling: {parent}")
                 missing_parents.append({
                     'missing': parent,
                     'child': number,
                     'child_title': numbered_fields[number]['title']
                 })
+                reported_missing.add(parent)
     
     return missing_parents
 
