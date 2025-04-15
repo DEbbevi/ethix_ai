@@ -26,6 +26,7 @@ This repo provides tools for:
 ## Demo & Quick Start
 
 - [Try it in Google Colab](https://colab.research.google.com/drive/1pEhEoK1K1fWhtEvbMnCVfNFvO4NuJK_b?usp=sharing)
+- Demo (in Swedish) :
 
 
 https://github.com/user-attachments/assets/7cb52b14-69aa-4a57-87e8-06793909e7c5
